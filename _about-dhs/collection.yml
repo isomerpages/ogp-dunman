@@ -1,4 +1,5 @@
 collections:
   about-dhs:
     output: true
-    order: []
+    order:
+      - Mission, Vision, Motto.md
