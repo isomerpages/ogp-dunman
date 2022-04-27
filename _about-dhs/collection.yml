@@ -2,4 +2,5 @@ collections:
   about-dhs:
     output: true
     order:
+      - Strategic Directions.md
       - Mission, Vision, Motto.md
