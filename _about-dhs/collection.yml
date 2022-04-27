@@ -2,5 +2,6 @@ collections:
   about-dhs:
     output: true
     order:
+      - School crest & song.md
       - Strategic Directions.md
       - Mission, Vision, Motto.md
