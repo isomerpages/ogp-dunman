@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      background: /images/dunmanhigh.jpeg
+      background: /images/hero-animate.gif
       url: /contact-us/
       key_highlights:
         - title: Highlight A
