@@ -2,6 +2,7 @@ collections:
   about-dhs:
     output: true
     order:
+      - School History.md
       - Principal’s Message.md
       - School crest & song.md
       - Strategic Directions.md
