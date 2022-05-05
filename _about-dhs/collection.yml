@@ -2,6 +2,7 @@ collections:
   about-dhs:
     output: true
     order:
+      - DHS65 Celebrations.md
       - DHS60 Celebrations.md
       - School History.md
       - Principal’s Message.md
