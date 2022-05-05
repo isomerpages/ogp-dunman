@@ -1,5 +1,4 @@
 collections:
   admissions:
     output: true
-    order:
-      - JH (Sec) Admissions.md
+    order: []
