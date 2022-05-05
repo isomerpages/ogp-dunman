@@ -12,3 +12,6 @@ description: ""
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FLGHATQ6hLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+![/dhs65-celebrations-opening-of-remembering-your-roots-wall-mural/](/images/opening-of-remembering-your-roots.png)
+
+Book to be converted to PDF
