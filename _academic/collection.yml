@@ -2,4 +2,5 @@ collections:
   academic:
     output: true
     order:
+      - Bicultural Studies Programme.md
       - Dunman High Programme.md
