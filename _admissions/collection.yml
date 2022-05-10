@@ -2,5 +2,6 @@ collections:
   admissions:
     output: true
     order:
+      - JH (Sec) Admissions.md
       - 2022 Direct School Admission Exercise (DSA Sec & JC).md
       - Admissions.md
