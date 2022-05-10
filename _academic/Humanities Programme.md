@@ -70,3 +70,22 @@ Teaching is carried out with purposeful use of essential questions to guide the 
     </div>
 	</li>  
 </ul>
+
+
+**Assessment 评估与测试**
+
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Simple</label>
+    <div>
+<div>
+<div>
+<p><strong>Active Citizenry Education<br /></strong>To be effective, ACE adopts a practice-oriented approach so that each pupil has the capacity to put into practice democratic values, attitudes and behaviours in their daily life at home, school and the community. The atmosphere in the classroom is stimulating, interactive and thought-provoking.</p>
+<p>Pupils are actively engaged with the political, social and moral issues of the world around them to develop skills of participation and responsible action. A wide variety of resources, technology, visuals and so on are available as a means to tap on the learning styles of the pupils.</p>
+<p><strong>Economics<br /></strong>As learning is based on prior knowledge and experiences, each student constructs his own meaning and learns the new knowledge differently. This implies that different students may not understand the same new knowledge in the same way or depth. Some students may even exhibit erroneous understanding due to past experiences or misconceptions. Therefore, an important part of teaching is assessment, specifically assessment for learning. Assessment can help to advance learning rather than merely measuring it. The design of performance tasks and use of questioning techniques in class help reveal students&rsquo; current understanding and guide the teaching of content and skills.</p>
+<p><strong>Geography<br /></strong>The Geography assessments are designed by incorporating the principles of Multiple Intelligences and Understanding By Design which allow the tasks to be planned more holistically. Authentic assessments ranging from formal research papers, performance tasks to fieldwork projects are designed to encourage critical thinking and reflective reasoning and at the same time allow students to explore different learning styles and abilities, exercise and develop their strengths and talents.</p>
+<p><strong>History<br /></strong>Besides the conventional pen-and-paper tests, Historical Inquiry (HI) Task at each level is an integral part of the learning regime of DHS students. The HI Task develops 21<sup>st</sup>&nbsp;Century Competencies in the students as they learn to work together with their teammates to conduct research into a historical issue and present their findings to peers and teachers. Differentiated assessments are put in place for highly-abled students who have a strong passion for History. Both the conventional tests and assignments as well as the Historical Inquiry Tasks prepare our students for the &lsquo;A&rsquo; level examination at the end of 6 years as well as develop critical thinkers with an array of skills ready for the society.</p>
+
+</ul>
