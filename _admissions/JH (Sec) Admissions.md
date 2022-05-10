@@ -45,4 +45,12 @@ Returning Singaporean children who wish to gain access to and reintegrate to Sin
 
 JH (Sec) 中学部
 
+[JH (Sec) CCAs 课程辅助活动](https://dunmanhigh.moe.edu.sg/jh-cca/)
+[<br>JH (Sec) Academic 课程](https://dunmanhigh.moe.edu.sg/jh-academic/)
+
+
 SH (JC) 高中部
+
+SH (JC) CCAs 课程辅助活动
+<br>SH (JC) Academic 课程
+<br>SH (JC) Admissions 入学信息
