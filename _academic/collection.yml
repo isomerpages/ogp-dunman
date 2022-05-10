@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Example Title.md
       - Humanities Programme.md
       - Bicultural Studies Programme.md
       - Dunman High Programme.md
