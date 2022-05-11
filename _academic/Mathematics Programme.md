@@ -56,7 +56,6 @@ The Mathematics Programme tailors our teaching environment and practices to cate
 本校以具区分性的教学环境和方式让学生们有不同的学习经验。课程融合课堂以外的学习和其他不同的学科知识，来鼓励学生对现 实生活中的问题进行探索。
 		
 		
-<ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Read more</label>
@@ -73,7 +72,7 @@ The Mathematics Programme tailors our teaching environment and practices to cate
 <p>身为直通车计划的学府之一，我校秉持着为学生提供一个更全面的教育体验的使命，数学部也不例外。本部门利用螺旋式的课程架构，在六年内为学生打下良好的数学基础，并让他们亲身体验数学在日常生活的应用。此外，我们也提供机会让有才华的学生参与跨学科的探索研究活动以及全国比赛等。</p>
 </ol>	
 	
-</ul>		
+
 
 **Assessment 评估与测试**
 
@@ -82,7 +81,7 @@ Other than pen-and-paper tests, the Mathematics Programme places emphasis on alt
 除了例常笔试外，本课程的评估方式也包涵其他类型，以更全面地测试学生对所学概念的理解。
 
 
-<ul class="jekyllcodex_accordion">
+
   <li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Read more</label>
