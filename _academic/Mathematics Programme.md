@@ -54,6 +54,26 @@ In Junior High, the curriculum is built upon the major strands of Mathematics su
 The Mathematics Programme tailors our teaching environment and practices to cater for different learning experiences for our students. By integrating out-of-class experiences and different subject disciplines in our programme, it encourages the investigation of real-life problems.
 
 本校以具区分性的教学环境和方式让学生们有不同的学习经验。课程融合课堂以外的学习和其他不同的学科知识，来鼓励学生对现 实生活中的问题进行探索。
+		
+		
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Read more</label>
+    <div>
+			
+<p>Students are given opportunities for discovery learning and open-ended problem solving to enable them to develop higher level thinking skills in our six-year course. In Lower Secondary, various games and activities are also incorporated into the pedagogical methodologies in order to better engage students and allow them to develop appreciation for the subject. As most of these and many other Math-related projects involve group work, students are also given the opportunity to learn collaboratively. These collaborations are not only learning opportunities, they are also good platforms for our students to develop an invaluable skill of being able to work in teams.</p>
+<p>Our programme aims to develop the essential process, mathematical thinking and problem solving skills that students require to solve problems. They are taught to recognize and use connections among mathematical ideas and to develop a positive attitude towards Mathematics. We make use of a variety of information and communication technology tools in our lessons to further enhance students&rsquo; learning.</p>
+<p>Being a school offering an Integrated Programme allows us to have holistic and comprehensive programmes in the teaching and learning of Mathematics. We fully explore the advantages of spiral-building up of skills in Mathematics throughout the six years and provide opportunities for students to see the applications of Mathematics in their daily lessons. Talented students explore research projects and participate in national competitions that require knowledge spanning across the two disciplines.</p>
+    </div>
+	</li>
+
+<p>他们也可在这6年里有许多发掘学习和解答开放式问题的机会，从而培养更强的思考能力。我们也在初中低年级的课程里融入了各种游戏和活动，以提升学生的参与度和让他们对科目有更好的认识。由于大多数的数学专题作业都是以小组形式进行，因此学生不仅能学习知识，也可以加强他们在团队合作时所需的各种技巧。</p>
+<p>本学科旨在培育数学思考和问题解决的技能。学生除了学习识别和应用不同数学课项之间的存在关系外，也同时加深对数学的喜好。除此之外，课程也广泛地运用多种信息和通讯技术来提升学生的学习效率。</p>
+<p>身为直通车计划的学府之一，我校秉持着为学生提供一个更全面的教育体验的使命，数学部也不例外。本部门利用螺旋式的课程架构，在六年内为学生打下良好的数学基础，并让他们亲身体验数学在日常生活的应用。此外，我们也提供机会让有才华的学生参与跨学科的探索研究活动以及全国比赛等。</p>
+</ol>	
+	
+</ul>		
 
 **Assessment 评估与测试**
 
