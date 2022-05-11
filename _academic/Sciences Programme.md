@@ -34,3 +34,5 @@ In line with the Dunman High School’s vision “The premier school of Leaders 
 
 
 <p><strong>Assessment 评估与测试</strong></p>
+<p>The assessment complements the Teaching and Learning practices to provide both teachers and students timely and accurate information of the extent of learning, understanding of concepts and mastery of skills.</p>
+<p>评估与测试和教学形成互补，让教师和学生能够及时准确地掌握有关学生学习进展、概念理解和技能掌握的信息。</p>
