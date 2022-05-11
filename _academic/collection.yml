@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Sciences Programme.md
       - Mathematics Programme.md
       - Dunman High Programme.md
       - Bicultural Studies Programme.md
