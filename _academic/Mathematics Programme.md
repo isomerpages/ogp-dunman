@@ -85,7 +85,7 @@ Other than pen-and-paper tests, the Mathematics Programme places emphasis on alt
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Simple</label>
+    <label for="accordion3">Read more</label>
 <div>
 <div>
 <p>In the midst of their learning, students are also given authentic tasks which allow them to apply what they have learnt in the classroom to the world outside.</p>
