@@ -2,5 +2,6 @@ collections:
   talent-development:
     output: true
     order:
+      - Humanities & Aesthetics Talent Development.md
       - School Based Gifted Education Programme.md
       - Talent Development.md
