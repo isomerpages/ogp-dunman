@@ -20,13 +20,17 @@ _**Admission to most CCAs is by merit. Students are required to attend auditions
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">Simple</label>
+    <label for="accordion1">Read more</label>
     <div>
 <table><thead><tr><th>Sports and Games*</th><th>Uniformed Groups</th><th>Performing Arts</th><th>Clubs and Societies</th><th>Only Available as 2nd CCA</th></tr></thead><tbody><tr><td>Air Weapons Club</td><td>Girls Guides</td><td>Dance(Chinese Society)</td><td>Art Club</td><td>Calligraphy (Chinese Society)</td></tr><tr><td>Badminton</td><td>National Police Cadet Corps</td><td>Drama(Chinese Society)<br></td><td>Infocomm Club</td><td>Literary (Chinese Society)</td></tr><tr><td>Basketball</td><td>Scouts</td><td>Chinese Orchestra (including Guzheng Ensemble)</td><td>Robotics Club</td><td>Bejing Opera</td></tr><tr><td>Softball (Girls)</td><td>St. John’s Brigade</td><td>Choir</td><td></td><td>Library Society</td></tr><tr><td>Table Tennis</td><td></td><td>Dance (English Drama Society)<br></td><td></td><td>Oratorical Society</td></tr><tr><td>Track &amp; Field</td><td></td><td>Drama (English Drama Society)</td><td></td><td></td></tr><tr><td>Volleyball</td><td></td><td>String Ensemble<br></td><td></td><td></td></tr><tr><td>Wushu</td><td></td><td>Symphonic Band</td><td></td><td></td></tr></tbody></table>
 		</div>
 			</li> 
 	</ul>
-Senior High
+
+
+<br>
+
+**Senior High**
 
 The Senior High CCAs have been designed to provide opportunities for students to discover their interests and pursue their passions and to develop new peaks of excellence at Senior High, whether by continuing in the same CCA or joining a new CCA. Hence, at the end of Year 4, students could choose to join a new CCA or remain in their current CCA to further develop their areas of talent or leadership abilities.  There are also opportunities for students to pursue Interest Groups.
 
