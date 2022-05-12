@@ -2,6 +2,7 @@ collections:
   talent-development:
     output: true
     order:
+      - STEM Talent Development.md
       - Languages Talent Development.md
       - Humanities & Aesthetics Talent Development.md
       - School Based Gifted Education Programme.md
