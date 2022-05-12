@@ -1,8 +1,21 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: About DHS
+    url: /permalink
+    sublinks: []
+  - title: Admissions
+    url: /permalink
+    sublinks: []
+  - title: Academic
+    url: /permalink
+    sublinks: []
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: Campus life
     resource_room: true
+  - title: Honours Day2022
+    url: /permalink
+    sublinks: []
+  - title: Development
+    url: /permalink
+    sublinks: []
