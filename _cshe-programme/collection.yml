@@ -1,4 +1,5 @@
 collections:
   cshe-programme:
     output: true
-    order: []
+    order:
+      - CSHE Programme.md
