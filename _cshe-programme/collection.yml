@@ -2,4 +2,5 @@ collections:
   cshe-programme:
     output: true
     order:
+      - Careers, Scholarships and Higher Education.md
       - CSHE Programme.md
