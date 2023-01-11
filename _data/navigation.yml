@@ -1,24 +1,16 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: About DHS
-    url: /permalink
-    sublinks: []
-  - title: Admissions
-    url: /permalink
-    sublinks: []
-  - title: Academic
-    url: /permalink
-    sublinks: []
-  - title: Contact Us
-    url: /contact-us/
+  - title: ABOUT DHS
+    collection: about-dhs
+  - title: ADMISSIONS
+    collection: admissions
+  - title: ACADEMIC
+    collection: academic
   - title: Campus life
     resource_room: true
-  - title: Honours Day2022
-    url: /permalink
-    sublinks: []
-  - title: Development
-    url: /permalink
-    sublinks: []
-  - title: more
-    url: /permalink
-    sublinks: []
+  - title: HONOURS DAY 2022
+    collection: honours-day-2022
+  - title: DEVELOPMENT
+    collection: student-development
+  - title: CSHE PROGRAMME
+    collection: cshe-programme
