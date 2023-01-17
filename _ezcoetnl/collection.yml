@@ -2,6 +2,7 @@ collections:
   ezcoetnl:
     output: true
     order:
+      - Profession Sharing & Symposium.md
       - Publications.md
       - Joint Publication Call for Proposals.md
       - Resources and Useful Links.md
