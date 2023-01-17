@@ -2,8 +2,8 @@ title: Title
 url: https://dunmanhigh.moe.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#0310a3"
-  secondary-color: "#4372d6"
+  primary-color: "#212dbe"
+  secondary-color: "#ba1320"
   media-colors:
     - title: media-color-one
       color: "#49759a"
