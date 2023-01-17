@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Dunman High School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -30,4 +30,5 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
 
