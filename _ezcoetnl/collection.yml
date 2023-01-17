@@ -2,4 +2,5 @@ collections:
   ezcoetnl:
     output: true
     order:
+      - Venue Booking.md
       - Enquiry & Feedback.md
