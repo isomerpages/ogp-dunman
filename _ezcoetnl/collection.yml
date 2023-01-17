@@ -1,4 +1,5 @@
 collections:
   ezcoetnl:
     output: true
-    order: []
+    order:
+      - Enquiry & Feedback.md
