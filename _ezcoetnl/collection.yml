@@ -2,6 +2,7 @@ collections:
   ezcoetnl:
     output: true
     order:
+      - Joint Publication Call for Proposals.md
       - Resources and Useful Links.md
       - Venue Booking.md
       - Enquiry & Feedback.md
