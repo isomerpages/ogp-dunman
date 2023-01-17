@@ -24,6 +24,13 @@ sections:
       description: Proud moments of DHS, Our DHP Graduates and CCA!
       button: celerbrate with us
       url: /achievements/
+  - infobar:
+      title: East Zone Centre of Excellence for Teaching and Learning
+      subtitle: EZ COE T&L
+      description: Dunman High School has been designated as the (EZ COE T&L) with
+        effect from 2011.
+      button: learn more
+      url: /ezcoetnl/
   - resources:
       title: Media
       subtitle: Learn more
