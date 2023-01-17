@@ -20,15 +20,12 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Achievements
+      description: Proud moments of DHS, Our DHP Graduates and CCA!
+      button: celerbrate with us
+      url: /achievements/
   - resources:
       title: Media
       subtitle: Learn more
       button: View More
 ---
-
-
