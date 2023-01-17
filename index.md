@@ -32,7 +32,7 @@ sections:
       button: learn more
       url: /ezcoetnl/
   - resources:
-      title: Media
-      subtitle: Learn more
+      title: Archives
+      subtitle: revisit
       button: View More
 ---
