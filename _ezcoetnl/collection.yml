@@ -2,5 +2,6 @@ collections:
   ezcoetnl:
     output: true
     order:
+      - Resources and Useful Links.md
       - Venue Booking.md
       - Enquiry & Feedback.md
