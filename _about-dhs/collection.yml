@@ -2,6 +2,7 @@ collections:
   about-dhs:
     output: true
     order:
+      - Contact Us/Key Personnel.md
       - Contact Us/Teacher Leaders Council.md
       - Contact Us/Junior High Form Teachers.md
       - Contact Us/Seniorr High Civic Tutors.md
