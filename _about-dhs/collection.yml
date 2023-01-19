@@ -2,7 +2,6 @@ collections:
   about-dhs:
     output: true
     order:
-      - Contact Us.md
       - Partners/.keep
       - DHS65 Celebrations.md
       - DHS60 Celebrations.md
