@@ -30,7 +30,7 @@ sections:
       description: Dunman High School has been designated as the (EZ COE T&L) with
         effect from 2011.
       button: learn more
-      url: /ezcoetnl/mission-vision-logo/
+      url: /about-dhs/ezcoetnl/mission-vision-logo/
   - resources:
       title: Archives
       subtitle: revisit
