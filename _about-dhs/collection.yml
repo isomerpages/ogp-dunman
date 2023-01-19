@@ -2,6 +2,7 @@ collections:
   about-dhs:
     output: true
     order:
+      - Contact Us/Junior High Form Teachers.md
       - Contact Us/Seniorr High Civic Tutors.md
       - Contact Us/.keep
       - Principal’s Message.md
