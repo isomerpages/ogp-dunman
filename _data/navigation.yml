@@ -6,6 +6,8 @@ links:
     collection: admissions
   - title: ACADEMIC
     collection: academic
+  - title: Achievements
+    collection: achievements
   - title: DEVELOPMENT
     collection: student-development
   - title: CSHE PROGRAMME
