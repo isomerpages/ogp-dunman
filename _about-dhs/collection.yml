@@ -2,14 +2,6 @@ collections:
   about-dhs:
     output: true
     order:
-      - Contact Us/General Enquiries.md
-      - Contact Us/Booking of PAC.md
-      - Contact Us/School Leaders.md
-      - Contact Us/Key Personnel.md
-      - Contact Us/Teacher Leaders Council.md
-      - Contact Us/Junior High Form Teachers.md
-      - Contact Us/Seniorr High Civic Tutors.md
-      - Contact Us/.keep
       - Principal’s Message.md
       - Mission, Vision, Motto.md
       - Strategic Directions.md
@@ -25,8 +17,16 @@ collections:
       - EZ COE T&L/Resources and Useful Links.md
       - EZ COE T&L/Venue Booking.md
       - EZ COE T&L/Enquiry & Feedback.md
+      - Partners/.keep
       - Partners/Parent Support Group.md
       - Partners/Dunman High School Alumni.md
       - Partners/Overseas Partnership.md
-      - Partners/.keep
       - Partners/School Advisory Committee.md
+      - Contact Us/.keep
+      - Contact Us/General Enquiries.md
+      - Contact Us/Booking of PAC.md
+      - Contact Us/School Leaders.md
+      - Contact Us/Key Personnel.md
+      - Contact Us/Teacher Leaders Council.md
+      - Contact Us/Junior High Form Teachers.md
+      - Contact Us/Seniorr High Civic Tutors.md
