@@ -2,6 +2,14 @@ collections:
   about-dhs:
     output: true
     order:
+      - Principal’s Message.md
+      - Mission, Vision, Motto.md
+      - Strategic Directions.md
+      - School crest & song.md
+      - School History.md
+      - DHS60 Celebrations.md
+      - DHS65 Celebrations.md
+      - EZ COE T&L/.keep
       - EZ COE T&L/EZ COE T&L Mission, Vision & Logo.md
       - EZ COE T&L/Profession Sharing & Symposium.md
       - EZ COE T&L/Publications.md
@@ -9,13 +17,5 @@ collections:
       - EZ COE T&L/Resources and Useful Links.md
       - EZ COE T&L/Venue Booking.md
       - EZ COE T&L/Enquiry & Feedback.md
-      - EZ COE T&L/.keep
-      - Partners/School Advisory Committee.md
       - Partners/.keep
-      - DHS65 Celebrations.md
-      - DHS60 Celebrations.md
-      - School History.md
-      - Principal’s Message.md
-      - School crest & song.md
-      - Strategic Directions.md
-      - Mission, Vision, Motto.md
+      - Partners/School Advisory Committee.md
