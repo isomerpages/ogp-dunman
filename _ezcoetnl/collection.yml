@@ -2,7 +2,7 @@ collections:
   ezcoetnl:
     output: true
     order:
-      - Mission, Vision & Logo.md
+      - EZ COE T&L Mission, Vision & Logo.md
       - Profession Sharing & Symposium.md
       - Publications.md
       - Joint Publication Call for Proposals.md
