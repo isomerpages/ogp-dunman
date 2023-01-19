@@ -2,6 +2,7 @@ collections:
   about-dhs:
     output: true
     order:
+      - EZ COE T&L/Publications.md
       - EZ COE T&L/Joint Publication Call for Proposals.md
       - EZ COE T&L/Resources and Useful Links.md
       - EZ COE T&L/Venue Booking.md
