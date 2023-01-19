@@ -2,6 +2,7 @@ collections:
   about-dhs:
     output: true
     order:
+      - Partners/School Advisory Committee.md
       - Partners/.keep
       - DHS65 Celebrations.md
       - DHS60 Celebrations.md
