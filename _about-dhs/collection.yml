@@ -2,6 +2,7 @@ collections:
   about-dhs:
     output: true
     order:
+      - Honours Day 2020.md
       - Principal’s Message.md
       - Mission, Vision, Motto.md
       - Strategic Directions.md
