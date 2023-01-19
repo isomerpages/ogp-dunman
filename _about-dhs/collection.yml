@@ -2,7 +2,6 @@ collections:
   about-dhs:
     output: true
     order:
-      - Honours Day 2020.md
       - Principal’s Message.md
       - Mission, Vision, Motto.md
       - Strategic Directions.md
@@ -10,6 +9,7 @@ collections:
       - School History.md
       - DHS60 Celebrations.md
       - DHS65 Celebrations.md
+      - Honours Day 2020.md
       - EZ COE T&L/.keep
       - EZ COE T&L/EZ COE T&L Mission, Vision & Logo.md
       - EZ COE T&L/Profession Sharing & Symposium.md
