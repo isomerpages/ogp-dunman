@@ -2,6 +2,7 @@ collections:
   about-dhs:
     output: true
     order:
+      - Contact Us/Booking of PAC.md
       - Contact Us/School Leaders.md
       - Contact Us/Key Personnel.md
       - Contact Us/Teacher Leaders Council.md
