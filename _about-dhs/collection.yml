@@ -2,6 +2,7 @@ collections:
   about-dhs:
     output: true
     order:
+      - EZ COE T&L/EZ COE T&L Mission, Vision & Logo.md
       - EZ COE T&L/Profession Sharing & Symposium.md
       - EZ COE T&L/Publications.md
       - EZ COE T&L/Joint Publication Call for Proposals.md
