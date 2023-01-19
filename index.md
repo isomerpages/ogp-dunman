@@ -16,9 +16,6 @@ sections:
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Achievements
-          description: ""
-          url: /achievements/
   - infobar:
       title: Achievements
       description: Proud moments of DHS, Our DHP Graduates and CCA!
