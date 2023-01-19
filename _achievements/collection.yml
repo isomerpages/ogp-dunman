@@ -1,6 +1,0 @@
-collections:
-  achievements:
-    output: true
-    order:
-      - Honour Roll.md
-      - School Based Gifted Education Programme.md
