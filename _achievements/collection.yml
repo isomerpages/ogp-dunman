@@ -2,5 +2,6 @@ collections:
   achievements:
     output: true
     order:
+      - Scholars/Scholars.md
       - Scholars/.keep
       - Co–Curricular Activities.md
