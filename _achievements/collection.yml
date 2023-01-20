@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Scholars/2016 Cohort.md
       - Scholars/2017 Cohort.md
       - Scholars/Scholars.md
       - Scholars/.keep
