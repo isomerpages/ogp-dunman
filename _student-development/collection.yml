@@ -2,9 +2,9 @@ collections:
   student-development:
     output: true
     order:
+      - Student Development.md
       - Overseas Programme.md
       - Sexuality Education.md
       - Physical Education.md
       - Student Leadership.md
       - Co curricular Activities.md
-      - Student Development.md
