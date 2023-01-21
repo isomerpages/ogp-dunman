@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Talent Development.md
       - Student Development.md
       - Overseas Programme.md
       - Sexuality Education.md
