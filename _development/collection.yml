@@ -2,12 +2,12 @@ collections:
   development:
     output: true
     order:
-      - Talent Development/STEM Talent Development.md
-      - Talent Development/Talent Development.md
-      - Talent Development/.keep
       - Student Development.md
       - Overseas Programme.md
       - Sexuality Education.md
       - Physical Education.md
       - Student Leadership.md
       - Co curricular Activities.md
+      - Talent Development/.keep
+      - Talent Development/STEM Talent Development.md
+      - Talent Development/Talent Development.md
