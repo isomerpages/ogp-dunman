@@ -1,5 +1,4 @@
 collections:
   talent-development:
     output: true
-    order:
-      - School Based Gifted Education Programme.md
+    order: []
