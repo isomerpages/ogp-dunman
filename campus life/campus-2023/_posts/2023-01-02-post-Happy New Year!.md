@@ -6,3 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+<img src="/images/HappyNwYear2023.png" 
+         style="width:600px"
+	/>
+<br>
