@@ -54,8 +54,4 @@ Compilation of the alumni sharing on how they go about their decision-making pro
 
 **Useful Links**
 
-*   [**CSHE Programme**](https://dunmanhigh.moe.edu.sg/cshe-programme/)
-*   **[Careers, Scholarships and Higher Education](https://dunmanhigh.moe.edu.sg/cshe-careers-scholarships-and-higher-education/)**
-*   [**Career Guidance**](https://dunmanhigh.moe.edu.sg/cshe-career-guidance/)
-*   **[Scholarships](https://dunmanhigh.moe.edu.sg/cshe-scholarships/)**
-*   **[Parents’ Involvement](https://dunmanhigh.moe.edu.sg/cshe-parents-involvement/)**
+https://dunmanhigh.moe.edu.sg/wp-content/uploads/2020/01/scholars-programme.jpg
