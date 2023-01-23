@@ -13,7 +13,7 @@ The CSHE programme is anchored in an EDGE framework that spells out the student 
 
 Every Dunmanian strives to be the best that he/she can be. He/She possesses drive and embraces a growth mindset. He/She is an active contributor who takes an active role in bettering the lives of others in society.
 
-![](https://dunmanhigh.moe.edu.sg/wp-content/uploads/2020/01/CSHE-Leaders-of-Honour.jpg)
+![](/images/CSHE-Leaders-of-Honour.jpg)
 
 **Excellence  
 **Excellence is a way of being. It is not the result. When students **develop a mindset for excellence**, they give their best in all that they do. They live by their moral compass consistently, and stay focused on and true to their purpose in life.
@@ -48,8 +48,7 @@ Our students come from a diverse range of socio-economic backgrounds, interests 
 
 **Useful Links**
 
-*   [**CSHE Programme**](https://dunmanhigh.moe.edu.sg/cshe-programme/)
-*   **[Career Guidance](https://dunmanhigh.moe.edu.sg/cshe-career-guidance/)**
-*   **[Higher Education](https://dunmanhigh.moe.edu.sg/higher-education/)**
-*   **[Scholarships](https://dunmanhigh.moe.edu.sg/scholarships/)**
-*   **[Parents’ Involvement](https://dunmanhigh.moe.edu.sg/cshe-parents-involvement/)**
+*   [Careers, Scholarships and Higher Education](/cshe-programme/cshe-careers-scholarships-and-higher-education/)
+*   [**Career Guidance**](/cshe-programme/cshe-career-guidance/)
+*   [**Higher Education**](/cshe-programme/cshe-higher-education/)
+*   [**Scholarships**](/cshe-programme/cshe-scholarships/)
