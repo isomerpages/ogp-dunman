@@ -3,8 +3,7 @@ title: JH (Sec) Admissions
 permalink: /admissions/jh-admissions/
 description: ""
 ---
-JH (Sec) Admissions
-===================
+
 
 **入学信息**
 ========
@@ -43,8 +42,8 @@ Returning Singaporean children who wish to gain access to and reintegrate to Sin
 
 **For queries, please send your email to [dhs@moe.edu.sg](mailto:dhs@moe.edu.sg)or call us at +65 6345 0533, between 8.30am to 5.30pm, Monday to Friday, except for public holidays.**
 
-JH (Sec) 中学部
-
+## JH (Sec) 中学部
+## 
 [JH (Sec) CCAs 课程辅助活动](https://dunmanhigh.moe.edu.sg/jh-cca/)
 [<br>JH (Sec) Academic 课程](https://dunmanhigh.moe.edu.sg/jh-academic/)
 
