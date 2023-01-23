@@ -29,7 +29,6 @@ This is a biannual session specially organised for our parents to engage the rep
 
 **Useful Links**
 
-*   [**CSHE Programme**](/cshe-programme/)
 *   **[Careers, Scholarships and Higher Education](/cshe-programme/cshe-careers-scholarships-and-higher-education/)**
 *   [**Career Guidance**](/cshe-programme/cshe-career-guidance/)
 *   [**Higher Education**](/cshe-programme/cshe-higher-education/)
