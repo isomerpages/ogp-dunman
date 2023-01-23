@@ -15,11 +15,13 @@ Parents are invited to participate in the CSHE Exhibition Fair. During the fair,
 
 For more information on CSHE Day, click **[here](https://dunmanhigh.moe.edu.sg/higher-education/)**.
 
+### broken link
 **(b) Involving Parents in Career Guidance Programme**
 
 We invite parents to share their professional experiences or offer job-shadowing or work attachment opportunities for our students.
 
-For more information on the Career Guidance Programme, click **[here](https://dunmanhigh.moe.edu.sg/career-guidance/)**.
+For more information on the Career Guidance Programme, click **[here](https://dunmanhigh.moe.edu.sg/career-guidance/)**. 
+### broken link
 
 **(c) Connecting the Dots, Strengthening the Partnership: Preparing Dunmanians for Life Beyond**
 
@@ -27,8 +29,8 @@ This is a biannual session specially organised for our parents to engage the rep
 
 **Useful Links**
 
-*   [**CSHE Programme**](https://dunmanhigh.moe.edu.sg/cshe-programme/)
-*   **[Careers, Scholarships and Higher Education](https://dunmanhigh.moe.edu.sg/cshe-careers-scholarships-and-higher-education/)**
-*   [**Career Guidance**](https://dunmanhigh.moe.edu.sg/cshe-career-guidance/)
-*   [**Higher Education**](https://dunmanhigh.moe.edu.sg/cshe-higher-education/)
-*   [**Scholarships**](https://dunmanhigh.moe.edu.sg/cshe-scholarships/)
+*   [**CSHE Programme**](/cshe-programme/)
+*   **[Careers, Scholarships and Higher Education](/cshe-programme/cshe-careers-scholarships-and-higher-education/)**
+*   [**Career Guidance**](/cshe-programme/cshe-career-guidance/)
+*   [**Higher Education**](/cshe-programme/cshe-higher-education/)
+*   [**Scholarships**](/cshe-programme/cshe-scholarships/)
