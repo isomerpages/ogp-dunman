@@ -7,7 +7,7 @@ In Dunman High, we recognise that parents play an important and irreplaceable ro
 
 Parents who are happy to partner the school in our CSHE Programme may email us at cshe@dhs.sg.
 
-![](https://dunmanhigh.moe.edu.sg/wp-content/uploads/2020/01/parents-involvement.jpg)
+![](/images/parents-involvement.jpg)
 
 **(a) CSHE Day**
 
