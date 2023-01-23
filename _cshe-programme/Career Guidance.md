@@ -31,7 +31,7 @@ Our appreciation to our speakers.
 
 Students were brought on learning journeys to the various organisations and fairs to gain deeper insights about the various industries, which would help them make more informed decisions on their future pathways.
 
-![](https://dunmanhigh.moe.edu.sg/wp-content/uploads/2020/01/Learning-Journey.jpg)
+![](/images/Learning-Journey.jpg)
 
 **Useful Links**
 
