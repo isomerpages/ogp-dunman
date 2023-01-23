@@ -50,7 +50,7 @@ The following briefings are also conducted to support students in their universi
 
 Compilation of the alumni sharing on how they go about their decision-making process in choosing their universities, courses and scholarships.
 
-![](https://dunmanhigh.moe.edu.sg/wp-content/uploads/2020/01/Publication-3.jpg)
+![](/images/Publication-3.jpg)
 
 **Useful Links**
 
