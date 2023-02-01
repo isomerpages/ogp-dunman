@@ -11,7 +11,7 @@ In addition, the Mother Tongue Languages and English teachers collaborate to des
 
 Besides the Mother Tongue Languages and English programmes, the **[Conversational Malay Programme](https://dunmanhigh.moe.edu.sg/malay_subjects/)**, a unique feature of Special Assistance Plan schools, is offered to all Year 1 and Year 2 students. The **[Malay (Special Programme)](https://dunmanhigh.moe.edu.sg/malay_subjects/)** is offered to Year 1 to Year 4 students who demonstrate passion and aptitude for the Malay Language and these students go on to take the Malay Language ‘O’ level examination as a third language. The school also offers H1 Malay Language and H1 Tamil Language at “A” level for students who are required to take these subjects. Students offering H1 Tamil Language will be having lessons in another JC.
 
-![](https://dunmanhigh.moe.edu.sg/wp-content/uploads/2020/05/DHS-BSP.jpg)
+![](/images/DHSBSP.jpg)
 
 德明政府中学的双文化课程，由母语部及英文部结合而成，以培育双语双文化人才为目标。作为一所特选学校，德明双文化课程以“保底不封顶”的理念为本，旨在为学生提供趣味性、多元化的优质语言与文化学习体验， 以培养能将语言活学善用并能在变幻莫测的未来中游刃于中西方文化的德明人。
 
@@ -21,22 +21,18 @@ Besides the Mother Tongue Languages and English programmes, the **[Conversation
 
 除了母语和英语，马来语会话课程是特选中学的独有课程，主要开放给我校的中一和中二学生。马来语（特别课程）则是为有兴趣和能力学习马来文的学生而设的。这些学生可以用马来文作为第三语文，报考“O”水准。德明也开办“A”水准的H1马来文和H1淡米尔文供需要修读的学生。
 
-Mother Tongue Languages Programme
 
-Mother Tongue Language Programme
+## Mother Tongue Language Programme
 
 The DHS Mother Tongue Languages Programme aims to increase students’ interest in learning the language and improving their language skills in listening, speaking, reading and writing. Through learning of the language, we seek to provide students a deeper understanding of traditional culture and values.
 
 德明政府中学母语课程的设计目的，旨在提高学生学习母语的兴趣，加强学生“听、说、读、写” 方面的能力。让学生通过学习母语，进一步认识和吸收传统文化和价值观。
 
-[more](https://dunmanhigh.moe.edu.sg/academic/bicultural-studies-programme/mtl-programme/)
 
 
 
-English Programme
+## English Programme
 
 The English Department in Dunman High School aims to nurture and develop critical thinkers and effective communicators who are able to navigate the challenges of the 21st Century. Students are able to negotiate and make meaning of a plethora of information, and present their own ideas and opinions with clarity and confidence.
 
 德明政府中学的英文部门在培养学生21世纪所需技能的愿景的指引下，着力训练学生批判性思维以及有效沟通的能力，希望学生能够充分利用各种信息，并有信心地表达自己的思想和意见。
-
-[more](https://dunmanhigh.moe.edu.sg/academic/bicultural-studies-programme/english-programme/)
