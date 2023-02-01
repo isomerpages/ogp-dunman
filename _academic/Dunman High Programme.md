@@ -7,7 +7,7 @@ The design of the Dunman High Programme is guided by the school’s Philosophy o
 
 以教育哲学为指引的德明综合课程，本着做什么、怎么做和为什么做的考量，为学生提供具有前瞻性的教育。
 
-<p><img src="https://dunmanhigh.moe.edu.sg/wp-content/uploads/2016/07/swissroll.png" /></p>
+<p><img src="/images/swissroll.png" /></p>
 
 
 **Philosophy of Education 教育哲学**
