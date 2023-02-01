@@ -22,6 +22,10 @@ image: ""
          style="width:500px"
 	/>
 <br>
+<img src="/images/y5farewelle1630913029669.jpg" 
+         style="width:500px"
+	/>
+<br>
 
 The MEP Fiesta was a year round festival of various Music-related activities open to the school and involving MEP students. There were Indian and Malay Music workshops held in April and August respectively for students to understand music of other cultures at a deeper level. Students also shared on compositional approaches in the annual SMASH workshop held on 25 August.
 
