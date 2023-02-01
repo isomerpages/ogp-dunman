@@ -2,10 +2,10 @@ collections:
   academic:
     output: true
     order:
-      - Knowledge Skills Programme.md
-      - Sciences Programme.md
-      - Mathematics Programme.md
       - Dunman High Programme.md
-      - Bicultural Studies Programme.md
-      - Humanities Programme.md
       - Aesthetics Programme.md
+      - Humanities Programme.md
+      - Bicultural Studies Programme.md
+      - Mathematics Programme.md
+      - Sciences Programme.md
+      - Knowledge Skills Programme.md
