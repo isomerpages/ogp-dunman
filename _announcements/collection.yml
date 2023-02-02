@@ -1,5 +1,4 @@
 collections:
   announcements:
     output: true
-    order:
-      - 2023 JAE Appeal Process.md
+    order: []
