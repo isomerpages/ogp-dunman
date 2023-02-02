@@ -1,4 +1,5 @@
 collections:
   announcements:
     output: true
-    order: []
+    order:
+      - 在线阅读第31期《艺林》 More Than Words.md
