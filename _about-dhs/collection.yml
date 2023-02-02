@@ -2,6 +2,7 @@ collections:
   about-dhs:
     output: true
     order:
+      - Announcements/在线阅读第31期《艺林》 More Than Words.md
       - Announcements/.keep
       - Principal’s Message.md
       - Mission, Vision, Motto.md
