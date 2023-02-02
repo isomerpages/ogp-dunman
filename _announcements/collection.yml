@@ -2,4 +2,5 @@ collections:
   announcements:
     output: true
     order:
+      - 2023 JAE Appeal Process.md
       - 在线阅读第31期《艺林》 More Than Words.md
