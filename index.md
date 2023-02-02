@@ -20,7 +20,7 @@ sections:
       title: Achievements
       description: Proud moments of DHS, Our DHP Graduates and CCA!
       button: celerbrate with us
-      url: /achievements/
+      url: /achievements/achievements/
   - infobar:
       title: East Zone Centre of Excellence for Teaching and Learning
       subtitle: EZ COE T&L
