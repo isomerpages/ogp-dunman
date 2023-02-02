@@ -9,13 +9,6 @@ sections:
   - hero:
       background: /images/hero-animate.gif
       url: /contact-us/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: ""
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
   - infobar:
       title: Achievements
       description: Proud moments of DHS, Our DHP Graduates and CCA!
