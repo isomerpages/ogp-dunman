@@ -2,10 +2,6 @@ collections:
   about-dhs:
     output: true
     order:
-      - Announcements/2023 JAE Appeal Process.md
-      - Announcements/Introduction to H2CLL and CLEP (H2华文与文学和华文语文特选课程).md
-      - Announcements/在线阅读第31期《艺林》 More Than Words.md
-      - Announcements/.keep
       - Principal’s Message.md
       - Mission, Vision, Motto.md
       - Strategic Directions.md
@@ -35,3 +31,7 @@ collections:
       - Contact Us/Teacher Leaders Council.md
       - Contact Us/Junior High Form Teachers.md
       - Contact Us/Seniorr High Civic Tutors.md
+      - Announcements/.keep
+      - Announcements/2023 JAE Appeal Process.md
+      - Announcements/Introduction to H2CLL and CLEP (H2华文与文学和华文语文特选课程).md
+      - Announcements/在线阅读第31期《艺林》 More Than Words.md
