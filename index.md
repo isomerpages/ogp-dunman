@@ -9,6 +9,10 @@ sections:
   - hero:
       background: /images/hero-animate.gif
       url: /contact-us/
+      key_highlights:
+        - title: Announcements
+          description: ""
+          url: /announcements/2023-jae/
   - infobar:
       title: Achievements
       description: Proud moments of DHS, Our DHP Graduates and CCA!
