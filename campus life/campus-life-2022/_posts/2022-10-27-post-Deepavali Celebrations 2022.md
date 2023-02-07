@@ -6,27 +6,27 @@ layout: post
 description: ""
 image: ""
 ---
-<img src="/images/deepavali1.jeg" 
+<img src="/images/deepavali1.jpeg" 
          style="width:500px"
 	/>
 <br>
-<img src="/images/deepavali2.jeg" 
+<img src="/images/deepavali2.jpeg" 
          style="width:500px"
 	/>
 <br>
-<img src="/images/deepavali3.jeg" 
+<img src="/images/deepavali3.jpeg" 
          style="width:500px"
 	/>
 <br>
-<img src="/images/deepavali4.jeg" 
+<img src="/images/deepavali4.jpeg" 
          style="width:500px"
 	/>
 <br>
-<img src="/images/deepavali5.jeg" 
+<img src="/images/deepavali5.jpeg" 
          style="width:500px"
 	/>
 <br>
-<img src="/images/deepavali6.jeg" 
+<img src="/images/deepavali6.jpeg" 
          style="width:500px"
 	/>
 <br>
