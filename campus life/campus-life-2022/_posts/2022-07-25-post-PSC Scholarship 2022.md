@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ![](/images/e1658741062390.jpeg)
 
 Graced by Minister Chan Chun Sing, the Public Service Commission Scholarship Ceremony 2022 was held on 20 July (Wed). We are proud to share that Lim Jia Xuan Valene (2nd from left, with her parents and Principal Mr Chan) from the Class of 2021 was one of the recipients of the PSC Scholarship. Valene shares more about this honour:
