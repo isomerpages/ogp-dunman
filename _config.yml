@@ -16,7 +16,9 @@ colors:
     - title: media-color-five
       color: "#00838f"
 resources_name: campus life
-description: ""
+description: |-
+  To Care • To Serve • To Lead 
+  关怀 • 服务 • 引领
 permalink: none
 baseurl: ""
 exclude:
