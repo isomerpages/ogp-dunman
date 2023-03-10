@@ -2,4 +2,5 @@ collections:
   junior-high:
     output: true
     order:
+      - JH (Sec) Academic.md
       - JH (SEC) CCAs.md
