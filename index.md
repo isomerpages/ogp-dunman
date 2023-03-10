@@ -10,7 +10,6 @@ notification: ""
 sections:
   - hero:
       background: /images/632A3794.jpg
-      url: https://go.gov.sg/dhs-homepage
       key_highlights:
         - title: Announcements
           description: ""
