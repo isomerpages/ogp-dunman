@@ -15,6 +15,9 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/2023-jae/
+        - title: "Junior High "
+          description: 初中部
+          url: https://ogp-dunman-staging.netlify.app/admissions/jh-admissions/
   - infobar:
       title: Achievements
       description: Proud moments of DHS, Our DHP Graduates and CCA!
@@ -32,4 +35,3 @@ sections:
       subtitle: revisit
       button: View More
 ---
-
