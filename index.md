@@ -9,8 +9,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-animate.gif
-      url: /contact-us/
+      background: /images/632A3794.jpg
+      url: https://go.gov.sg/dhs-homepage
       key_highlights:
         - title: Announcements
           description: ""
