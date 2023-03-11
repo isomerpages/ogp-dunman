@@ -13,6 +13,7 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/2023-jae/
+      background: /images/Homepage/20221124_1364_MWP_WEBRES.jpg
   - infobar:
       title: Achievements
       description: Proud moments of DHS, Our DHP Graduates and CCA!
