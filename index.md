@@ -4,7 +4,7 @@ title: Dunman High School
 description: |-
   To Care • To Serve • To Lead 
   关怀 • 服务 • 引领
-image: /images/isomer-logo.svg
+image: /images/Homepage/dhs.jpg
 permalink: /
 notification: ""
 sections:
@@ -34,3 +34,4 @@ sections:
       subtitle: revisit
       button: View More
 ---
+
