@@ -13,9 +13,6 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/2023-jae/
-        - title: Senior High
-          description: 高中部
-          url: https://ogp-dunman-staging.netlify.app/admissions/sh-admissions/
       background: /images/Homepage/My_video_FULL_HD_AdobeExpress (2).gif
   - infobar:
       title: Achievements
