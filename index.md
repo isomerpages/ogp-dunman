@@ -9,7 +9,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/632A3794.jpg
       key_highlights:
         - title: Announcements
           description: ""
@@ -34,4 +33,3 @@ sections:
       subtitle: revisit
       button: View More
 ---
-
