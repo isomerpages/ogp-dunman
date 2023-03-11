@@ -16,6 +16,7 @@ sections:
         - title: Senior High
           description: 高中部
           url: https://ogp-dunman-staging.netlify.app/admissions/sh-admissions/
+      background: /images/Homepage/My_video_FULL_HD_AdobeExpress (2).gif
   - infobar:
       title: Achievements
       description: Proud moments of DHS, Our DHP Graduates and CCA!
