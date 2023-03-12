@@ -8,13 +8,13 @@ description: ""
 # **School Vision**
 ### 学校愿景
 
-**A school of eminence that nurtures**
+A school of eminence that nurtures
 
 *   Role-Models of Learning
 *   Leaders of Honour,
 *   Pillars of Society
 
-**培育“学习楷模、堂正领袖、社稷栋梁”的卓著学府**
+培育“学习楷模、堂正领袖、社稷栋梁”的卓著学府
 
 # **School Mission**
 ### 学校使命
