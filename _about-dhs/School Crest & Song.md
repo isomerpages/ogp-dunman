@@ -3,7 +3,6 @@ title: School Crest & Song
 permalink: /about-dhs/school-crest-song/
 description: ""
 ---
-
 # **School Crest**
 
 The school crest was designed by the late Mr Chen Jen Hao, a former principal of the school and Mr Liu Kang, a former art teacher, who was a well-known pioneer in the local art scene.
