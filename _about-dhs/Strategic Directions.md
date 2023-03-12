@@ -27,7 +27,7 @@ Inspiring Professionals who exemplify values and strive with dedication
 树德立道，自强不息
 
 ## **Organisation Outcomes**  
-#### **学校成果**
+### **学校成果**
 
 A school of eminence exemplifying organizational excellence
 
@@ -35,32 +35,32 @@ A school of eminence exemplifying organizational excellence
 誉高卓著，引领卓越
 
 ## **Staff Values: SPRIDE**  
-#### **职员价值观**
+### **职员价值观**
 
-### Synergy  协同效应 
+#### Synergy  协同效应 
 
 We believe the “whole is greater than the sum of its parts!” – Together Everyone can Achieve More.
 
 
-### Professionalism  专业操守 
+#### Professionalism  专业操守 
 
 We uphold our teaching profession with pride.
 
 
-### Respect  尊重彼此
+#### Respect  尊重彼此
 
 We value diversity as everyone is unique & we treat one another with dignity.
 
 
-### Integrity  诚信为本
+#### Integrity  诚信为本
 
 We are consistent in our thoughts, words and deeds in accordance with strong moral principles.
 
-### Dedication  尽心尽意 
+#### Dedication  尽心尽意 
 
 We are passionate and committed to the development of the students and the organisation.
 
-### Excellence  精益求精 
+#### Excellence  精益求精 
 
 We build a culture of improvement and innovation.
 
@@ -70,14 +70,14 @@ We build a culture of improvement and innovation.
 策略方针
 
 
-### Empowering Dunmanians to Learn for Life 
+#### Empowering Dunmanians to Learn for Life 
 提升德明人终身学习的能力  
 
-### Empowering Dunmanians to Become Leaders of Honour
+#### Empowering Dunmanians to Become Leaders of Honour
 培养德明人成为社稷栋梁的领导力  
 
-### Empowering Staff to Grow and Glow
+#### Empowering Staff to Grow and Glow
 赋予教职员持续发展和散发能量的动力  
 
-### Enhancing Synergistic Partnerships and the Dunman High Appeal
+#### Enhancing Synergistic Partnerships and the Dunman High Appeal
 加强协作伙伴关系，增强德明魅力
