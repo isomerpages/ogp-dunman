@@ -11,8 +11,8 @@ sections:
   - hero:
       key_highlights:
         - title: Announcements
-          description: ""
-          url: /announcements/2023-jae/
+          description: 通告
+          url: https://ogp-dunman-staging.netlify.app/announcements/intro-h2cll-clep/
       background: /images/Homepage/hp01.jpg
   - infopic:
       title: JUNIOR HIGH
