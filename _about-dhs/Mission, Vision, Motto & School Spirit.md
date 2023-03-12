@@ -20,6 +20,7 @@ A school of eminence that nurtures
 ### 学校使命
 
 To nurture our students to care, to serve and to lead  
+
 培育“关怀、服务、引领”社会的德明人
 
 # **School Motto**
