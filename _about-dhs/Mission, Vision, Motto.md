@@ -3,7 +3,11 @@ title: Mission, Vision, Motto
 permalink: /about-dhs/mission-vision-motto/
 description: ""
 ---
-School Vision 学校愿景
+![students mission vision motto](/images/Homepage/students.jpg)
+
+
+School Vision 
+学校愿景
 The premier school of Leaders of Honour.
 培育“堂正君子、社稷栋梁” 的顶尖学府
 
