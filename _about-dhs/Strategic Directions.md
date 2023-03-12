@@ -64,7 +64,7 @@ We are passionate and committed to the development of the students and the organ
 
 We build a culture of improvement and innovation.
 
-![](/images/Homepage/dhs%20spride2.png)
+![](/images/Homepage/spride%20dhs.png)
 
 ## **Strategic Thrusts**  
 ### **策略方针**
