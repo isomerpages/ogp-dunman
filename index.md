@@ -17,11 +17,11 @@ sections:
   - infopic:
       title: JUNIOR HIGH
       subtitle: 初中部
-      description: Students are given the opportunity to offer a broad range of
-        disciplines, catering to diverse interests, aptitudes and aspirations.
-      button: Button Text
+      description: "Admission | Academic | CCA "
+      button: MORE
       image: /images/Homepage/hp02.jpg
       alt: Image alt text
+      url: "fd "
   - infopic:
       title: SENIOR HIGH
       subtitle: 高中部
