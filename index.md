@@ -14,6 +14,14 @@ sections:
           description: ""
           url: /announcements/2023-jae/
       background: /images/Homepage/hp01.jpg
+  - infopic:
+      title: JUNIOR HIGH
+      subtitle: 初中部
+      description: Students are given the opportunity to offer a broad range of
+        disciplines, catering to diverse interests, aptitudes and aspirations.
+      button: Button Text
+      image: /images/Homepage/hp02.jpg
+      alt: Image alt text
   - infobar:
       title: Achievements
       description: Proud moments of DHS, Our DHP Graduates and CCA!
