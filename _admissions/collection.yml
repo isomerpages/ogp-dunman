@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Admissions.md
-      - 2022 Direct School Admission Exercise (DSA Sec & JC).md
       - SH (JC) Admissions.md
       - Uniforms, Books & Transport.md
       - Financial Assistance.md
