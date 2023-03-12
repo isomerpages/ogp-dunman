@@ -17,7 +17,7 @@ sections:
   - infopic:
       title: JUNIOR HIGH
       subtitle: 初中部
-      description: "Admission | Academic | CCA "
+      description: "Admissions | Academic | CCA "
       button: MORE
       image: /images/Homepage/Junior-High-Sec.png
       alt: Image alt text
