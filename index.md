@@ -25,10 +25,10 @@ sections:
   - infopic:
       title: SENIOR HIGH
       subtitle: 高中部
-      description: Admission | Academic | CCA
+      description: Admissions | Academic | CCA
       button: MORE
       url: fd
-      image: /images/Homepage/hp03.jpg
+      image: /images/Homepage/Senior-High-JC.png
       alt: Image alt text
   - resources:
       title: Archives
