@@ -28,7 +28,7 @@ Principal
 
 ![student principal](/images/mastheadachievements.jpg)
 
-<p style="text-align:justify">
+<p style="text-align:justify"><p>
     
 热烈欢迎大家来到德明政府中学！
 	
@@ -52,4 +52,4 @@ Principal
 
 	
 陈英贤校长
-</p>
+</p></p>
