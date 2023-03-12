@@ -23,9 +23,13 @@ Thank You.
 
 Mr Chan Ying Yin  
 Principal
+</p>	
 
 ![student principal](/images/mastheadachievements.jpg)
 
+
+<p style="text-align:justify">
+    
 热烈欢迎大家来到德明政府中学！
 
 作为中学和初院的首选学府，德明致力于为学生提供优质的教育，让他们得以全面发展，为未来做好准备，并赋予他们成为荣誉和杰出领袖的能力。在小学离校考试后加入德明的学生，将在为期六年的综合课程的帮助下，发展才能，发挥潜力；而那些在教育部联合招生计划下加入我们的同学，将在德明温暖友爱、充满活力的学习环境中度过两年，进一步磨炼意志，成就梦想。
