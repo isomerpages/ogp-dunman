@@ -66,9 +66,8 @@ We build a culture of improvement and innovation.
 
 ![strategic-directions-spride](https://dunmanhigh.moe.edu.sg/wp-content/uploads/2016/07/strategic-directions-spride-340x340.png "strategic-directions-spride")
 
-**Strategic Thrusts**  
-策略方针
-
+## **Strategic Thrusts**  
+### **策略方针**
 
 #### Empowering Dunmanians to Learn for Life 
 提升德明人终身学习的能力  
