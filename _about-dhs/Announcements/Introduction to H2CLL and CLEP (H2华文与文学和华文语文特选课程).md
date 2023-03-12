@@ -4,7 +4,6 @@ permalink: /announcements/intro-h2cll-clep/
 description: ""
 third_nav_title: Announcements
 ---
-
 H2 Chinese Language and Literature enhances students’ language proficiency by honing their writing, critical thinking and communication skills. Students will also be immersed in an exciting world of renowned literature masterpieces ranging from classical prose and poetry, to modern novels and drama plays.
 
 H2 华文与文学重视培养学生的语言运用能力和文学赏析能力。学生能够通过这门科目强化写作、批判性思维和沟通技能。学生也将畅游于丰富多彩的文学天地之中，领略中国古典文化精品，以及中国、台湾和新加坡现当代文学作品的风采。
