@@ -21,7 +21,7 @@ sections:
       button: MORE
       image: /images/Homepage/Junior-High-Sec.png
       alt: Image alt text
-      url: "fd "
+      url: /jh-admissions/
   - infopic:
       title: SENIOR HIGH
       subtitle: 高中部
