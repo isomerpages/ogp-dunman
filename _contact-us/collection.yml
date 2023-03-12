@@ -2,6 +2,7 @@ collections:
   contact-us:
     output: true
     order:
+      - Junior High Form Teachers.md
       - Seniorr High Civic Tutors.md
       - Key Personnel.md
       - General Enquiries.md
