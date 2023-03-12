@@ -5,7 +5,7 @@ description: ""
 ---
 ![principal](/images/Homepage/hp08.jpg)
 
-<p style="text-align:justify"></p>
+<p style="text-align:justify">
     
 A very warm welcome to Dunman High School!
 	
