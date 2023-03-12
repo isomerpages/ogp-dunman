@@ -5,7 +5,7 @@ description: ""
 ---
 ![principal](/images/Homepage/hp08.jpg)
 
- `    selector {
+ `selector {
       text-align: value;
     }`
 
