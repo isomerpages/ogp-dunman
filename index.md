@@ -25,8 +25,8 @@ sections:
   - infopic:
       title: SENIOR HIGH
       subtitle: 高中部
-      description: Infopic description
-      button: MORE INFO
+      description: Admission | Academic | CCA
+      button: MORE
       url: fd
       image: /images/Homepage/hp03.jpg
       alt: Image alt text
