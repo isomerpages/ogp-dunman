@@ -2,6 +2,7 @@ collections:
   contact-us:
     output: true
     order:
+      - Booking of PAC.md
       - School Leaders.md
       - Teacher Leaders Council.md
       - Junior High Form Teachers.md
