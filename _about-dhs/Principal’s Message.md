@@ -9,24 +9,16 @@ description: ""
     
 A very warm welcome to Dunman High School!
 
-<p>
-As a choice school for secondary and pre-university education, Dunman High strives to provide quality learning and all-round development to our students, preparing them to be future-ready and empowering them to be Leaders of Honour and distinction. Students joining the school after their Primary School Leaving Examination can look forward to develop their talents and stretch their potential through our 6-year Integrated Programme; and those joining us after the GCE Ordinary-Level Examination will spend 2 years in our warm and vibrant learning environment to further hone their talents and realise their potential. 
-</p>
+<br>As a choice school for secondary and pre-university education, Dunman High strives to provide quality learning and all-round development to our students, preparing them to be future-ready and empowering them to be Leaders of Honour and distinction. Students joining the school after their Primary School Leaving Examination can look forward to develop their talents and stretch their potential through our 6-year Integrated Programme; and those joining us after the GCE Ordinary-Level Examination will spend 2 years in our warm and vibrant learning environment to further hone their talents and realise their potential. 
+</br>
 
-<p>
-Since our inception in 1956, Dunman High has been committed to our mission of providing every Dumanian a quality education anchored on strong values. Over the years, we are proud to have produced generations of Dunmanians who are leaders of society and pillars of our nation. It is heartening to see all Dunmanians are guided by the School Motto of  诚、信、勇、忠 Honesty, Trustworthiness, Moral Courage and Loyalty in every of their life endeavours and undertakings. Indeed, the school believes in providing Dunmanians the learning experiences to put values into action – the action to Care, to Serve, and to Lead, and empowering them to actualise self and inspire others.
-</p>
+<br>Since our inception in 1956, Dunman High has been committed to our mission of providing every Dumanian a quality education anchored on strong values. Over the years, we are proud to have produced generations of Dunmanians who are leaders of society and pillars of our nation. It is heartening to see all Dunmanians are guided by the School Motto of  诚、信、勇、忠 Honesty, Trustworthiness, Moral Courage and Loyalty in every of their life endeavours and undertakings. Indeed, the school believes in providing Dunmanians the learning experiences to put values into action – the action to Care, to Serve, and to Lead, and empowering them to actualise self and inspire others.</br>
 
-<p>
-As a school of distinction, Dunman High has excelled in the various domains of education. These achievements are the hard work of our people. We are proud to have a highly dedicated team of staff who are always there for the students and the school. They are driven by a strong sense of mission to nurture every student. Serving as role-models to the young minds, they have inspired in every Dunmanian the passion in learning for life and the commitment to leading self and serving others. With great honour, we salute our teachers and school staff!</p>
+<br>As a school of distinction, Dunman High has excelled in the various domains of education. These achievements are the hard work of our people. We are proud to have a highly dedicated team of staff who are always there for the students and the school. They are driven by a strong sense of mission to nurture every student. Serving as role-models to the young minds, they have inspired in every Dunmanian the passion in learning for life and the commitment to leading self and serving others. With great honour, we salute our teachers and school staff!</br>
  
-<p>
-The school is also grateful for the strong support and partnership from the larger Dunman High family which includes our Parent Support Group, the Alumni and the School Advisory Committee. They have been instrumental in helping the school to garner useful insights and strategic resources for organisational growth and development. We are proud that the close-knit relationships within the Dunman High family is underscored by a deep sense of conviction to achieve the common goal of empowering every generation of Dunmanians to lead with honour.
-</p>
+<br>The school is also grateful for the strong support and partnership from the larger Dunman High family which includes our Parent Support Group, the Alumni and the School Advisory Committee. They have been instrumental in helping the school to garner useful insights and strategic resources for organisational growth and development. We are proud that the close-knit relationships within the Dunman High family is underscored by a deep sense of conviction to achieve the common goal of empowering every generation of Dunmanians to lead with honour.</br>
 
-<p>
-The rich heritage and stellar achievements of Dunman High have inspired us in our endeavours in education. In the journey forward, we are appreciative of the fast changing landscape. There will be new challenges and disruptions. Alongside them will be new opportunities and responsibilities. I am confident that the Dunman High family will always keep our spirit high and demonstrate a strong sense of unity in breaking new grounds and scaling new heights!
-</p>
+<br>The rich heritage and stellar achievements of Dunman High have inspired us in our endeavours in education. In the journey forward, we are appreciative of the fast changing landscape. There will be new challenges and disruptions. Alongside them will be new opportunities and responsibilities. I am confident that the Dunman High family will always keep our spirit high and demonstrate a strong sense of unity in breaking new grounds and scaling new heights!</br>
 
 Thank You.
 
