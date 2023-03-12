@@ -31,7 +31,7 @@ sections:
       image: /images/Homepage/Senior-High-JC.png
       alt: Image alt text
   - resources:
-      title: Archives
-      subtitle: revisit
-      button: View More
+      title: "CAMPUS NEWS "
+      subtitle: 校园新鲜事
+      button: MORE
 ---
