@@ -5,6 +5,10 @@ description: ""
 ---
 ![principal](/images/Homepage/hp08.jpg)
 
+ `    selector {
+      text-align: value;
+    }`
+
 A very warm welcome to Dunman High School!
 
 As a choice school for secondary and pre-university education, Dunman High strives to provide quality learning and all-round development to our students, preparing them to be future-ready and empowering them to be Leaders of Honour and distinction. Students joining the school after their Primary School Leaving Examination can look forward to develop their talents and stretch their potential through our 6-year Integrated Programme; and those joining us after the GCE Ordinary-Level Examination will spend 2 years in our warm and vibrant learning environment to further hone their talents and realise their potential.
