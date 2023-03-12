@@ -35,7 +35,7 @@ A school of eminence exemplifying organizational excellence
 誉高卓著，引领卓越
 
 ## **Staff Values: SPRIDE**  
-### **职员价值观**
+### **教员成果**
 
 #### Synergy  协同效应 
 
