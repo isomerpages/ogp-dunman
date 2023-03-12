@@ -64,7 +64,7 @@ We are passionate and committed to the development of the students and the organ
 
 We build a culture of improvement and innovation.
 
-![strategic-directions-spride](https://dunmanhigh.moe.edu.sg/wp-content/uploads/2016/07/strategic-directions-spride-340x340.png "strategic-directions-spride")
+![dhs spride](/images/Homepage/dhs%20spride.png)
 
 ## **Strategic Thrusts**  
 ### **策略方针**
