@@ -5,9 +5,7 @@ description: ""
 ---
 ![principal](/images/Homepage/hp08.jpg)
 
-```
 <p align="justify">
-```
 
 A very warm welcome to Dunman High School!
 
@@ -41,3 +39,5 @@ Principal
 谢谢大家！
 
 陈英贤校长
+
+</p>
