@@ -13,10 +13,13 @@ sections:
       key_highlights:
         - title: Announcements 通告
           description: ""
-          url: https://shor.by/dhsconnect
+          url: https://shor.by/dhs-connect
         - title: What's New 校园新鲜事
           description: Follow Us on Social Media
-          url: https://shor.by/dhsconnect
+          url: https://shor.by/dhs-connect
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infopic:
       title: JUNIOR HIGH
       subtitle: 初中部
