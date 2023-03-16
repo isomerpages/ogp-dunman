@@ -3,7 +3,7 @@ title: Strategic Directions
 permalink: /about-dhs/strategic-directions/
 description: ""
 ---
-![strategic direction](/images/Homepage/masthead-about-strategic.jpg)
+![](/images/Homepage/school%20building.jpg)
 
 ## **Student Outcomes**  
 ### **学生成果**
