@@ -33,8 +33,4 @@ sections:
       url: https://ogp-dunman-staging.netlify.app/admissions/sh-admissions/
       image: /images/Homepage/Senior-High-JC.png
       alt: Image alt text
-  - resources:
-      title: "CAMPUS NEWS "
-      subtitle: 校园新鲜事
-      button: MORE
 ---
