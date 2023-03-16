@@ -10,9 +10,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage/homepage slider.gif
-      dropdown:
-        title: Hero Dropdown Title
-        options: []
   - infopic:
       title: JUNIOR HIGH
       subtitle: 初中部
