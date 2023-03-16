@@ -17,8 +17,8 @@ sections:
         - title: What's New 校园新鲜事
           description: Follow Us on Social Media
           url: https://shor.by/dhs-connect
-        - title: 2022 GCE ‘A’ Level Results A 水准考试成绩
-          description: Congratulations Class of 2022!
+        - title: 2022 GCE ‘A’ Level Results
+          description: A 水准考试成绩
           url: https://shor.by/dhs-connect
   - infopic:
       title: JUNIOR HIGH
