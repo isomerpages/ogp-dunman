@@ -10,6 +10,15 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage/homepage slider.gif
+      button: Announcement
+      url: https://dunmanhigh.moe.edu.sg/
+      key_highlights:
+        - title: Highlights
+          description: Key Highlight description
+          url: https://dunmanhigh.moe.edu.sg/
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infopic:
       title: JUNIOR HIGH
       subtitle: 初中部
