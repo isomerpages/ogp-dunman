@@ -9,11 +9,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      key_highlights:
-        - title: Announcements
-          description: 通告
-          url: https://ogp-dunman-staging.netlify.app/announcements/intro-h2cll-clep/
-      background: /images/Homepage/hp01.jpg
+      background: /images/Homepage/homepage slider.gif
+      dropdown:
+        title: Hero Dropdown Title
+        options: []
   - infopic:
       title: JUNIOR HIGH
       subtitle: 初中部
