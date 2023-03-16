@@ -5,4 +5,4 @@ description: ""
 ---
 ![](/images/Homepage/masthead-about-history.jpg)
 
-[Click here to access the school history](https://shor.by/dhs-sch-history)
+#### Click [HERE](https://shor.by/dhs-sch-history) to read about the school's history
