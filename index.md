@@ -10,12 +10,13 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage/homepage slider.gif
-      button: Announcement
-      url: https://dunmanhigh.moe.edu.sg/
       key_highlights:
-        - title: Highlights
-          description: Key Highlight description
+        - title: Announcements
+          description: 通告
           url: https://dunmanhigh.moe.edu.sg/
+        - title: Campus News 校园新鲜事
+          description: Follow Us on Social Media
+          url: ""
         - title: Key Highlight Title
           description: Key Highlight description
           url: ""
