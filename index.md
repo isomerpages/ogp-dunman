@@ -28,6 +28,6 @@ sections:
       description: Admissions | Academic | CCA
       button: MORE
       url: https://ogp-dunman-staging.netlify.app/admissions/sh-admissions/
-      image: /images/Homepage/Senior-High-JC.png
+      image: /images/Homepage/Senior High.png
       alt: Image alt text
 ---
