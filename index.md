@@ -11,11 +11,8 @@ sections:
   - hero:
       background: /images/Homepage/homepage slider.gif
       key_highlights:
-        - title: What's New
+        - title: ANNOUNCEMENT
           description: 校园新鲜事
-          url: https://shor.by/dhs-connect
-        - title: 2022 GCE ‘A’ Level Results
-          description: A 水准考试成绩
           url: https://shor.by/dhs-connect
   - infopic:
       title: JUNIOR HIGH
