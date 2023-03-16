@@ -11,15 +11,12 @@ sections:
   - hero:
       background: /images/Homepage/homepage slider.gif
       key_highlights:
-        - title: Announcements
-          description: 通告
-          url: https://dunmanhigh.moe.edu.sg/
-        - title: Campus News 校园新鲜事
+        - title: Announcements 通告
+          description: ""
+          url: https://shor.by/dhsconnect
+        - title: What's New 校园新鲜事
           description: Follow Us on Social Media
-          url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+          url: https://shor.by/dhsconnect
   - infopic:
       title: JUNIOR HIGH
       subtitle: 初中部
