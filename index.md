@@ -15,6 +15,14 @@ sections:
           description: ""
           url: https://shor.by/dhs-connect
   - infopic:
+      title: Campus News
+      subtitle: 校园新鲜事
+      description: Join us on Social
+      button: Button Text
+      url: https://shor.by/dhs-connect
+      image: /images/Homepage/20211126_2987_MWP_WEBRES.jpg
+      alt: Image alt text
+  - infopic:
       title: JUNIOR HIGH
       subtitle: 初中部
       description: "Admissions | Academic | CCA "
