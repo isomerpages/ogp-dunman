@@ -20,7 +20,7 @@ sections:
       description: Join us on Facebook & Instagram
       button: MORE
       url: https://shor.by/dhs-connect
-      image: /images/Homepage/campus news.png
+      image: /images/Homepage/dhs_campus_news.jpg
       alt: Image alt text
   - infopic:
       title: JUNIOR HIGH
