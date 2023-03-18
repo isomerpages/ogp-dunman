@@ -12,7 +12,7 @@ sections:
       background: /images/Homepage/homepage slider.gif
       key_highlights:
         - title: ANNOUNCEMENTS 通告
-          description: ""
+          description: News & Happenings
           url: https://shor.by/dhs-connect
   - infopic:
       title: Campus Life
