@@ -17,8 +17,8 @@ sections:
   - infopic:
       title: Campus News
       subtitle: 校园新鲜事
-      description: Join us on Social
-      button: Button Text
+      description: Join us on Facebook & Instagram
+      button: MORE
       url: https://shor.by/dhs-connect
       image: /images/Homepage/20211126_2987_MWP_WEBRES.jpg
       alt: Image alt text
