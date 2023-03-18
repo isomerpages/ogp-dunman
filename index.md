@@ -15,7 +15,7 @@ sections:
           description: ""
           url: https://shor.by/dhs-connect
   - infopic:
-      title: Campus News
+      title: Campus Life
       subtitle: 校园新鲜事
       description: Join us on Facebook & Instagram
       button: MORE
