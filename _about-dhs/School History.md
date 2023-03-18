@@ -6,6 +6,9 @@ description: ""
 ![](/images/Homepage/masthead-about-history.jpg)
 
 
-* #### **1956 - 2001**: Click [HERE](https://shor.by/dhs-sch-history-1956) to view
-* #### **2001 - 2019**: Click [HERE](https://shor.by/dhs-sch-history-2004) to view
-* #### **2021 - 2022**: Click [HERE](https://shor.by/dhs-sch-history-2021) to view
+
+* ##### **1956 - 2001**: Click [HERE](https://shor.by/dhs-sch-history-1956) to view
+
+* ##### **2001 - 2019**: Click [HERE](https://shor.by/dhs-sch-history-2004) to view
+
+* ##### **2021 - 2022**: Click [HERE](https://shor.by/dhs-sch-history-2021) to view
