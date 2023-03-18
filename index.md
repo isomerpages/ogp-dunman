@@ -11,7 +11,7 @@ sections:
   - hero:
       background: /images/Homepage/homepage slider.gif
       key_highlights:
-        - title: HAPPENINGS 校园新鲜事
+        - title: ANNOUNCEMENTS 通告
           description: ""
           url: https://shor.by/dhs-connect
   - infopic:
