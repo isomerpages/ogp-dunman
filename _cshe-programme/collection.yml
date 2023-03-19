@@ -2,8 +2,8 @@ collections:
   cshe-programme:
     output: true
     order:
-      - Parents’ Involvement.md
-      - Scholarships.md
-      - Higher Education.md
-      - Career Guidance.md
       - The Programme.md
+      - Career Guidance.md
+      - Higher Education.md
+      - Scholarships.md
+      - Parents’ Involvement.md
