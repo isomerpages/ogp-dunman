@@ -4,7 +4,6 @@ permalink: /jh-cca/
 description: ""
 ---
 ![](/images/Homepage/Junior-High-Sec.png)
-## 课程辅助活动  
 
 The Junior High (Sec) CCAs are made up of 4 categories of CCAs in Dunman High School namely the Performing Arts, Sports & Games, the Uniformed Groups and Clubs & Societies. 
 
