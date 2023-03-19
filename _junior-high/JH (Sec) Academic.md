@@ -54,17 +54,3 @@ All DHP Year 3 and 4 students will be offered the following subjects:
 | Higher Music (O-Level) |  |
 | 3rd Language  
 \[French, German, Japanese, Malay (Special Programme)\] |  |
-
-
-
-## Academic Overview (Year 1 to Year 6)
-
-**Click to have an overview of DHS Academic Subjects & Programmes** 
-
-*   **[DHS Academic Subjects](/academic/)** 
-*   **[Bicultural Studies Programme](/academic/bicultural-studies-programme/)**
-*   **[Humanities Programme](/academic/humanities-programme/)**
-*   **[Aesthetics Programme](/academic/aesthetics-programme/)**
-*   **[Mathematics Programme](/academic/mathematics-programme/)**
-*   **[Sciences Programme](/academic/sciences-programme/)**
-*   **[Knowledge Skills Programme](/academic/knowledge-skills-programme/)**
