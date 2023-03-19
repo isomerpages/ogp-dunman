@@ -31,7 +31,7 @@ sections:
       alt: Image alt text
       url: https://ogp-dunman-staging.netlify.app/admissions/jh-admissions/
   - infopic:
-      title: SENIOR HIGH
+      title: SENIOR HIGH (JC)
       subtitle: 高中部
       description: Admissions | Academic | CCA
       button: MORE
