@@ -53,3 +53,6 @@ Stay tuned to the updates of current and future activities organised by PSG and 
  **德明家长会执行委员**
  
  ![](/images/Homepage/psg_2023.png)
+ 
+###  **PSG Events Calendar 2023**
+ ![](/images/Homepage/psg%20event%202023.png)
