@@ -2,6 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - School Advisory Committee.md
-      - Dunman High School Alumni.md
       - Parent Support Group.md
+      - Dunman High School Alumni.md
+      - School Advisory Committee.md
