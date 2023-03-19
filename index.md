@@ -23,7 +23,7 @@ sections:
       image: /images/Homepage/dhs_campus_news.jpg
       alt: Image alt text
   - infopic:
-      title: JUNIOR HIGH
+      title: JUNIOR HIGH (Sec)
       subtitle: 初中部
       description: "Admissions | Academic | CCA "
       button: MORE
