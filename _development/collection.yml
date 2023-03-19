@@ -3,13 +3,13 @@ collections:
     output: true
     order:
       - Student Development.md
-      - Sexuality Education.md
-      - Physical Education.md
       - Student Leadership.md
-      - Co curricular Activities.md
       - Talent Development/.keep
       - Talent Development/Talent Development.md
       - Talent Development/School Based Gifted Education Programme.md
       - Talent Development/Humanities & Aesthetics Talent Development.md
       - Talent Development/Languages Talent Development.md
       - Talent Development/STEM Talent Development.md
+      - Co curricular Activities.md
+      - Sexuality Education.md
+      - Physical Education.md
