@@ -25,3 +25,11 @@ Many of these CCAs are rich in tradition and strong in achievements and will pro
 * [Track & Field](/files/Sports_Track-Field-JH.pdf)
 * [Volleyball](/files/Sports_Volleyball-JH.pdf)
 * [Wushu](/files/Sports_Wushu-JH.pdf)
+
+### **Uniformed Groups**
+![](/images/Homepage/Uniformed-Groups.png)
+
+* [Girl Guides](/files/Uniformed-Groups-Girl-Guides-JH.pdf)
+* [National Police Cadet Corps](/files/Uniformed-Groups-Police-Cadet-Corps-JH.pdf)
+* [Scouts (including Lion Dance)](/files/Uniformed-Groups-Scouts_Lion-Dance-JH.pdf)
+* [St John Brigade](/files/Uniformed-Groups-St-John-Brigade-JH.pdf)
