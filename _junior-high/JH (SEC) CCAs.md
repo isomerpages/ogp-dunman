@@ -25,3 +25,4 @@ Many of these CCAs are rich in tradition and strong in achievements and will pro
 * [Table Tennis](/files/Sports_Table-Tennis-JH.pdf)
 * [Track & Field](/files/Sports_Track-Field-JH.pdf)
 * [Volleyball](/files/Sports_Volleyball-JH.pdf)
+* [Wushu](/files/Sports_Wushu-JH.pdf)
