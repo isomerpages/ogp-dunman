@@ -14,7 +14,7 @@ Many of these CCAs are rich in tradition and strong in achievements and will pro
 **Admission to most CCAs is by merit. Students are required to attend auditions/trials before being accepted.**
 
 ### **Sports & Games**
-![](/images/Homepage/basketball.jpg)
+![](/images/Homepage/Sports-Games.png)
 
 * [Air Weapons Club](/files/Sports_Air-Weapons-Club-JH.pdf)
 * [Badminton](/files/Sports_Badminton-JH.pdf)
