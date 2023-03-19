@@ -3,8 +3,7 @@ title: Dunman High School Alumni
 permalink: /about-dhs/partners/dunman-high-school-alumni/
 description: ""
 ---
-
-![](/images/partners-alumni-logo.jpg)
+![](/images/Homepage/alumni.png)
 
 Dunman High School Alumni was formed on 16th July 1985 with the following objectives:
 
