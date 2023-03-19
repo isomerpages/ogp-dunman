@@ -5,7 +5,7 @@ description: ""
 ---
 **入学信息**
 ========
-**Secondary One Posting Exercise based on PSLE Results  
+ **Secondary One Posting Exercise based on PSLE Results  
 中学一年级学校分配活动**
 
 The event has been completed for 2023.
