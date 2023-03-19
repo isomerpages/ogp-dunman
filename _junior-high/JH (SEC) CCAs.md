@@ -42,3 +42,14 @@ Many of these CCAs are rich in tradition and strong in achievements and will pro
 * [English Drama Society](/files/English-Drama-Society_JH-.pdf)
 * [String Ensemble](/files/Performing-Arts_String-Ensemble-JH-SH.pdf)
 * [Symphonic Band](/files/Performing-Arts_Symphonic-Band-JH-SH.pdf)
+
+### **Clubs & Societies**
+![](/images/Homepage/Clubs-Societies.png)
+
+* [Art Club](/files/Clubs-Society_Art-Club-JH-SH.pdf)
+* [STEAM Collective](/files/Clubs_Society-JH-STEAM-Collective.pdf)
+
+Only Available as 2nd CCA
+* [Chinese Society](/files/Performing-Arts_Chinese-Society-JH-SH%20(1).pdf)
+* [Oratorical Society - Debate](/files/Clubs-Society_Oratorical-Society_Debate-JH.pdf)
+* [LIbrary Society](/files/Clubs-Society_Library-Society-JH-SH.pdf)
