@@ -7,7 +7,7 @@ description: ""
 
 In Dunman High, we recognise that parents play an important and irreplaceable role in the holistic education of the children. As such, we involve parents in a number of our programmes and organise an engagement session with the universities for the parents.
 
-Parents who are happy to partner the school in our CSHE Programme may email us at cshe@dhs.sg.
+Parents who are happy to partner the school in our CSHE Programme may email us at cshe@dhs.edu.sg.
 
 ![](/images/parents-involvement.jpg)
 
