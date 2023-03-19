@@ -2,7 +2,6 @@ collections:
   about-dhs:
     output: true
     order:
-      - Our People.md
       - Principal’s Message.md
       - Mission, Vision, Motto & School Spirit.md
       - Strategic Directions.md
