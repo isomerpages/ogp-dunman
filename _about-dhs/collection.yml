@@ -2,12 +2,12 @@ collections:
   about-dhs:
     output: true
     order:
-      - Our People/.keep
       - Principal’s Message.md
       - Mission, Vision, Motto & School Spirit.md
       - Strategic Directions.md
       - School Crest & Song.md
       - School History.md
+      - Our People/.keep
       - Announcements/.keep
       - Announcements/Introduction to H2CLL and CLEP (H2华文与文学和华文语文特选课程).md
       - Announcements/在线阅读第31期《艺林》 More Than Words.md
