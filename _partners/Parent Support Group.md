@@ -54,5 +54,12 @@ Stay tuned to the updates of current and future activities organised by PSG and 
  
  ![](/images/Homepage/psg_2023.png)
  
+###  **PSG Liaison Teachers**
+* Mrs Phua-Loo Poh Lim -
+ HOD / Science (Junior High)
+
+* Mdm Lam Non Har Serene - 
+ School Staff Developer
+ 
 ###  **PSG Events Calendar 2023**
  ![](/images/Homepage/psg%20event%202023.png)
