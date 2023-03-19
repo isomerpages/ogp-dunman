@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Homepage/Junior-High-Sec.png)
 
-## **入学信息**
+## **Admissions 入学信息**
  **Secondary One Posting Exercise based on PSLE Results  
 中学一年级学校分配活动**
 
