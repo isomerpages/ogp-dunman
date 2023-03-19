@@ -1,5 +1,5 @@
 collections:
-  cshe-programme:
+  cshe:
     output: true
     order:
       - The Programme.md
