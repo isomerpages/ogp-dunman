@@ -33,3 +33,12 @@ Many of these CCAs are rich in tradition and strong in achievements and will pro
 * [National Police Cadet Corps](/files/Uniformed-Groups-Police-Cadet-Corps-JH.pdf)
 * [Scouts (including Lion Dance)](/files/Uniformed-Groups-Scouts_Lion-Dance-JH.pdf)
 * [St John Brigade](/files/Uniformed-Groups-St-John-Brigade-JH.pdf)
+
+### **Performing Arts**
+![](/images/Homepage/Performing-Arts.png)
+* [Chinese Society](/files/Performing-Arts_Chinese-Society-JH-SH%20(1).pdf)
+* [Chinese Orchestra (including Guzheng Ensemble)](/files/Performing-Arts_Chinese-Orchestra-JH-SH.pdf)
+* [Choir](/files/Performing-Arts_Choir-JH-SH.pdf)
+* [English Drama Society](/files/English-Drama-Society_JH-.pdf)
+* [String Ensemble](/files/Performing-Arts_String-Ensemble-JH-SH.pdf)
+* [Symphonic Band](/files/Performing-Arts_Symphonic-Band-JH-SH.pdf)
