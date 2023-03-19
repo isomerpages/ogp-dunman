@@ -5,20 +5,19 @@ description: ""
 ---
 ![](/images/Homepage/Junior-High-Sec.png)
 
-## **Admissions 入学信息**
  **Secondary One Posting Exercise based on PSLE Results  
 中学一年级学校分配活动**
 
-The event has been completed for 2023.
+* The event has been completed for 2023.
 
 **Direct School Admission Exercise-Secondary (DSA-Sec)  
 中学直接招生计划**
 
-The exercise has been completed for 2022.
+* The exercise has been completed for 2022.
 
 **International Students 国际学生**
 
-International students who wish to seek admission to Singapore mainstream schools at Secondary 1 to 3 levels must take part in the [**Admissions Exercise for International Students (AEIS)**](https://www.moe.gov.sg/admissions/international-students/admissions-exercise). More information at **[MOE Website](https://www.moe.gov.sg/admissions/international-students)**.
+* International students who wish to seek admission to Singapore mainstream schools at Secondary 1 to 3 levels must take part in the [**Admissions Exercise for International Students (AEIS)**](https://www.moe.gov.sg/admissions/international-students/admissions-exercise). More information at **[MOE Website](https://www.moe.gov.sg/admissions/international-students)**.
 
 **Returning Singaporean 归国学生**
 
