@@ -4,23 +4,21 @@ permalink: /about-dhs/contact-us/key-personnel/
 description: ""
 third_nav_title: Our People
 ---
-
-
 ## Bicultural Studies Programme
 
 | Name | Designation |
 | --- | --- |
-| Mdm Jiang Ling | HOD/Mother Tongue Language (Junior High) |
+| Mdm Jiang Ling | HOD/Chinese Language (Junior High) |
 | Mr Goh Liang Zhou | HOD/Mother Tongue Languages (Senior High) |
 | Ms Teh Shi Ling | HOD/Special Assistance Plan |
-| Ms Hon Shuzhen | SH/Mother Tongue Language (Junior High) |
+| Ms Hon Shuzhen | SH/Chinese Language (Junior High) |
 | Mr Low Chee Keong Timothy | SH/Mother Tongue Languages (Senior High) |
 | Ms Lee Yuet Meng Audrina | HOD/English Language (Junior High) |
 | Ms Christine Chen Huiqing | HOD/ English Language (Senior High) |
 | Ms Kheng Hwee Teng | SH/English Language (Junior High) |
-| Ms Wong Min Tzu Sharilyn | (Ag) SH/ English Literature (Junior High) |
+| Ms Wong Min Tzu Sharilyn | SH/ English Literature (Junior High) |
 | Ms Siti Shafaa Bte Yang Razali | SH/General Paper |
-| Alicia Ng Yi-May | SH/General Paper |
+| Ms Alicia Ng Yi-May | SH/General Paper |
 | Ms Rathiy Devi D/o Ramanathan | SH/English Literature (Senior High) |
 
 ## Humanities & Aesthetics Programme
@@ -33,7 +31,7 @@ third_nav_title: Our People
 | Mr Goh Lian Kiah Vincent | SH/Humanities (Senior High) |
 | Ms Lee Chin Sin | HOD/Aesthetics |
 | Ms Tan Ai Ling Debbie | SH/Music |
-| Ms Tan Yu Shi | (Ag) SH/Art |
+| Ms Tan Yu Shi | SH/Art |
 
 ## Mathematics & Sciences Programme
 
@@ -67,7 +65,7 @@ third_nav_title: Our People
 | Name | Designation |
 | --- | --- |
 | Mr Chong Hon Chung | HOD/Corporate Relations |
-| Ms Lim Boon Hwee | (Ag) SH/Corporate Relations |
+| Ms Lim Boon Hwee | SH/Corporate Relations |
 | Ms Ho Su Siew | HOD/ICT |
 | Mr Tiah Jun Kai | SH/Data and Information Management 1 |
 | Mr Neo Boon Kiat Ronson | SH/Data and Information Management 2 |
@@ -82,7 +80,7 @@ third_nav_title: Our People
 | Mrs Chew-Tan Bee Hong | SH/Physical Education |
 | Ilyana Hardianti Bte Hartono W | HOD/Co-Curricular Activities |
 | Ms Ang Peiyu | SH/Co-Curricular Activities |
-| Mr Boh Weiliang Brandon | (Ag) SH/Co-Curricular Activities |
+| Mr Boh Weiliang Brandon | SH/Co-Curricular Activities |
 | Mr Jason Chen Quansheng | HOD/Character & Citizenship Education and Discipline |
 | Ms Yeo Kim Neo Michelle | SH/Character & Citizenship Education |
 | Ms Lim Ern Chze, Angie | SH/Character & Citizenship Education |
@@ -90,18 +88,15 @@ third_nav_title: Our People
 | Ms Heng Li Tze | SH/Discipline |
 | Mr Chin Wei Ming Darren | SH/Values in Action (VIA) |
 | Ms Tan Kae Ling | HOD/Career, Scholarships and Higher Education |
-| Mr Lim Chee Kam | (Ag) SH/Career, Scholarships and Higher Education |
+| Mr Lim Chee Kam | SH/Career, Scholarships and Higher Education |
 | Ms Leong Foong Lin | HOD/Student Leadership |
 | Ms Aow Ci Hui | SH/Student Leadership (Junior High) |
 | Mr Ho Xin An | SH/Student Leadership (Senior High) |
 | Mdm Loh Chien Yuen June | Year Head/Year 1 & 2 |
 | Mr Royston Han Yao Hong | Year Head/Year 3 & 4 |
 | Ms Tee Wen Ching Alysia | Year Head/Year 5 |
-| Mr Chan Boon Kian | (Ag) Year Head/Year 6 |
+| Mr Chan Boon Kian | Year Head/Year 6 |
 | Ms Lee Siew Choo | Assistant Year Head/Year 1 & 2 |
 | Ms Geraldine Raphaela Joseph | Assistant Year Head/Year 3 & 4 |
 | Mr Low Thiam Yew Alvin | Assistant Year Head/Year 5 |
 | Ms Tan Jie Ying | Assistant Year Head/Year 6 |
-
-
-
