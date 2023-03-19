@@ -52,4 +52,4 @@ Many of these CCAs are rich in tradition and strong in achievements and will pro
 Only Available as 2nd CCA
 * [Chinese Society](/files/Performing-Arts_Chinese-Society-JH-SH%20(1).pdf)
 * [Oratorical Society - Debate](/files/Clubs-Society_Oratorical-Society_Debate-JH.pdf)
-* [LIbrary Society](/files/Clubs-Society_Library-Society-JH-SH.pdf)
+* [Library Society](/files/Clubs-Society_Library-Society-JH-SH.pdf)
