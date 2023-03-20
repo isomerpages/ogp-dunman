@@ -1,4 +1,5 @@
 collections:
   senior-high:
     output: true
-    order: []
+    order:
+      - Senior High (SH) Admissions.md
