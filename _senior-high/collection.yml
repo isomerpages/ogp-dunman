@@ -2,4 +2,4 @@ collections:
   senior-high:
     output: true
     order:
-      - Senior High (SH) Admissions.md
+      - SH (JC) Admissions.md
