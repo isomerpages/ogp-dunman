@@ -37,3 +37,8 @@ The Senior High (JC) CCA programme comprises school-based CCAs and student-drive
 
 * [Girl Guides](/files/Uniformed-Groups-Girl-Guides-JH.pdf)
 * [National Police Cadet Corps](/files/Uniformed-Groups-Police-Cadet-Corps-JH.pdf)
+
+### **Clubs & Societies**
+![](/images/Homepage/Robo1.png)
+
+* [Girl Guides](/files/Uniformed-Groups-Girl-Guides-JH.pdf)
