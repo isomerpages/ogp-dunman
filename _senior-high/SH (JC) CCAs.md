@@ -29,6 +29,10 @@ The Senior High (JC) CCA programme comprises school-based CCAs and student-drive
 * [Tennis](/files/Sports_Tennis-SH.pdf)
 * [Volleyball](/files/Sports_Volleyball-SH.pdf)
 
+##### **Student-Initiated Interest Groups**
+[Touch Rugby](/files/Interest-Group_Touch-Rugby-SH.pdf)
+[Frisbee](/files/Interest-Group_Frisbee-SH.pdf)
+
 ### **Uniformed Groups**
 ![](/images/Homepage/SH-Uniformed-Group.png)
 
