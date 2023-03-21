@@ -2,4 +2,5 @@ collections:
   senior-high:
     output: true
     order:
+      - Example Title.md
       - SH (JC) Admissions.md
