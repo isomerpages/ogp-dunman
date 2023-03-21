@@ -19,7 +19,7 @@ sections:
       subtitle: 校园新鲜事
       description: Join us on Facebook & Instagram
       button: MORE
-      url: https://shor.by/dhs-campus-life
+      url: https://dhs.edu.sg/campus-life
       image: /images/Homepage/dhs_campus_news.jpg
       alt: Image alt text
   - infopic:
