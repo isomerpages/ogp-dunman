@@ -31,12 +31,16 @@ The Senior High (JC) CCA programme comprises school-based CCAs and student-drive
 * [Wushu](/files/Sports_Wushu-SH.pdf)
 
 ##### **Student-Initiated Interest Groups**
-[Touch Rugby](/files/Interest-Group_Touch-Rugby-SH.pdf)
-[Frisbee](/files/Interest-Group_Frisbee-SH.pdf)
+* [Touch Rugby](/files/Interest-Group_Touch-Rugby-SH.pdf)
+* [Frisbee](/files/Interest-Group_Frisbee-SH.pdf)
 
 ### **Uniformed Groups**
 ![](/images/Homepage/SH-Uniformed-Group.png)
 
+* [Girl Guides (Adult Leader)](/files/Uniformed-Groups-Girl-Guides-SH.pdf)
+* [NPCC (Cadet Inspector)](/files/Uniformed-Groups-Police-Cadet-Corps-SH.pdf)
+* [Scouts (Ventures)](/files/Uniformed-Groups-Venture-Scouts-SH.pdf)
+* [St. John Brigade (Cadet Leader)](/files/Uniformed-Groups-St-John-Brigade-SH.pdf)
 * 
 
 ### **Performing Arts**
