@@ -14,11 +14,20 @@ The Senior High (JC) CCA programme comprises school-based CCAs and student-drive
 ### **Sports & Games**
 ![](/images/Homepage/SH-Track.jpg)
 
-* [Air Weapons Club](/files/Sports_Air-Weapons-Club-SH.pdf)
+* [Air Weapon Club](/files/Sports_Air-Weapons-Club-SH.pdf)
 * [Badminton](/files/Sports_Badminton-SH.pdf)
-* [Basketball](/files/Sports_Basketball-SH.pdf)
 * [Bowling](/files/Sports_Bowling-SH.pdf)
-* 
+* [Golf](/files/Sports_Golf-SH.pdf)
+* [Netball](/files/Sports_Netball-SH.pdf)
+* [Outdoor Activities Club (ODAC)](/files/Sports_Outdoor-Activities-Club-SH.pdf)
+* [Sailing](/files/Sports_Sailing.pdf)
+* [Soccer (Boys)](/files/Sports_Soccer-SH.pdf)
+* [Softball (GIrls)](/files/Sports_Softball-SH.pdf)
+* [Table Tennis](/files/Sports_Table-Tennis-SH.pdf)
+* [Track & Field](/files/Sports_Track-Field-SH.pdf)
+* [Taekwondo](/files/Sports_Taekwondo-SH.pdf)
+* [Tennis](/files/Sports_Tennis-SH.pdf)
+* [Volleyball](/files/Sports_Volleyball-SH.pdf)
 
 ### **Uniformed Groups**
 ![](/images/Homepage/SH-Uniformed-Group.png)
