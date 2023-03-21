@@ -28,6 +28,7 @@ The Senior High (JC) CCA programme comprises school-based CCAs and student-drive
 * [Taekwondo](/files/Sports_Taekwondo-SH.pdf)
 * [Tennis](/files/Sports_Tennis-SH.pdf)
 * [Volleyball](/files/Sports_Volleyball-SH.pdf)
+* [Wushu](/files/Sports_Wushu-SH.pdf)
 
 ##### **Student-Initiated Interest Groups**
 [Touch Rugby](/files/Interest-Group_Touch-Rugby-SH.pdf)
@@ -36,10 +37,7 @@ The Senior High (JC) CCA programme comprises school-based CCAs and student-drive
 ### **Uniformed Groups**
 ![](/images/Homepage/SH-Uniformed-Group.png)
 
-* [Girl Guides](/files/Uniformed-Groups-Girl-Guides-JH.pdf)
-* [National Police Cadet Corps](/files/Uniformed-Groups-Police-Cadet-Corps-JH.pdf)
-* [Scouts (including Lion Dance)](/files/Uniformed-Groups-Scouts_Lion-Dance-JH.pdf)
-* [St John Brigade](/files/Uniformed-Groups-St-John-Brigade-JH.pdf)
+* 
 
 ### **Performing Arts**
 ![](/images/Homepage/SH-String-1.jpg)
