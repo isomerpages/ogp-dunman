@@ -41,7 +41,7 @@ The Senior High (JC) CCA programme comprises school-based CCAs and student-drive
 * [NPCC (Cadet Inspector)](/files/Uniformed-Groups-Police-Cadet-Corps-SH.pdf)
 * [Scouts (Ventures)](/files/Uniformed-Groups-Venture-Scouts-SH.pdf)
 * [St. John Brigade (Cadet Leader)](/files/Uniformed-Groups-St-John-Brigade-SH.pdf)
-* 
+* [Uniformed Group Council](/files/Touch-Rugby-Uniformed-Group-Council.pdf)
 
 ### **Performing Arts**
 ![](/images/Homepage/SH-String-1.jpg)
