@@ -45,3 +45,13 @@ permalink: /terms-of-use/
 1.  Materials, including design, source codes, pages, documents and online graphics, audio and video in The Website are protected by law. The intellectual property rights in the materials are owned or licensed to us. All rights reserved (©Dunman High School).
 
 2.  Apart from any fair dealings for the purposes of private study, research, criticism or review, as permitted by law, no part of The Website may be reproduced or reused for any commercial purposes whatsoever without our prior written permission. The modification of the materials on The Website is prohibited.
+
+### Disclaimer of Warranties and Liability
+
+1.  We will not be liable for any loss or damage:
+
+    1.  that you may incur on account of using, visiting or relying on any statement, opinion, representation or information in The Website;
+    
+    2.  resulting from any delay in the operation or transmission, communications failure, Internet access difficulties or malfunctions in equipment or software; or
+    
+    3.  the conduct or the views of any person who accesses or uses The Website.
