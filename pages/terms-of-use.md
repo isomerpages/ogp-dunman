@@ -5,12 +5,12 @@ permalink: /terms-of-use/
 ### Agreement – Terms
 
 1.  Thank you for visiting this Website (“The Website”). 
-<p>
+
 2.  The Website is owned and maintained by Dunman High School (hereinafter “DHS”).
-</p>
+
 3.  All access of any area of The Website is governed by the terms and conditions below (“Terms”). If you do not accept any of these Terms, exit immediately. Continue only if you accept these terms.
-<p>
-4.  In these Terms, the words “we,” “our” and “us” refer to DHS. </p>
+
+4.  In these Terms, the words “we,” “our” and “us” refer to DHS. 
 	
 5.  DHS reserves the right to change these Terms from time to time. Your use of The Website constitutes your agreement to any modified Terms.
 	
