@@ -3,6 +3,8 @@ title: SH (JC) Admissions
 permalink: /admissions/sh-admissions/
 description: ""
 ---
+![](/images/Homepage/Senior%20High.png)
+
 Dunman High aims to nurture bilingual Leaders of Honour with a heart to care, to serve and to lead. If you share the same mission with us, you may seek admission through the following:
 
 **Joint Admission Exercise**   
