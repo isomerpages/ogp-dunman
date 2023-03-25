@@ -3,7 +3,7 @@ title: Uniforms, Books & Transport
 permalink: /admissions/uniforms-books-transport/
 description: ""
 ---
-## **1. School Uniform**
+## **1. School Uniforms**
 #### **Shanghai School Uniforms**
 
 Ms Claudia Chua  
