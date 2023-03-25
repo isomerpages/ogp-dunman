@@ -2,8 +2,8 @@ collections:
   academic:
     output: true
     order:
-      - Core Subjects.md
       - Dunman High Programme.md
+      - Core Subjects.md
       - Aesthetics Programme.md
       - Humanities Programme.md
       - Bicultural Studies Programme.md
