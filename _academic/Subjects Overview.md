@@ -63,7 +63,6 @@ All DHP Year 3 and 4 students will be offered the following subjects:
 | Electives (compulsory and non compulsory) | Elective Module | N |
 |  | Chinese Language Elective Programme (CLEP) | N |
 
-
 ![](/images/Homepage/Senior%20High.png)
 ### **Senior High (JC)**
 At Senior High Academy, Year 5 and 6 students prepare for the GCE A-level Examination. They will choose from a broad range of academic subjects offered.  
