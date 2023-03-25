@@ -95,5 +95,5 @@ Students choose from the following subjects to be taken at GCE ‘A’ Level:
 | **Chemistry (CH)** | **●** | **●** | **●** |
 | **Physics (PH)** | **●** | **●** | **●** |
 | **Mathematics (MA)** | **●** | **●** | **●** |
-| **Further Mathematics (FM)** |  | **●** |  |
+| Further M**athematics (FM)** |  | **●** |  |
 | **Computing (CP)** |  | **●** |  |
