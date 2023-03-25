@@ -65,7 +65,7 @@ Outstanding Senior High students are identified for Higher 3 subjects as well as
 
 Students admitted to the school follow the six-year integrated programme at the end of which they sit for their GCE ‘A’ Level examination.
 
-**Academic Subjects (Years 5 and 6)**
+#### **Academic Subjects (Years 5 and 6)**
 
 Senior High students will undergo Junior College curriculum to prepare them for GCE A-Level examination at the end of Year 6.
 
