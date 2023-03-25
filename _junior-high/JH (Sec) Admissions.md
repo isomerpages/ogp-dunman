@@ -5,6 +5,8 @@ description: ""
 ---
 ![](/images/Homepage/Junior-High-Sec.png)
 
+Dunman High aims to nurture bilingual Leaders of Honour with a heart to care, to serve and to lead. If you share the same mission with us, you may seek admission through the following:
+
  **Secondary One Posting Exercise based on PSLE Results  
 中学一年级学校分配活动**
 
