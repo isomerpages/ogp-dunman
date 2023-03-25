@@ -3,6 +3,8 @@ title: Dunman High Programme
 permalink: /academic/dunman-high-programme/
 description: ""
 ---
+![](/images/academic%20programmes.jpg)
+
 The design of the Dunman High Programme is guided by the school’s Philosophy of Education, which forms the basis of what we do, how we do and why we do in Dunman High to provide a forward-looking education for our students.
 
 以教育哲学为指引的德明综合课程，本着做什么、怎么做和为什么做的考量，为学生提供具有前瞻性的教育。
