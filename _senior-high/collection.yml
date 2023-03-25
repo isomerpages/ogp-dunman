@@ -2,5 +2,5 @@ collections:
   senior-high:
     output: true
     order:
-      - SH (JC) CCAs.md
       - SH (JC) Admissions.md
+      - SH (JC) CCAs.md
