@@ -3,6 +3,7 @@ title: Uniforms, Books & Transport
 permalink: /admissions/uniforms-books-transport/
 description: ""
 ---
+![](/images/Homepage/masthead-administration.jpg)
 ### **1. School Uniforms**
 
 #### **Shanghai School Uniforms**
