@@ -3,5 +3,65 @@ title: Subjects Overview
 permalink: /academic/subjects-overview/
 description: ""
 ---
+The Academic Programme is delivered through our 4-year Junior High Academy and 2-year Senior High Academy.
 
+![](/images/Homepage/Junior-High-Sec.png)
+
+#### **Junior High (Sec) Year 1 to 4**
+At Junior High Academy, the Academic Programme is designed for high ability students focusing on building a strong academic foundation; and providing an enriched, inter-disciplinary curriculum.  
+
+Anchored by the 4 pillars, Junior High students are exposed to high quality programmes such as research studies, project works, master classes, mentorships and overseas immersions, all of which are intended to provide the students with a stimulating environment that would deepen their appetite for in-depth academic pursuit.  
+
+Our students will skip the GCE O-level Examination and this gives us greater scope to design a challenging and enriching curriculum.
+
+#### **Academic Subjects (Years 1 and 2)**
+
+All DHP Year 1 and 2 students of DHP will take the following subjects:
+
+| Examinable Subjects | Non-examinable Subjects |
+| --- | --- |
+| English Language | Art |
+| Higher Chinese | Music |
+| Mathematics | Appreciation of Chinese Culture |
+| General Science | Computing |
+| History | Conversational Malay Programme |
+| Geography | Character & Citizenship Education |
+| Literature in English | Life Skills Programme |
+| Thinking and Research Skills Programme | Physical Education |
+| Art (Special Programme) |  |
+| Higher Music (MEP) |  |
+| 3rd Language  
+\[French, German, Japanese, Malay (Special Programme)\] |
+
+#### **Academic Subjects (Years 3 and 4)**
+
+All DHP Year 3 and 4 students will be offered the following subjects:
+
+| Examinable Subjects | Non-examinable Subjects |
+| --- | --- |
+| English Language | Bicultural Studies Programme |
+| Higher Chinese | Bilingual Programme |
+| Mathematics 1 | Talent Development Programme |
+| Mathematics 2 | Financial Literacy Programme |
+| Biology | Character & Citizenship Education |
+| Physics | Physical Education |
+| Chemistry |  |
+| Integrated History/Integrated Geography |  |
+| Literature in English/Literature in Chinese |  |
+| Active Citizenry Education |  |
+| Art Special Programme |  |
+| Thinking and Research Skills Programme |  |
+| Higher Music (MEP) |  |
+| Higher Music (O-Level) |  |
+| 3rd Language  
+\[French, German, Japanese, Malay (Special Programme)\] |
+
+
+![](/images/Homepage/Senior%20High.png)
+#### **Senior High (JC) Year 5 to 6**
+At Senior High Academy, students prepare for the GCE A-level Examination. They will choose from a broad range of academic subjects offered.  
+
+Outstanding Senior High students are identified for Higher 3 subjects as well as research programmes such as the Science Research Programme, the Nanyang Research Programme, the Humanities and Social Sciences Research Programme and various attachment opportunities. These programmes are intended to bring out the best in each Dunmanian and to provide an educational experience that fosters a spirit of inquiry and enterprise.
+
+Students admitted to the school follow the six-year integrated programme at the end of which they sit for their GCE ‘A’ Level examination.
 
