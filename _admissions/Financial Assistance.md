@@ -3,6 +3,8 @@ title: Financial Assistance
 permalink: /admissions/financial-assistance/
 description: ""
 ---
+![](/images/Homepage/masthead-administration.jpg)
+
 **Guidelines on MOE & DHS Financial Assistance Scheme and Opportunity Fund**
 
 1\. MOE provides financial assistance to needy Singaporean students from Government and Government-aided schools. The aim is to ensure that education remains affordable and no child will be denied an education due to a lack of financial support. MOE has therefore implemented the following:
