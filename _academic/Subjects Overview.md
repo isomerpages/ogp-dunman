@@ -7,7 +7,7 @@ The Academic Programme is delivered through our 4-year Junior High Academy and 2
 
 ![](/images/Homepage/Junior-High-Sec.png)
 
-#### **Junior High (Sec) Year 1 to 4**
+### **Junior High (Sec) Year 1 to 4**
 At Junior High Academy, the Academic Programme is designed for high ability students focusing on building a strong academic foundation; and providing an enriched, inter-disciplinary curriculum.  
 
 Anchored by the 4 pillars, Junior High students are exposed to high quality programmes such as research studies, project works, master classes, mentorships and overseas immersions, all of which are intended to provide the students with a stimulating environment that would deepen their appetite for in-depth academic pursuit.  
@@ -58,7 +58,7 @@ All DHP Year 3 and 4 students will be offered the following subjects:
 
 
 ![](/images/Homepage/Senior%20High.png)
-#### **Senior High (JC) Year 5 to 6**
+### **Senior High (JC) Year 5 to 6**
 At Senior High Academy, students prepare for the GCE A-level Examination. They will choose from a broad range of academic subjects offered.  
 
 Outstanding Senior High students are identified for Higher 3 subjects as well as research programmes such as the Science Research Programme, the Nanyang Research Programme, the Humanities and Social Sciences Research Programme and various attachment opportunities. These programmes are intended to bring out the best in each Dunmanian and to provide an educational experience that fosters a spirit of inquiry and enterprise.
