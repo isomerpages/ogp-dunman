@@ -2,7 +2,7 @@ collections:
   academic:
     output: true
     order:
-      - Example Title.md
+      - Year 1 to 6 Overview.md
       - Dunman High Programme.md
       - Aesthetics Programme.md
       - Humanities Programme.md
