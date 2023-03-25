@@ -20,8 +20,6 @@ Our students will skip the GCE O-level Examination and this gives us greater sco
 
 All DHP Year 1 and 2 students of DHP will take the following subjects:
 
-All DHP Year 1 and 2 students of DHP will take the following subjects:
-
 | Examinable Subjects | Non-Examinable Subjects |
 | --- | --- |
 | English Language | Appreciation of Chinese Culture |
