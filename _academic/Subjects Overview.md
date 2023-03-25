@@ -7,7 +7,7 @@ The Academic Programme is delivered through our 4-year Junior High Academy and 2
 
 ![](/images/Homepage/Junior-High-Sec.png)
 
-### **Junior High (Sec) Year 1 to 4**
+### **Junior High (Sec)**
 At Junior High Academy, the Academic Programme is designed for high ability students focusing on building a strong academic foundation; and providing an enriched, inter-disciplinary curriculum.  
 
 Anchored by the 4 pillars, Junior High students are exposed to high quality programmes such as research studies, project works, master classes, mentorships and overseas immersions, all of which are intended to provide the students with a stimulating environment that would deepen their appetite for in-depth academic pursuit.  
