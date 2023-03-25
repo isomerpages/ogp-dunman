@@ -65,3 +65,35 @@ Outstanding Senior High students are identified for Higher 3 subjects as well as
 
 Students admitted to the school follow the six-year integrated programme at the end of which they sit for their GCE ‘A’ Level examination.
 
+**Academic Subjects (Years 5 and 6)**
+
+Senior High students will undergo Junior College curriculum to prepare them for GCE A-Level examination at the end of Year 6.
+
+Students choose from the following subjects to be taken at GCE ‘A’ Level:
+
+| **Disciplines** | **Subjects** | **H1** | **H2** | **H3** |
+| --- | --- | --- | --- | --- |
+| **Knowledge Skills** | **General Paper (GP)** | **●** |  |  |
+| **Project Work (PW)** | **●** |  |  |
+| **Mother Tongue Languages** | **Chinese Language (CL)** | **●** |  |  |
+| **Malay Language (ML)** | **●** |  |  |
+| **Tamil Language (TL)** | **●** |  |  |
+| **3rd Language** | **3rd Language (French, German, Japanese etc.) (FL)** | **●** |  |  |
+| **Humanities and Arts** | **Chinese Language and Literature (CLL)** |  | **●** | **●** |
+| **China Studies (Chinese) (CSC)** |  | **●** |  |
+| **General Studies in Chinese (GSC)** | **●** |  |  |
+| **Translation (Chinese) (TC)** |  | **●** |  |
+| **English Language and Linguistics (ELL)** | **●** | **●** |  |
+| **Literature in English (EL)** | **●** | **●** | **●** |
+| **Economics (EC)** | **●** | **●** | **●** |
+| **Geography (GE)** | **●** | **●** | **●** |
+| **History (HS)** | **●** | **●** | **●** |
+| **Art (AR)** | **●** | **●** | **●** |
+| **Music (MU)** |  | **●** | **●** |
+| **3rd Language (French, German, Japanese etc.) (FL)** |  | **●** |  |
+| **Mathematics and Sciences** | **Biology (BI)** | **●** | **●** | **●** |
+| **Chemistry (CH)** | **●** | **●** | **●** |
+| **Physics (PH)** | **●** | **●** | **●** |
+| **Mathematics (MA)** | **●** | **●** | **●** |
+| **Further Mathematics (FM)** |  | **●** |  |
+| **Computing (CP)** |  | **●** |  |
