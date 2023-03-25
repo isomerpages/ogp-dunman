@@ -3,9 +3,9 @@ title: Uniforms, Books & Transport
 permalink: /admissions/uniforms-books-transport/
 description: ""
 ---
-## **1. School Uniforms**
-#### **Shanghai School Uniforms**
+### **1. School Uniforms**
 
+#### **Shanghai School Uniforms**
 Ms Claudia Chua  
 63, Ubi Avenue 1 #04-09  
 Singapore 408937  
@@ -13,7 +13,7 @@ Tel: 63522741
 Fax: 68422741  
 Email: [contact@shanghai-uniforms.com](mailto:Email:%20contact@shanghai-uniforms.com)
 
-## **2. PE Attire / Polo-Shirt**
+### **2. PE Attire / Polo-Shirt**
 #### **Blug Stag**
 
 Mr John Low  
@@ -21,8 +21,7 @@ Mr John Low
 Singapore 169203  
 Tel :6276 0084
 
-## **3. Bookshop**
-
+### **3. Bookshop**
 #### **Popular Book Co (Pte) Ltd**
 
 Ms Anna Low  
@@ -35,7 +34,7 @@ Tel :64629530
 Fax :64632206  
 Email: [popschs@popularworld.com](mailto:popschs@popularworld.com)
 
-## **4. Private Transport**
+### **4. Private Transport**
 
 #### **Residential to DHS**
 Click **[HERE](/files/Private-Bus-Transport_2022.pdf)** to view
