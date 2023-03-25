@@ -14,7 +14,7 @@ Dunman High aims to nurture bilingual Leaders of Honour with a heart to care, to
 *   **International Students**
 *   **Returning Singaporean**
 
-##### **Senior High (JC) Admissions (Click [HERE](https://ogp-dunman-staging.netlify.app/admissions/jh-admissions/))**
+##### **Senior High (JC) Admissions (Click [HERE](https://ogp-dunman-staging.netlify.app/admissions/sh-admissions/))**
 *    **Direct School Admission Exercise-Junior College** **(DSA-JC)**
 *   **Joint Admission Exercise-Junior College (JAE)**
 
