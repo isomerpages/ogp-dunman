@@ -2,6 +2,7 @@ collections:
   senior-high:
     output: true
     order:
+      - Introduction to H2CLL and CLEP (H2华文与文学和华文语文特选课程).md
       - SH (JC) Academic.md
       - SH (JC) Admissions.md
       - SH (JC) CCAs.md
