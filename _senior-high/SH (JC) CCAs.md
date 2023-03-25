@@ -47,9 +47,37 @@ The Senior High (JC) CCA programme comprises school-based CCAs and student-drive
 ![](/images/Homepage/SH-String-1.jpg)
 
 * [Chinese Society](/files/Performing-Arts_Chinese-Society-JH-SH%20(1).pdf)
-* [National Police Cadet Corps](/files/Uniformed-Groups-Police-Cadet-Corps-JH.pdf)
+* [Chinese Orchestra](/files/Performing-Arts_Chinese-Orchestra-JH-SH.pdf)
+* [Choir](/files/Performing-Arts_Choir-JH-SH.pdf)
+* [Dance Society](/files/Performing-Arts_Dance-Society-JH-SH.pdf)
+* [English Drama Society](/files/Performing-Arts_Theatre-Arts-SH.pdf)
+* [Guitar Ensemble](/files/Performing-Arts_Guitar-Ensemble-SH.pdf)
+* [String Ensemble](/files/Performing-Arts_String-Ensemble-JH-SH.pdf)
+* [Symphonic Band](/files/Performing-Arts_Symphonic-Band-JH-SH.pdf)
 
 ### **Clubs & Societies**
 ![](/images/Homepage/Robo1.png)
 
-* 
+* [Art Club](/files/Clubs-Society_Art-Club-JH-SH.pdf)
+* [Community Service Club](/files/Clubs-Society_Community-Service-Club-Environment-Club-SH.pdf)
+* [Culinary Club](/files/Clubs-Society_Culinary-Club-SH.pdf)
+* [Infocomm Club](/files/Clubs-Society_InfoComm-Club-JH-SH.pdf)
+* [International Strategic Affairs Council](/files/Clubs-Society_International-Strategic-Affairs-Council-SH.pdf)
+* [Japanese Cultural Club](/files/Clubs-Society_Yutaka-Japanese-Cultural-Club-SH.pdf)
+* [Library Society](/files/Clubs-Society_Library-Society-JH-SH.pdf)
+* [Mass Communication Club](/files/Clubs-Society_Mass-Communications-Society-SH.pdf)
+* [Mathematics Society](/files/Clubs-Society_Mathematics-Society-SH.pdf)
+* [Oratorical Society - Debate](/files/Clubs-Society_Oratorical-Society_Debate-JH.pdf)
+* [Public Speaking](/files/Clubs-Society_Oratorical-Soiety_Public-Spekaing-SH.pdf)
+* [PA Crew (TEchies)](/files/Clubs-Society_Techies-SH.pdf)
+* [Photographic Society](/files/Clubs-Society_Photographic-Society-SH.pdf)
+* [Publications](/files/Clubs-Society_Publications-SH.pdf)
+* [Robotics Club](/files/Clubs-Society_Robotics-Club-JH-SH.pdf)
+* [Science Society](/files/Clubs-Society_Science-Society-SH.pdf)
+
+##### **Student-Initiated Interest Groups**
+* [Fashion Studies](/files/Interest-Group_Fashion-Studies.pdf)
+* [Malay Cultural Club](/files/Malay-Cultural-Club-Medical-Society.pdf)
+* [Mind Sports](/files/Interest-Group_Mindsports-Club-SH.pdf)
+* [Medical Society](/files/Interest-Group_Medical-Society-SH.pdf)
+* [Youth Club](/files/Interest-Group_Youth-Club-SH.pdf)
