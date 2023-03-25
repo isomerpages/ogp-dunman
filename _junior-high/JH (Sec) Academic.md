@@ -15,42 +15,48 @@ Our students will skip the GCE O-level Examination and this gives us greater sco
 
 All DHP Year 1 and 2 students of DHP will take the following subjects:
 
-| Examinable Subjects | Non-examinable Subjects |
+| Examinable Subjects | Non-Examinable Subjects |
 | --- | --- |
-| English Language | Art |
-| Higher Chinese | Music |
-| Mathematics | Appreciation of Chinese Culture |
-| General Science | Computing |
-| History | Conversational Malay Programme |
-| Geography | Character & Citizenship Education |
+| English Language | Appreciation of Chinese Culture |
+| Higher Chinese | Character & Citizenship Education |
+| Mathematics | Computing |
+| Lower Sec Science |  Conversational Malay Programme |
+| Geography | Art |
+| History | Music |
 | Literature in English | Life Skills Programme |
-| Thinking and Research Skills Programme | Physical Education |
+| 3rd Language \[French, German, Japanese, Malay (Special Programme)\] | Physical Education |
+| Higher Music (MEP) | Elective Modules |
 | Art (Special Programme) |  |
-| Higher Music |  |
-| 3rd Language  
-\[French, German, Japanese, Malay (Special Programme), etc.\] |  |
-
+| Dragonfly Programme |  |
 
 
 ## Academic Subjects (Year 3 & 4)
 
 All DHP Year 3 and 4 students will be offered the following subjects:
 
-| Examinable Subjects | Non-examinable Subjects |
-| --- | --- |
-| English Language | Bicultural Studies Programme |
-| Higher Chinese | Bilingual Programme |
-| Mathematics 1 | Talent Development Programme |
-| Mathematics 2 | Financial Literacy Programme |
-| Biology | Character & Citizenship Education |
-| Physics | Physical Education |
-| Chemistry |  |
-| Integrated History/Integrated Geography |  |
-| Literature in English/Literature in Chinese |  |
-| Active Citizenry Education |  |
-| Art Special Programme |  |
-| Thinking and Research Skills Programme |  |
-| Higher Music (MEP) |  |
-| Higher Music (O-Level) |  |
-| 3rd Language  
-\[French, German, Japanese, Malay (Special Programme)\] |  |
+All DHP Year 3 and 4 students will be offered the following subjects:
+
+|  | Subjects | Examinable Subject |
+| --- | --- | --- |
+| Biculturalism Academy (BA) | English Language | Y |
+|  | Higher Chinese | Y |
+|  | Chinese | Y |
+|  | Geography | Y |
+|  | History | Y |
+|  | Literature in English | Y |
+|  | Literature in Chinese | Y |
+|  | 3rd Language (FR, GER, JAP, Malay (Special Programme), etc.) | Y |
+|  | Higher Music (MEP) | Y |
+|  | Higher Music (O-Level) | Y |
+|  | Art (Special Programme) | Y |
+| STEAM Academy (SA) | Mathematics 1 | Y |
+|  | Mathematics 2 | Y |
+|  | Biology | Y |
+|  | Chemistry | Y |
+|  | Physics | Y |
+| Leadership Academy (LA) | Active Citizenry Education | Y |
+|  | Character & Citizenship Education | N |
+|  | Co-Curricular Activities | N |
+|  | Physical Education | N |
+| Electives (compulsory and non compulsory) | Elective Module | N |
+|  | Chinese Language Elective Programme (CLEP) | N |
