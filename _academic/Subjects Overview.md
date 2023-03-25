@@ -28,10 +28,10 @@ All DHP Year 1 and 2 students of DHP will take the following subjects:
 | Higher Chinese | Character & Citizenship Education |
 | Mathematics | Computing |
 | Lower Sec Science |  Conversational Malay Programme |
-|  | Art |
+| Geography | Art |
 | History | Music |
 | Literature in English | Life Skills Programme |
-| 3rd Language  [French, German, Japanese, Malay (Special Programme)\] | Physical Education |
+| 3rd Language \[French, German, Japanese, Malay (Special Programme)\] | Physical Education |
 | Higher Music (MEP) | Elective Modules |
 | Art (Special Programme) |  |
 | Dragonfly Programme |  |
@@ -66,8 +66,6 @@ All DHP Year 3 and 4 students will be offered the following subjects:
 |  | Chinese Language Elective Programme (CLEP) | N |
 
 
-
-
 ![](/images/Homepage/Senior%20High.png)
 ### **Senior High (JC)**
 At Senior High Academy, Year 5 and 6 students prepare for the GCE A-level Examination. They will choose from a broad range of academic subjects offered.  
@@ -82,3 +80,29 @@ Students admitted to the school follow the six-year integrated programme at the 
 Senior High students will undergo Junior College curriculum to prepare them for GCE A-Level examination at the end of Year 6.
 
 Students choose from the following subjects to be taken at GCE ‘A’ Level:
+
+|   | **Disciplines** | **Subjects** | **H1** | **H2** | **H3** |
+| --- | --- | --- | --- | --- | --- |
+| Compulsory | Knowledge Skills | General Paper (GP) | **●** |  |  |
+|  |  | Project Work (PW) | **●** |  |  |
+|  | Mother Tongue Languages (MTL) | Chinese Language (CL) | **●** |  |  |
+|  |  | Malay Language (ML) | **●** |  |  |
+|  |  | Tamil Language (TL) | **●** |  |  |
+| **–**  | Foreign Language | Foreign Language (French, German, Japanese, Spanish etc.) (FL) | **●** |  |  |
+| Contrasting Discipline | Humanities and the Arts | Chinese Language and Literature (CLL) |  | **●** | **●** |
+|   |  | China Studies (Chinese) (CSC) |  | **●** |  |
+|   |  | Translation (Chinese ) (TC) |   | **●** |  |
+|   |  | Foreign Language (French, German, Japanese, Spanish etc.) (FL) |  | **●** |  |
+|   |  | English Language and Linguistics (ELL) |  | **●** |  |
+|   |  | Literature in English (EL) |  | **●** | **●** |
+|   |  | Economics (EC) | **●** | **●** | **●** |
+|   |  | Geography (GE) | **●** | **●** | **●** |
+|   |  | History (HS) | **●** | **●** | **●** |
+|   |  | Art (AR) |  | **●** |  |
+|   |  | Music (MU) |  | **●** | **●** |
+|   | Mathematics and Sciences | Biology (BI) |  | **●** | **●** |
+|   |  | Chemistry (CH) | **●** | ● | **●** |
+|  |  | Physics (PH) |  | ● | ● |
+|  |  | Mathematics (MA) | ● | ● | ● |
+|  |  | Further Mathematics (FM) |  | ● |  |
+|  |  | Computing (CP) |  | ● |  |
