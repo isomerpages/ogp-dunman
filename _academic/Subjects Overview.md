@@ -31,8 +31,7 @@ All DHP Year 1 and 2 students of DHP will take the following subjects:
 |  | Art |
 | History | Music |
 | Literature in English | Life Skills Programme |
-| 3rd Language  
-\[French, German, Japanese, Malay (Special Programme)\] | Physical Education |
+| 3rd Language  [French, German, Japanese, Malay (Special Programme)\] | Physical Education |
 | Higher Music (MEP) | Elective Modules |
 | Art (Special Programme) |  |
 | Dragonfly Programme |  |
@@ -83,4 +82,3 @@ Students admitted to the school follow the six-year integrated programme at the 
 Senior High students will undergo Junior College curriculum to prepare them for GCE A-Level examination at the end of Year 6.
 
 Students choose from the following subjects to be taken at GCE ‘A’ Level:
-
