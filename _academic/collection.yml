@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Bicultural Studies Programme/Bicultural Studies Programme.md
       - Bicultural Studies Programme/H2 CLL & CLEP.md
       - Bicultural Studies Programme/.keep
       - Dunman High Programme.md
