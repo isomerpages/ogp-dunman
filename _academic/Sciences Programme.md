@@ -130,7 +130,7 @@ H2生物学为打算在大学修读生物及相关科目的学生打好必备基
 
 各门科学学科不同年级的课程项目如下：
 
-| Biology Module | Chemistry Module| Physics Module |
+| Biology| Chemistry| Physics|
 | -------- | -------- | -------- |
 |1. Cells  | Element Compounds and Mixtures  |   Laboratory Safety     |
 |2. Movement of Substances  | Solutions and Suspensions | The Scientific Endeavour     |
