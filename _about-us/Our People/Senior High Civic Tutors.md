@@ -31,21 +31,21 @@ third_nav_title: Our People
 
 | Class  | Form Teacher | Form Teacher |
 | -------- | -------- | -------- |
-| 6C11     | Zhang Liping     | Yip Sook Kwan     |
-| 6C12     | Hong Shuqi     | Joyce Teh Kiam Peng  |
-| 6C21     | Tan Bee Hong  | Richard Neo  |
-| 6C22     | Lew Wei Sern Vincent | Noorizan Beevi Binte Abdul Azi  |
+| 6C11     | Lim Chee Kam     | Goh Lian Kian Vincent     |
+| 6C12     | Low Chee Keong Timothy     | Joyce Teh Kiam Peng  |
+| 6C21     | Boh Wei Liang Brandon  | Goh Wei Bin  |
+| 6C22     | Ho Ming Wei Mark | Tan Yu Shi  |
 | 6C31     | Lien Hui Lin Christine | Yeo Kim Neo Michelle 
-| 6C32     | Aow Ci Hui     | Wong Wei Ting     |
-| 6C33     | Khow Zhi Wei Adrian  | Juwana Bte Juwahir     |
-| 6C34     | Pear Siew Lee     | Huang Huang     |
-| 6C35     | Emmanuel Pritish Andrew Sameer | Chia Shu Hui     |
-| 6C36     | Pear Siew Lee     | Huang Huang     |
-| 6C37     | Emmanuel Pritish Andrew Sameer | Chia Shu Hui     |
-| 6C41     | Pear Siew Lee     | Huang Huang     |
-| 6C42     | Emmanuel Pritish Andrew Sameer | Chia Shu Hui     |
-| 6C43     | Pear Siew Lee     | Huang Huang     |
-| 6C44     | Emmanuel Pritish Andrew Sameer | Chia Shu Hui     |
-| 6C45     | Pear Siew Lee     | Huang Huang     |
-| 6C46     | Emmanuel Pritish Andrew Sameer | Chia Shu Hui     |
-| 6C47     | Pear Siew Lee     | Huang Huang     |
+| 6C32     | Tan Jie Ying     | Teo Chai Hock     |
+| 6C33     | Rathyi Devi D/O Ramanathan  | Neo Sock Khim  |
+| 6C34     | Ooi Ming Fong James  | Yick Jue Ru  |
+| 6C35     | Selena Vera Hey | Nathalie Seah     |
+| 6C36     | Lim Pei Fang   |  Goh Terence    |
+| 6C37     | Chin Shuang Ning | Lim Boon Siong     |
+| 6C41     | Alicia Ng Yi-May  | Yap Kok Hung   |
+| 6C42     | Tan Chwee Bock | -     |
+| 6C43     | Steven Lee Joo Li  | Tan Jiaqi     |
+| 6C44     | Lam Kar Mun | -     |
+| 6C45     | Lee Wee Siang Joseph  | Ng Wan Chin   |
+| 6C46     | Chew Soon Chiang Martin| An Fengyun   |
+| 6C47     | Tan Ai Ling Debbie | Tan Weiqiang Melvyn   |
