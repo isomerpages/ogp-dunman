@@ -25,10 +25,9 @@ The Mother Tongue Languages Department is committed to delivering top-quality Mo
 | 1.     | GCE  ‘O’ Level Higher Chinese/ Chinese (Compulsory for Year 1 to Year 4)     | Chinese Language ‘B’     |
 | 2.     | Literature in Chinese (Humanities Elective for Year 3 and 4 students; compulsory for CLEP-Sec students)     | H1 Chinese Language/H1 Malay Language/ H1 Tamil Language (Students offering H1 Tamil Language will be having lessons in another JC) |
 | 3.     | Bicultural Studies Programme (MOE) (For Year 3 and Year 4 BSP students)     | H2/H3 Chinese Language & Literature    |
-| 4.     | Bilingual Programme   (Compulsory for Year 4 DHP students)    | H2 China Studies in Chinese (Compulsory for BSP scholars) |
-| 5.     | Appreciation of Chinese Culture   (Compulsory for Year 1 and 2 students)    | H2 Translation (Chinese) |
-| 6.    | Conversational Malay (Compulsory for Year 1 and 2 students)     |   |
-| 7.    | Malay (Special Programme) (optional 3rd Language for students)    |      |
+| 4.     | Appreciation of Chinese Culture   (Compulsory for Year 1 and 2 students)    | H2 China Studies in Chinese (Compulsory for BSP scholars) |
+| 5.     |  Conversational Malay (Compulsory for Year 1 and 2 students)   | H2 Translation (Chinese) |
+| 6.    | Malay (Special Programme) (optional 3rd Language for students)      |   |
 
 在致力于为学生提供优质多元课程、并寓乐于教的理念的指引下，在强大的师资力量的支持下，我们为学生精心设计了丰富多元的母语课程，供学生根据自己的兴趣爱好灵活选择。
 
