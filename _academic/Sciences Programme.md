@@ -40,6 +40,7 @@ For Science Talent Development Programme, students are also given exposure in en
 Lower Secondary Science is organised through the three disciplines: Biology, Chemistry and Physics.
 
 **Year 1 & 2 Lower Secondary Science**
+
 | Biology Module| Chemistry Module| Physics Module|
 | -------- | -------- | -------- |
 |1. Cells  | Element Compounds and Mixtures  |   Laboratory Safety     |
