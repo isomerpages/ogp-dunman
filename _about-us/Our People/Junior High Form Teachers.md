@@ -22,14 +22,14 @@ third_nav_title: Our People
 | Class  | Form Teacher | Form Teacher |
 | -------- | -------- | -------- |
 | 23Y2A     | Wong Min Tzu, Sharilyn  | Tay Min Kimberley |
-| 23Y2B     | Lim Hwa Chuan     | Lim Boon Hwee  |
-| 23Y2C     | Law Seow Li  | Leo June Kit  |
-| 23Y2D     | Chen Shunfa | Hon Shuzhen  |
-| 23Y2E     | Low Siok Hong | Fu Yuanting Desiree 
-| 23Y2F     | Chia Siew Ling  | Goh Wee Suan  |
-| 23Y2G     | Lim Ngoh Ying, Camilla | Goh Wei Jie Jefferson |
-| 23Y2H     | Lee Xue Ning Vanessa  | Lee Jin Meng  |
-| 23Y2I     | Nora Bte Supa'at | Chan JIa Kun Jason    |
+| 23Y2B   | Lim Hwa Chuan     | Lim Boon Hwee  |
+| 23Y2C   | Law Seow Li  | Leo June Kit  |
+| 23Y2D   | Chen Shunfa | Hon Shuzhen  |
+| 23Y2E   | Low Siok Hong | Fu Yuanting Desiree 
+| 23Y2F   | Chia Siew Ling  | Goh Wee Suan  |
+| 23Y2G  | Lim Ngoh Ying, Camilla | Goh Wei Jie Jefferson |
+| 23Y2H   | Lee Xue Ning Vanessa  | Lee Jin Meng  |
+| 23Y2I    | Nora Bte Supa'at | Chan JIa Kun Jason    |
 
 
 ## Year 3
