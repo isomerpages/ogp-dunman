@@ -51,12 +51,12 @@ third_nav_title: Our People
 
 | Class  | Form Teacher | Form Teacher |
 | -------- | -------- | -------- |
-| 23Y4A     | Tan Mei Qiang   | Sau Wee Wee     |
-| 23Y4B     | Ong Chyai-Lian Grace  | Sherene Jeevitha Joseph  |
-| 23Y4C     | Lim Yuan Chin  | Heng Li Tze  |
-| 23Y4D     | Tan Lee Hwee | Asha Vora  |
-| 23Y4E     | Ronson Neo Boon Kiat | Wee Liang Ee 
-| 23Y4F     | Seet Seok Beng, Stella  | Ng Mui Leng   |
-| 23Y4G     | Fang Chye Pin  | Loo Ming Yang     |
-| 23Y4H     | Ng Si Yun Catherine  | Low Jin Hao  |
-| 23Y4I     | Diana Loi | Jeffrey Ng Jie Li  |
+| 23Y4A   | Tan Mei Qiang   | Sau Wee Wee     |
+| 23Y4B   | Ong Chyai-Lian Grace  | Sherene Jeevitha Joseph  |
+| 23Y4C   | Lim Yuan Chin  | Heng Li Tze  |
+| 23Y4D   | Tan Lee Hwee | Asha Vora  |
+| 23Y4E   | Ronson Neo Boon Kiat | Wee Liang Ee 
+| 23Y4F   | Seet Seok Beng, Stella  | Ng Mui Leng   |
+| 23Y4G  | Fang Chye Pin  | Loo Ming Yang     |
+| 23Y4H  | Ng Si Yun Catherine  | Low Jin Hao  |
+| 23Y4I    | Diana Loi | Jeffrey Ng Jie Li  |
