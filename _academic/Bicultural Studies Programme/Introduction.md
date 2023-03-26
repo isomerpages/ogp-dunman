@@ -25,14 +25,14 @@ Besides the Mother Tongue Languages and English programmes, the **[Conversation
 除了母语和英语，马来语会话课程是特选中学的独有课程，主要开放给我校的中一和中二学生。马来语（特别课程）则是为有兴趣和能力学习马来文的学生而设的。这些学生可以用马来文作为第三语文，报考“O”水准。德明也开办“A”水准的H1马来文和H1淡米尔文供需要修读的学生。
 
 
-## Mother Tongue Languages Programme
+## **Mother Tongue Languages Programme**
 
 The DHS Mother Tongue Languages Programme aims to increase students’ interest in learning the language and improving their language skills in listening, speaking, reading and writing. Through learning of the language, we seek to provide students a deeper understanding of traditional culture and values.
 
 德明政府中学母语课程的设计目的，旨在提高学生学习母语的兴趣，加强学生“听、说、读、写” 方面的能力。让学生通过学习母语，进一步认识和吸收传统文化和价值观。
 
 
-## English Programme
+## **English Programme**
 
 The English Department in Dunman High School aims to nurture and develop critical thinkers and effective communicators who are able to navigate the challenges of the 21st Century. Students are able to negotiate and make meaning of a plethora of information, and present their own ideas and opinions with clarity and confidence.
 
