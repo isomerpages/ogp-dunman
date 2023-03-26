@@ -36,6 +36,10 @@ third_nav_title: Our People
 ## Year 3
 | Class  | Form Teacher | Form Teacher |
 | -------- | -------- | -------- |
+| 23Y1A     | Zhang Liping     | Yip Sook Kwan     |
+
+| Class  | Form Teacher | Form Teacher |
+| -------- | -------- | -------- |
 | 23Y3A     | Kheng Hwee Teng  | Xu Yuhan     |
 | 23Y3B     | Ng Shi Shi  | Lim Lian Joo  |
 | 23Y3C     | Lim Ai Juan Eileen  | Kee Zhiyin  |
@@ -43,8 +47,8 @@ third_nav_title: Our People
 | 23Y3E     | Lim Leong Hwee | Ng Pei Chun 
 | 23Y3F     | Thian Amelia   | Chow Hui Xuan     |
 | 23Y3G     | Tan Jian Yin Pearlyn  | Lim Ern Chze Angie & Fong Kok Hoong     |
-| 23Y3H     | Chang Wan Yin | Chin Wei Ming |
-| 23Y3I     | Sng Jianming Joshua | Lee Wai Ching |
+| 23Y3H    | Chang Wan Yin | Chin Wei Ming |
+| 23Y3I      | Sng Jianming Joshua | Lee Wai Ching |
 
 ## Year 4
 | Class  | Form Teacher | Form Teacher |
