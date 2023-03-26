@@ -3,6 +3,8 @@ title: Mathematics Programme
 permalink: /academic/mathematics-programme/
 description: ""
 ---
+![](/images/Homepage/masthead-academic-mathematics.jpg)
+
 The Mathematics programme in Dunman High School spans across six years. Our content is aligned to ensure that students move from Junior High to Senior High seamlessly and the content coverage extends beyond the basic syllabus in breadth and depth.
 
 数学课程
