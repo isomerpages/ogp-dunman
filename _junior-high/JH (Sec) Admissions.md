@@ -31,4 +31,4 @@ Returning Singaporean children are Singapore Citizen (SC) or Singapore Permanent
 
 Returning Singaporean children who wish to gain access to and reintegrate to Singapore schools can refer to the information at [**MOE website**](https://www.moe.gov.sg/admissions/returning-singaporeans).
 
-*\*For queries, please send your email to [dhs@moe.edu.sg](mailto:dhs@moe.edu.sg)or call us at +65 6345 0533, between 8.30am to 5.30pm, Monday to Friday, except for public holidays.**
+For queries, please send your email to **dhs@moe.edu.sg** or call us at +65 6345 0533, between 8.30am to 5.30pm, Monday to Friday, except for public holidays.
