@@ -48,10 +48,6 @@ third_nav_title: Our People
 | 23Y3I      | Sng Jianming Joshua | Lee Wai Ching |
 
 ## Year 4
-| Class  | Form Teacher | Form Teacher |
-| -------- | -------- | -------- |
-| 23Y1A     | Zhang Liping     | Yip Sook Kwan     |
-
 
 | Class  | Form Teacher | Form Teacher |
 | -------- | -------- | -------- |
