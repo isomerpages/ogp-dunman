@@ -45,9 +45,29 @@ Students may use MSP as a relevant subject for the calculation of their Grade-Po
 
 At the end of 4 years, students will sit for the O-Level MSP Exam.
 
-**MSP Experiential Learning and Projects (photos taken pre-Covid)**
+**MSP Experiential Learning and Projects**
+![](/images/Homepage/Malay%20Subject_CM2.png)
+
+![](/images/Homepage/Malay%20Subject_CM3.png)
+
+**MSP Twinning Programme at Sekolah Seri Puteri, Cyberjaya, Malaysia**
+![](/images/Homepage/Malay%20Subject_CM4.jpg)
+
+![](/images/Homepage/Malay%20Subject_CM5.jpg)
+
+![](/images/Homepage/Malay%20Subject_CM6.jpg)
+
+![](/images/Homepage/Malay%20Subject_CM7jpg.jpg)
 
 
-### **Curriculum 课程内容**
+### **Reflections by Student Tan Shi Ya Shayna (22Y6C42)**
 
-### **Curriculum 课程内容**
+#### On Conversational Malay
+
+Our Conversational Malay (CM) course is extremely useful in providing students with knowledge on basic greetings in Malay. We learnt how to address different people, say basic greetings and ask common questions in Malay. In addition, we were introduced to the Five Pillars of Islam, and also interacted with students from the Madrasahs (religious schools) who welcomed us warmly and were generous in sharing their own schooling experiences. CM is extremely helpful in increasing our exposure to Malay, especially in a SAP school environment.
+
+#### On MSP
+
+Taking MSP for my third language was definitely a good decision for me. It enriched me immensely as I not only learnt a new language commonly used in Singapore, but was also able to immerse in a new culture. One of my most memorable experiences in MSP was when we prepared a Dikir Barat Performance for our school during National Day. It was a unique and culturally-enriching experience being able to clap, dance, and sing to Malay songs. Other than that, we had an eye-opening experience at the Malay Heritage Centre, where we discovered more about the Malay culture through its artefacts such as the kris, and explore its garden filled with greenery such as the pandan. We were also amazed by the intricate Malay traditional design elements printed on carpets and cloths.
+
+One of our assignments in Year 3 was to film and edit an instructional cooking video with subtitles and voice-overs in Malay. I chose to make milk with brown sugar tapioca pearls, a popular drink in Singapore. It was an interesting learning experience to both cook and create my own video, and share it with my MSP classmates. It also helped me improve my Malay vocabulary. I really enjoyed this cooking video assignment, and it is one of the highlights of my MSP journey.
