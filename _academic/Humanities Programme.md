@@ -84,18 +84,18 @@ The teaching of the Humanities in Dunman High School employs the inquiry-based a
 
 德明政府中学在人文科目的教学上，采用探究学习的模式，以研究作为导向，通过思维与行动相结合的实践式学习，增加智力和思维活动，以及增强对课题的深层理解。
 
-**Active Citizenry Education  
-**ACE employs a diverse range of teaching approaches and methodologies to cater to the different learning needs of our pupils.  The ACE curriculum emphasizes critical thinking through Richard Paul’s Elements of Reasoning. Current and controversial issues are presented through different sources, and students attempt to reach a balanced judgment after exploring the topic. Students also partake in Socratic seminars to engage deeper with issues such as _Multiple Citizenship_ and _Human Rights and Responsibilities_.
+### 1. Active Citizenry Education
+ACE employs a diverse range of teaching approaches and methodologies to cater to the different learning needs of our pupils.  The ACE curriculum emphasizes critical thinking through Richard Paul’s Elements of Reasoning. Current and controversial issues are presented through different sources, and students attempt to reach a balanced judgment after exploring the topic. Students also partake in Socratic seminars to engage deeper with issues such as _Multiple Citizenship_ and _Human Rights and Responsibilities_.
 
 The ACE team also attempts to bring the learning back to the individuals’ lived experiences and renewed understanding. Reflection logs, 3-2-1 reflection worksheets and takeaway cards all seek to help the learner consolidate and reconstruct the knowledge learnt throughout the course.
 
-**Economics  
-**An important aspect of the teaching and learning of Economics is active participation and engagement of students. This is based on the educational theory of constructivism. Constructivism is a learning theory which explains how humans learn. The main idea is that learning is constructed, rather than received or developed innately. Students learn by building new knowledge upon the foundation of previous learning which implies that prior experiences will influence learners on how they perceive and hence construct the new knowledge. For knowledge construction to occur, the learning is active rather than passive. This can be achieved through the process of active questioning, interpreting, problem solving and creating, which will result in further understanding of the knowledge.
+### 2. Economics  
+An important aspect of the teaching and learning of Economics is active participation and engagement of students. This is based on the educational theory of constructivism. Constructivism is a learning theory which explains how humans learn. The main idea is that learning is constructed, rather than received or developed innately. Students learn by building new knowledge upon the foundation of previous learning which implies that prior experiences will influence learners on how they perceive and hence construct the new knowledge. For knowledge construction to occur, the learning is active rather than passive. This can be achieved through the process of active questioning, interpreting, problem solving and creating, which will result in further understanding of the knowledge.
 
 Since learning is a constructive process, students must participate in dialogue and discussion actively instead of being passive learners. Since learning is constructed, teachers take on the role of facilitators to guide students to learn from their new experiences and discover new knowledge. Teachers create opportunities for students to engage in tutorial discussions to put forth their arguments and draw on evidence to support their points, listen to alternative perspectives of their peers, and evaluate alternative viewpoints in order to arrive at a well-reasoned judgement.
 
-**Geography  
-**In Dunman High School, the inquiry based learning approach has been aptly adopted as it facilitates autonomous learning with the intention that students take ownership of their own learning as they construct their own knowledge through asking and answering geographical questions.
+### 3. Geography
+In Dunman High School, the inquiry based learning approach has been aptly adopted as it facilitates autonomous learning with the intention that students take ownership of their own learning as they construct their own knowledge through asking and answering geographical questions.
 
 Taking the inquiry based learning approach, students’ learning of Geography in DHS is scaffolded through the use of several student-centred pedagogies such as conducting Socratic seminars, concept-mapping and investigative studies.
 
@@ -107,7 +107,7 @@ The DHS Geography learning journey not only focuses on geographical concepts but
 
 Through experiential learning (by conducting fieldwork and field studies) and authentic performance tasks, students’ thinking is enhanced and sharpened as students attempt to apply critical thinking and analytical skills to understand and solve real-life problems. Therefore the knowledge and skills gained, which are transferable to various situations in the future, will become the students’ assets.
 
-**History  
+### 4. History
 In History lessons, strategies like Inquiry-based learning, Hilda Taba’s Concept Development and Socratic Seminars are often used. Inquiry-based learning (IBL) enables students to reflect critically on historical questions and issues; and to investigate about the past and make reasoned historical interpretations.  This brings about intellectual engagement and helps to foster a deeper understanding with a hands-on, minds-on and researched-based disposition towards teaching and learning.  The strategy includes the following phases of inquiry:
 
 *   Sparking Curiosity
