@@ -130,15 +130,10 @@ H2生物学为打算在大学修读生物及相关科目的学生打好必备基
 
 各门科学学科不同年级的课程项目如下：
 
-**中一与二年级 初中科学**
-**Year 1 & 2 Lower Secondary Science**
-| Subjects Offered | Junior High | Senior High |
-| -------- | -------- | -------- |
-
-| Biology Module | Chemistry Module | Physics Module |
+| Biology Module | Chemistry Module| Physics Module |
 | -------- | -------- | -------- |
 | 1.  Cells  | Element Compounds and Mixtures  |   Laboratory Safety     |
-| 2. Movement of Substances   | Solutions and Suspensions | The Scientific Endeavour     |
+| 2. Movement of Substances  | Solutions and Suspensions | The Scientific Endeavour     |
 | 3. Ecology  | Separation Technique | Physical Quantities and Measurements |
 | 4. Our Impact on the Ecosystem  | Atomic Structure  |   Particulate Nature of Matter|
 | 5. Human Digestive System | Chemical Names and Formula  | Thermal Physics |
