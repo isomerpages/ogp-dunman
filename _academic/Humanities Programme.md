@@ -16,14 +16,14 @@ Teaching is carried out with purposeful use of essential questions to guide the 
 
 本校采用Wiggins和McTighe 所研发的逆向课程设计模Understanding by Design，以此指导学生对各科目做深入的探讨。此模式强调对主题的理解，而在教学中以重点问题为主轴，来设计各种教学材料和学生作业。这个学习方式注重启发学生对每个学科核心的认识，让学生深度探索各个学科。
 
-**Subjects offered**
+| Subjects Offered | Junior High | Senior High |
+| -------- | -------- | -------- |
+| 1.     | Active Citizenry Education  |  -     |
+| 2.     | -  | Economics     |
+| 1.     | Geography  |  Geography   |
+| 1.     | HIstory  |  History     |
 
-1.  Active Citizenry Education (ACE)
-2.  Economics
-3.  Geography
-4.  History
-
-The Understanding by Design (UbD) approach enables learners to
+The **Understanding by Design (UbD)** approach enables learners to
 
 *   reach a deeper and longer-term understanding,
 *   discover how key concepts relate to their lives,
