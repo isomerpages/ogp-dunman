@@ -47,7 +47,9 @@ Lower Secondary Science is organised through the three disciplines: Biology, Che
 | 3. Ecology  | Separation Technique | Physical Quantities and Measurements |
 | 4. Our Impact on the Ecosystem  | Atomic Structure  |   Particulate Nature of Matter|
 | 5. Human Digestive System | Chemical Names and Formula  | Thermal Physics |
-| 6. Human Circulatory System |   |  History     |
-| 7.     | HIstory  |  History     |
+| 6. Human Circulatory System |  Acids and Alkalis | Sound |
+| 7. Human Reproductive System | Chemical Changes| Light |
+| 8. - | -| Electricity |
+| 9. - | -| Force, Work and Energy |
 
 **Year 3 & 4 Biology, Chemistry and Physics**
