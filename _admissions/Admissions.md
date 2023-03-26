@@ -18,4 +18,4 @@ Dunman High aims to nurture bilingual Leaders of Honour with a heart to care, to
 *    **Direct School Admission Exercise-Junior College** **(DSA-JC)**
 *   **Joint Admission Exercise-Junior College (JAE)**
 
-For queries, please send your email to dhs@moe.edu.sg or call us at +65 6345 0533, between 8.30am to 5.30pm, Monday to Friday, except for public holidays.
+For queries, please send your email to **dhs@moe.edu.sg** or call us at +65 6345 0533, between 8.30am to 5.30pm, Monday to Friday, except for public holidays.
