@@ -19,12 +19,6 @@ third_nav_title: Our People
 | 23Y1I     | Emmanuel Pritish Andrew Sameer | Chia Shu Hui     |
 
 ## Year 2
-| Class  | Form Teacher | Form Teacher |
-| -------- | -------- | -------- |
-| 23Y1A     | Zhang Liping     | Yip Sook Kwan     |
-
-
-
 
 | Class  | Form Teacher | Form Teacher |
 | -------- | -------- | -------- |
