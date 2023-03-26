@@ -44,6 +44,7 @@ The Mother Tongue Languages Department is committed to delivering top-quality Mo
 | 6.    | 马来语会话（中一、中二学生必修） |   |
 | 7.    | 马来文（特别课程）（供学生选修的第三语文科目）    |      |
 
+
 ### **Pedagogy 教学法**
 
 Our Mother Tongue Language teachers employ a plethora of pedagogies to improve students’ language abilities and cultural appreciation, nurturing them into passionate users of the language. Teachers differentiate their teaching methods based on students’ abilities and content.
