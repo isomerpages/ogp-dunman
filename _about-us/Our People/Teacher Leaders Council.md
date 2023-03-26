@@ -4,8 +4,6 @@ permalink: /about-dhs/contact-us/teacher-leaders-council/
 description: ""
 third_nav_title: Our People
 ---
-
-
 | Name | Designation |
 | --- | --- |
 | Mr Wee Shoo Soon | Lead Teacher/English Language |
@@ -17,5 +15,4 @@ third_nav_title: Our People
 | Mdm Sau Wee Wee | Senior Teacher/Chinese Language |
 | Mrs Asha Vora | Senior Teacher/English Literature |
 | Ms Fang Chye Pin | Senior Teacher/Mathematics |
-| Mr Lim Boon Siong | Senior Teacher/Physics |
 | Mr Lim Lian Joo Jeremy | Senior Teacher/Physics |
