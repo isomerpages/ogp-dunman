@@ -9,7 +9,7 @@ The school crest was designed by the late Mr Chen Jen Hao, a former principal of
 
 The name De Ming (德明) in Chinese is not merely a translation from the name ‘Dunman’.  It also draws meaning from the first line of a Confucian classic, ‘Da Xue’ (大学 ) which states that the main objective of education is to help people manifest the virtues and morals that are already inherent in them (大学之道在明明德).
 
-![](https://dunmanhigh.moe.edu.sg/wp-content/uploads/2016/06/cropped-favicon.png)
+![](/images/DHS%20School%20Crest.png)
 
 The two characters (德明) in the crest written in ‘Zhuan’ (篆) calligraphy style is the work of Mr Chen Jen Hao.  The Chinese ‘Zhuan’ (篆) calligraphy is ornamental in character and has a history of over 2000 years.  Thus it embodies the idea of preserving a tradition.  This symbolizes the school ethos, which is, building on and fostering traditional values.
 
