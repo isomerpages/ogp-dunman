@@ -16,7 +16,7 @@ BSP scholars will get to enjoy an annual allowance, a waiver of school fees, par
 
 Apart from the BSP scholarship programme, the school also offers the 2-Year BSP non-scholarship programme to students from Year 3 to Year 4. Students onboard the non-scholarship programme will participate in the same learning activities as the BSP scholars. However, study immersion trip opportunities are subjected to availability of vacancies and selection criteria.
 
-You may also wish to download our **[BSP brochure](/files/BSP-Infosheet2023.pdf)** for more information.
+You may also wish to download our **[BSP brochure](/files/BSP-Infosheet.pdf)** for more information.
 
 
 ### **2. Chinese Language Elective Programme at Secondary Level**
