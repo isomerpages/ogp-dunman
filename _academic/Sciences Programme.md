@@ -30,8 +30,8 @@ The Science curriculum is differentiated in content, process, product and learni
 
 Content enrichment extends the syllabus beyond the basic syllabus in depth and breadth. It caters more to individual needs and interests. It integrates different subject areas/disciplines and affective issues so as to encourage the investigation of real-life problems. Process enrichment seeks to develop higher level thinking skills. This is achieved by providing opportunities for discovery learning and open-ended problem solving, teaching research skills for independent study, and using varied teaching strategies to cater to different learning styles. Students will consistently utilize critical and creative thinking skills to seek original solutions to real-world problems. It will also develop pupils’ understanding of the ethical and moral implications of social and scientific developments. Product differentiation encourages the presentation of what has been learnt in a variety of ways thereby providing space for creative expressions.
 
-**Science Enrichment Modules for School-Based Gifted Education (SBGE)  
-**Dunman High adopts the former Gifted Education Programme Enrichment Model to differentiate programme from the mainstream. Enrichment modules aim at providing a better quality of learning or appropriate instruction for students which cannot be fully provided for within the regular classes. The school practices the grouping of students with similar high ability, aptitude and talent in SBGE classes. Students are selected to be in the SBGE classes based on their academic performance, participation and achievement in above-level science-based programmes and competitions and teachers’ recommendation.
+**Science Enrichment Modules for School-Based Gifted Education (SBGE)**  
+Dunman High adopts the former Gifted Education Programme Enrichment Model to differentiate programme from the mainstream. Enrichment modules aim at providing a better quality of learning or appropriate instruction for students which cannot be fully provided for within the regular classes. The school practices the grouping of students with similar high ability, aptitude and talent in SBGE classes. Students are selected to be in the SBGE classes based on their academic performance, participation and achievement in above-level science-based programmes and competitions and teachers’ recommendation.
 
 For Science Talent Development Programme, students are also given exposure in enrichment programmes such as E2K, Eureka, research programmes from Year 2 onwards, and competitions such as Junior Olympiad. For STEM program at Lower Secondary Science, students are introduced to the Arduino Uno microcontroller and breadboarding of electrical circuits. Through a blended learning approach (online and class based), SBGE Students who are keen to pursue STEM are also gradually exposed to more complex circuits and programming concepts.
 
@@ -40,30 +40,33 @@ For Science Talent Development Programme, students are also given exposure in en
 Lower Secondary Science is organised through the three disciplines: Biology, Chemistry and Physics.
 
 **Year 1 & 2 Lower Secondary Science**
-| Biology Module | Chemistry Module | Physics Module |
+| Biology Module| Chemistry Module| Physics Module|
 | -------- | -------- | -------- |
-| 1.  Cells  | Element Compounds and Mixtures  |   Laboratory Safety     |
-| 2. Movement of Substances   | Solutions and Suspensions | The Scientific Endeavour     |
-| 3. Ecology  | Separation Technique | Physical Quantities and Measurements |
-| 4. Our Impact on the Ecosystem  | Atomic Structure  |   Particulate Nature of Matter|
-| 5. Human Digestive System | Chemical Names and Formula  | Thermal Physics |
-| 6. Human Circulatory System |  Acids and Alkalis | Sound |
-| 7. Human Reproductive System | Chemical Changes| Light |
-| 8. - | -| Electricity |
-| 9. - | -| Force, Work and Energy |
+|1. Cells  | Element Compounds and Mixtures  |   Laboratory Safety     |
+|2. Movement of Substances  | Solutions and Suspensions | The Scientific Endeavour     |
+|3. Ecology  | Separation Technique | Physical Quantities and Measurements |
+|4. Our Impact on the Ecosystem  | Atomic Structure  |   Particulate Nature of Matter|
+|5. Human Digestive System | Chemical Names and Formula  | Thermal Physics |
+|6. Human Circulatory System |  Acids and Alkalis | Sound |
+|7. Human Reproductive System | Chemical Changes| Light |
+|8. - | -| Electricity |
+|9. - | -| Force, Work and Energy |
+
 
 **Year 3 & 4 Biology, Chemistry and Physics**
-| Biology Module | Chemistry Module | Physics Module |
+
+| Biology Module| Chemistry Module| Physics Module|
 | -------- | -------- | -------- |
-| 1.  Cells  | Element Compounds and Mixtures  |   Laboratory Safety     |
-| 2. Movement of Substances   | Solutions and Suspensions | The Scientific Endeavour     |
-| 3. Ecology  | Separation Technique | Physical Quantities and Measurements |
-| 4. Our Impact on the Ecosystem  | Atomic Structure  |   Particulate Nature of Matter|
-| 5. Human Digestive System | Chemical Names and Formula  | Thermal Physics |
-| 6. Human Circulatory System |  Acids and Alkalis | Sound |
-| 7. Human Reproductive System | Chemical Changes| Light |
-| 8. - | -| Electricity |
-| 9. - | -| Force, Work and Energy |
+|1. Cells  | Element Compounds and Mixtures  |   Laboratory Safety     |
+|2. Movement of Substances  | Solutions and Suspensions | The Scientific Endeavour     |
+|3. Ecology  | Separation Technique | Physical Quantities and Measurements |
+|4. Our Impact on the Ecosystem  | Atomic Structure  |   Particulate Nature of Matter|
+|5. Human Digestive System | Chemical Names and Formula  | Thermal Physics |
+|6. Human Circulatory System |  Acids and Alkalis | Sound |
+|7. Human Reproductive System | Chemical Changes| Light |
+|8. - | -| Electricity |
+|9. - | -| Force, Work and Energy |
+
 
 **Year 5 & 6 Biology, Chemistry and Physics**  
 The study of Sciences at the Senior High/JC builds on the foundations and knowledge learnt at the Junior High/ ‘O’ Level to prepare students for the GCE A Level Examinations. Students purse subjects at the different levels (H1, H2 or H3) depending on their abilities and interests. Blended learning is used to encourage engaged and interactive learning. Board game learning in Biology allows students acquire knowledge through practice and peer learning. Guided inquiry learning is infused in Physics to enable students to construct their own knowledge through exploration and discovery.
@@ -143,17 +146,18 @@ H2生物学为打算在大学修读生物及相关科目的学生打好必备基
 |9. - | -| Force, Work and Energy |
 
 **中三与四年级   生物学，化学，物理学**
-| Biology Module | Chemistry Module | Physics Module |
+
+| Biology Module| Chemistry Module| Physics Module|
 | -------- | -------- | -------- |
-| 1.  Cells  | Element Compounds and Mixtures  |   Laboratory Safety     |
-| 2. Movement of Substances   | Solutions and Suspensions | The Scientific Endeavour     |
-| 3. Ecology  | Separation Technique | Physical Quantities and Measurements |
-| 4. Our Impact on the Ecosystem  | Atomic Structure  |   Particulate Nature of Matter|
-| 5. Human Digestive System | Chemical Names and Formula  | Thermal Physics |
-| 6. Human Circulatory System |  Acids and Alkalis | Sound |
-| 7. Human Reproductive System | Chemical Changes| Light |
-| 8. - | -| Electricity |
-| 9. - | -| Force, Work and Energy |
+|1. Cells  | Element Compounds and Mixtures  |   Laboratory Safety     |
+|2. Movement of Substances  | Solutions and Suspensions | The Scientific Endeavour     |
+|3. Ecology  | Separation Technique | Physical Quantities and Measurements |
+|4. Our Impact on the Ecosystem  | Atomic Structure  |   Particulate Nature of Matter|
+|5. Human Digestive System | Chemical Names and Formula  | Thermal Physics |
+|6. Human Circulatory System |  Acids and Alkalis | Sound |
+|7. Human Reproductive System | Chemical Changes| Light |
+|8. - | -| Electricity |
+|9. - | -| Force, Work and Energy |
 
 ### **Pedagogy 教学法**
 
