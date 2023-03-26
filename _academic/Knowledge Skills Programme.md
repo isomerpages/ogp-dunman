@@ -3,6 +3,8 @@ title: Knowledge Skills Programme
 permalink: /academic/knowledge-skills-programme/
 description: ""
 ---
+![](/images/Homepage/KSP.jpg)
+
 Our Knowledge Skills Programme (KSP) curriculum applies an inquiry-based spiral approach for students to enhance their 21st Century competencies in the fields of thinking skills, research skills and communication skills.
 
 KSP offers the following key level-wide subjects/programmes:
