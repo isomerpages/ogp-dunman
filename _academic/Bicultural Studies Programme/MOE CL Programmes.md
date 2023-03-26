@@ -4,6 +4,8 @@ permalink: /academic/bicultural-studies-programme/moe-cl-programmes/
 description: ""
 third_nav_title: Bicultural Studies Programme
 ---
+![](/images/Homepage/masthead-academic-chinese.jpg)
+
 ### **1. Bicultural Studies Programme (BSP)**
 
 The Bicultural Studies Programme (MOE) \[BSP\] is a 4-year scholarship programme offered by MOE that spans from Year 3 (Sec 3) to Year 6 (JC 2). It aims to develop bicultural and bilingual talents who can effectively interact with China and the West and have the capacity to engage in key issues relating to contemporary China with cross-cultural perspectives.
@@ -16,7 +18,8 @@ Apart from the BSP scholarship programme, the school also offers the 2-Year BSP 
 
 You may also wish to download our **[BSP brochure](https://dunmanhigh.moe.edu.sg/wp-content/uploads/2020/11/BSP-Infosheet-2020-07-20.pdf)** for more information.
 
-**2\. Chinese Language Elective Programme at Secondary Level (MOE)**
+
+### **2. Chinese Language Elective Programme at Secondary Level**
 
 The Chinese Language Elective Programme at Secondary Level (CLEP-Sec) is introduced by the Ministry of Education to be implemented from 2020. It aims to nurture promising students to attain a high level of language proficiency in Chinese, and enhance their understanding of Chinese literature. The programme also aims to develop these students to become effectively bilingual so as to better serve the needs of our nation.
 
@@ -24,7 +27,7 @@ Students from the CLEP-Sec centres will jointly attend two signature activities 
 
 Outstanding Singapore Citizens selected for the CLEP-Sec will receive an annual scholarship allowance of $1,000. School fees will also be covered, subject to an annual cap of $2,400. Subsidy for overseas immersion trip will also be given. The duration of the programme is two years, from Year 3 to Year4. Recipients are not required to enter into a bond with the Singapore government.
 
-**3\. Chinese Language Elective Programme** **at** **JC Level (MOE)**
+### **3. Chinese Language Elective Programme at JC Level**
 
 The Chinese Language Elective Programme (CLEP) (JC) is an A-Level programme introduced by the Ministry of Education in 1990 to nurture the language talent of students who have an aptitude for the Chinese language so that they can attain a high level of proficiency and enhance their understanding and appreciation of Chinese literature. The programme also aims to develop academically able students to become effectively bilingual so as to better serve the needs of our nation. Dunman High School is one of the 5 CLEP centres in Singapore.
 
@@ -36,9 +39,8 @@ Outstanding Singapore Citizens selected for the CLEP will be eligible for the MO
 
 For more information on the **Chinese Language Elective Programme** **at** **JC Level (MOE)**, click **[HERE](https://ogp-dunman-staging.netlify.app/academic/bicultural-studies-programme/h2cll-clep/)** .
 
-**特别课程**
 
-**1****、教育部双文化课程**
+### **1. **教育部双文化课程****
 
 教育部双文化课程 (Bicultural Studies Programme (MOE)), 简称BSP，是一门为期四年（从中三到高二）的奖学金课程。该课程旨在培育一批既了解中国、又能同西方沟通的双语双文化人才。在课程中，学生将能以跨文化视角深入探讨与当代中国发展相关的核心课题。
 
@@ -48,7 +50,8 @@ For more information on the **Chinese Language Elective Programme** **at** **
 
 除了奖学金课程以外，我校也提供教育部双文化非奖学金课程（从中三到中四）让中二学生报名参加。非奖学金课程的学生仍有机会参与双文化学习营与研讨会等活动。浸濡活动方面，则须依学生人数情况而定。申请参加浸濡活动的学生也必须符合申请条件。
 
-**2****、教育部初中华文语文特选课程** **(****初中语特****)**
+### **2. 教育部初中华文语文特选课程** **(初中语特)**
+
 
 教育部初中华文语文特选课程 (简称“初中语特”)于2020年开始推出，其目标是 提升学生的语文水平，加深其对中华文学和传统文化的认识，并鼓励学生有效掌握双语，从而更好地满足我们国家发展的需求。
 
@@ -56,8 +59,9 @@ For more information on the **Chinese Language Elective Programme** **at** **
 
 获颁初中语特奖学金的学生除了每年获得1000新元的奖学金外，亦被豁免学费，浸濡体验的费用也将由教育部资助。该计划为期两年，从中三到中四。奖学金得主无需与新加坡政府签订任何合约。
 
-**3、教育部高中华文语文特选课程** **(****高中语特****)**
+### **3. 教育部高中华文语文特选课程** **(高中语特)**
+
 
 华文语文特选课程 (语特) 是一门高中课程，旨在栽培精通双语的人才，并提高学生的华文水平和文学素养。本课程为期两年，提供学生机会参与多姿多彩的学习活动，例如文学讲座系列、语特营、海外浸濡计划 (北京/上海/台北)、出版文艺刊物、实习计划和校本专题研究等。参与语特课程的学生，在高中必须修读H2华文与文学 (H2 Chinese Language & Literature)。杰出的本地公民学生可参加面试，获颁华文语文特选课程奖学金。奖学金为期2年，学生每年可获1000新元，同时豁免学费。
 
-欲知更多有关**高中语特**的详情，请点击 **[这里](https://ogp-dunman-staging.netlify.app/academic/bicultural-studies-programme/h2cll-clep/)**。 
+欲知更多有关**高中语特**的详情，请点击 **[这里](https://ogp-dunman-staging.netlify.app/academic/bicultural-studies-programme/h2cll-clep/)**。
