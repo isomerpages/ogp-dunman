@@ -3,6 +3,8 @@ title: Aesthetics Programme
 permalink: /academic/aesthetics-programme/
 description: ""
 ---
+![](/images/Homepage/masthead-academic-aesthetics.jpg)
+
 The Aesthetics subjects, Music, Art and Life Skills, aim to identify and groom potential talents in the Arts while instilling in all students a greater sense of appreciation for the aesthetics.
 
 **美学艺术课程**
