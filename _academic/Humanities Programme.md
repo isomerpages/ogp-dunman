@@ -31,7 +31,7 @@ The Understanding by Design (UbD) approach enables learners to
 *   apply their knowledge to the world around them, and
 *   make meaningful connections across the subjects and academic years.
 
-#### 1. Active Citizenry Education
+### 1. Active Citizenry Education
 The ACE team in DHS uses Understanding By Design (UbD) as the main curriculum design framework to design learning experience for students to explore six themes including: 
 
 1. Singapore as a Nation in the World
@@ -40,13 +40,13 @@ The ACE team in DHS uses Understanding By Design (UbD) as the main curriculum de
 4. Sustaining Economic Development
 5. Facing Challenges and (6) Managing International Relations. Each unit is framed with a set of essential questions and students go through a series of lessons and tasks in order to reach an enduring understanding of the topic.
 
-#### 2. Economics
+### 2. Economics
 'A’ Level Economics aims to equip students with an understanding of fundamental economic concepts, theories and principles, and develop in students the ability to use the tools and methods of economic reasoning to analyse real-world economic issues from multiple perspectives. Students are expected to be engaged in discussions to arrive at informed and reasoned conclusions on contemporary economic issues in Singapore and beyond.
 
-#### 3. Geography
+### 3. Geography
 The study of Geography centres on humans and the environment around us, it basically teaches students ‘to have a greater understanding of the world they work, communicate, learn, and live in’ (Teachnology Inc., 2011).
 
-#### 4. History
+### 4. History
 The teaching of History has moved beyond the transmission of content to inculcating historical thinking and understanding in which concepts skills and knowledge of history is critically applied in contemporary or historical issues.
 
 以下是人文部所提供的科目：
@@ -66,16 +66,16 @@ The teaching of History has moved beyond the transmission of content to inculcat
 *   把所学的知识应用在周遭的人与事中
 *   针对在不同学科和年级所学的知识做有意义的联系
 
-#### 1. 公民教育课程
+### 1. 公民教育课程
 此课程使用逆向课程设计(UbD)作为主要课程框架，来指导学生在六个主题中做探讨学习。 这六个主题包括（1）新加坡在世界的地位，（2）在多元种族社群中如何维持和谐和避免冲突，（3）治国原则与方针，（4）持续经济发展，（5）国家如何面 临挑战（6）建立和维持国际关系。每个单元是通过一系列的重点问题来引发学生探索与学习持久性的知识重点。
 
-#### 2. 经济学
+### 2. 经济学
 此课程不仅为剑桥’A’水准考生做准备，也同时为他们日后修读大学本科经济学打下稳固的基础。课程也让学生能够充分应用所学的知识来分析如“2008年全球金融危机”等现今经济问题。课程的重点特色，在于理论的严谨性，历史背景的准确性，以及分析与应用能力的培养。
 
-#### 3. 地理
+### 3. 地理
 地理课程针对人类和周围的环境做深入学习。本校采用“探究式学习法”，让学生对自己本身交流、学习和生活的环境有更多的理解。
 
-#### 4. 历史
+### 4. 历史
 历史的教学超越了内容的传授，培养历史性思维和理解能力，以批判性的方式将概念技能和历史知识，应用在当代或历史课题上
 
 
