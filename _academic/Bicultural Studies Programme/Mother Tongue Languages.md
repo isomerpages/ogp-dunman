@@ -5,17 +5,6 @@ description: ""
 third_nav_title: Bicultural Studies Programme
 ---
 ![](/images/Homepage/masthead-academic-chinese.jpg)
-
-### **Overview 概述**
-
-The Mother Tongue Languages Department is committed to delivering top-quality Mother Tongue Language programmes that intrinsically motivate and inspire Dunmanians to use and enjoy the Mother Tongue Languages. Our experienced team of teachers has designed a variety of programmes for the students to choose from according to their interests.
-
-在致力于为学生提供优质多元课程、并寓乐于教的理念的指引下，在强大的师资力量的支持下，我们为学生精心设计了丰富多元的母语课程，供学生根据自己的兴趣爱好灵活选择。
-
-The DHS Mother Tongue Languages Programme aims to increase students’ interest in learning the language and improving their language skills in listening, speaking, reading and writing. Through learning of the language, we seek to provide students a deeper understanding of traditional culture and values.
-
-德明政府中学母语课程的设计目的，旨在提高学生学习母语的兴趣，加强学生“听、说、读、写” 方面的能力。让学生通过学习母语，进一步认识和吸收传统文化和价值观。
-
 ### **Curriculum 课程内容**
 
 The Mother Tongue Languages Department is committed to delivering top-quality Mother Tongue Language programmes that intrinsically motivate and inspire Dunmanians to use and enjoy the Mother Tongue Languages. Our experienced team of teachers has designed a variety of programmes for the students to choose from according to their interests.
