@@ -132,6 +132,8 @@ H2生物学为打算在大学修读生物及相关科目的学生打好必备基
 
 **中一与二年级 初中科学**
 **Year 1 & 2 Lower Secondary Science**
+| Subjects Offered | Junior High | Senior High |
+| -------- | -------- | -------- |
 
 | Biology Module | Chemistry Module | Physics Module |
 | -------- | -------- | -------- |
