@@ -4,8 +4,6 @@ permalink: /about-dhs/contact-us/school-leaders/
 description: ""
 third_nav_title: Our People
 ---
-School Leaders 
-----------------------------
 | Name | Designation |
 | --- | --- |
 | Mr Chan Ying Yin | Principal |
