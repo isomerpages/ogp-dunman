@@ -16,7 +16,7 @@ The Mother Tongue Languages Department is committed to delivering top-quality Mo
 | 3.     | Bicultural Studies Programme (MOE) (For Year 3 and Year 4 BSP students)     | H2/H3 Chinese Language & Literature    |
 | 4.     | Appreciation of Chinese Culture   (Compulsory for Year 1 and 2 students)    | H2 China Studies in Chinese (Compulsory for BSP scholars) |
 | 5.     |  Conversational Malay (Compulsory for Year 1 and 2 students)   | H2 Translation (Chinese) |
-| 6.    | Malay (Special Programme) (optional 3rd Language for students)      |   |
+| 6.    | Malay (Special Programme) (optional 3rd Language for students)      | -  |
 
 在致力于为学生提供优质多元课程、并寓乐于教的理念的指引下，在强大的师资力量的支持下，我们为学生精心设计了丰富多元的母语课程，供学生根据自己的兴趣爱好灵活选择。
 
@@ -29,7 +29,7 @@ The Mother Tongue Languages Department is committed to delivering top-quality Mo
 | 3.     |  教育部双文化课程 (中三、中四学生选修)   |  H2/H3 华文与文学   |
 | 4.     |  中华文史华艺鉴赏课程 (中一、中二学生必修)  | H2 翻译（华文） | H2 中国通识（双文化奖学金得主必修） |
 | 5.    | 马来语会话（中一、中二学生必修） |
-| 6.    | 马来文（特别课程）(供学生选修的第三语文科目) |   |
+| 6.    | 马来文（特别课程）(供学生选修的第三语文科目) | -  |
 
 ### **Pedagogy 教学法**
 
