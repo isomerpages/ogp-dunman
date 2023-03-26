@@ -9,7 +9,7 @@ description: ""
 
 #### **|[1956 - 2001](https://dhs.edu.sg/sch-history-1956) |[2002 - 2019](https://dhs.edu.sg/sch-history-2004)  | [2020 - 2022](https://dhs.edu.sg/sch-history-2021)|**
 
-Dunman High School (DHS) (formerly known as Dunman Government Chinese Middle School) is an autonomous co-educational secondary school in Singapore offering the Integrated Programme. It has always been the top co-educational secondary school in Singapore in terms of academic results.
+Dunman High School (DHS) (formerly known as Dunman Government Chinese Middle School) is an **[autonomous](https://dhs.edu.sg/autonomous-sap-ip)** co-educational secondary school in Singapore offering the **[Integrated Programme](https://dhs.edu.sg/autonomous-sap-ip)**. It has always been the top co-educational secondary school in Singapore in terms of academic results.
 
 ![](/images/Homepage/1960-01-1.jpg)
 
@@ -17,7 +17,7 @@ Its Chinese name _Démíng_ (德明) is a transliteration of “Dunman”, nam
 
 ![](/images/Homepage/2000-07.jpg)
 
-In 1979, the school was selected to be one of the nine Special Assistance Plan (SAP) secondary schools. The school was renamed “Dunman High School” and began to offer both English and Chinese languages at the first-language level. When the Music Elective Programme (MEP) was introduced by the MOE in 1982, DHS was selected to implement the programme for musically gifted students.
+In 1979, the school was selected to be one of the nine **[Special Assistance Plan (SAP)](https://dhs.edu.sg/autonomous-sap-ip)** secondary schools. The school was renamed “Dunman High School” and began to offer both English and Chinese languages at the first-language level. When the Music Elective Programme (MEP) was introduced by the MOE in 1982, DHS was selected to implement the programme for musically gifted students.
 
 ![](/images/Homepage/2016-01.jpg)
 
