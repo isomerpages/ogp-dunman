@@ -163,3 +163,30 @@ Socratic seminars aim to develop critical thinking among the students in Dunman 
 苏格拉底式的研讨会目的在于加强学生的批判性思维能力。它主要源自于苏格拉底 提问法。这个由古希腊哲学家命名的方式，是让持有不同观点的学者互相辩论和探讨的一种途径。这在阐明观点的同时也提高学者的批判性思维能力。苏格拉底式的 研讨会是苏格拉底方式更适合教学用途的一种演变。它通过学生组队在课堂中互相辩论和探讨课题的同时，帮助他们更清楚自己的观点，也能更好地解说和澄清论 点。历史教师扮演促进交流者互动的角色，并确保研讨会有秩序和有条理地进行。学生们的观点也将被记录成一个总结。这是一个能让学生不断阐释和重新说明自己 看法的一种良好策略，从而使学生能更全面地探讨课题。
 
 ### **Assessment 评估与测试**
+### 1. Active Citizenry Education
+To be effective, ACE adopts a practice-oriented approach so that each pupil has the capacity to put into practice democratic values, attitudes and behaviours in their daily life at home, school and the community. The atmosphere in the classroom is stimulating, interactive and thought-provoking.
+
+Pupils are actively engaged with the political, social and moral issues of the world around them to develop skills of participation and responsible action. A wide variety of resources, technology, visuals and so on are available as a means to tap on the learning styles of the pupils.
+
+### 2. Economics  
+As learning is based on prior knowledge and experiences, each student constructs his own meaning and learns the new knowledge differently. This implies that different students may not understand the same new knowledge in the same way or depth. Some students may even exhibit erroneous understanding due to past experiences or misconceptions. Therefore, an important part of teaching is assessment, specifically assessment for learning. Assessment can help to advance learning rather than merely measuring it. The design of performance tasks and use of questioning techniques in class help reveal students’ current understanding and guide the teaching of content and skills.
+
+### 3. Geography  
+The Geography assessments are designed by incorporating the principles of Multiple Intelligences and Understanding By Design which allow the tasks to be planned more holistically. Authentic assessments ranging from formal research papers, performance tasks to fieldwork projects are designed to encourage critical thinking and reflective reasoning and at the same time allow students to explore different learning styles and abilities, exercise and develop their strengths and talents.
+
+### 4. History  
+Besides the conventional pen-and-paper tests, Historical Inquiry (HI) Task at each level is an integral part of the learning regime of DHS students.  The HI Task develops 21st Century Competencies in the students as they learn to work together with their teammates to conduct research into a historical issue and present their findings to peers and teachers.  Differentiated assessments are put in place for highly-abled students who have a strong passion for History.  Both the conventional tests and assignments as well as the Historical Inquiry Tasks prepare our students for the ‘A’ level examination at the end of 6 years as well as develop critical thinkers with an array of skills ready for the society.
+
+### 1. 公民教育课程
+课程采用实践为导向的方法，让学生能把正确价值观，态度和行为付诸实践在家庭、学校和社群中。课堂学习气氛往往深具启发性，并且生动和发人深省。
+
+学生积极参与讨论世界政治，社会和道德课题，借此提升自己的对社群的责任感和参与感。除此之外，本校也应用多元化的教学资源、科技和视觉效果等来辅助不同的学习需求。
+
+### 2. 经济学
+学习是基于先备知识和体验，每个学生都建构自身的意义并从不同方面学习新知识。这意味着不同的学生对同样的新知识的理解和深度不同。有些学生可能因为自身的经验和误区，因而表现出错误的理解。因此，测试是教学中的重要部分，尤其是学习测试。测试不单是衡量学习，更是有助于加深学习。学习任务的设计和课堂上的提问方法有助于发现学生的理解，由此引导内容和技能方面的教学。
+
+### 3. 地理
+课程融合了多元智能和 逆向设计的原则，以对学生进行更全面的测试。运用不同的管道，如研究论文，主题作业，实地考察等，不仅能提高学生的批判性思维和反思能力，同时也让他们尝试不同的学习风格和能力，从而锻炼和发展自己的优势和才能。
+
+### 4. 历史  
+课程的测试包括传统性的笔试和非传统性的作业评估方式。作业评估通过协作的学习形式，让学生针对某个历史事件进行合作研究，并呈献所发现的知识和观点，借此培养21世纪技能。为了鼓励资优并对历史有浓厚兴趣的学生提升独立思考和创新能力，学校设计了一系列多样化的评估模式。传统性的笔试和非传统性的作业评估方式，能更好地为’A’水准会考做准备，并在6年的学习后，培养一群具批判性思维以及一系列社会技能的学生。
