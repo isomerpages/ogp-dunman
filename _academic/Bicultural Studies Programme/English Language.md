@@ -7,7 +7,19 @@ third_nav_title: Bicultural Studies Programme
 ![](/images/Homepage/masthead-academic-english.jpg)
 
 ### **Curriculum 课程内容**
+The English Programme comprises a range of curricula that aim to develop in Dunmanians critical and creative thinking alongside essential language and communication skills. Capitalising on the 6 years of education our students have with us, we offer a spiral curriculum so that the students can build on the skills and content they have learnt previously.
 
+At Junior High, students offer Language Arts which enlivens the learning of the English Language through integrating aspects of linguistics, literature, media studies and social studies. Students who have a passion for Literature offer Literature in English in Years 3 and 4. At Senior High, students are further challenged to think critically about current affairs and issues of global and local significance in the study of General Paper through in-depth analysis and evaluation of wide-ranging topics. ‘A’ Level Literature in English, and English Language and Linguistics allow students to explore more closely the intricacies of the English Language so as to heighten their sensitivity to the contextual use of the language.
+
+The following subjects are offered by the English Department:
+
+| Subjects Offered | Junior High | Senior High |
+| -------- | -------- | -------- |
+| 1.     |  Language Arts (Year 1 to Year 4)   |  General Paper (H1)  |
+| 2.     |  Literature in English (offered as a Humanities option in Year 3 to Year 4)   |  Literature in English (H1, H2 and H3)  |
+| 3.     |     |  English Language and Linguistics (H2)  |
+
+英文部的课程，主要培养德明学生的批判性和创意思维以及语文沟通技能。六年的综合课程中，我们采用螺旋式的教学法，让学生在已掌握的知识和技能的基础上继续学习，不断进步。
 
 ### **Pedagogy 教学法**
 In Dunman High, the teachers in the English Department infuse a variety of teaching pedagogies into the curriculum, allowing students to learn and acquire critical thinking skills through various platforms. In order to enhance our students’ ability to fluently and effectively in Standard English, we provide them with opportunities to understand how language changes according to purpose, audience, context and culture, and apply this knowledge in speech and writing in both formal and informal situations.
