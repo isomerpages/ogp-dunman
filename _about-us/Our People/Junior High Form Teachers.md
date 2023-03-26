@@ -21,6 +21,13 @@ third_nav_title: Our People
 ## Year 2
 | Class  | Form Teacher | Form Teacher |
 | -------- | -------- | -------- |
+| 23Y1A     | Zhang Liping     | Yip Sook Kwan     |
+
+
+
+
+| Class  | Form Teacher | Form Teacher |
+| -------- | -------- | -------- |
 | 23Y2A     | Wong Min Tzu, Sharilyn  | Tay Min Kimberley|
 | 23Y2B   | Lim Hwa Chuan     | Lim Boon Hwee  |
 | 23Y2C   | Law Seow Li  | Leo June Kit  |
