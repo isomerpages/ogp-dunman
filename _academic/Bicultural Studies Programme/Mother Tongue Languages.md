@@ -11,6 +11,7 @@ third_nav_title: Bicultural Studies Programme
 The Mother Tongue Languages Department is committed to delivering top-quality Mother Tongue Language programmes that intrinsically motivate and inspire Dunmanians to use and enjoy the Mother Tongue Languages. Our experienced team of teachers has designed a variety of programmes for the students to choose from according to their interests.
 
 在致力于为学生提供优质多元课程、并寓乐于教的理念的指引下，在强大的师资力量的支持下，我们为学生精心设计了丰富多元的母语课程，供学生根据自己的兴趣爱好灵活选择。
+
 The DHS Mother Tongue Languages Programme aims to increase students’ interest in learning the language and improving their language skills in listening, speaking, reading and writing. Through learning of the language, we seek to provide students a deeper understanding of traditional culture and values.
 
 德明政府中学母语课程的设计目的，旨在提高学生学习母语的兴趣，加强学生“听、说、读、写” 方面的能力。让学生通过学习母语，进一步认识和吸收传统文化和价值观。
@@ -24,13 +25,24 @@ The Mother Tongue Languages Department is committed to delivering top-quality Mo
 | 1.     | GCE  ‘O’ Level Higher Chinese/ Chinese (Compulsory for Year 1 to Year 4)     | Chinese Language ‘B’     |
 | 2.     | Literature in Chinese (Humanities Elective for Year 3 and 4 students; compulsory for CLEP-Sec students)     | H1 Chinese Language/H1 Malay Language/ H1 Tamil Language (Students offering H1 Tamil Language will be having lessons in another JC) |
 | 3.     | Bicultural Studies Programme (MOE) (For Year 3 and Year 4 BSP students)     | H2/H3 Chinese Language & Literature    |
-| 4.     | ilingual Programme   (Compulsory for Year 4 DHP students)    | H2 China Studies in Chinese (Compulsory for BSP scholars) |
+| 4.     | Bilingual Programme   (Compulsory for Year 4 DHP students)    | H2 China Studies in Chinese (Compulsory for BSP scholars) |
 | 5.     | Appreciation of Chinese Culture   (Compulsory for Year 1 and 2 students)    | H2 Translation (Chinese) |
 | 6.    | Conversational Malay (Compulsory for Year 1 and 2 students)     |   |
 | 7.    | Malay (Special Programme) (optional 3rd Language for students)    |      |
 
 在致力于为学生提供优质多元课程、并寓乐于教的理念的指引下，在强大的师资力量的支持下，我们为学生精心设计了丰富多元的母语课程，供学生根据自己的兴趣爱好灵活选择。
 
+以下是华文部所提供的科目：
+
+| 科目   | 初中部 | 高中部 |
+| -------- | -------- | -------- |
+| 1.     |   ‘O’ 水准高级华文/华文(中一到中四所有学生必修)   | 华文 ‘B’    |
+| 2.     | 华文文学 (中三、中四学生的人文选修科；初中语特学生必修)  | H1华文/H1 马来文/H1 淡米尔文 |
+| 3.     |  教育部双文化课程 (中三、中四学生选修)   |  H2/H3 华文与文学   |
+| 4.     | 双语课程 (中四直通车课程必修)  | H2 中国通识（双文化奖学金得主必修） |
+| 5.    | 中华文史华艺鉴赏课程 (中一、中二学生必修)  | H2 翻译（华文） |
+| 6.    | 马来语会话（中一、中二学生必修） |   |
+| 7.    | 马来文（特别课程）（供学生选修的第三语文科目）    |      |
 
 ### **Pedagogy 教学法**
 
