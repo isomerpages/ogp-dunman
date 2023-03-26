@@ -7,8 +7,8 @@ description: ""
 
 ### **Through the Eras:**
 
-##### |**[1956 - 2001](https://dhs.edu.sg/sch-history-1956)** | [2002 - 2019](https://dhs.edu.sg/sch-history-2004)  | [2020 - 2022](https://dhs.edu.sg/sch-history-2021)|
-
+#### |[1956 - 2001](https://dhs.edu.sg/sch-history-1956) |[2002 - 2019](https://dhs.edu.sg/sch-history-2004)  | [2020 - 2022](https://dhs.edu.sg/sch-history-2021)|
+####
 Dunman High School (DHS) (formerly known as Dunman Government Chinese Middle School) is an autonomous co-educational secondary school in Singapore offering the Integrated Programme. It has always been the top co-educational secondary school in Singapore in terms of academic results.
 
 ![](/images/Homepage/1960-01-1.jpg)
