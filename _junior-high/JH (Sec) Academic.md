@@ -34,8 +34,6 @@ All DHP Year 1 and 2 students of DHP will take the following subjects:
 
 All DHP Year 3 and 4 students will be offered the following subjects:
 
-All DHP Year 3 and 4 students will be offered the following subjects:
-
 |  | Subjects | Examinable Subject |
 | --- | --- | --- |
 | Biculturalism Academy (BA) | English Language | Y |
