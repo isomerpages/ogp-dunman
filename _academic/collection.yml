@@ -2,8 +2,8 @@ collections:
   academic:
     output: true
     order:
-      - Bicultural Programme/H2 CLL & CLEP.md
-      - Bicultural Programme/.keep
+      - Bicultural Studies Programme/H2 CLL & CLEP.md
+      - Bicultural Studies Programme/.keep
       - Dunman High Programme.md
       - Subjects Overview.md
       - Aesthetics Programme.md
