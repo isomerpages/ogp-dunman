@@ -21,6 +21,12 @@ The following subjects are offered by the English Department:
 
 英文部的课程，主要培养德明学生的批判性和创意思维以及语文沟通技能。六年的综合课程中，我们采用螺旋式的教学法，让学生在已掌握的知识和技能的基础上继续学习，不断进步。
 
+| 科目   | 初中部 | 高中部 |
+| -------- | -------- | -------- |
+| 1.     |   英文文艺(中一到中四) |  理解与写作 (H1)  |
+| 2.    |   英文文学（中三、中四的人文选课之一）|  英文文学 (H1, H2 和 H3) |
+| 3.    |    |  英文与文学 (H2) |
+
 ### **Pedagogy 教学法**
 In Dunman High, the teachers in the English Department infuse a variety of teaching pedagogies into the curriculum, allowing students to learn and acquire critical thinking skills through various platforms. In order to enhance our students’ ability to fluently and effectively in Standard English, we provide them with opportunities to understand how language changes according to purpose, audience, context and culture, and apply this knowledge in speech and writing in both formal and informal situations.
 
