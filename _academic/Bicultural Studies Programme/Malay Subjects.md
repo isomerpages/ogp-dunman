@@ -21,6 +21,7 @@ The focus in Y2 is on celebrations and festivals. Students’ Malay language ski
 *   reading and conversing based on picture and dialogue
 *   vocabulary and practices
 
+**Conversational Malay – Dikir Barat Enrichment Programme**
 ![](/images/Homepage/Malay%20Subject_CM.jpg)
 
 ### **Assessment**
@@ -33,8 +34,19 @@ Bahasa Melayu Pertuturan Modul Permulaan 1 & 2 (Textbook)
 
 The Malay Special Programme (MSP) is offered to pupils who are interested and inclined towards learning the Malay language and culture. This third language subject is conducted in-house and is facilitated through weekly lessons and various enrichment opportunities. Through the span of four years, students offering MSP are equipped with the necessary skills to articulate and write like a native Malay student.  In recent years, Dunman High’s MSP has been organising her very own annual National Scrabble Competition _(Sahibba WOW!)_ and National MSP Essay Writing Competition (_Tari Pena_). These events have provided a highly interactive learning environment for all MSP students in Singapore to showcase their oratorical and writing skills. Apart from the academic takeaways, the MSP also aims to further enhance the understanding of the Malay culture among the students. Through our Twinning Programme with Sekolah Seri Puteri of Cyberjaya, Malaysia, students are exposed to the unique intricacies and traditions of the Malay culture as they encounter eventful experiences and interactions with native Malay speakers, further developing their cultural quotient.
 
-### **MSP Day Camp**
+**MSP Day Camp**
 ![](/images/Homepage/Malay%20Subject_CM1.png)
+
+### **Assessment**
+
+MSP Students will sit for the end-of-year exam comprising oral and written components. The components for written assessments include essay, grammar and comprehension.
+
+Students may use MSP as a relevant subject for the calculation of their Grade-Point-Average (GPA).
+
+At the end of 4 years, students will sit for the O-Level MSP Exam.
+
+**MSP Experiential Learning and Projects (photos taken pre-Covid)**
+
 
 ### **Curriculum 课程内容**
 
