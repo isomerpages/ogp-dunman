@@ -21,7 +21,7 @@ From 2005 the school has implemented a customised version of the Integrated Prog
 
 自2005年开设直通车课程以来，德明进一步发扬因材施教的理念，为学生量身设计校本课程，帮助学生免考 “O”水准而直接参加“A”水准考试。
 
-### **Click Below for Our History:**
+### **Our History Through the Eras:**
 
 ### **[1956 - 2001](https://dhs.edu.sg/sch-history-1956)**
 ![](/images/Homepage/1960-01-1.jpg)
