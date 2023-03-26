@@ -53,7 +53,6 @@ third_nav_title: Our People
 | 23Y1A     | Zhang Liping     | Yip Sook Kwan     |
 
 
-
 | Class  | Form Teacher | Form Teacher |
 | -------- | -------- | -------- |
 | 23Y4A     | Tan Mei Qiang   | Sau Wee Wee     |
