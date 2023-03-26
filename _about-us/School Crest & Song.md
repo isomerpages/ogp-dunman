@@ -17,6 +17,8 @@ The red symbolizes passion and striving for success.  The blue signifies peace 
 
 **School Song**
 
+**Click HERE to listen**
+
 德明中学    矗立加东  
 亭亭松影    习习海风  
 集我英才    汇于一家  
