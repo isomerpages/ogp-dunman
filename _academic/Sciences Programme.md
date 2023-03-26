@@ -132,15 +132,15 @@ H2生物学为打算在大学修读生物及相关科目的学生打好必备基
 
 | Biology Module | Chemistry Module| Physics Module |
 | -------- | -------- | -------- |
-| 1.  Cells  | Element Compounds and Mixtures  |   Laboratory Safety     |
-| 2. Movement of Substances  | Solutions and Suspensions | The Scientific Endeavour     |
-| 3. Ecology  | Separation Technique | Physical Quantities and Measurements |
-| 4. Our Impact on the Ecosystem  | Atomic Structure  |   Particulate Nature of Matter|
-| 5. Human Digestive System | Chemical Names and Formula  | Thermal Physics |
-| 6. Human Circulatory System |  Acids and Alkalis | Sound |
-| 7. Human Reproductive System | Chemical Changes| Light |
-| 8. - | -| Electricity |
-| 9. - | -| Force, Work and Energy |
+|1. Cells  | Element Compounds and Mixtures  |   Laboratory Safety     |
+|2. Movement of Substances  | Solutions and Suspensions | The Scientific Endeavour     |
+|3. Ecology  | Separation Technique | Physical Quantities and Measurements |
+|4. Our Impact on the Ecosystem  | Atomic Structure  |   Particulate Nature of Matter|
+|5. Human Digestive System | Chemical Names and Formula  | Thermal Physics |
+|6. Human Circulatory System |  Acids and Alkalis | Sound |
+|7. Human Reproductive System | Chemical Changes| Light |
+|8. - | -| Electricity |
+|9. - | -| Force, Work and Energy |
 
 **中三与四年级   生物学，化学，物理学**
 | Biology Module | Chemistry Module | Physics Module |
