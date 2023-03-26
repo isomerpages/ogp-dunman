@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Homepage/masthead-about-history.jpg)
 
-**Dunman High School** (DHS) (formerly known as Dunman Government Chinese Middle School) is an [**autonomous**](https://dunmanhigh.moe.edu.sg/about-dhs/autonomous-schools/ "Autonomous Schools") co-educational secondary school in Singapore offering the [**Integrated Programme**](https://dunmanhigh.moe.edu.sg/about-dhs/integrated-programmes/ "Integrated Programmes"). It has always been the top co-educational secondary school in Singapore in terms of academic results.
+Dunman High School (DHS) (formerly known as Dunman Government Chinese Middle School) is an autonomous co-educational secondary school in Singapore offering the Integrated Programme. It has always been the top co-educational secondary school in Singapore in terms of academic results.
 
 Its Chinese name _Démíng_ (德明) is a transliteration of “Dunman”, named after a British Police Commissioner, Sir Thomas Dunman. The meaning of its name in Chinese is derived from a line in the _Book of Great Learning_ (大学之道在明明德，在亲民，在止于至善) which is a statement that has influenced the Emperors of the Han, Tang and Song dynasties in Imperial China. It can be roughly translated as “the Dao (path) to the greatest learning lies in understanding the brightest virtues”.
 
@@ -21,7 +21,7 @@ From 2005 the school has implemented a customised version of the Integrated Prog
 
 自2005年开设直通车课程以来，德明进一步发扬因材施教的理念，为学生量身设计校本课程，帮助学生免考 “O”水准而直接参加“A”水准考试。
 
-## Click on the years to know us more:  
+### **Click Below for Our History:**
 
 ### **[1956 - 2001](https://dhs.edu.sg/sch-history-1956)**
 ![](/images/Homepage/1960-01-1.jpg)
