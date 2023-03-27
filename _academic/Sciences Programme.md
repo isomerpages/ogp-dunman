@@ -177,14 +177,10 @@ H2生物学为打算在大学修读生物及相关科目的学生打好必备基
 |18. -  | 酒精  | 静电  |
 |19. -  | 羧酸  | 电力  |
 |20. - | 大分子 | 直流电力  |
-|21. -  | Alcohols | Circuit Components  |
-|22. -  | Carboxylic Acids  | Electrical Components |
-|23  Macromolecules| Practical Electricity |   |
-|24.  - | - | Magnetism  |
-|25. - | - | Electromagnetism  |
-|26. - | - | Practical Skills-Planning  |
-|27. - | - | Electromagnetic Induction  |
-
+|21. -  | - | 实用电  |
+|22. -  |-  | 磁性 |
+|23. -| - | 电磁  |
+|24.  - | - | 电磁感应  |
 
 ### **Pedagogy 教学法**
 
