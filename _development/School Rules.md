@@ -124,9 +124,12 @@ These aims are also guided by the Ministry of Education’s Character and Citize
 | Hair   | Strictly NO dyed or highlighted hair | Strictly NO dyed or highlighted hair |
 | Hair   | NO permed hair | NO permed hair |
 | Hair   | NO excessive thick crop of hair | - |
-| Face |  |  |
-| Accessories |  |  |
-| Others  |  |  |
+| Face | Clean shaven | NO wearing of cosmetics |
+| Accessories | NO wearing of accessories, around the neck, on the ear and/or wrist | Only one identical pair of small ear studs with simple geometric designs or ear sticks on each ear lobe |
+| Accessories | - | Multiple ear piercings are not allowed |
+| Others  | NO wearing of necklaces and bracelets |  NO wearing of necklaces and bracelets. |
+|Others| Short and unvarnished fingernails | Short and unvarnished fingernails
+|Others| Transition lens are allowed | Transition lens are allowed
 
 4.1 **The routine Attire and Personal Grooming Check will be conducted at the start and mid of each school term.**
 
