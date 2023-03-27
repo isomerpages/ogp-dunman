@@ -30,4 +30,3 @@ The topics offered at Junior High are shown in the following:
 | -------- | -------- | -------- |
 | **Mathematics**   | **Mathematics 1**   | **Mathematics 2**   |
 | 1.  Integers   | Indices and Surds     | Quadratic Functions and Inequalities   |
-
