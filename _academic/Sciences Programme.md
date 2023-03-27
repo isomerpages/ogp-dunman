@@ -400,3 +400,81 @@ Passow曾说 “比赛提供了另一种发展个人潜能的机会。”
 所有初中生都将接触基本的研究技巧（例如编写研究问题和学习研究方式和口述报告等）。他们也将依兴趣分组进行以一项特定学科（如科学）为主体的研究作业。 中三和四年级的学生还将有机会参与科学研究计划。由教育部高才教育处统筹、ASTAR主导的科学专人导研计划，和与校外伙伴合作的校内科研活动，为学生提供了更多的科研机会。高中部学生的活动虽然以校内科研为主，但他们也有机会参加海外和本地大学 和研究院所举办的相关活动。
 
 ### **Assessment 评估与测试**
+The assessment complements the Teaching and Learning practices to provide both teachers and students timely and accurate information of the extent of learning, understanding of concepts and mastery of skills.
+
+评估与测试和教学形成互补，让教师和学生能够及时准确地掌握有关学生学习进展、概念理解和技能掌握的信息。
+
+In addition, assessment is also planned to assess affective domains of students, and can be differentiated to provide opportunities for students of high ability to be stretched.
+
+Individual
+
+*   Written Topical Assignments (\*include challenging questions for students of high ability)
+*   Written Topical Common Tests (\*include challenging questions for students of high ability)
+*   Written Pop Quizzes
+
+Besides individual written assignments and common tests, assessment also comes in the form of authentic performance tasks (in groups or as an individual) that mirror real-world issues & problem solving & real world applications. Designing assessment tasks which demands from students to display a variety of products and demonstrate a repertoire of skills can thus allows students to develop 21st century competencies and be competent in them.
+
+**The products and/or skills which we expect students to present or demonstrate include:**
+
+*   Science Article Review/Article Critique on newspaper articles and science journals
+*   Journal writing
+*   Abstract Writing-Students are to write abstract for a given scientific journal
+*   Authentic Learning tasks (Group report) e.g. Acid Spill Problem-Based Learning
+*   Problem-solving task e.g. Physics Product
+*   Science Investigative Project – Group presentation and report
+*   Laboratory practical work assessment e.g. observation tests (including peer evaluation)
+*   Oral Presentation of group project
+*   Planning a written experimental design
+
+**Assessments are also designed to leverage on the use of ICT. These include:**
+
+*   use of dataloggers
+*   online learning resources and online quizzes for individual’s summative performance assessment
+*   Internet Research, powerpoint presentation and wikipage
+
+**Assessments that assess affective domain**
+
+*   Peer evaluation
+*   Work attitudes
+*   Daily work
+
+**Dunman Experience**
+
+With Dunman High being a school that offers Integrated Programme, we can fully explore the advantage of building up the skills in Sciences throughout the six-year programme. There is a spiral building up of skills from Year 1 to Year 6. The Integrated Programme allows us to have holistic and comprehensive programme in the teaching and learning of Sciences. Our talented students explore research projects and participate in national competitions that require knowledge in the sciences. As they progress to Senior High, they have opportunities to organize competitions and camps for their juniors. Through these events, the Senior High students apply the knowledge built throughout their Junior High years to plan and implement tasks and activities that demonstrate their ability to incorporate knowledge from the science discipline.
+
+此外，本院也通过测试来评估学生在情感领域的发展。测试方式也可根据学生能力区分，以更有效的挑战能力高的学生。
+
+个人评估
+
+*   书面专题作业（\*包括为高能力学生所设的更具挑战性问题）
+*   书面专题测验（\*包括为高能力学生所设的更具挑战性问题）
+*   “突击”测验
+
+除了书面式的个人作业和测验外，评估也以反映现实问题的真实表现任务进行（小组或个人），来评估他们解决问题和学以致用的能力。因此，设计出能让学生展示多元的学习成果和各种技能的评估任务能让学生培养并巩固21世纪技能。。
+
+**通过本院课程，我们希望学生能呈献或展示以下的成品和/或技能：**
+
+*   评论科学篇章、报刊篇章和科学期刊
+*   记录日志
+*   编写特定科学期刊的摘要
+*   真实的学习任务（小组报告）例如：酸性液体泄漏的问题导向学习
+*   解答难题任务，例如：物理成品
+*   科学研究型专题作业——小组呈现和报告
+*   科学实验测试，例如观察测试（包括同侪互评）
+*   口头呈现小组专题作业
+*   设计书面的科学实验
+
+**评估与测试过程也借助信息和通讯技术的使用，包括：**
+
+*   数据采集器的使用
+*   用来评估个人终结性表现的网上学习资源和网上测验互联网研究，PowerPoint呈献和Wiki页面
+
+**评估也测试情感领域**
+
+*   同侪互评
+*   学习和工作态度
+*   例常课业
+
+**在德明政府的学习经验**
+
+借着提供综合课程所具备的优势，我校能通过六年课程全面地培育学生的科学知识技能。学生从一年级至六年纪将逐步地积累知识技能。综合课程让我们制定综合性和全面性的课程来进行科学的教学。我们科学才华洋溢的学生更有机会进行各类的科研活动和参与不同的全国性科学比赛。在步入高中部后，学生也将有机会为学弟妹举办各类比赛和营会。通过这些活动，高中部学生将有机会运用在初中生涯所积累的知识来策划和实施任务和活动，从而展示他们运用科学领域知识的能力。
