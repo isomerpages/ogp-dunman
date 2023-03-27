@@ -29,4 +29,35 @@ The topics offered at Junior High are shown in the following:
 | Lower Secondary | Upper Secondary | Upper Secondary |
 | -------- | -------- | -------- |
 | **Mathematics**   | **Mathematics 1**   | **Mathematics 2**   |
-| 1.  Integers   | Indices and Surds     | Quadratic Functions and Inequalities   |
+| 1.  Integers   | Indices and Surds   | Quadratic Functions and Inequalities   |
+| 2.    |   |   |
+| 3.    |   |   |
+| 4.    |   |   |
+| 5.    |   |   |
+| 6.    |   |   |
+| 7.    |   |   |
+| 8.    |   |   |
+| 9.    |   |   |
+| 10.    |   |   |
+| 11.    |   |   |
+| 12.    |   |   |
+| 12.    |   |   |
+| 12.    |   |   |
+| 12.    |   |   |
+| 12.    |   |   |
+| 12.    |   |   |
+| 12.    |   |   |
+| 12.    |   |   |
+| 12.    |   |   |
+| 12.    |   |   |
+| 12.    |   |   |
+| 12.    |   |   |
+| 12.    |   |   |
+| 12.    |   |   |
+
+### **Pedagogy 教学法**
+
+
+
+
+### **Assessment 评估与测试**
