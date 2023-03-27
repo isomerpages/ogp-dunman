@@ -30,18 +30,18 @@ The topics offered at Junior High are shown in the following:
 | -------- | -------- | -------- |
 | **Mathematics**   | **Mathematics 1**   | **Mathematics 2**   |
 | 1. Integers   | Indices and Surds   | Quadratic Functions and Inequalities   |
-| 2. Factors and Multiples  |   Linear Inequalities |   |
-| 3. Fractions and Decimals | Quadratic Expressions and Equations  |   |
-| 4. Estimation and Approximation |  Simultaneous Equations  |   |
-| 5. Real Numbers   | Coordinate Geometry   |   |
-| 6. Basic Algebra and Algebraic Manipulation   | Graphs of Functions   |   |
-| 7. Linear Algebraic Equations  |  Similarity and Congruency |   |
-| 8. Pythagoras’ Theorem    |  The Modulus Function |   |
-| 9. Area and Perimeter of Plane Figures   | Applications of Trigonometry  |   |
-| 10. Volume and Surface Area (Mensuration)    | Angle Properties of Circle  |   |
-| 11. Rate, Ratio and Proportion  |  Vectors in 2 dimensions |   |
-| 12. Percentage    |  Binomial Theorem |   |
-| 13. Data Handling and Analysis   | Probability  |   |
+| 2. Factors and Multiples  |   Linear Inequalities |  Polynomials |
+| 3. Fractions and Decimals | Quadratic Expressions and Equations  |  Functions |
+| 4. Estimation and Approximation |  Simultaneous Equations  | Trigonometric Ratios and Graphs  |
+| 5. Real Numbers   | Coordinate Geometry   |  Trigonometric Equations and Identities |
+| 6. Basic Algebra and Algebraic Manipulation   | Graphs of Functions   |   Further Trigonometric Identities |
+| 7. Linear Algebraic Equations  |  Similarity and Congruency |   Exponential and Logarithmic Functions |
+| 8. Pythagoras’ Theorem    |  The Modulus Function |   The Linear Law |
+| 9. Area and Perimeter of Plane Figures   | Applications of Trigonometry  |  Differentiation  |
+| 10. Volume and Surface Area (Mensuration)    | Angle Properties of Circle  |   Application of Differentiation|
+| 11. Rate, Ratio and Proportion  |  Vectors in 2 dimensions |   Partial Fractions |
+| 12. Percentage    |  Binomial Theorem |   Integration |
+| 13. Data Handling and Analysis   | Probability  |  Applications of Integration  |
 | 14. Geometric Construction   | Circular Measure  | -  |
 | 15. Angle Properties of Parallel Lines and Polygons | -  | -  |
 | 16. Standard Notation    | -  | -  |
@@ -54,47 +54,6 @@ The topics offered at Junior High are shown in the following:
 | 23. Algebraic Manipulation    | -  |-   |
 | 24. Trigonometry   | - | -  |
 | 25. Set Theory    | -  | -  |
-
-1. 
-2. 
-3.  
-4. 
-5. 
-6. 
-7.  
-8. 
-9.  
-10.  
-11.  
-12.  
-13.  
-14.  
-
- | 
-
-1.  Quadratic Functions and Inequalities
-2.  Polynomials
-3.  Functions
-4.  Trigonometric Ratios and Graphs
-5.  Trigonometric Equations and Identities
-6.  Further Trigonometric Identities
-7.  Exponential and Logarithmic Functions
-8.  The Linear Law
-9.  Differentiation
-10.  Application of Differentiation
-11.  Partial Fractions
-12.  Integration
-13.  Applications of Integration
-
- |
-
-
-
-
-
-
-
-
 
 此外，为了更好地让学生把握数学课程，本部门通过开展“数学建模”的项目，让学生在现实生活中应用数学。这个项目让学生尝试通过数学方式的呈现来解决现实世界中的问题并对其有更深入的认识。在初中结束时，学生不但能培养逻辑推理思维，也能学习如何以数学的方式进行沟通，并且进行合作式的学习。
 
