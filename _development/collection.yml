@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Student Development.md
-      - Student Development/.keep
       - Student Leadership.md
       - Talent Development/.keep
       - Talent Development/Talent Development.md
