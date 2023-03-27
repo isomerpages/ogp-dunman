@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: ANNOUNCEMENTS 通告
           description: News & Happenings
-          url: https://ogp-dunman-staging.netlify.app/announcements/intro-h2cll-clep/
+          url: https://ogp-dunman-staging.netlify.app//announcements/news-happenings/
   - infopic:
       title: Campus Life
       subtitle: 校园新鲜事
