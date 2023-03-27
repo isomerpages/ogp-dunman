@@ -88,7 +88,7 @@ These aims are also guided by the Ministry of Education’s Character and Citize
 
 3.2 School attire standards apply for HBL days if the student chooses to return to school.
 
-| Standards | Attire | 
+| Attire | Standards | 
 |-------- | -------- | 
 | Full-School Uniform | School attire for Mondays and Tuesdays (JH), Thursdays and Fridays (SH)
 | Full-School Uniform | Shirts are to be tucked in
@@ -96,6 +96,15 @@ These aims are also guided by the Ministry of Education’s Character and Citize
 | Full-School Uniform | School badge to be worn on left chest for JH, and left collar for SH
 | Full-School Uniform| Student Councillors are to wear the school tie and tie pin with the Full School Uniform
 | Full-School Uniform | No modification to the school uniform, for example, mismatching of uniform, tapered pants for male students, shortening length of skirt for female students, rolling of sleeves etc.
+| Half School Uniform | School attire for Wednesdays – Fridays (JH), Mondays – Wednesdays (SH)
+| Half School Uniform | ONLY White, Navy and Maroon Dunman Tee, DHS Polo T-shirt are allowed to be worn as part of Half School Uniform.
+| Half School Uniform | SH students are allowed to wear the SH House T-shirt on Mondays.
+| DHS PE Attire |  To be worn ONLY during PE lessons or when engaging in physical activities after school
+| DHS PE Attire | 
+| DHS PE Attire |
+| DHS PE Attire |
+| Half School Uniform |
+| Half School Uniform |
 
 3.3 **Dunmanians are required to wear the school tie with the Full School Uniform during the Pride and Honour Ceremony on Monday (JH), Friday (SH). Students are allowed to remove their tie in the classroom after the ceremony**.
 
