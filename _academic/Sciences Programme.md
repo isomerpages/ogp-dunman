@@ -151,14 +151,14 @@ H2生物学为打算在大学修读生物及相关科目的学生打好必备基
 
 各门科学学科不同年级的课程项目如下：
 
-| Biology Module| Chemistry Module| Physics Module|
+| 生物学（模块式课程）| 化学（模块式课程）| 物理学（模块式课程）|
 | -------- | -------- | -------- |
-|1. Cells  | Element Compounds and Mixtures  |   Laboratory Safety     |
-|2. Movement of Substances  | Solutions and Suspensions | The Scientific Endeavour     |
-|3. Ecology  | Separation Technique | Physical Quantities and Measurements |
-|4. Our Impact on the Ecosystem  | Atomic Structure  |   Particulate Nature of Matter|
-|5. Human Digestive System | Chemical Names and Formula  | Thermal Physics |
-|6. Human Circulatory System |  Acids and Alkalis | Sound |
+|1. 细胞的结构和功能  | 元素，化合物和混合物 | 实验室安全，实验室设备    |
+|2. 细胞运输  | 溶解与悬浮物质 | 科学方法  |
+|3. 生态学研究 | 分解技术 | 物理数量与SI单位 |
+|4. 人体消化系统  | 原子结构 |   密度/质量/体积|
+|5. 人体运输系统 | 化学变化和方程式  | 速度/距离/时间 |
+|6. 人体生殖系统 | 酸和碱 | 物质微粒理论 |
 |7. Human Reproductive System | Chemical Changes| Light |
 |8. - | -| Electricity |
 |9. - | -| Force, Work and Energy |
