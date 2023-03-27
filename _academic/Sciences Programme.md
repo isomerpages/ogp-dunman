@@ -56,7 +56,7 @@ Lower Secondary Science is organised through the three disciplines: Biology, Che
 
 **Year 3 & 4 Biology, Chemistry and Physics**
 
-| Biology Module| Chemistry Module| Physics Module|
+| Biology| Chemistry | Physics|
 | -------- | -------- | -------- |
 |1. Biological Molecules  | Introduction to Chemistry  | Physical Quantities, Units & Measurement    |
 |2.  Enzymes | Chemical Names & Formulae Writing  |  Practical Skills |
