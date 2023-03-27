@@ -2,13 +2,13 @@ collections:
   about-us:
     output: true
     order:
-      - Our History/Honour Roll.md
-      - Our History/Our History.md
-      - Our History/.keep
       - Principal’s Message.md
       - Mission, Vision, Motto & School Spirit.md
       - Strategic Directions.md
       - School Crest & Song.md
+      - Our History/.keep
+      - Our History/Honour Roll.md
+      - Our History/Our History.md
       - Our People/.keep
       - Our People/School Leaders.md
       - Our People/Key Personnel.md
