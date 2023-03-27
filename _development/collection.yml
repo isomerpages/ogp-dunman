@@ -2,8 +2,8 @@ collections:
   development:
     output: true
     order:
-      - School Rules.md
       - Student Development.md
+      - School Rules.md
       - Student Leadership.md
       - Talent Development/.keep
       - Talent Development/Talent Development.md
