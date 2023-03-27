@@ -34,13 +34,13 @@ The topics offered at Junior High are shown in the following:
 | 3. Fractions and Decimals |   |   |
 | 4. Estimation and Approximation |   |   |
 | 5. Real Numbers   |   |   |
-| 6.    |   |   |
-| 7.    |   |   |
-| 8.    |   |   |
-| 9.    |   |   |
-| 10.    |   |   |
-| 11.    |   |   |
-| 12.    |   |   |
+| 6. Basic Algebra and Algebraic Manipulation   |   |   |
+| 7. Linear Algebraic Equations  |   |   |
+| 8. Pythagoras’ Theorem    |   |   |
+| 9. Area and Perimeter of Plane Figures   |   |   |
+| 10. Volume and Surface Area (Mensuration)    |   |   |
+| 11. Rate, Ratio and Proportion  |   |   |
+| 12. Percentage    |   |   |
 | 13.    |   |   |
 | 14.    |   |   |
 | 15.    |   |   |
@@ -58,13 +58,13 @@ The topics offered at Junior High are shown in the following:
 
 4.  
 5.  
-6.  Basic Algebra and Algebraic Manipulation
-7.  Linear Algebraic Equations
-8.  Pythagoras’ Theorem
-9.  Area and Perimeter of Plane Figures
-10.  Volume and Surface Area (Mensuration)
-11.  Rate, Ratio and Proportion
-12.  Percentage
+6.  
+7.  
+8.  
+9.  
+10.  
+11.  
+12.  
 13.  Data Handling and Analysis
 14.  Geometric Construction
 15.  Angle Properties of Parallel Lines and Polygons
