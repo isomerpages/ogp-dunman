@@ -4,14 +4,12 @@ permalink: /academic/bicultural-studies-programme/english/
 description: ""
 third_nav_title: Bicultural Studies Programme
 ---
-
-
 ![](/images/Homepage/masthead-academic-english.jpg)
 
 ### **Curriculum 课程内容**
 The English Programme comprises a range of curricula that aim to develop in Dunmanians critical and creative thinking alongside essential language and communication skills. Capitalising on the 6 years of education our students have with us, we offer a spiral curriculum so that the students can build on the skills and content they have learnt previously.
 
-At Junior High, students offer Language Arts which enlivens the learning of the English Language through integrating aspects of linguistics, literature, media studies and social studies. Students who have a passion for Literature offer Literature in English in Years 3 and 4. At Senior High, students are further challenged to think critically about current affairs and issues of global and local significance in the study of General Paper through in-depth analysis and evaluation of wide-ranging topics. ‘A’ Level Literature in English, and English Language and Linguistics allow students to explore more closely the intricacies of the English Language so as to heighten their sensitivity to the contextual use of the language.
+At Junior High, the English Department offers a comprehensive programme which enlivens the learning of the English Language through integrating aspects of linguistics, literature, media studies and social studies. Students who have a passion for Literature offer Literature in English in Years 3 and 4. At Senior High, students are further challenged to think critically about current affairs and issues of global and local significance in the study of General Paper through in-depth analysis and evaluation of wide-ranging topics. ‘A’ Level Literature in English, and English Language and Linguistics allow students to explore more closely the intricacies of the English Language so as to heighten their sensitivity to the contextual use of the language.
 
 The following subjects are offered by the English Department:
 
