@@ -113,3 +113,29 @@ These aims are also guided by the Ministry of Education’s Character and Citize
 3.3 **Dunmanians are required to wear the school tie with the Full School Uniform during the Pride and Honour Ceremony on Monday (JH), Friday (SH). Students are allowed to remove their tie in the classroom after the ceremony**.
 
 3.4 Students are allowed to loan uniform items from the General Office ONLY for valid reasons, for example, if student is drenched in the rain. Loaned items are to be returned promptly and in clean condition.
+
+#### **4. Personal Grooming**
+
+| Standards | Male| Female |  
+|-------- | -------- | -------- | 
+| Hair   | Neat and Presentable |  Neat and Presentable|
+| Hair   | Hair length must not touch the ears and the collar of the uniform. | Fringe must not cover the eyebrow|
+| Hair   | Fringe must not cover eyebrow | Tied neatly with plain hair accessories if hair is shoulder|
+| Hair   | Strictly NO dyed or highlighted hair | Strictly NO dyed or highlighted hair |
+| Hair   | NO permed hair | NO permed hair |
+| Hair   | NO excessive thick crop of hair | - |
+| Face |  |  |
+| Accessories |  |  |
+| Others  |  |  |
+
+4.1 **The routine Attire and Personal Grooming Check will be conducted at the start and mid of each school term.**
+
+4.2 Recalcitrant students who do not act on Attire and Personal Grooming reminders from teachers will face disciplinary consequences.
+
+#### **5. School Attire**
+
+#### **3. School Attire**
+#### **3. School Attire**
+#### **3. School Attire**
+#### **3. School Attire**
+#### **3. School Attire**
