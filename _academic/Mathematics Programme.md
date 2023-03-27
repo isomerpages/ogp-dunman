@@ -41,16 +41,16 @@ The topics offered at Junior High are shown in the following:
 | 10. Volume and Surface Area (Mensuration)    |   |   |
 | 11. Rate, Ratio and Proportion  |   |   |
 | 12. Percentage    |   |   |
-| 13.    |   |   |
-| 14.    |   |   |
-| 15.    |   |   |
-| 16.    |   |   |
-| 17.    |   |   |
-| 18.    |   |   |
-| 19.    |   |   |
-| 20.    |   |   |
-| 21.    |   |   |
-| 22.    |   |   |
+| 13. Data Handling and Analysis   |   |   |
+| 14. Geometric Construction   |   |   |
+| 15. Angle Properties of Parallel Lines and Polygons |   |   |
+| 16. Standard Notation    |   |   |
+| 17. Law of Indices   |   |   |
+| 18. Algebraic Expansion and Factorization    |   |   |
+| 19. Quadratic Equations    |   |   |
+| 20. Graphs in Practical Situations  |   |   |
+| 21. Linear and Quadratic Graphs   |   |   |
+| 22. Simultaneous Equations    |   |   |
 | 23.    |   |   |
 | 24.    |   |   |
 | 25.    |   |   |
@@ -65,16 +65,16 @@ The topics offered at Junior High are shown in the following:
 10.  
 11.  
 12.  
-13.  Data Handling and Analysis
-14.  Geometric Construction
-15.  Angle Properties of Parallel Lines and Polygons
-16.  Standard Notation
-17.  Law of Indices
-18.  Algebraic Expansion and Factorization
-19.  Quadratic Equations
-20.  Graphs in Practical Situations
-21.  Linear and Quadratic Graphs
-22.  Simultaneous Equations
+13. 
+14.  
+15. 
+16.  
+17.  
+18.  
+19.  
+20.  
+21.  
+22.  
 23.  Algebraic Manipulation
 24.  Trigonometry
 25.  Set Theory
