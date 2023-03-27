@@ -152,7 +152,6 @@ H2生物学为打算在大学修读生物及相关科目的学生打好必备基
 各门科学学科不同年级的课程项目如下：
 
 
-
 **中三与四年级   生物学，化学，物理学**
 
 | 生物学 | 化学| 物理学 |
@@ -184,7 +183,6 @@ H2生物学为打算在大学修读生物及相关科目的学生打好必备基
 
 **高中一年级与二年级   生物学，化学，物理学**
 
-
 | H2 生物学| H2 化学| H2 物理学 |
 | -------- | -------- | -------- |
 |1. 细胞功能\*  | 原子，分子和化学计量学\*  | 测量\* |
@@ -210,5 +208,195 @@ H2生物学为打算在大学修读生物及相关科目的学生打好必备基
 | \* H1课项 | \* H1课项包括氧化还原反应   | \* H1课项 |
 
 ### **Pedagogy 教学法**
+
+### Differentiaterd Teaching & Learning Approach
+
+The Science programme tailors teaching environments and practices to cater to different learning experiences for our students. It is delivered to enable students to acquire the 21stcentury competencies (writing, media literacy, information and communication, civic-mindedness, critical and inventive thinking, global awareness, ethics). To promote and facilitate enduring understandings of fundamental concepts, three overarching themes run through the 6-year DHP Programme:
+
+1.  Individual
+2.  Community
+3.  World (i.e. encourages the investigation of real-life and world issues)
+
+The key themes of individual, community & the world
+
+1.  enable learners to discover the value and relevance of the various disciplines in the 21stcentury world and
+2.  help the learners to derive the Enduring Understandings.
+
+Teachers are guided by the essential question:
+
+_What do we want students to understand and be able to use several years from now, after they have forgotten the details? (Grant Wiggins & Jay McTighe)_  
+
+Teachers adopt the following approaches to Teaching and Learning:
+
+*   Student-centred spiral approach
+*   Use of ICT (e.g. CD-roms, websites, in-house videos, etc.)
+*   Inquiry-based Instruction (5E Instructional Model: Engage, Explore, Explain, Extend and Evaluate) in planning lessons and teaching packages
+*   Infusion of essential dimensions of Critical Thinking developed by Dr. Richard Paul and his colleagues at the Foundation for Critical Thinking into lesson planning, lesson delivery and assignments.
+*   Instruction to bring awareness to issues linked to the science in everyday life, the contribution and role of science to mankind, and global implications such as environmental or ethical issues.
+
+Teachers are equipped with a repertoire of _teaching_ strategies to cater to different needs of students in the learning process. Examples of the different teaching pedagogies used include:
+
+### Lesson Delivery
+
+*   Teacher directed learning that promotes critical thinking and problem-solving skills
+*   Discussion using Socratic Questioning, Inference or Deductive strategies, etc., to draw out key understanding, Peer evaluation, Peer Coaching
+*   Guided-inquiry used in teaching of certain topics
+*   Varying levels of guidance in group discussions
+*   Oral Presentation
+*   Peer Teaching, Cooperative Learning
+*   Create mind map of topics
+*   Use of games for learning
+
+### Use of ICT in Teaching & Learning
+
+*   To enhance presentations and deepen learning for students To enhance presentations and deepen learning for students, e.g. using powerpoint to present and deliver lessons; using IT to animate reactions and processes, videos to bring the relevance, contribution and impact of science closer to students
+*   To monitor students’ independent learning through posting of online quizzes for self-study topics and analyzing general areas of weakness or areas of misconception for the topics
+*   Use of wiki pages on topic for collaborative learning
+*   Virtual Learning Labs
+
+### Independent Learning
+
+*   Promoting independent learning of topics from available resources
+*   Provision of e-learning and online resources for self-study topics.
+
+### Laboratory Practical Sessions 
+
+*   Sessions are usually student-centred and focus on experiential learning. Hands-on approach is adopted and practical sessions will include data collection, data analysis, and application of knowledge to make predictions and recommendations
+*   Incorporating the use of dataloggers and demonstration set-ups
+*   In-house life sciences enrichment modules with hands-on experiences in the laboratories
+*   Provide opportunities to support the learning of concepts
+
+### Group Work: Collaborative Learning 
+
+*   Varying levels of teacher guidance in group work
+*   Grouping of students based on their strengths to complement one another
+*   To train students’ teamwork abilities, communication and presentation skills
+
+**Science Research Projects (Talent Development Programme)**
+
+*   Sessions on basic science research skills & the use of investigative research skills to complete a science research project related to current scientific and environmental problems.
+
+**Personalized Coaching**
+
+*   Conducted at individual or small group consultations to cater to individual learning needs
+
+Our content coverage extends beyond the basic syllabus in depth and breadth. By integrating out-of-class experiences and different subject disciplines in our programme, it encourages the investigation of real-life problems. Opportunities are created for discovery learning and open-ended problem solving to enable them to develop higher level thinking skills in our six-year course. These activities include:
+
+**Selected fieldtrips/workshops/courses/ Electives (based on Renzulli Enrichment Triad Model)**
+
+Out-of-classroom learning experiences and extensions are planned and conducted to provide
+
+*   Enrichment for the whole level. g. Fieldtrips
+*   Interest-based Elective courses
+*   Ability-based Electives such as Junior Chemistry and Physics Olympiad training.
+
+**Selected contests and competitions**
+
+Our students are active participants of:
+
+*   International Competition & Assessment for Science (ICAS)
+*   Local, national or international competitions that “enable interaction, competition, and cooperation with gifted peers under conditions which push individuals to perform at their best.” e.g. National Science Challenge, Singapore Junior Chemistry Olympiad, Singapore Junior Physics Olympiad, Science Olympiads, East Zone A-STAR Science Fair, Singapore Science and Engineering Fair (SSEF), International Science Fair (e.g. Taiwan International Science Fair).
+
+**Dunman High Research Programme (DHRP) – independent study and research**
+
+All Lower Secondary students will be exposed to the teaching and learning of basic research skills (such as crafting research questions, research methodology and oral presentation). Students are given the opportunity to work in interest-based groups in their selected choice of project that anchors on or is related to a particular subject discipline (e.g. Science-based).
+
+Year 3 and 4 students will have the opportunity to embark on Science Research. The Science Mentorship Research Programme (SMP) under external agencies such as Agency of Science, Technology And Research, coordinated by the Gifted Education Branch, and School-Based Research Programmes under industry partners, provides scientific research experience for more students.
+
+While students at Senior High continue to be involved in school-based research programmes, there are also opportunities for research attachments overseas (under the MOE Overseas Student Attachment Programme) and locally at the universities and research institutes (under the MOE Local Student Attachment Programme or MOE Science Research Programme or NTU Nanyang Research Programme).
+
+**差异性的教学方式**
+
+本院依据学生的不同学习经验，为学生量身定做不同的教学环境和作习，以教导21世纪技能（如书写，媒体素养，信息与通讯， 公民意识，批判和创造性思维，全球意识，道德观念等）。为了便于促进学生对基础概念有持久性的理解，本院6年课程的设计环绕三个主题：
+
+1.  个人
+2.  社区
+3.  世界（即鼓励学生探讨现实生活问题）
+
+这三大主题帮助学生
+
+1.  发掘所学领域在21世纪的价值和重要性，和
+2.  学习不朽的知识。
+
+指引教师的基本原则是：
+
+“即使学生在多年后已忘了细节，我们希望他们还能理解与应用到怎样的知识？”（_Grant Wiggins & Jay McTighe_）
+
+教师采取以下的教学方法：
+
+*   学生为中心的螺旋方式
+*   使用信息和通讯技术（如CD- ROM光盘，网站，视频录像等）
+*   在规划课程和设计教材时引用探究式教学法（5E教学模式：参与，探索，解释，扩展和评估）
+*   在备课，授课和设计作业时引用保罗理查德博士所提出的批判性思维原素
+*   与学生讨论并让他们获悉科学在日常生活中的应用，对人类的贡和其他相关的环境和伦理课题等
+
+教师具备了不同教学策略，以配合学生在学习过程中不同的需求。这些包括：
+
+**授课策略**
+
+*   培育批判性思维和提升解决问题的能力
+*   使用苏格拉底提问方式，判断或推理策略，互评和互教互学策略
+*   在某些课题教学中引导学生采取探究策略
+*   在小组讨论中根据学生水平给予适当的指导
+*   口述报告
+*   互教互学，协作学习
+*   创建思维导图
+*   游戏教学
+
+**使用信息与通讯技术**
+
+*   通过PowerPoint; 数码动画，影像视频等管道更有效的传达信息和帮助学生学习，
+*   通过线上测验监测和分析学习进度和表现来观察学生的自主学习进展
+*   wiki协作学习
+*   虚拟学习实验室
+
+**独立学习**
+
+*   从现有资源中设计学习资料
+*   提供电子学习平台和网上资源
+
+**实验室实习**
+
+*   以学生为中心，并重视体验式学习；学生在过程中将采集和分析数据，并应用知识来做出预测和建议
+*   使用数据记录仪和接触示范仪器
+*   生命科学模块式课程，包涵实验经验
+*   提供帮助学习科学概念的机会
+
+**小组作业：协作学习**
+
+*   根据学生水平给予适当的指导
+*   根据学生的强项分组
+*   培养学生团队合作，沟通和表达能力
+
+**科研作业** **(****人才培育计划****)**
+
+*   学生通过基本研究技能和创意解题的讲座及导修课，完成与当下的科学或环境问题相关的科研作业
+
+**个人指导**
+
+*   教师以单人或小组形式，和学生讨论他们个人的学习需求
+
+我们的课程内容无论在深度或广度方面都更胜于基本纲要。课程也融合课堂以外的活动与其他学科的知识，鼓励学生对现实问题进行探讨。在这6年课程中，学生将有机会通过探索式学习和开放式的题解培养高层次的思考能力。活动包括：
+
+**精心挑选的实地考察****/****工作坊****/****课程****/****选修课（按****Renzulli Enrichment Triad****模型）**
+
+这些课堂以外的拓展学习
+
+*   能提供全级学生增益的机会，例如学生将通过考察胡姬园，实地学习植物组织培养及配种的知识，
+*   能让学生凭兴趣选择选修课（校内设计或校外机构举办的的增益课程，培训班等），
+*   让能力高的学生参加具挑战性的化学或物理奥林匹克训练。
+
+**精心挑选的比赛**
+
+Passow曾说 “比赛提供了另一种发展个人潜能的机会。”
+
+我们学生积极参与以下比赛：
+
+*   国际科学竞赛与评估（ICAS）
+*   能促进与其他优秀生互动、竞赛和合作的校内，国家或国际比赛，帮助学生发挥潜能，例如国家科学挑战，新加坡初中化学与物理奥林匹克竞赛，东区A – STAR科学展，新加坡科学与工程展，国际科学展（例如台湾国际科学展）等
+
+**德明政府研究计划（****DHRP****）****–** **独立学习和研究的平台**
+
+所有初中生都将接触基本的研究技巧（例如编写研究问题和学习研究方式和口述报告等）。他们也将依兴趣分组进行以一项特定学科（如科学）为主体的研究作业。 中三和四年级的学生还将有机会参与科学研究计划。由教育部高才教育处统筹、ASTAR主导的科学专人导研计划，和与校外伙伴合作的校内科研活动，为学生提供了更多的科研机会。高中部学生的活动虽然以校内科研为主，但他们也有机会参加海外和本地大学 和研究院所举办的相关活动。
 
 ### **Assessment 评估与测试**
