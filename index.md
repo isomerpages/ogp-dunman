@@ -12,7 +12,7 @@ sections:
       background: /images/Homepage/homepage slider.gif
       key_highlights:
         - title: ANNOUNCEMENTS 通告
-          description: News & Happenings
+          description: 2022 GCE A-Level Results 考试成绩
           url: https://ogp-dunman-staging.netlify.app//announcements/news-happenings/
   - infopic:
       title: Campus Life
