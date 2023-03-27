@@ -69,23 +69,22 @@ Lower Secondary Science is organised through the three disciplines: Biology, Che
 |9. Respiration & Respiratory System  | Stoichiometry and the Mole Concept | Mass, Weight & Density |
 |10. Homeostasis |Energy from Chemicals | Dynamics (Forces)  |
 |11. Nervous System  | Redox Reaction | Turning Effect of Forces  |
-|12. Eye  |  |   |
-|13.  |  |   |
-|14.  |  |   |
-|15.  |  |   |
-|16.  |  |   |
-|17.  |  |   |
-|18.  |  |   |
-|19.  |  |   |
-|20.  |  |   |
-|21.  |  |   |
-|22.  |  |   |
-|23  |  |   |
-|24.  |  |   |
-|25.  |  |   |
-|26.  |  |   |
-|27.  |  |   |
-|14.  |  |   |
+|12. Eye  | The Periodic Table | Energy, WOrk & Power  |
+|13. Endocrine System | Speed of Reaction | Pressure  |
+|14. Excretion | Metals | Kinetic Model of Matter  |
+|15. Human Reproduction | Atmosphere & Environment | Temperature |
+|16. Molecular Genetics  | Ammonia | Transfer of Thermal Energy  |
+|17. Cell Division  | Electrolysis | Thermal Properties of Matter |
+|18. Inheritance and Evolution  | Fuels and Crude Oil  | Static Electricity  |
+|19. -  | Alkanes  | Current of Electricity  |
+|20. - | Alkenes | C.Circuits  |
+|21. -  | Alcohols | Circuit Components  |
+|22. -  | Carboxylic Acids  | Electrical Components |
+|23  Macromolecules| Practical Electricity |   |
+|24.  - | - | Magnetism  |
+|25. - | - | Electromagnetism  |
+|26. - | - | Practical Skills-Planning  |
+|27. - | - | Electromagnetic Induction  |
 
 **Year 5 & 6 Biology, Chemistry and Physics**  
 The study of Sciences at the Senior High/JC builds on the foundations and knowledge learnt at the Junior High/ ‘O’ Level to prepare students for the GCE A Level Examinations. Students purse subjects at the different levels (H1, H2 or H3) depending on their abilities and interests. Blended learning is used to encourage engaged and interactive learning. Board game learning in Biology allows students acquire knowledge through practice and peer learning. Guided inquiry learning is infused in Physics to enable students to construct their own knowledge through exploration and discovery.
