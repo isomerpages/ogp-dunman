@@ -57,5 +57,37 @@ These aims are also guided by the Ministry of Education’s Character and Citize
 
 1.8 Students are to attend all lessons unless there are valid reasons such as absence with MC, representing school at external events/competitions, leave on compassionate grounds.
 
+#### **2. Flag Raising Ceremony**
+2.1 Students are to observe decorum during the Flag Raising Ceremony.
 
-<table width="606" style="box-sizing: border-box; border-collapse: collapse; border-spacing: 0px; margin: 0px 0px 1.5em; width: 499.214px; border: none; color: rgb(64, 64, 64); font-family: &quot;PT Sans&quot;, Arial, Helvetica, 宋体, SimSun, 华文细黑, STXihei; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(241, 241, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: border-box; margin-bottom: 0px;"><tr style="box-sizing: border-box;"><td width="152" style="box-sizing: border-box; padding: 10px 20px; line-height: 1.2; text-align: left; border-bottom: 1px solid rgb(241, 241, 236); border-right: 1px solid rgb(241, 241, 236); color: rgb(20, 22, 56); background: rgb(213, 224, 242); width: 247.718px;"><strong style="box-sizing: border-box; font-weight: bold; margin-bottom: 0px;">Turnstile</strong></td><td width="152" style="box-sizing: border-box; padding: 10px 20px; line-height: 1.2; text-align: left; border-bottom: 1px solid rgb(241, 241, 236); border-right: 1px solid rgb(241, 241, 236); color: rgb(20, 22, 56); background: rgb(213, 224, 242); width: 96.6761px;"><strong style="box-sizing: border-box; font-weight: bold; margin-bottom: 0px;">Gate 1</strong></td><td width="152" style="box-sizing: border-box; padding: 10px 20px; line-height: 1.2; text-align: left; border-bottom: 1px solid rgb(241, 241, 236); border-right: 1px solid rgb(241, 241, 236); color: rgb(20, 22, 56); background: rgb(213, 224, 242); width: 82.5758px;"><strong style="box-sizing: border-box; font-weight: bold; margin-bottom: 0px;">Gate 2</strong></td><td width="152" style="box-sizing: border-box; padding: 10px 20px; line-height: 1.2; text-align: left; border-bottom: 1px solid rgb(241, 241, 236); border-right: 1px solid rgb(241, 241, 236); margin-bottom: 0px; color: rgb(20, 22, 56); background: rgb(213, 224, 242); width: 71.9413px;"><strong style="box-sizing: border-box; font-weight: bold; margin-bottom: 0px;">Gate 3</strong></td></tr><tr style="box-sizing: border-box; margin-bottom: 0px;"><td width="152" style="box-sizing: border-box; padding: 10px 20px; line-height: 1.2; text-align: left; border-bottom: 1px solid rgb(241, 241, 236); border-right: 1px solid rgb(241, 241, 236); color: rgb(255, 255, 255); background: rgb(123, 137, 182); width: 247.718px;">In Operation (using Student EZ Link card)</td><td colspan="3" width="455" style="box-sizing: border-box; padding: 10px 20px; line-height: 1.2; text-align: left; border-bottom: 1px solid rgb(241, 241, 236); border-right: 1px solid rgb(241, 241, 236); margin-bottom: 0px; color: rgb(255, 255, 255); background: rgb(123, 137, 182); width: 251.193px;">1pm – 7pm</td></tr></tbody></table>
+2.1.1 All students are to stand at attention as a mark of respect
+
+2.1.2 Singaporean students are to sing the National Anthem and recite the Pledge
+
+2.1.3 All students are to sing the School Song when it is played
+
+2.2 Students are to follow the commands given for the entire sequence of the Flag Raising Ceremony (both School Hall and Classroom)
+
+2.2.1 School, please rise for the Flag Raising Ceremony
+
+2.2.2 School, Sedia. (National Anthem is played)
+
+2.2.3 School, Ta’at Setia. The Pledge/信约 (recital in Mandarin every alternate week)
+
+2.2.4 School, Sedia.
+
+2.2.5 The School Song/校歌
+
+2.2.6 School, Senang Diri. End of Flag Raising Ceremony. Please be seated.
+
+2.3 Students are to remain seated while waiting for instructions to be dismissed class by class. Students are to walk briskly and exit the hall in an orderly manner **(for Flag Raising Ceremony in School Hall)**
+
+#### **3. School Attire**
+
+3.1 Students are to be in the day’s Full/Half School Uniform by Flag Raising Ceremony.
+
+3.2 School attire standards apply for HBL days if the student chooses to return to school.
+
+3.3 **Dunmanians are required to wear the school tie with the Full School Uniform during the Pride and Honour Ceremony on Monday (JH), Friday (SH). Students are allowed to remove their tie in the classroom after the ceremony**.
+
+3.4 Students are allowed to loan uniform items from the General Office ONLY for valid reasons, for example, if student is drenched in the rain. Loaned items are to be returned promptly and in clean condition.
