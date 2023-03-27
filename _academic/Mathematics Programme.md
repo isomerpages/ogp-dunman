@@ -30,8 +30,8 @@ The topics offered at Junior High are shown in the following:
 | -------- | -------- | -------- |
 | **Mathematics**   | **Mathematics 1**   | **Mathematics 2**   |
 | 1. Integers   | Indices and Surds   | Quadratic Functions and Inequalities   |
-| 2. Factors and Multiples  |   |   |
-| 3. Fractions and Decimals |   |   |
+| 2. Factors and Multiples  |   Linear Inequalities |   |
+| 3. Fractions and Decimals | Quadratic Expressions and Equations  |   |
 | 4. Estimation and Approximation |   |   |
 | 5. Real Numbers   |   |   |
 | 6. Basic Algebra and Algebraic Manipulation   |   |   |
@@ -55,9 +55,9 @@ The topics offered at Junior High are shown in the following:
 | 24. Trigonometry   | - | -  |
 | 25. Set Theory    | -  | -  |
 
-1.  Indices and Surds
-2.  Linear Inequalities
-3.  Quadratic Expressions and Equations
+1. 
+2. 
+3.  
 4.  Simultaneous Equations
 5.  Coordinate Geometry
 6.  Graphs of Functions
