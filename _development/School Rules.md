@@ -88,6 +88,15 @@ These aims are also guided by the Ministry of Education’s Character and Citize
 
 3.2 School attire standards apply for HBL days if the student chooses to return to school.
 
+| Standards | Attire | 
+|-------- | -------- | 
+| Full-School Uniform | School attire for Mondays and Tuesdays (JH), Thursdays and Fridays (SH)
+| Full-School Uniform | Shirts are to be tucked in
+| Full-School Uniform | Skirts for female students should be of knee length
+| Full-School Uniform | School badge to be worn on left chest for JH, and left collar for SH
+| Full-School Uniform| Student Councillors are to wear the school tie and tie pin with the Full School Uniform
+| Full-School Uniform | No modification to the school uniform, for example, mismatching of uniform, tapered pants for male students, shortening length of skirt for female students, rolling of sleeves etc.
+
 3.3 **Dunmanians are required to wear the school tie with the Full School Uniform during the Pride and Honour Ceremony on Monday (JH), Friday (SH). Students are allowed to remove their tie in the classroom after the ceremony**.
 
 3.4 Students are allowed to loan uniform items from the General Office ONLY for valid reasons, for example, if student is drenched in the rain. Loaned items are to be returned promptly and in clean condition.
