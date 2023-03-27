@@ -60,14 +60,32 @@ Lower Secondary Science is organised through the three disciplines: Biology, Che
 | -------- | -------- | -------- |
 |1. Biological Molecules  | Introduction to Chemistry  | Physical Quantities, Units & Measurement    |
 |2.  Enzymes | Chemical Names & Formulae Writing  |  Practical Skills |
-|3. Cells, Bacteria & Viruse  | Atomic Structure and Chemical Bonding | Light | 
+|3. Cells, Bacteria & Viruses  | Atomic Structure and Chemical Bonding | Light | 
 |4. Transport in Cells  | Methods of Separation and Purification  | General Waves Properties |
 |5. Digestive System  | Qualitative Analysis  |  Electromagnetic Waves |
 |6. Plant Nutrition| The Particulate Nature of Matter  |  Sound |
-|7. Circulatory System |Acids, bases and Salts | Kinematics  |
-|8. - | -|  |
-|9. - | -|  |
-
+|7. Circulatory System |Acids, Bases and Salts | Kinematics  |
+|8. Plant Transport | Qualitative Analysis| Scalars & Vectors |
+|9. Respiration & Respiratory System  | Stoichiometry and the Mole Concept | Mass, Weight & Density |
+|10. Homeostasis |Energy from Chemicals | Dynamics (Forces)  |
+|11. Nervous System  | Redox Reaction | Turning Effect of Forces  |
+|12. Eye  |  |   |
+|13.  |  |   |
+|14.  |  |   |
+|15.  |  |   |
+|16.  |  |   |
+|17.  |  |   |
+|18.  |  |   |
+|19.  |  |   |
+|20.  |  |   |
+|21.  |  |   |
+|22.  |  |   |
+|23  |  |   |
+|24.  |  |   |
+|25.  |  |   |
+|26.  |  |   |
+|27.  |  |   |
+|14.  |  |   |
 
 **Year 5 & 6 Biology, Chemistry and Physics**  
 The study of Sciences at the Senior High/JC builds on the foundations and knowledge learnt at the Junior High/ ‘O’ Level to prepare students for the GCE A Level Examinations. Students purse subjects at the different levels (H1, H2 or H3) depending on their abilities and interests. Blended learning is used to encourage engaged and interactive learning. Board game learning in Biology allows students acquire knowledge through practice and peer learning. Guided inquiry learning is infused in Physics to enable students to construct their own knowledge through exploration and discovery.
