@@ -29,11 +29,11 @@ The topics offered at Junior High are shown in the following:
 | Lower Secondary | Upper Secondary | Upper Secondary |
 | -------- | -------- | -------- |
 | **Mathematics**   | **Mathematics 1**   | **Mathematics 2**   |
-| 1.  Integers   | Indices and Surds   | Quadratic Functions and Inequalities   |
-| 2.    |   |   |
-| 3.    |   |   |
-| 4.    |   |   |
-| 5.    |   |   |
+| 1. Integers   | Indices and Surds   | Quadratic Functions and Inequalities   |
+| 2. Factors and Multiples  |   |   |
+| 3. Fractions and Decimals |   |   |
+| 4. Estimation and Approximation |   |   |
+| 5. Real Numbers   |   |   |
 | 6.    |   |   |
 | 7.    |   |   |
 | 8.    |   |   |
@@ -56,6 +56,63 @@ The topics offered at Junior High are shown in the following:
 | 25.    |   |   |
 
 
+4.  
+5.  
+6.  Basic Algebra and Algebraic Manipulation
+7.  Linear Algebraic Equations
+8.  Pythagoras’ Theorem
+9.  Area and Perimeter of Plane Figures
+10.  Volume and Surface Area (Mensuration)
+11.  Rate, Ratio and Proportion
+12.  Percentage
+13.  Data Handling and Analysis
+14.  Geometric Construction
+15.  Angle Properties of Parallel Lines and Polygons
+16.  Standard Notation
+17.  Law of Indices
+18.  Algebraic Expansion and Factorization
+19.  Quadratic Equations
+20.  Graphs in Practical Situations
+21.  Linear and Quadratic Graphs
+22.  Simultaneous Equations
+23.  Algebraic Manipulation
+24.  Trigonometry
+25.  Set Theory
+
+ | 
+
+1.  Indices and Surds
+2.  Linear Inequalities
+3.  Quadratic Expressions and Equations
+4.  Simultaneous Equations
+5.  Coordinate Geometry
+6.  Graphs of Functions
+7.  Similarity and Congruency
+8.  The Modulus Function
+9.  Applications of Trigonometry
+10.  Angle Properties of Circle
+11.  Vectors in 2 dimensions
+12.  Binomial Theorem
+13.  Probability
+14.  Circular Measure
+
+ | 
+
+1.  Quadratic Functions and Inequalities
+2.  Polynomials
+3.  Functions
+4.  Trigonometric Ratios and Graphs
+5.  Trigonometric Equations and Identities
+6.  Further Trigonometric Identities
+7.  Exponential and Logarithmic Functions
+8.  The Linear Law
+9.  Differentiation
+10.  Application of Differentiation
+11.  Partial Fractions
+12.  Integration
+13.  Applications of Integration
+
+ |
 
 
 
