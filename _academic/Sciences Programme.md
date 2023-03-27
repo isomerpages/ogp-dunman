@@ -155,13 +155,13 @@ H2生物学为打算在大学修读生物及相关科目的学生打好必备基
 
 **中三与四年级   生物学，化学，物理学**
 
-| Biology Module| Chemistry Module| Physics Module|
+| 生物学 | 化学| 物理学 |
 | -------- | -------- | -------- |
-|1. Biological Molecules  | Introduction to Chemistry  | Physical Quantities, Units & Measurement    |
-|2.  Enzymes | Chemical Names & Formulae Writing  |  Practical Skills |
-|3. Cells, Bacteria & Viruses  | Atomic Structure and Chemical Bonding | Light | 
-|4. Transport in Cells  | Methods of Separation and Purification  | General Waves Properties |
-|5. Digestive System  | Qualitative Analysis  |  Electromagnetic Waves |
+|1. 生物分子  | 化学简介  |  物理量，单位与测量  |
+|2. 酶| 纯化方式 | 运动学  |
+|3. 细胞结构和组织  | 定性分析| 动态学 | 
+|4. 物质动态 | 物质的微粒性质 | 质量，重量和密度  |
+|5. 动物营养  | 公式与计量法  |  力量的圆转作用 |
 |6. Plant Nutrition| The Particulate Nature of Matter  |  Sound |
 |7. Circulatory System |Acids, Bases and Salts | Kinematics  |
 |8. Plant Transport | Qualitative Analysis| Scalars & Vectors |
