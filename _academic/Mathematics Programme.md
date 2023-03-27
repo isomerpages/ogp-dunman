@@ -74,3 +74,12 @@ Being a school offering an Integrated Programme allows us to have holistic and c
 
 
 ### **Assessment 评估与测试**
+Other than pen-and-paper tests, the Mathematics Programme places emphasis on alternative assessment which focus on the conceptual understanding of what has been learned.
+
+除了例常笔试外，本课程的评估方式也包涵其他类型，以更全面地测试学生对所学概念的理解。
+
+In the midst of their learning, students are also given authentic tasks which allow them to apply what they have learnt in the classroom to the world outside.
+
+Examples of alternative assessment include interdisciplinary projects such as creating a rain gauge or cereal box, Viva Voce (Oral presentation), creative problem posing and solving as well as mathematical games and modelling. Other examples include writing a proposal for a modified Health and Fitness Indicator, and using a software to determine the minimum surface area of a solid figure.
+
+一些跨学科的真实评估包括雨量计和麦片盒的制作，口述报告，创意问题的提问与解答，以及各类数学游戏和建模活动等。其他例子还包括为改良后的健康和体能指示器草拟计划书，以及使用软件来鉴定一个固体的最小面积。
