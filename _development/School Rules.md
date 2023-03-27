@@ -32,12 +32,14 @@ These aims are also guided by the Ministry of Education’s Character and Citize
 1.3 Gates Operating Hours in the morning
 
 #### **Vehicular Entry**
+
 | Timing/Gate | Gate 1 (Tanjong Rhu Road) | Gate 3 (Kampong Arang Road | 
 |-------- | -------- | -------- |
 | Mon, Tues, Thurs and Fri | 6.30 am – 7.55 am | 6.30 am – 7.55 am | 
 | Wed | 6.30 am – 8.55 am | 6.30 am – 8.55 am | 
 
 #### **Turnstile Entry**
+
 | Timing/Gate | Gate 2 and 3 | 
 |-------- | -------- | 
 | Mon, Tues, Thurs and Fri | 6.30 am – 7.55 am | 6.30 am – 7.55 am | 
