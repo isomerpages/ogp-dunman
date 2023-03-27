@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Homepage/masthead-announcement-school.jpg)
 
-### 2022 GCE ‘A’ Level Results A 水准考试成绩
+* ### 2022 GCE ‘A’ Level Results A 水准考试成绩
 
 The school congratulates the 2022 Year 6 cohort for their excellent achievements in the 2022 GCE A-Level Examinations!  A total of 442 Dunmanians sat for the Examinations, and they have done themselves and the school proud with their hard work and achievements!
 
