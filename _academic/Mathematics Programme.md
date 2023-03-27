@@ -32,17 +32,17 @@ The topics offered at Junior High are shown in the following:
 | 1. Integers   | Indices and Surds   | Quadratic Functions and Inequalities   |
 | 2. Factors and Multiples  |   Linear Inequalities |   |
 | 3. Fractions and Decimals | Quadratic Expressions and Equations  |   |
-| 4. Estimation and Approximation |   |   |
-| 5. Real Numbers   |   |   |
-| 6. Basic Algebra and Algebraic Manipulation   |   |   |
-| 7. Linear Algebraic Equations  |   |   |
-| 8. Pythagoras’ Theorem    |   |   |
-| 9. Area and Perimeter of Plane Figures   |   |   |
-| 10. Volume and Surface Area (Mensuration)    |   |   |
-| 11. Rate, Ratio and Proportion  |   |   |
-| 12. Percentage    |   |   |
-| 13. Data Handling and Analysis   |   |   |
-| 14. Geometric Construction   |   | -  |
+| 4. Estimation and Approximation |  Simultaneous Equations  |   |
+| 5. Real Numbers   | Coordinate Geometry   |   |
+| 6. Basic Algebra and Algebraic Manipulation   | Graphs of Functions   |   |
+| 7. Linear Algebraic Equations  |  Similarity and Congruency |   |
+| 8. Pythagoras’ Theorem    |  The Modulus Function |   |
+| 9. Area and Perimeter of Plane Figures   | Applications of Trigonometry  |   |
+| 10. Volume and Surface Area (Mensuration)    | Angle Properties of Circle  |   |
+| 11. Rate, Ratio and Proportion  |  Vectors in 2 dimensions |   |
+| 12. Percentage    |  Binomial Theorem |   |
+| 13. Data Handling and Analysis   | Probability  |   |
+| 14. Geometric Construction   | Circular Measure  | -  |
 | 15. Angle Properties of Parallel Lines and Polygons | -  | -  |
 | 16. Standard Notation    | -  | -  |
 | 17. Law of Indices   |  - |-   |
@@ -58,17 +58,17 @@ The topics offered at Junior High are shown in the following:
 1. 
 2. 
 3.  
-4.  Simultaneous Equations
-5.  Coordinate Geometry
-6.  Graphs of Functions
-7.  Similarity and Congruency
-8.  The Modulus Function
-9.  Applications of Trigonometry
-10.  Angle Properties of Circle
-11.  Vectors in 2 dimensions
-12.  Binomial Theorem
-13.  Probability
-14.  Circular Measure
+4. 
+5. 
+6. 
+7.  
+8. 
+9.  
+10.  
+11.  
+12.  
+13.  
+14.  
 
  | 
 
