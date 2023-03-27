@@ -69,7 +69,7 @@ Lower Secondary Science is organised through the three disciplines: Biology, Che
 |9. Respiration & Respiratory System  | Stoichiometry and the Mole Concept | Mass, Weight & Density |
 |10. Homeostasis |Energy from Chemicals | Dynamics (Forces)  |
 |11. Nervous System  | Redox Reaction | Turning Effect of Forces  |
-|12. Eye  | The Periodic Table | Energy, WOrk & Power  |
+|12. Eye  | The Periodic Table | Energy, Work & Power  |
 |13. Endocrine System | Speed of Reaction | Pressure  |
 |14. Excretion | Metals | Kinetic Model of Matter  |
 |15. Human Reproduction | Atmosphere & Environment | Temperature |
@@ -162,21 +162,21 @@ H2生物学为打算在大学修读生物及相关科目的学生打好必备基
 |3. 细胞结构和组织  | 定性分析| 动态学 | 
 |4. 物质动态 | 物质的微粒性质 | 质量，重量和密度  |
 |5. 动物营养  | 公式与计量法  |  力量的圆转作用 |
-|6. Plant Nutrition| The Particulate Nature of Matter  |  Sound |
-|7. Circulatory System |Acids, Bases and Salts | Kinematics  |
-|8. Plant Transport | Qualitative Analysis| Scalars & Vectors |
-|9. Respiration & Respiratory System  | Stoichiometry and the Mole Concept | Mass, Weight & Density |
-|10. Homeostasis |Energy from Chemicals | Dynamics (Forces)  |
-|11. Nervous System  | Redox Reaction | Turning Effect of Forces  |
-|12. Eye  | The Periodic Table | Energy, WOrk & Power  |
-|13. Endocrine System | Speed of Reaction | Pressure  |
-|14. Excretion | Metals | Kinetic Model of Matter  |
-|15. Human Reproduction | Atmosphere & Environment | Temperature |
-|16. Molecular Genetics  | Ammonia | Transfer of Thermal Energy  |
-|17. Cell Division  | Electrolysis | Thermal Properties of Matter |
-|18. Inheritance and Evolution  | Fuels and Crude Oil  | Static Electricity  |
-|19. -  | Alkanes  | Current of Electricity  |
-|20. - | Alkenes | C.Circuits  |
+|6. 呼吸系统| 原子结构和化学键 | 压力 |
+|7. 人类身体的运输系统 | 酸，碱和盐 | 能量  |
+|8. 植物营养 ; 有花植物的运输系统 | 化学能源品| 物质动力模型  |
+|9. 动态平衡  | 氧化还原反应 | 热能转移 |
+|10. 协调和反应: 神经系统 |化学反应 | 温度 |
+|11. 协调和反应: 眼 | 电解 | 物质的热能性质 |
+|12. 排泄系统  | 元素表 | 一般波的性质 |
+|13. 分子遗传学 | 金属  | 反射  |
+|14. 细胞分裂 | 空气 | 折射  |
+|15. 遗传学 | 燃料及原油 | 超薄镜片 |
+|16. 人类的繁殖法  | 烷烃 | 电磁频谱 |
+|17. -  | 大气与环境| 声音 |
+|18. -  | 酒精  | 静电  |
+|19. -  | 羧酸  | 电力  |
+|20. - | 大分子 | 直流电力  |
 |21. -  | Alcohols | Circuit Components  |
 |22. -  | Carboxylic Acids  | Electrical Components |
 |23  Macromolecules| Practical Electricity |   |
