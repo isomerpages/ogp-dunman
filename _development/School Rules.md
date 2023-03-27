@@ -26,3 +26,20 @@ These aims are also guided by the Ministry of Education’s Character and Citize
 |-------- | -------- | -------- | -------- |  -------- |  -------- |
 | Junior High | 8 am School Hall | 8 am School Hall | 9 am Classroom | 8 am Classroom | 8 am Classroom |
 | Senior High | 8 am Classroom | 8 am Classroom | 9 am Classroom | 8 am School Hall | 8 am School Hall
+
+1.2 Students who are not standing in position with their respective class at the Flag Raising Ceremony venue **by 8 am (9 am for Wednesday)** will be considered as late for school.
+
+1.3 Gates Operating Hours in the morning
+
+#### **Vehicular Entry**
+| Timing/Gate | Gate 1 (Tanjong Rhu Road) | Gate 3 (Kampong Arang Road | 
+|-------- | -------- | -------- |
+| Mon, Tues, Thurs and Fri | 6.30 am – 7.55 am | 6.30 am – 7.55 am | 
+| Wed | 6.30 am – 8.55 am | 6.30 am – 8.55 am | 
+
+#### **Turnstile Entry**
+| Timing/Gate | Gate 2 and 3 | 
+|-------- | -------- | 
+| Mon, Tues, Thurs and Fri | 6.30 am – 7.55 am | 6.30 am – 7.55 am | 
+| Wed | 6.30 am – 8.55 am | 6.30 am – 8.55 am | 
+
