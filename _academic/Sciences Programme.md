@@ -151,38 +151,40 @@ H2生物学为打算在大学修读生物及相关科目的学生打好必备基
 
 各门科学学科不同年级的课程项目如下：
 
-**中一与二年级 初中科学**
 
-| 生物学（模块式课程）| 化学（模块式课程）| 物理学（模块式课程）|
-| -------- | -------- | -------- |
-|1. 细胞的结构和功能  | 元素，化合物和混合物 | 实验室安全，实验室设备    |
-|2. 细胞运输  | 溶解与悬浮物质 | 科学方法  |
-|3. 生态学研究 | 分解技术 | 物理数量与SI单位 |
-|4. 人体消化系统  | 原子结构 |   密度/质量/体积|
-|5. 人体运输系统 | 化学变化和方程式  | 速度/距离/时间 |
-|6. 人体生殖系统 | 酸和碱 | 物质微粒理论 |
-|7. -| -| 热能 |
-|8. - | -| 状态的变化 |
-|9. - | -| 能源传热|
-|10. - | -| 动力的作用 |
-|11. - | -| 热能（热量和温度，沸腾/蒸发/融化/冻结/凝结，传导/对流/辐射，扩张/收缩） |
-|12. - | -| 般波的性质 |
-|13 - | -| 光学（反射和折射） |
-|14 - | -| 电力 |
 
 **中三与四年级   生物学，化学，物理学**
 
 | Biology Module| Chemistry Module| Physics Module|
 | -------- | -------- | -------- |
-|1. Cells  | Element Compounds and Mixtures  |   Laboratory Safety     |
-|2. Movement of Substances  | Solutions and Suspensions | The Scientific Endeavour     |
-|3. Ecology  | Separation Technique | Physical Quantities and Measurements |
-|4. Our Impact on the Ecosystem  | Atomic Structure  |   Particulate Nature of Matter|
-|5. Human Digestive System | Chemical Names and Formula  | Thermal Physics |
-|6. Human Circulatory System |  Acids and Alkalis | Sound |
-|7. Human Reproductive System | Chemical Changes| Light |
-|8. - | -| Electricity |
-|9. - | -| Force, Work and Energy |
+|1. Biological Molecules  | Introduction to Chemistry  | Physical Quantities, Units & Measurement    |
+|2.  Enzymes | Chemical Names & Formulae Writing  |  Practical Skills |
+|3. Cells, Bacteria & Viruses  | Atomic Structure and Chemical Bonding | Light | 
+|4. Transport in Cells  | Methods of Separation and Purification  | General Waves Properties |
+|5. Digestive System  | Qualitative Analysis  |  Electromagnetic Waves |
+|6. Plant Nutrition| The Particulate Nature of Matter  |  Sound |
+|7. Circulatory System |Acids, Bases and Salts | Kinematics  |
+|8. Plant Transport | Qualitative Analysis| Scalars & Vectors |
+|9. Respiration & Respiratory System  | Stoichiometry and the Mole Concept | Mass, Weight & Density |
+|10. Homeostasis |Energy from Chemicals | Dynamics (Forces)  |
+|11. Nervous System  | Redox Reaction | Turning Effect of Forces  |
+|12. Eye  | The Periodic Table | Energy, WOrk & Power  |
+|13. Endocrine System | Speed of Reaction | Pressure  |
+|14. Excretion | Metals | Kinetic Model of Matter  |
+|15. Human Reproduction | Atmosphere & Environment | Temperature |
+|16. Molecular Genetics  | Ammonia | Transfer of Thermal Energy  |
+|17. Cell Division  | Electrolysis | Thermal Properties of Matter |
+|18. Inheritance and Evolution  | Fuels and Crude Oil  | Static Electricity  |
+|19. -  | Alkanes  | Current of Electricity  |
+|20. - | Alkenes | C.Circuits  |
+|21. -  | Alcohols | Circuit Components  |
+|22. -  | Carboxylic Acids  | Electrical Components |
+|23  Macromolecules| Practical Electricity |   |
+|24.  - | - | Magnetism  |
+|25. - | - | Electromagnetism  |
+|26. - | - | Practical Skills-Planning  |
+|27. - | - | Electromagnetic Induction  |
+
 
 ### **Pedagogy 教学法**
 
