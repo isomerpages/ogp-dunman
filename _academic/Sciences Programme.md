@@ -62,9 +62,9 @@ Lower Secondary Science is organised through the three disciplines: Biology, Che
 |2.  Enzymes | Chemical Names & Formulae Writing  |  Practical Skills |
 |3. Cells, Bacteria & Viruse  | Atomic Structure and Chemical Bonding | Light | 
 |4. Transport in Cells  | Methods of Separation and Purification  | General Waves Properties |
-|5. Plant Nutrition  |   | |
-|6.  |   | |
-|7.  | |  |
+|5. Digestive System  | Qualitative Analysis  |  Electromagnetic Waves |
+|6. Plant Nutrition| The Particulate Nature of Matter  |  Sound |
+|7. Circulatory System |Acids, bases and Salts | Kinematics  |
 |8. - | -|  |
 |9. - | -|  |
 
