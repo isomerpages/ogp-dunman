@@ -100,11 +100,15 @@ These aims are also guided by the Ministry of Education’s Character and Citize
 | Half School Uniform | ONLY White, Navy and Maroon Dunman Tee, DHS Polo T-shirt are allowed to be worn as part of Half School Uniform.
 | Half School Uniform | SH students are allowed to wear the SH House T-shirt on Mondays.
 | DHS PE Attire |  To be worn ONLY during PE lessons or when engaging in physical activities after school
-| DHS PE Attire | 
-| DHS PE Attire |
-| DHS PE Attire |
-| Half School Uniform |
-| Half School Uniform |
+| DHS PE Attire | Dark coloured sports shorts of appropriate length may be worn for CCA, subjected to approval
+| DHS PE Attire |For hygiene purposes, students are to change out of their PE attire after PE and before the end of recess/lunch break
+| Footwear | Shoes and shoe laces should be simple in design
+| Footwear | No high-cut shoes
+| Footwear| Plain socks that are visible above the ankle should be worn
+| Footwear| Students with medical conditions that require alternative footwear must seek permission from FT/CT
+| Others | Face masks, if worn, should not contain offensive words/logos/images
+| Others | Students should be properly attired when engaging in sports
+| Others | ONLY black belts with a simple buckle design are allowed (SH only)
 
 3.3 **Dunmanians are required to wear the school tie with the Full School Uniform during the Pride and Honour Ceremony on Monday (JH), Friday (SH). Students are allowed to remove their tie in the classroom after the ceremony**.
 
