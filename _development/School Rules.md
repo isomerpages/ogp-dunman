@@ -135,10 +135,107 @@ These aims are also guided by the Ministry of Education’s Character and Citize
 
 4.2 Recalcitrant students who do not act on Attire and Personal Grooming reminders from teachers will face disciplinary consequences.
 
-#### **5. School Attire**
+#### **5. Conduct in School**
+The school provides a safe and conducive environment for the learning of all Dunmanians. Our behaviour in school must reflect our attitude towards learning and commitment to character development.
 
-#### **3. School Attire**
-#### **3. School Attire**
-#### **3. School Attire**
-#### **3. School Attire**
-#### **3. School Attire**
+**Digital devices are used to aid our learning in school. Any form of usage for purposes other than learning is not allowed during lesson time.**
+
+5.1 Students are to place their mobile phones in their bag before the start of lesson. It is against the school rule for students to use their phones without permission during lesson time.
+
+5.2 Students are not allowed to consume food and drinks in the classrooms. They are allowed to do so only at Level 1.
+
+5.3 Usage of lift is reserved for school staff and visitors. Students who need to use the lift for an extended period because of valid medical conditions can request for a lift pass from the General Office.
+
+5.4 Sports are meant to be played at designated sports facilities. Students are not allowed to engage in sports beyond these facilities, for example, passing and bouncing of balls along the corridors.
+
+5.5 Students are expected to keep their classrooms and learning venues clean for a conducive learning environment.
+
+5.6 Disrespectful behaviour to any school staff will be deemed as a Major Offence.
+
+5.7 **Students are not allowed to have in their possession any weapons, weapon-like items, that may be used or used to cause harm to others.**
+
+#### **6. School Attire**
+Dunmanians are ambassadors of the school when in uniform. Students are expected to behave with propriety, for example, exercising consideration to other users in a shared public setting (public transport, F&B establishments).
+
+6.1 Public nuisance, such as gathering in large groups, talking loudly, passing snide remarks, is considered inappropriate behaviour.
+
+6.2 Public display of affection between students in school uniform is considered inappropriate behaviour. The school will engage both the students and their parents.
+
+6.3 Students are to observe traffic rules when crossing the road. Jaywalking is against the law and endangers the life of the student.
+
+#### **7. Cyber Etiquette**
+7.1 The following cyber behaviour are examples of minor/major offences
+
+7.1.1 Using of vulgar/offensive language, whether it is targeted or in general
+
+7.1.2 Using sexually suggestive language, whether textual, visual, emojis, stickers
+
+7.1.3 Harassing/intimidating other online users, for example, naming and shaming
+
+7.1.4 Posting of photographs that seek to humiliate/threaten others
+
+7.1.5 Adding inappropriate captions to photographs that may be taken out of context
+
+7.1.6 Engaging in discriminatory discourse, for example, matters of race and religion
+
+7.1.7 Impersonating others and sending information under a false identity
+
+7.1.8 Spreading of misinformation that may cause alarm to others
+
+7.1.9 Using recording devices to take photos/videos of others without their permission
+
+7.2 **Students who witness any inappropriate online behaviour are to report to their teachers as soon as possible**.
+
+#### **8.  List of Minor and Major Offences****
+
+##### **Examples of Minor Offerences**
+
+**Attendance**
+
+1.  **Late coming** – Being late for school without a valid reason
+2.  **Skipping classes** – Being absent from formal lessons (including remedial) without a valid reason
+
+**Misconduct**
+
+1.  **Improper attire and personal grooming** – Disobeying school rules on attire, haircut, wearing of jewelry etc. Modification of school uniform is considered a major offence.
+2.  **Littering** – Dropping or leaving rubbish in school premises or public places
+3.  **Using vulgar language** – verbalising coarse or abusive language (including online communications)
+4.  **Inconsiderate behaviour** – Eating and drinking outside designated areas, not following the rules of taking of lift, inconsiderate public behaviour
+
+##### **Examples of Major Offerences**
+**Attendance**
+
+1.  **Truancy** – Being absent from school without a valid reason on school days (Mon – Fri)
+2.  **Leaving school grounds without permission** – Leaving school grounds after reporting but before the end of the school session without the school’s approval
+
+**Misconduct**
+
+1.  **Bullying** – Hurting, frightening or intimidating others to deliberately cause harm, distress or humiliation. It can either be physical, verbal or psychological in nature. This includes cyberbullying.
+2.  **Cheating in assessments/tests/exams** – Possessing notes or other prohibited items, copying from others, allowing others to copy, tampering with marks
+3.  **Disruptive behaviour** – Interfering with the smooth running of class or school events
+4.  **Forgery** – Forging signatures, medical certificates, consent forms etc with the intention to deceive
+5.  **Open defiance and/or rudeness** – Refusing to conform to school rules, norms and practices; disobeying teachers’ instructions; displaying rudeness and disrespect in speech or body language
+6.  **Repeated minor offences**
+
+**Theft/Damage of Property**
+
+1.  **Arson** – Planting explosives or setting property on fire, whether attempted or actual
+2.  **Theft** – Stealing school property or property belonging to others
+3.  **Vandalism** – Vandalising school or personal property, writing graffiti
+
+**Other Serious Offences**
+
+1.  **Assault** – Attacking others violently, whether causing injury or not
+2.  **Fighting** – Being involved in a confrontation between individuals or opposing groups in which each attempts to harm or gain power over the other, with bodily force or weapons
+3.  **Gambling** – Using money in games, betting, etc
+4.  **Gangsterism** – Being involved in a gang assault/threat/harassment/extortion, whether actual or attempted
+5.  **Pornography** – Consuming/possessing/distributing/selling pornographic materials
+6.  **Possession of weapons** – Possessing weapons that may be used in a crime
+7.  **Sexual Misconduct** – Being involved in attempted rape, outrage of modesty, underage sex, sexual grooming, voyeurism etc.
+8.  **Smoking** – Using/possessing/distributing/selling cigarettes
+9.  **Vaping** – Using/possessing/distributing/selling e-vaporisers and accessories
+10.  **Types of abuse –** Consuming/possessing/distributing/selling alcohol, drugs, inhalants
+
+
+#### **9. School Attire**
+#### **10. School Attire**
