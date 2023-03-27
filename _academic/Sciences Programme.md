@@ -58,7 +58,7 @@ Lower Secondary Science is organised through the three disciplines: Biology, Che
 
 | Biology Module| Chemistry Module| Physics Module|
 | -------- | -------- | -------- |
-|1. Cells  | Element Compounds and Mixtures  |   Laboratory Safety     |
+|1. Biological Molecules  | Element Compounds and Mixtures  |   Laboratory Safety     |
 |2. Movement of Substances  | Solutions and Suspensions | The Scientific Endeavour     |
 |3. Ecology  | Separation Technique | Physical Quantities and Measurements |
 |4. Our Impact on the Ecosystem  | Atomic Structure  |   Particulate Nature of Matter|
