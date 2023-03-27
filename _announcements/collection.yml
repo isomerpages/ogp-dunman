@@ -2,4 +2,4 @@ collections:
   announcements:
     output: true
     order:
-      - Announcements 通告.md
+      - Announcements.md
