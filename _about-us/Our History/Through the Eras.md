@@ -4,11 +4,9 @@ permalink: /about-dhs/school-history/
 description: ""
 third_nav_title: Our History
 ---
-
-
 ![](/images/Homepage/masthead-about-history.jpg)
 
-### **Through the Eras:**
+### **Timeline**
 
 #### **|[1956 - 2001](https://dhs.edu.sg/sch-history-1956) |[2002 - 2019](https://dhs.edu.sg/sch-history-2004)  | [2020 - 2022](https://dhs.edu.sg/sch-history-2021)|**
 
