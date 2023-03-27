@@ -58,15 +58,15 @@ Lower Secondary Science is organised through the three disciplines: Biology, Che
 
 | Biology Module| Chemistry Module| Physics Module|
 | -------- | -------- | -------- |
-|1. Biological Molecules  | Element Compounds and Mixtures  |   Laboratory Safety     |
-|2. Movement of Substances  | Solutions and Suspensions | The Scientific Endeavour     |
-|3. Ecology  | Separation Technique | Physical Quantities and Measurements |
-|4. Our Impact on the Ecosystem  | Atomic Structure  |   Particulate Nature of Matter|
-|5. Human Digestive System | Chemical Names and Formula  | Thermal Physics |
-|6. Human Circulatory System |  Acids and Alkalis | Sound |
-|7. Human Reproductive System | Chemical Changes| Light |
-|8. - | -| Electricity |
-|9. - | -| Force, Work and Energy |
+|1. Biological Molecules  | Introduction to Chemistry  | Physical Quantities, Units & Measurement    |
+|2.  Enzymes | Chemical Names & Formulae Writing  |  Practical Skills |
+|3. Cells, Bacteria & Viruse  | Atomic Structure and Chemical Bonding | Light | 
+|4. Transport in Cells  | Methods of Separation and Purification  | General Waves Properties |
+|5. Plant Nutrition  |   | |
+|6.  |   | |
+|7.  | |  |
+|8. - | -|  |
+|9. - | -|  |
 
 
 **Year 5 & 6 Biology, Chemistry and Physics**  
