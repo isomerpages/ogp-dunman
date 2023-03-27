@@ -236,6 +236,16 @@ Dunmanians are ambassadors of the school when in uniform. Students are expected 
 9.  **Vaping** – Using/possessing/distributing/selling e-vaporisers and accessories
 10.  **Types of abuse –** Consuming/possessing/distributing/selling alcohol, drugs, inhalants
 
+#### **9. Disciplinary Consequences**
 
-#### **9. School Attire**
-#### **10. School Attire**
+**The list of offences and disciplinary consequences stated above are not exhaustive and are subjected to changes.**  
+
+**The Discipline Committee may mete out consequences which could include a combination of measures in proportion to the nature, intent and gravity of the offence(s) committed by a student.**
+
+#### **10. Conduct Grade**
+
+10.1 Student’s Conduct Grade is reflected in their semestral result slip report.
+
+10.2 Students’ Conduct Grade will be considered in the application of scholarships, leadership appointments and representation of school for external programmes etc. If a student is nominated for an award or an opportunity, both within and beyond the school, his/her Conduct Grade will be considered before the nomination is endorsed.
+
+10.3 The Conduct Grade is awarded by FT/CTs in consultation with Subject and CCA Teachers. The final Conduct Grade is subjected to approval from the Discipline Committee.
