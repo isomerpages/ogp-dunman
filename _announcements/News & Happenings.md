@@ -11,7 +11,7 @@ description: ""
     <input type="checkbox" id="accordion1">
     <label for="accordion1">READ MORE</label>
     <div>
-			
+
 <p>The school congratulates the 2022 Year 6 cohort for their excellent achievements in the 2022 GCE A-Level Examinations!  A total of 442 Dunmanians sat for the Examinations, and they have done themselves and the school proud with their hard work and achievements!</p>
 
 <p>The cohort achieved a median University Admission Score (UAS) of 84, with about 1 in 2 attaining the University Admission Score (UAS) of 85 or more rank points.  More than 1 in 3 Dunmanians scored at least 3 H2 distinctions and about 1 in 5 scored at least 6 distinctions.</p>
@@ -27,3 +27,5 @@ description: ""
 <p>在所有的 9 个 H2 科目中，至少有二分之一的学生考获一个特优。此外，大约五分之四的修读深化课程 (H3) 的学生在该科目中考获特优或优秀的好成绩。</p>
 
 <p>德明人出色的学业成绩和在课程辅助活动中的优异表现，已经向我们证明：德明人已具备了良好的关怀、服务和引领的能力。身为学习楷模和荣誉领袖，他们随时乐意为新加坡社会无私奉献，成为真正的社稷栋梁。</p>
+			
+![](/images/Homepage/senior%20high%20news.png)
