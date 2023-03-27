@@ -25,3 +25,9 @@ Apart from the Mathematics Curriculum, all Upper Secondary students also attend 
 ### Curriculum Content
 
 The topics offered at Junior High are shown in the following:
+
+| Lower Secondary | Upper Secondary | Upper Secondary |
+| -------- | -------- | -------- |
+| **Mathematics**   | **Mathematics 1**   | **Mathematics 2**   |
+| 1.  Integers   | Indices and Surds     | Quadratic Functions and Inequalities   |
+
