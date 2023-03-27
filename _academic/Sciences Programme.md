@@ -272,11 +272,11 @@ Teachers are equipped with a repertoire of _teaching_ strategies to cater to d
 *   Grouping of students based on their strengths to complement one another
 *   To train students’ teamwork abilities, communication and presentation skills
 
-**Science Research Projects (Talent Development Programme)**
+### Science Research Projects (Talent Development Programme)
 
 *   Sessions on basic science research skills & the use of investigative research skills to complete a science research project related to current scientific and environmental problems.
 
-**Personalized Coaching**
+### Personalized Coaching
 
 *   Conducted at individual or small group consultations to cater to individual learning needs
 
@@ -297,7 +297,7 @@ Our students are active participants of:
 *   International Competition & Assessment for Science (ICAS)
 *   Local, national or international competitions that “enable interaction, competition, and cooperation with gifted peers under conditions which push individuals to perform at their best.” e.g. National Science Challenge, Singapore Junior Chemistry Olympiad, Singapore Junior Physics Olympiad, Science Olympiads, East Zone A-STAR Science Fair, Singapore Science and Engineering Fair (SSEF), International Science Fair (e.g. Taiwan International Science Fair).
 
-**Dunman High Research Programme (DHRP) – independent study and research**
+### Dunman High Research Programme (DHRP)- Independent Study & Research
 
 All Lower Secondary students will be exposed to the teaching and learning of basic research skills (such as crafting research questions, research methodology and oral presentation). Students are given the opportunity to work in interest-based groups in their selected choice of project that anchors on or is related to a particular subject discipline (e.g. Science-based).
 
