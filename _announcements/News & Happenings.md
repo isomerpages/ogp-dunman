@@ -7,7 +7,7 @@ description: ""
 
 ### [2022 GCE ‘A’ Level Results A 水准考试成绩](https://dhs.edu.sg/sh-news-happenings)
 
-![](/images/Homepage/senior%20high%20news.png)
+![](/images/Homepage/senior%20high.png)
 
 <ul class="jekyllcodex_accordion">
   <li>
