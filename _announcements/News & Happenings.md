@@ -9,7 +9,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">Read More</label>
+    <label for="accordion1">MORE</label>
     <div>
 			
 <p>The school congratulates the 2022 Year 6 cohort for their excellent achievements in the 2022 GCE A-Level Examinations!  A total of 442 Dunmanians sat for the Examinations, and they have done themselves and the school proud with their hard work and achievements!</p>
