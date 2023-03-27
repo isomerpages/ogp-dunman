@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Achievements.md
-      - Honour Roll.md
       - School.md
       - Scholars/.keep
       - Scholars/Scholars.md
