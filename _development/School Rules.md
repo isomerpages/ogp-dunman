@@ -240,6 +240,18 @@ Dunmanians are ambassadors of the school when in uniform. Students are expected 
 
 #### **9. Disciplinary Consequences**
 
+| Examples of Follwing Up Actions/Consequences | |    
+|-------- | -------- | 
+| **Counselling by Teacher/Counsellor**   |  The teacher/counsellor will help students to reflect on their actions, so as to bring about a change in behaviour or attitude. | 
+|  **Engaging Parents/Guardian**  |  The school believes in partnering parents to support students who demonstrate behavioural problems or discipline issues. The school will engage parents/guardian throughout the process when managing students. For students who have committed a serious offence, the Principal will invite the parents/guardian to the school for a discussion. | 
+|  **Cap on Conduct Grade**  |The Conduct Grade reflects the behaviour of the student. Students who have committed minor offences will be given a Conduct Grade no better than “Good”. Students who have committed major or serious offences will be given a Conduct Grade no better than “Fair”.   | 
+|  **Warning Letter**  |  The school may issue a warning letter to the students through the parents/guardian, stating further consequences should the student continues to violate the school rules. | 
+| **Detention/ Corrective Work Order**   |  Teachers can send students for school-wide detention/corrective work conducted by the Discipline Committee. Detention will supersede all CCAs or additional lessons. Students must turn up for the scheduled detention regardless of their personal commitment. | 
+| **Zero marks**   | Students who do not adhere to the instructions and regulations of school-based assessment will be given no mark for the paper in which he/she flouted the rules and regulations.  | 
+|  **Suspension from Class/School**  |  Depending on the nature of the offence, the Principal may decide to suspend the errant student from class or school for a stipulated period in order to safeguard the well-being of his/her fellow schoolmates. | 
+| **Caning**   | Caning may be administered on male students who have committed major offences. Only the Principal or staff authorised by the Principal may administer the caning.  | 
+| **Police Assistance**   | The school may request for Police assistance with the investigation of cases.  | 
+
 **The list of offences and disciplinary consequences stated above are not exhaustive and are subjected to changes.**  
 
 **The Discipline Committee may mete out consequences which could include a combination of measures in proportion to the nature, intent and gravity of the offence(s) committed by a student.**
