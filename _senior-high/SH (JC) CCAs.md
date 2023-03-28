@@ -3,6 +3,8 @@ title: SH (JC) CCAs
 permalink: /sh-cca/
 description: ""
 ---
+![](/images/Homepage/Senior%20High.png)
+
 The Dunman High School Senior High (JC) CCAs have been designed to provide opportunities for students to discover their interests and pursue their passions and to develop new peaks of excellence at Senior High. Students in the Dunman High Integrated Programme can choose to continue in the same CCA so as to further develop their areas of talent or leadership abilities or join a new CCA at the end of Year. There are also opportunities for students to pursue Student-Initiated Interest Groups.
 
 The Senior High (JC) CCA programme comprises school-based CCAs and student-driven activities:
