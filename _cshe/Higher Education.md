@@ -3,7 +3,7 @@ title: Higher Education
 permalink: /cshe-programme/cshe-higher-education/
 description: ""
 ---
-![](/images/Homepage/masthead-CSHE.png)
+![](/images/Homepage/masthead-CSHE-programme.png)
 
 Students are supported in making their careers, scholarships and higher education decision through our signature CSHE Day and sharings by local and overseas universities and our Youth Alumni.
 
