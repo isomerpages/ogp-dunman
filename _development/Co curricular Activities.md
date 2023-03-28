@@ -3,6 +3,8 @@ title: Co curricular Activities
 permalink: /student-development/co-curricular-activities/
 description: ""
 ---
+![](/images/masthead-development-cca.jpg)
+
 CCA is regarded as an integral part of school life in Dunman High School. Through participation in CCA, we hope to develop in our students a sound body, a disciplined mind, outstanding character, leadership qualities and sportsmanship. Our CCA programme places great emphasis in developing a variety of skills, inculcating in our students the correct values and desirable social attitudes, and providing healthy recreation and enjoyment. Provision is also made for the training of the talented. At Senior High, students will be given greater room to propose and run their own CCAs so as to encourage them to take greater ownership over CCA, follow their passions and build camaraderie.
 
 **The Dunman High CCA Framework**
