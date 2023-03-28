@@ -7,9 +7,9 @@ description: ""
 
 CCA is regarded as an integral part of school life in Dunman High School. Through participation in CCA, we hope to develop in our students a sound body, a disciplined mind, outstanding character, leadership qualities and sportsmanship. Our CCA programme places great emphasis in developing a variety of skills, inculcating in our students the correct values and desirable social attitudes, and providing healthy recreation and enjoyment. Provision is also made for the training of the talented. At Senior High, students will be given greater room to propose and run their own CCAs so as to encourage them to take greater ownership over CCA, follow their passions and build camaraderie.
 
-**The Dunman High CCA Framework**
+### **The Dunman High CCA Framework**
 
-**Junior High**
+#### **Junior High**
 
 The **Junior High CCAs** are made up of 4 categories of CCAs in Dunman High School namely the Performing Arts, Sports & Games, the Uniformed Groups and Clubs & Societies\*. Many of these CCAs are rich in tradition and strong in achievements and will provide many opportunities to develop students’ characters and holistic qualities. All students MUST participate in ONE CCA.
 
@@ -68,7 +68,7 @@ The CCAs that are offered in Junior High are:
 *   Oratorical Society
 
 
-**Senior High**
+#### **Senior High**
 
 The Senior High CCAs have been designed to provide opportunities for students to discover their interests and pursue their passions and to develop new peaks of excellence at Senior High, whether by continuing in the same CCA or joining a new CCA. Hence, at the end of Year 4, students could choose to join a new CCA or remain in their current CCA to further develop their areas of talent or leadership abilities.  There are also opportunities for students to pursue Interest Groups.
 
