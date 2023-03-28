@@ -93,24 +93,24 @@ These aims are also guided by the Ministry of Education’s Character and Citize
 | Attire | Standards | 
 |-------- | -------- | 
 | Full-School Uniform | School attire for Mondays and Tuesdays (JH), Thursdays and Fridays (SH)
-| Full-School Uniform | Shirts are to be tucked in
-| Full-School Uniform | Skirts for female students should be of knee length
-| Full-School Uniform | School badge to be worn on left chest for JH, and left collar for SH
-| Full-School Uniform| Student Councillors are to wear the school tie and tie pin with the Full School Uniform
-| Full-School Uniform | No modification to the school uniform, for example, mismatching of uniform, tapered pants for male students, shortening length of skirt for female students, rolling of sleeves etc.
+|  | Shirts are to be tucked in
+|  | Skirts for female students should be of knee length
+|  | School badge to be worn on left chest for JH, and left collar for SH
+| | Student Councillors are to wear the school tie and tie pin with the Full School Uniform
+|  | No modification to the school uniform, for example, mismatching of uniform, tapered pants for male students, shortening length of skirt for female students, rolling of sleeves etc.
 | Half School Uniform | School attire for Wednesdays – Fridays (JH), Mondays – Wednesdays (SH)
-| Half School Uniform | ONLY White, Navy and Maroon Dunman Tee, DHS Polo T-shirt are allowed to be worn as part of Half School Uniform.
-| Half School Uniform | SH students are allowed to wear the SH House T-shirt on Mondays.
+|  | ONLY White, Navy and Maroon Dunman Tee, DHS Polo T-shirt are allowed to be worn as part of Half School Uniform.
+|  | SH students are allowed to wear the SH House T-shirt on Mondays.
 | DHS PE Attire |  To be worn ONLY during PE lessons or when engaging in physical activities after school
-| DHS PE Attire | Dark coloured sports shorts of appropriate length may be worn for CCA, subjected to approval
-| DHS PE Attire |For hygiene purposes, students are to change out of their PE attire after PE and before the end of recess/lunch break
+|  | Dark coloured sports shorts of appropriate length may be worn for CCA, subjected to approval
+|  |For hygiene purposes, students are to change out of their PE attire after PE and before the end of recess/lunch break
 | Footwear | Shoes and shoe laces should be simple in design
-| Footwear | No high-cut shoes
-| Footwear| Plain socks that are visible above the ankle should be worn
-| Footwear| Students with medical conditions that require alternative footwear must seek permission from FT/CT
+|  | No high-cut shoes
+| | Plain socks that are visible above the ankle should be worn
+| | Students with medical conditions that require alternative footwear must seek permission from FT/CT
 | Others | Face masks, if worn, should not contain offensive words/logos/images
-| Others | Students should be properly attired when engaging in sports
-| Others | ONLY black belts with a simple buckle design are allowed (SH only)
+|  | Students should be properly attired when engaging in sports
+| | ONLY black belts with a simple buckle design are allowed (SH only)
 
 3.3 **Dunmanians are required to wear the school tie with the Full School Uniform during the Pride and Honour Ceremony on Monday (JH), Friday (SH). Students are allowed to remove their tie in the classroom after the ceremony**.
 
