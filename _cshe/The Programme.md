@@ -3,7 +3,7 @@ title: The Programme
 permalink: /cshe-programme/cshe-careers-scholarships-and-higher-education/
 description: ""
 ---
-![](/images/Homepage/masthead-CSHE-programme.png)
+![](/images/Homepage/masthead-CSHE.png)
 
 DHS seeks to develop Leaders of Honour who are high achieving and loyal citizens with a global outlook. As the education landscape expands and evolves, students are offered myriad options and possibilities for their future ahead. The Careers, Scholarships and Higher Education (CSHE) Programme prepares our students to make well-informed decisions on their future options that best match their interests, strengths and aspirations.
 
