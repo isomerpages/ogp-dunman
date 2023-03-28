@@ -19,7 +19,7 @@ KSP offers the following key level-wide subjects/programmes:
 
 <table><thead><tr><th> </th><th>科目/课程</th></tr></thead><tbody><tr><td>初中部</td><td>思考与研究技能课程（中一）<br><br>思考与研究技能课程（中三）</td></tr><tr><td>高中部</td><td>H1专题作业</td></tr></tbody></table>
 
-## **Curriculum 课程内容**
+### **Curriculum 课程内容**
 
 The KSP curriculum is informed by thinking approaches such as Edward de Bono’s Six Thinking Hats, Richard Paul’s Critical Thinking Model, and Design Thinking. It encompasses activities and assignments that scaffold student learning and provide opportunities for application and extension of acquired skills in authentic learning situations. KSP places a heavy emphasis on cooperative learning and collaborative learning in its teaching and learning approach, and seeks to build students’ Growth Mindset.
 
@@ -65,7 +65,7 @@ Students will choose to do their projects on one of the two broad themes assesse
 
 学生将从评估所指定的两个广泛主题中选择其一，并从中发展自己的专题研究。评估的范围包括：小组书面报告，个人书面报告和口头陈述。学生需要具备发现、发展和评估自己想法的能力，并展示自己跨领域的知识体系。
 
-## **Pedagogy 教学法**
+### **Pedagogy 教学法**
 
 KSP adopts a spiral approach to build competencies in core 21st Century skills such as acquisition and management of knowledge, creative thinking, critical thinking, communication and collaboration skills that are essential in the Knowledge Economy.
 
@@ -97,7 +97,7 @@ These activities seek to provide effective thinking routines and engaging learni
 
 以上活动旨在为学生提供有趣的思考套路，同时提供机会让学生之间开展协作式学习，交流不同意见，碰撞出思想的火花。
 
-## **Assessment 评估与测试**
+### **Assessment 评估与测试**
 
 KSP deploys both formative and summative assessment for students to have a clearer understanding of their level of understanding and achievement. Assessment is also a crucial process to scaffold and improve student learning as well as to gather and analyse student performance as feedback for teachers to improve their instructional practice.
 
