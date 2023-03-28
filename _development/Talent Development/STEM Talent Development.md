@@ -17,10 +17,3 @@ Partnerships are established with SUTD Research Mentorship Programme (**RMP**), 
 We also provide in-house STEM TDP such as E2K and Eureka workshops, MakerEd@DHS Programme, Sports Science Research Programme (SSRP) and Financial Literacy workshops for interested students, as well as our very own STEM academic CCA, the STEM Collective, which comprises components like Info-comm Club, Robotics Club, Science Society and Mathematics Society. Members of the STEM Collective often initiate student workshops for their peers and juniors in an exercise of their academic leadership.
 
 ![](/images/Steam3.jpg)
-
-#### **Useful Links**
-
-*   [**Talent Development**](/development/talent-development/)
-*   [**School-Based Gifted Education Programme**](/development/talent-development/td-sbge-programme/)
-*   **[Humanities & Aesthetics Talent Development](/development/talent-development/td-humanities-aesthetics-talent-development/)**
-*   **[Languages Talent Development](/development/talent-development/td-languages/)**
