@@ -4,6 +4,8 @@ permalink: /development/talent-development/td-languages/
 description: ""
 third_nav_title: Talent Development
 ---
+![](/images/Homepage/Languages-Talent-Development.png)
+
 Dunman High’s Talent Development in Languages seeks to enhance our Dunmanians’ edge as Leaders of Honour and effective bilingual communicators, who are able to demonstrate strong understanding and deft application of bicultural perspective-taking and analysis of global and national issues.
 
 ![](/images/tdCL.jpg)
@@ -14,7 +16,7 @@ We offer multiple MOE special programmes such as the Bicultural Studies Programm
 
 We also offer complementary CCAs such as Oratorical Society, Chinese Society and in-house TDP such as the Bicultural Studies Talent Development Programme and the Chinese Language Talent Development Programme (CLTDP), which focuses on Debate, Creative Writing, Public Speaking, and Translation in both Junior High (Secondary) and Senior High (Junior College).
 
-**Useful Links**
+#### **Useful Links**
 
 *   [**Talent Development**](/development/talent-development/)
 *   [**School-Based Gifted Education Programme**](/development/talent-development/td-sbge-programme/)
