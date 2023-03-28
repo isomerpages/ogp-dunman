@@ -18,20 +18,20 @@ Every Dunmanian strives to be the best that he/she can be. He/She possesses driv
 ![](/images/CSHE-Leaders-of-Honour.jpg)
 
 ### Excellence
-**Excellence is a way of being. It is not the result. When students **develop a mindset for excellence**, they give their best in all that they do. They live by their moral compass consistently, and stay focused on and true to their purpose in life.
+**Excellence is a way of being. It is not the result. When students develop a mindset for excellence**, they give their best in all that they do. They live by their moral compass consistently, and stay focused on and true to their purpose in life.
 
 **What does it mean in CSHE for students and the Role of CSHE:** We believe that every Dunmanian has the capacity and capability to be the best that they can be.
 
 
 ### Drive 
-**Students with a drive to succeed **takes ownership in exploring their own purpose in life**. They have the initiative and courage to step up to be of service to others. They live authentically and are grateful for all that they have.
+**Students with a drive to succeed and takes ownership in exploring their own purpose in life**. They have the initiative and courage to step up to be of service to others. They live authentically and are grateful for all that they have.
 
 **What does it mean in CSHE for students:** Students take ownership in exploring the myriad CSHE options which in turn allow them to discover their self-identify and purpose in life.
 
 **The Role of CSHE:** CSHE supports students by offering them diverse opportunities to explore their options and educating them on the importance of early preparation as well as future-readiness.
 
 ### Growth
-**With a drive to succeed, students believe that they can **identify their areas of growth and make a definitive plan to better themselves**. Possessing a spirit of resilience and adaptability, they are able to face challenges and failures and see them as stepping stones to achieve their cause.
+**With a drive to succeed, students believe that they can identify their areas of growth and make a definitive plan to better themselves**. Possessing a spirit of resilience and adaptability, they are able to face challenges and failures and see them as stepping stones to achieve their cause.
 
 **What does it mean in CSHE for students:** Students take deliberate steps to work on the necessary skills and attributes that are necessary for them to pursue their cause.
 
@@ -39,7 +39,7 @@ Every Dunmanian strives to be the best that he/she can be. He/She possesses driv
 
 
 ### Empowerment
-**Embracing an excellence mindset and a spirit of lifelong learning, students actively leverage on opportunities to **pursue a cause that makes a positive difference in the society**. They take full responsibility for how they show up in all aspects of their lives and being accountable for the outcomes they create.
+**Embracing an excellence mindset and a spirit of lifelong learning, students actively leverage on opportunities to pursue a cause that makes a positive difference in the society**. They take full responsibility for how they show up in all aspects of their lives and being accountable for the outcomes they create.
 
 **What does it mean in CSHE for students:** Through the Dunmanian journey, students explore their purposes in life and do active research on their future options.
 
