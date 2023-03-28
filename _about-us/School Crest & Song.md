@@ -15,9 +15,7 @@ The two characters (德明) in the crest written in ‘Zhuan’ (篆) calligraph
 
 The red symbolizes passion and striving for success.  The blue signifies peace and dignity while the circular border represents wholeness and unity, and symbolizes the pursuit of universality, derived from the classic ‘Liji Daxue’ (《礼记•大学》).
 
-**School Song**
-
-**Click HERE to listen**
+### **School Song**
 
 德明中学    矗立加东  
 亭亭松影    习习海风  
