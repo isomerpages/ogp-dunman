@@ -64,90 +64,53 @@ For the academic subjects, pedagogies such as Lectures, Peer-teaching and Socrat
 
 The following modes of assessments are used in the respective Aesthetic Subjects.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7scb{background-color:#D5E0F2;color:#141638;text-align:left;vertical-align:top}
-.tg .tg-wau1{background-color:#141638;color:#FFF;text-align:left;vertical-align:top}
-.tg .tg-bl4q{background-color:#7B89B6;color:#FFF;text-align:left;vertical-align:middle}
-.tg .tg-463q{background-color:#7B89B6;color:#FFF;text-align:left;vertical-align:top}
-.tg .tg-g8zf{background-color:#D5E0F2;color:#141638;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-wau1"><span style="font-weight:normal">Subject</span></th>
-    <th class="tg-wau1"><span style="font-weight:normal">Mode of Assessment</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-bl4q"><span style="color:#FFF;background-color:#7B89B6">Music Elective Programme (MEP)</span></td>
-    <td class="tg-463q">Pen and paper<br>Practical<br>Concert Reviews<br>Composition/Recital Portfolio<br>Presentations</td>
-  </tr>
-  <tr>
-    <td class="tg-g8zf"><span style="color:#141638;background-color:#D5E0F2">Arts Special Programme (ASP)</span></td>
-    <td class="tg-7scb">Pen and Paper: SOVA<br>Studio Practice</td>
-  </tr>
-  <tr>
-    <td class="tg-bl4q"><span style="color:#FFF;background-color:#7B89B6">Music for Year 1 and 2</span></td>
-    <td class="tg-463q">Digital Music project (Yr 1)<br>Presentation</td>
-  </tr>
-  <tr>
-    <td class="tg-g8zf"><span style="color:#141638;background-color:#D5E0F2">Art for Year 1 and 2</span></td>
-    <td class="tg-7scb">Sketchbook of assignments (portfolio-based)<br>Presentation</td>
-  </tr>
-  <tr>
-    <td class="tg-bl4q"><span style="color:#FFF;background-color:#7B89B6">Lifeskills</span></td>
-    <td class="tg-463q">Portfolio<br>Practical<br>Textile project<br>Online quiz</td>
-  </tr>
-</tbody>
-</table>
+| Subject | Mode of Assessmen |
+| -------- | -------- | 
+| Music Elective Programme (MEP)	 |   Pen and paper   | 
+| 	 |  Practical    | 
+| 	 | Concert Reviews     | 
+|  |   Composition/Recital Portfolio  | 
+|  |   Presentations  | 
+| Arts Special Programme (ASP)	 |   Pen and Paper: SOVA   | 
+|  |   Studio Practice   | 
+| Music for Year 1 and 2 | 1.  Digital Music Project (Year 1)     | 
+|  |  Presentation    | 
+|Art for Year 1 and 2  |   Sketchbook of Assignments (Portfolio-based)   | 
+|  |      | 
+|  |      | 
+|  |      | 
 
+
+
+
+Presentation
+Lifeskills	
+Portfolio
+Practical
+Textile project
+Online quiz
 下列是美学部各科的评估与测试方式。
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7scb{background-color:#D5E0F2;color:#141638;text-align:left;vertical-align:top}
-.tg .tg-ytzc{background-color:#141638;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-bl4q{background-color:#7B89B6;color:#FFF;text-align:left;vertical-align:middle}
-.tg .tg-463q{background-color:#7B89B6;color:#FFF;text-align:left;vertical-align:top}
-.tg .tg-g8zf{background-color:#D5E0F2;color:#141638;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ytzc"><span style="color:#FFF;background-color:#141638">学科</span></th>
-    <th class="tg-ytzc"><span style="color:#FFF;background-color:#141638">评估与测试方式</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-bl4q"><span style="color:#FFF;background-color:#7B89B6">音乐特选课程 (MEP)</span></td>
-    <td class="tg-463q">笔试<br>演奏<br>音乐会评论<br>创作/演奏履历<br>表演</td>
-  </tr>
-  <tr>
-    <td class="tg-g8zf"><span style="color:#141638;background-color:#D5E0F2">美术特选课程 (ASP)</span></td>
-    <td class="tg-7scb">笔试 (SOVA)<br>创作与演奏</td>
-  </tr>
-  <tr>
-    <td class="tg-bl4q"><span style="color:#FFF;background-color:#7B89B6">普通音乐课程:</span><br><span style="color:#FFF;background-color:#7B89B6">中一和中二年级</span></td>
-    <td class="tg-463q">数码音乐创作 (一年级)<br>表演</td>
-  </tr>
-  <tr>
-    <td class="tg-g8zf"><span style="color:#141638;background-color:#D5E0F2">普通美术课程:</span><br><span style="color:#141638;background-color:#D5E0F2">中一和中二年级</span></td>
-    <td class="tg-7scb">课堂作业<br>专题作业讲解</td>
-  </tr>
-  <tr>
-    <td class="tg-bl4q"><span style="color:#FFF;background-color:#7B89B6">生活技能学科 (LSP)</span></td>
-    <td class="tg-463q">课堂作业<br>技术鉴定<br>纺织作业<br>网上测验</td>
-  </tr>
-</tbody>
-</table>
+学科	评估与测试方式
+音乐特选课程 (MEP)	
+笔试
+演奏
+音乐会评论
+创作/演奏履历
+表演
+美术特选课程 (ASP)	
+笔试 (SOVA)
+创作与演奏
+普通音乐课程:
+中一和中二年级	
+数码音乐创作 (一年级)
+表演
+普通美术课程:
+中一和中二年级	
+课堂作业
+专题作业讲解
+生活技能学科 (LSP)	
+课堂作业
+技术鉴定
+纺织作业
+网上测验
