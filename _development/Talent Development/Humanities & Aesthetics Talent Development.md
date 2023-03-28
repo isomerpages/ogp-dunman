@@ -16,10 +16,4 @@ We offer GEP special programmes such as Humanities and Social Sciences Research 
 In Senior High (Junior College), students can look forward to taking up H3 Humanities Options, the NUS-MOE Humanities and Social Sciences Research (**[NUS-MOE HSSR](https://www.moe.gov.sg/education/programmes/gifted-education-programme/nus-moe-humanities-and-social-sciences-research-(hssr))**) as well as participating in our very own Humanities academic **CCA**, the **International Strategic Affairs Council** (ISAC) where they organise local and/or international events such as the ASEAN Plus Summit.
     
  At Dunman High, we also offer a robust Aesthetics Talent Development across six years, with emphasis on our Music Elective Programme, and Art Special Programme (ASP). You may visit **[HERE](/academic/aesthetics-programme/)** to find out more.
-    
-#### **Useful Links**
-    
-   *   [**Talent Development**](/development/talent-development)
-   *   **[School-Based Gifted Education Programme](/development/talent-development/td-sbge-programme/)**
-   *   **[Languages Talent Development](/development/talent-development/td-languages/)** 
-   *   **[STEM Talent Development](/development/talent-development/td-stem/)**
+   
