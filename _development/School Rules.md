@@ -251,3 +251,20 @@ Dunmanians are ambassadors of the school when in uniform. Students are expected 
 10.2 Students’ Conduct Grade will be considered in the application of scholarships, leadership appointments and representation of school for external programmes etc. If a student is nominated for an award or an opportunity, both within and beyond the school, his/her Conduct Grade will be considered before the nomination is endorsed.
 
 10.3 The Conduct Grade is awarded by FT/CTs in consultation with Subject and CCA Teachers. The final Conduct Grade is subjected to approval from the Discipline Committee.
+
+| Conduct Grade | Criteria | 
+|-------- | --------  | 
+| Excellent | Adopts an excellence mindset in academic and co-curricular domains 
+|  | Uphold decorum in attire and personal grooming | 
+|  | Takes pride in his/her work, in addition to attributes listed in Very Good | 
+| Very Good | Respectful in interaction with teachers and peers|
+|  | Shows responsibility in completing assigned work|
+|  | Observed to be a caring friend and team player |
+| Good | Occasional display of behaviour unbefitting of a Dunmanian (i.e. has committed several minor offences)  |
+|  | Willing to learn from misbehaviour and commit towards self-improvement|
+| Fair |Serious lapse in behaviour unbefitting of a Dunmanian (i.e. has accumulated many minor offences or committed at least 1 major offence)  |
+|  | Shows little improvement despite reminders |
+| Poor | Does not demonstrate behaviour befitting of a Dunmanian |
+|  | Recalcitrant behaviour, showing little or no improvement despite repeated reminders, warnings and counselling |
+|  | Has committed serious offences or several major offences |
+| | Disregards school rules and the authority |
