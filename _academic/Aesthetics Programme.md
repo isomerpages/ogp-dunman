@@ -76,19 +76,11 @@ The following modes of assessments are used in the respective Aesthetic Subjects
 | Music for Year 1 and 2 | 1.  Digital Music Project (Year 1)     | 
 |  |  Presentation    | 
 |Art for Year 1 and 2  |   Sketchbook of Assignments (Portfolio-based)   | 
-|  |      | 
-|  |      | 
-|  |      | 
+| LifeSkills |  Portfolio   | 
+|  |    Practical  | 
+|  |  Textile Project  | 
+|  | Online Quiz
 
-
-
-
-Presentation
-Lifeskills	
-Portfolio
-Practical
-Textile project
-Online quiz
 下列是美学部各科的评估与测试方式。
 
 学科	评估与测试方式
