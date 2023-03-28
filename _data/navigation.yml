@@ -1,17 +1,16 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Homepage/dhs.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Collection
-    collection: example-collection
-  - title: Campus life
-    resource_room: true
+  - title: About Us
+    collection: about-us
+  - title: ADMISSIONS
+    collection: admissions
+  - title: ACADEMIC
+    collection: academic
+  - title: DEVELOPMENT
+    collection: development
+  - title: CSHE
+    collection: cshe
+  - title: PARTNERS
+    collection: partners
+  - title: CONTACT US
+    collection: contact-us

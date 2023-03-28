@@ -1,36 +1,41 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Dunman High School
+description: |-
+  To Care • To Serve • To Lead 
+  关怀 • 服务 • 引领
+image: /images/Homepage/dhs.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+  - hero:
+      background: /images/Homepage/homepage slider.gif
+      key_highlights:
+        - title: ANNOUNCEMENTS 通告
+          description: 2022 GCE A-Level Results 考试成绩
+          url: https://ogp-dunman-staging.netlify.app//announcements/news-happenings/
+  - infopic:
+      title: Campus Life
+      subtitle: 校园新鲜事
+      description: Join us on Facebook & Instagram
+      button: MORE
+      url: https://dhs.edu.sg/campus-life
+      image: /images/Homepage/dhs_campus_news.jpg
+      alt: Image alt text
+  - infopic:
+      title: JUNIOR HIGH (Sec)
+      subtitle: 初中部
+      description: "Admissions | Academic | CCA "
+      button: MORE
+      image: /images/Homepage/Junior-High-Sec.png
+      alt: Image alt text
+      url: https://ogp-dunman-staging.netlify.app/admissions/jh-admissions/
+  - infopic:
+      title: SENIOR HIGH (JC)
+      subtitle: 高中部
+      description: Admissions | Academic | CCA
+      button: MORE
+      url: https://ogp-dunman-staging.netlify.app/admissions/sh-admissions/
+      image: /images/Homepage/Senior High.png
+      alt: Image alt text
 ---
-

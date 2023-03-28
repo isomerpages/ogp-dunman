@@ -1,0 +1,7 @@
+collections:
+  junior-high:
+    output: true
+    order:
+      - JH (Sec) Admissions.md
+      - JH (Sec) Academic.md
+      - JH (Sec) CCAs.md

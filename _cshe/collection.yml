@@ -1,0 +1,9 @@
+collections:
+  cshe:
+    output: true
+    order:
+      - The Programme.md
+      - Career Guidance.md
+      - Higher Education.md
+      - Scholarships.md
+      - Parents’ Involvement.md
