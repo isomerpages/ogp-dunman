@@ -79,6 +79,9 @@ The focus for Sexuality Education at Pre-University is on respectful relationshi
 #### **Information for Parents**
 
 *   Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
-*   Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [**HERE**](https://dunmanhigh.moe.edu.sg/wp-content/uploads/2023/02/Annex-A-2023-SEd-Opt-Out-Form.pdf)
-*   Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable for Secondary (click **[HERE](https://dunmanhigh.moe.edu.sg/wp-content/uploads/2023/02/Annex-B-2023-SEd-eTeens-Opt-Out-Form.pdf)**) and JC/CI (click [**HERE**](https://dunmanhigh.moe.edu.sg/wp-content/uploads/2023/02/Annex-C-2023-SEd-eTeens-Opt-Out-Form.pdf)).
+*   Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable **[HERE](/files/Annex-A-2023-SEd-Opt-Out-Form.pdf)**. 
+
+*   Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable for Secondary (click **[HERE](/files/Annex-B-2023-SEd-eTeens-Opt-Out-Form.pdf)**) and JC/CI (click **[HERE](/files/Annex-C-2023-SEd-eTeens-Opt-Out-Form.pdf)**).  
+
+  
 *   Parents can contact the school Mr Jason Chen, HOD/CCE, at **[chen.quansheng@dhs.sg](mailto:chen.quansheng@dhs.sg)** for discussion or to seek clarification about the school’s sexuality education programme.
