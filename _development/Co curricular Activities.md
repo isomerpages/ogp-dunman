@@ -17,18 +17,54 @@ The **Junior High CCAs** are made up of 4 categories of CCAs in Dunman High Sc
 
 _**Admission to most CCAs is by merit. Students are required to attend auditions/trials before being accepted.**_
 
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">Read more</label>
-    <div>
-<table><thead><tr><th>Sports and Games*</th><th>Uniformed Groups</th><th>Performing Arts</th><th>Clubs and Societies</th><th>Only Available as 2nd CCA</th></tr></thead><tbody><tr><td>Air Weapons Club</td><td>Girls Guides</td><td>Dance(Chinese Society)</td><td>Art Club</td><td>Calligraphy (Chinese Society)</td></tr><tr><td>Badminton</td><td>National Police Cadet Corps</td><td>Drama(Chinese Society)<br></td><td>Infocomm Club</td><td>Literary (Chinese Society)</td></tr><tr><td>Basketball</td><td>Scouts</td><td>Chinese Orchestra (including Guzheng Ensemble)</td><td>Robotics Club</td><td>Bejing Opera</td></tr><tr><td>Softball (Girls)</td><td>St. John’s Brigade</td><td>Choir</td><td></td><td>Library Society</td></tr><tr><td>Table Tennis</td><td></td><td>Dance (English Drama Society)<br></td><td></td><td>Oratorical Society</td></tr><tr><td>Track &amp; Field</td><td></td><td>Drama (English Drama Society)</td><td></td><td></td></tr><tr><td>Volleyball</td><td></td><td>String Ensemble<br></td><td></td><td></td></tr><tr><td>Wushu</td><td></td><td>Symphonic Band</td><td></td><td></td></tr></tbody></table>
-		</div>
-			</li> 
-	</ul>
+The CCAs that are offered in Junior High are:
 
+**Sports and Games\***
 
-<br>
+*   Air Weapons Club
+*   Badminton
+*   Basketball
+*   Softball (Girls)
+*   Table Tennis
+*   Track & Field
+*   Volleyball
+*   Wushu
+
+**Uniformed Groups**
+
+*   Girls Guides
+*   National Police Cadet Corps
+*   Scouts
+*   St. John’s Brigade
+
+**Performing Arts**
+
+*   Chinese Society
+    *   Dance
+    *   Drama
+*   Chinese Orchestra (including Guzheng Ensemble)
+*   Choir
+*   English Drama Society
+    *   Dance
+    *   Drama
+*   String Ensemble
+*   Symphonic Band
+
+**Clubs and Societies**
+
+*   Art Club
+*   Infocomm Club
+*   Robotics Club
+
+**Only Available as 2nd CCA**
+
+*   Chinese Society
+    *   Calligraphy
+    *   Literary
+*   Bejing Opera
+*   Library Society
+*   Oratorical Society
+
 
 **Senior High**
 
@@ -39,3 +75,81 @@ The Senior High CCA programme comprises school-based CCAs and student-driven act
 1) Core CCAs are designated by the school as key CCAs because they are either niche areas of excellence in Junior High, which we want to continue in Senior High, or new areas that appeal to youths, where the seniors can lead in promoting excellence in those areas
 
 2) Student-Initiated Interest Groups (SIGs) refer to group-based activities which do not have the critical mass or a clear 30-week plan. Students may proceed with the activity on a project or ad-hoc basis. All IGs must be registered with the CCA Department and approval must be granted before events/ programmes/ activities can be carried out.
+
+**Level**
+
+Core CCAs
+
+**Student-Initiated Interest Group**
+
+**Sports and Games**
+
+*   Air Weapons Club
+*   Badminton
+*   Basketball
+*   Bowling
+*   Golf
+*   Netball
+*   Outdoor Activities Club (ODAC)
+*   Sailing
+*   Singapore Youth Flying Club (SYFC)
+*   Soccer (Boys)
+*   Softball ( Girls)
+*   Table Tennis
+*   Taekwondo
+*   Tennis
+*   Track & Field
+*   Volleyball
+*   Wushu
+*   Touch Rugby
+*   Frisbee
+
+**Uniformed Groups**
+
+*   Girl Guides  
+    (Adult Leader)
+*   NPCC  
+    (Cadet Inspector)
+*   Scouts (Ventures)
+*   SJAB (Cadet Leader)
+
+**Performing Arts**
+
+*   Chinese Society
+    *   Drama
+    *   Beijing Opera
+*   Chinese Orchestra (including Guzheng Ensemble)
+*   Choir
+*   Dance Society
+    *   Modern Dance
+    *   d’movement
+*   English Drama Society
+*   Guitar Ensemble
+*   String Ensemble
+*   Symphonic Band
+
+**Clubs and Societies**
+
+*   Art Club
+*   Community Service Club
+*   Culinary Club
+*   Environmental Club
+*   Infocomm Club
+*   International Strategic Affairs Council (ISAC)
+*   Japanese Cultural Club
+*   Library Society
+*   Mass Communication Club
+*   Mathematics Society
+*   Oratorical Society
+    *   Debates
+    *   Public Speaking
+*   PA Crew (Techies)
+*   Photographic Society
+*   Publications
+*   Robotics Club
+*   Science Society
+*   Fashion Studies Club
+*   Malay Cultural Club
+*   Mind Sports Club
+*   Medical Society
+*   Youth Club
