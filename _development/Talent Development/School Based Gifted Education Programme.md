@@ -10,9 +10,3 @@ We offer our SBGE Programme for high-ability learners where their learning exper
     
  In Year 1 and Year 2, students who were formerly from the Gifted Education Programme (GEP) in their Primary Schools are placed in SBGE classes together with other high-ability students. Students in the SBGE classes will experience all-round core-curricular enrichment. In Year 3 and Year 4, participation in enrichment classes is based on merit and teachers’ recommendation.
     
-#### **Useful Links**
-    
-   *   [**Talent Development**](/development/talent-development/)
-   *   **[Humanities & Aesthetics Talent Development](/development/talent-development/td-humanities-aesthetics-talent-development/)**
-   *   **[Languages Talent Development](/development/talent-development/td-languages/)** 
-   *   **[STEM Talent Development](/development/talent-development/td-stem/)**
