@@ -3,7 +3,7 @@ title: Student Development
 permalink: /student-development/
 description: ""
 ---
-![](/images/Homepage/cce_school-rules.jpg)
+![](/images/Homepage/student%20development_1.jpg)
 
 At Dunman High, we believe in providing a holistic and well-rounded education that sees our students through not just the national examinations but also their development as confident leaders with a global outlook.
 
