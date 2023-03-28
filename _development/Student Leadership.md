@@ -3,6 +3,8 @@ title: Student Leadership
 permalink: /student-development/student-leadership/
 description: ""
 ---
+![](/images/student%20leadership.png)
+
 Dunman High School, the premier school of Leaders of Honour, aims to nurture our students to Care, to Serve and to Lead.
 
 ![](https://dunmanhigh.moe.edu.sg/wp-content/uploads/2020/01/Student-Leadership-Collage.jpg)
