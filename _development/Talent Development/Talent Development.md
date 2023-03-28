@@ -14,7 +14,7 @@ Talent Development at DHS
 
 Please access the different fields of talent development to better understand how a comprehensive Talent Development Programme is structured for our students.
 
-**Useful Links**
+#### **Useful Links**
 
 *   [**School-Based Gifted Education Programme**](/development/td-sbge-programme/)
 *   **[Humanities & Aesthetics Talent Development](/development/td-humanities-aesthetics-talent-development/)**
