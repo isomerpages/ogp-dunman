@@ -3,11 +3,12 @@ title: Physical Education
 permalink: /student-development/physical-education/
 description: ""
 ---
-**Objectives**
+![](/images/masthead-development-pe.jpg)
+#### **Objectives**
 
 The aim of the Physical Education (PE) Programme is to develop the physical, social and emotional aspects of the pupils through physical activities. The school seeks to equip our students with the necessary skills, knowledge and attitude to enjoy lifelong, active and healthy lifestyles through participation in physical activities.
 
-**Curriculum**
+#### **Curriculum**
 
 By the end of the 6-year Programme, students should be able to:
 
@@ -51,7 +52,7 @@ By the end of the 6-year Programme, students should be able to:
 *   Striking/ Fielding Game – Softball
 *   Fitness Management – Weights Training, Training Principles and Periodization
 
-**Physical Fitness Test**  
+#### **Physical Fitness Test**
 National Physical Fitness Award (NAPFA) will be conducted for students on alternate years: Year 2, Year 4 and Year 6.
 
 To facilitate the use of the NAPFA test results for pre-enlistment purpose, NAPFA pull-up test is replaced by a push-up test for pre-National Service (NS) students in Year 6. This is in line with the modifications in the Individual Physical Proficiency Test (IPPT) announced by MINDEF in 2015.
