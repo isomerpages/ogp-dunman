@@ -60,3 +60,11 @@ The focus for Sexuality Education at Pre-University is on respectful relationshi
 |     |  Modes of protection, specifically on how the condom is used    |     |
 |     |  Consequences and impact of STIs/HIV  |     |
 |   Classroom-based Lesson   |    Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making  |  Term 3 Week 6   |
+
+#### **JC/CI - eTeens Programme**
+
+1.  _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/CI Year 1 students with accurate information on STI/HIV and protection from a health perspective so as to enable them to make wise, informed, and sensible decisions.
+
+2.  Students learn the health, social and financial implications of STIs/HIV on an individual and the family if he/she gets infected with STIs/HIV and the importance of responsible decision-making and knowing where to seek help. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+
+**At Dunman High School, the _eTeens_ programme will be implemented as follows in 2023:**
