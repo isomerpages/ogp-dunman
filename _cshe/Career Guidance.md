@@ -3,6 +3,8 @@ title: Career Guidance
 permalink: /cshe-programme/cshe-career-guidance/
 description: ""
 ---
+![](/images/masthead_Career_Guidance.jpg)
+
 The Career Guidance Programme in DHS aims to provide our students with the awareness of the various industries. Our students will also be able to better understand the professional work ethos and discover their own work values and aspirations through an experiential approach by engaging industry professionals.
 
 We partner various stakeholders from diverse backgrounds to help our students explore their passions and interests. Organisations that are happy to partner the school in our Career Guidance Programme may email us at **[cshe@dhs.sg](https://dunmanhigh.moe.edu.sg/cshe-career-guidance/cshe@dhs.sg)**.
