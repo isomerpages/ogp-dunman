@@ -76,33 +76,28 @@ The following modes of assessments are used in the respective Aesthetic Subjects
 | Music for Year 1 and 2 | 1.  Digital Music Project (Year 1)     | 
 |  |  Presentation    | 
 |Art for Year 1 and 2  |   Sketchbook of Assignments (Portfolio-based)   | 
+| |   Presentation | 
 | LifeSkills |  Portfolio   | 
 |  |    Practical  | 
 |  |  Textile Project  | 
-|  | Online Quiz
+|  | Online Quiz |
 
 下列是美学部各科的评估与测试方式。
 
-学科	评估与测试方式
-音乐特选课程 (MEP)	
-笔试
-演奏
-音乐会评论
-创作/演奏履历
-表演
-美术特选课程 (ASP)	
-笔试 (SOVA)
-创作与演奏
-普通音乐课程:
-中一和中二年级	
-数码音乐创作 (一年级)
-表演
-普通美术课程:
-中一和中二年级	
-课堂作业
-专题作业讲解
-生活技能学科 (LSP)	
-课堂作业
-技术鉴定
-纺织作业
-网上测验
+| 学科	| 评估与测试方式 |
+| -------- | -------- | 
+| 音乐特选课程 (MEP)		 |  笔试   | 
+| 	 |  演奏  | 
+| 	 | 音乐会评论  | 
+|  | 创作/演奏履历  | 
+|  |  表演  | 
+| 美术特选课程 (ASP) | 笔试 (SOVA)  | 
+|  |  创作与演奏 | 
+| 普通音乐课程: 中一和中二年级	 | 数码音乐创作 (一年级) | 
+|  |  表演  | 
+|普通美术课程: 中一和中二年级	  |  课堂作业   | 
+|  |  专题作业讲解   | 
+| 生活技能学科 (LSP)	|  课堂作业   | 
+|  | 技术鉴定    | 
+|  | 纺织作业 | 
+|  |网上测验 | 
