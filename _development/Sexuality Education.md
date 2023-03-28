@@ -69,6 +69,17 @@ The focus for Sexuality Education at Pre-University is on respectful relationshi
 
 **At Dunman High School, the _eTeens_ programme will be implemented as follows in 2023:**
 
+| Topics/Lessons | Programme Learning Objectives | Time Period  (e.g. Term 3 Week 2)|
+| --- | --- | --- |
+|Mass Talk by HPB appointed vendor  | Awareness of the different STI and HIV|  | Term 2 Week 8
+|  |  Modes of protection against infection, specifically abstinence and the correct use of condom    | Term 2 Week 8
+
+|  |    Consequences and impact of STI/HIV| State the ways of managing the impact of STIs  | Term 2 Week 8
+|  |     | Term 2 Week 8
+|  |     | Term 2 Week 8
+
+
+
 #### **Information for Parents**
 
 *   Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
