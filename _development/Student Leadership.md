@@ -13,9 +13,10 @@ We believe that –
 
 *   **Every student can be developed as a Leader.**  
     Leadership development is self-development. Every student possesses a unique blend of abilities, inclinations and talents. He/she is able to make a positive difference in his/her way, within his/her sphere of influence.
-*   **Every student should be developed as a Leader.  
-    **Leadership entails having the confidence and taking the initiative to make a positive difference, regardless of one’s title. Every student should aim to make a positive difference within one’s sphere of influence.
-*   **Student Leadership Development needs to be intentional.  
+*   **Every student should be developed as a Leader**.  
+    Leadership entails having the confidence and taking the initiative to make a positive difference, regardless of one’s title. Every student should aim to make a positive difference within one’s sphere of influence.
+		
+* **Student Leadership Development needs to be intentional.**  
     **Leadership competencies, values and attributes ought to be taught and assessed. Every student should be equipped with the requisite leadership competencies to be better prepared to assume posts/ roles, for effective leadership. This includes creating opportunities/ platforms for students to practise leadership for authentic learning.
 
 Dunmanians’ different talents are recognised and developed through various leadership opportunities and training. Indeed, student leadership development is an avenue for Dunmanians to step out from their comfort zone and step up to contribute so that they can work towards the school’s vision of becoming Leaders of Honour.
