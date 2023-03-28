@@ -3,9 +3,9 @@ title: Subjects Overview
 permalink: /academic/subjects-overview/
 description: ""
 ---
-The Academic Programme is delivered through our 4-year Junior High Academy and 2-year Senior High Academy.
-
 ![](/images/Homepage/Junior-High-Sec.png)
+
+The Academic Programme is delivered through our 4-year Junior High Academy and 2-year Senior High Academy.
 
 ### **Junior High (Sec)**
 At Junior High Academy, the Academic Programme is designed for high ability students focusing on building a strong academic foundation; and providing an enriched, inter-disciplinary curriculum.  
