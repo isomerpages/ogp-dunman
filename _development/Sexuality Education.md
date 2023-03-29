@@ -59,7 +59,7 @@ The focus for Sexuality Education at Pre-University is on respectful relationshi
 |     |  Modes of transmission    |     |
 |     |  Modes of protection, specifically on how the condom is used    |     |
 |     |  Consequences and impact of STIs/HIV  |     |
-|   Classroom-based Lesson   |    Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making  |  Term 3 Week 6   |
+| Classroom-based Lesson   |    Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making  |  Term 3 Week 6   |
 
 #### **JC/CI - eTeens Programme**
 
