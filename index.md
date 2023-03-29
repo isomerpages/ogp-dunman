@@ -35,7 +35,7 @@ sections:
       subtitle: 高中部
       description: Admissions | Academic | CCA
       button: MORE
-      url: https://ogp-dunman-staging.netlify.app/admissions/sh-admissions/
+      url: /admissions/sh-admissions/
       image: /images/Homepage/Senior High.png
       alt: Image alt text
 ---
