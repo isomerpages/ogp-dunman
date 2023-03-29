@@ -35,7 +35,7 @@ third_nav_title: Our People
 | 6C12     | Low Chee Keong Timothy     | Joyce Teh Kiam Peng  |
 | 6C21     | Boh Wei Liang Brandon  | Goh Wei Bin  |
 | 6C22     | Ho Ming Wei Mark | Tan Yu Shi  |
-| 6C31     | Lien Hui Lin Christine | Yeo Kim Neo Michelle 
+| 6C31     | Lee Xiuli  | Ong Wen Kai 
 | 6C32     | Tan Jie Ying     | Teo Chai Hock     |
 | 6C33     | Rathyi Devi D/O Ramanathan  | Neo Sock Khim  |
 | 6C34     | Ooi Ming Fong James  | Yick Jue Ru  |
