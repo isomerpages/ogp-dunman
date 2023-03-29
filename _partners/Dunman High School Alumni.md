@@ -15,7 +15,7 @@ The executive committee is currently led by President Mr Teo Kek Yeng. The assoc
 
 In 2009, the Dunman High School Youth Alumni was established to build a network among newly graduated Dunmanians, and provide an avenue for contributing back to their alma mater. Since its inauguration, the Youth Alumni has held annual gatherings, community projects and sports activities for her members, as well as career and college application seminars for the pre-university students in school. In 2010 the Youth Alumni expanded its reach to include overseas branches in China, the United Kingdom and the United States of America.
 
-For more information on Dunman High School Alumni, please click [here](http://dunmanhighalumni.org/).
+For more information on Dunman High School Alumni, please click **[HERE](http://dunmanhighalumni.org/)**.
 
 德明政府中学校友会于1985年7月16日成立，宗旨为：
 
