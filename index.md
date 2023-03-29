@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: ANNOUNCEMENTS 通告
           description: 2022 GCE A-Level Results 考试成绩
-          url: https://ogp-dunman-staging.netlify.app//announcements/news-happenings/
+          url: /announcements/news-happenings/
   - infopic:
       title: Campus Life
       subtitle: 校园新鲜事
@@ -29,13 +29,13 @@ sections:
       button: MORE
       image: /images/Homepage/Junior-High-Sec.png
       alt: Image alt text
-      url: https://ogp-dunman-staging.netlify.app/admissions/jh-admissions/
+      url: /admissions/jh-admissions/
   - infopic:
       title: SENIOR HIGH (JC)
       subtitle: 高中部
       description: Admissions | Academic | CCA
       button: MORE
-      url: https://ogp-dunman-staging.netlify.app/admissions/sh-admissions/
+      url: /admissions/sh-admissions/
       image: /images/Homepage/Senior High.png
       alt: Image alt text
 ---
