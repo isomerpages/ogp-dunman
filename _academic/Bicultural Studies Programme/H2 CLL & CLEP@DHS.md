@@ -4,6 +4,8 @@ permalink: /academic/bicultural-studies-programme/h2cll-clep/
 description: ""
 third_nav_title: Bicultural Studies Programme
 ---
+### **H2 Chinese Language and Literature 华文与文学**
+
 H2 Chinese Language and Literature enhances students’ language proficiency by honing their writing, critical thinking and communication skills. Students will also be immersed in an exciting world of renowned literature masterpieces ranging from classical prose and poetry, to modern novels and drama plays.
 
 H2 华文与文学重视培养学生的语言运用能力和文学赏析能力。学生能够通过这门科目强化写作、批判性思维和沟通技能。学生也将畅游于丰富多彩的文学天地之中，领略中国古典文化精品，以及中国、台湾和新加坡现当代文学作品的风采。
@@ -28,8 +30,7 @@ H2 华文与文学重视培养学生的语言运用能力和文学赏析能力�
 
 ![](/images/2022-CLEP-Student-Council-Handover-Ceremony-2022-scaled.jpg)
 
-
-### Chinese Language Elective Programme (CLEP) 华文语文特选课程 (语特)
+### **Chinese Language Elective Programme (CLEP) 华文语文特选课程 (语特)**
 
 This MOE programme nurtures students who have an aptitude for Chinese language and literature, and aims to groom them to become effectively bilingual talents for the nation. It provides a wide range of activities such as literature lectures, cultural camps, internships and overseas immersions, which enhance students’ learning and cultivate a deeper interest in Chinese language and culture.
 
