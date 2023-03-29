@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Our History
 ---
 ![](/images/Homepage/Achievements_1.jpg)
-<p>
 	
 ### **[DHS Stakeholders](/files/DHS_STAKEHOLDERS_2022_13102022.pdf)**
 	
