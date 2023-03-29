@@ -29,7 +29,7 @@ sections:
       button: MORE
       image: /images/Homepage/Junior-High-Sec.png
       alt: Image alt text
-      url: https://ogp-dunman-staging.netlify.app/admissions/jh-admissions/
+      url: /admissions/jh-admissions/
   - infopic:
       title: SENIOR HIGH (JC)
       subtitle: 高中部
