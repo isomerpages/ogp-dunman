@@ -4,35 +4,34 @@ permalink: /academic/bicultural-studies-programme/h2cll-clep/
 description: ""
 third_nav_title: Bicultural Studies Programme
 ---
-
-
-
 H2 Chinese Language and Literature enhances students’ language proficiency by honing their writing, critical thinking and communication skills. Students will also be immersed in an exciting world of renowned literature masterpieces ranging from classical prose and poetry, to modern novels and drama plays.
 
 H2 华文与文学重视培养学生的语言运用能力和文学赏析能力。学生能够通过这门科目强化写作、批判性思维和沟通技能。学生也将畅游于丰富多彩的文学天地之中，领略中国古典文化精品，以及中国、台湾和新加坡现当代文学作品的风采。
 
-**2022 Shadow Puppet Mother Tongue Fortnight 2022 皮影母语双周活动**
+##### **2022 Shadow Puppet Mother Tongue Fortnight 皮影母语双周活动**
 
 ![](/images/2022-Shadow-Puppet_Mother-Tongue-fortnight-2022.jpeg)
 
-**2022 CLEP Best Improvement Award Presentation 2022语特飞跃奖颁奖典礼**
+##### **2022 CLEP Best Improvement Award Presentation 语特飞跃奖颁奖典礼**
 
 ![](/images/2022-CLEP-Best-Improvement-Award-presentation-2022-scaled.jpg)
 
-**2022 CLEP Orientation 2022 语特迎新会**
+##### **2022 CLEP Orientation 语特迎新会**
 
 ![](/images/2022-CLEP-Orientation-2022.jpg)
 
-**2022 CLEP Scholarship Award Presentation 2022语特奖学金领奖仪式**
+##### **2022 CLEP Scholarship Award Presentation 语特奖学金领奖仪式**
 
 ![](/images/2022-CLEP-Scholarship-Award-presentation-2022-scaled.jpg)
 
-**2022 CLEP Chin Mee Chin Learning Journey 2022语特真美珍学习之旅**
+##### **2022 CLEP Chin Mee Chin Learning Journey 语特真美珍学习之旅**
 
 ![](/images/2022-CLEP-Student-Council-Handover-Ceremony-2022-scaled.jpg)
 
-**Chinese Language Elective Programme (CLEP)**  **华文语文特选课程 (语特)  
-**This MOE programme nurtures students who have an aptitude for Chinese language and literature, and aims to groom them to become effectively bilingual talents for the nation. It provides a wide range of activities such as literature lectures, cultural camps, internships and overseas immersions, which enhance students’ learning and cultivate a deeper interest in Chinese language and culture.
+
+### Chinese Language Elective Programme (CLEP) 华文语文特选课程 (语特)
+
+This MOE programme nurtures students who have an aptitude for Chinese language and literature, and aims to groom them to become effectively bilingual talents for the nation. It provides a wide range of activities such as literature lectures, cultural camps, internships and overseas immersions, which enhance students’ learning and cultivate a deeper interest in Chinese language and culture.
 
 华文语文特选课程（语特）旨在培养精通双语的人才，提高学生的华文水平和文学素养。语特学生将有机会参与多元化的活动，例如文学讲座、文化营、工作实习和出国浸濡等，从而提升写作技能以及对华文文学的鉴赏与分析能力。
 
