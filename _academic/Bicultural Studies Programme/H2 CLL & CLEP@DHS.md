@@ -4,7 +4,7 @@ permalink: /academic/bicultural-studies-programme/h2cll-clep/
 description: ""
 third_nav_title: Bicultural Studies Programme
 ---
-### **H2 Chinese Language and Literature 华文与文学**
+### **H2 Chinese Language and Literature (H2 CLL) 华文与文学**
 
 H2 Chinese Language and Literature enhances students’ language proficiency by honing their writing, critical thinking and communication skills. Students will also be immersed in an exciting world of renowned literature masterpieces ranging from classical prose and poetry, to modern novels and drama plays.
 
