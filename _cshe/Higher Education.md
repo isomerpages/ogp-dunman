@@ -34,7 +34,7 @@ The personal statement is an important part of the student’s university / scho
 
 To kick-off a successful future, it is important that students are equipped with essential interview skills to present themselves in the best manner. All students will be equipped with relevant interview skills for university / scholarship applications by the end of&nbsp;**Year 5**.
 
-![](https://dunmanhigh.moe.edu.sg/wp-content/uploads/2020/01/IMG-20170719-WA0003-1.jpg)
+![](/images/Homepage/img-20170719-wa0003-1.jpg)
 
 
 
