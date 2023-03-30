@@ -32,7 +32,7 @@ third_nav_title: Our People
 | Class  | Form Teacher | Form Teacher |
 | -------- | -------- | -------- |
 | 6C11     | Lim Chee Kam     | Goh Lian Kian Vincent     |
-| 6C12     | Low Chee Keong Timothy     | Joyce Teh Kiam Peng  |
+| 6C12     | Low Chee Keong Timothy     | Hong Lan  |
 | 6C21     | Boh Wei Liang Brandon  | Goh Wei Bin  |
 | 6C22     | Ho Ming Wei Mark | Tan Yu Shi  |
 | 6C31     | Lee Xiuli  | Ong Wen Kai 
