@@ -7,7 +7,7 @@ description: ""
 
 DHS seeks to develop Leaders of Honour who are high achieving and loyal citizens with a global outlook. As the education landscape expands and evolves, students are offered myriad options and possibilities for their future ahead. The Careers, Scholarships and Higher Education (CSHE) Programme prepares our students to make well-informed decisions on their future options that best match their interests, strengths and aspirations.
 
-![](https://dunmanhigh.moe.edu.sg/wp-content/uploads/2020/01/CSHE-The-Dunmanian-Edge.jpg)
+![dunmanian edge](/images/Homepage/cshe-the-dunmanian-edge.jpg)
 
 The CSHE programme is anchored in an EDGE framework that spells out the student outcomes that we aspire to develop in each Dunmanian across all the domains during his or her journey in Dunman High. The outcomes are developmental and reinforced through every stage of a Dunmanian’s education. It is also grounded in the school’s vision for each Dunmanian to be lifelong learners and Leaders of Honour.
 

@@ -3,8 +3,6 @@ title: Career Guidance
 permalink: /cshe-programme/cshe-career-guidance/
 description: ""
 ---
-![](/images/masthead_Career_Guidance.jpg)
-
 The Career Guidance Programme in DHS aims to provide our students with the awareness of the various industries. Our students will also be able to better understand the professional work ethos and discover their own work values and aspirations through an experiential approach by engaging industry professionals.
 
 We partner various stakeholders from diverse backgrounds to help our students explore their passions and interests. Organisations that are happy to partner the school in our Career Guidance Programme may email us at **[cshe@dhs.sg](https://dunmanhigh.moe.edu.sg/cshe-career-guidance/cshe@dhs.sg)**.
@@ -15,18 +13,18 @@ We partner various stakeholders from diverse backgrounds to help our students ex
 
 A Show-and-Tell Series conducted by our parents for our Year 1 students to help them instil a sense of appreciation and gratitude to people from all walks of life.
 
-**![](https://dunmanhigh.moe.edu.sg/wp-content/uploads/2020/01/speaker_collage.jpg)**
+![](/images/Homepage/speaker_collage.jpg)
 
 Our appreciation to our speakers.
 
-**![](https://dunmanhigh.moe.edu.sg/wp-content/uploads/2020/01/speakers.jpg)**
+![](/images/speakers.jpg)
 
 **Through the Adults' Lenses - Take Our Dunmanians to Work Day!**  
 
 This programme offers a platform for our
 Year 3 students to shadow their mum or dad at work.
 
-**![](https://dunmanhigh.moe.edu.sg/wp-content/uploads/2020/01/work-day.jpg)**
+![](/images/Homepage/work-day.jpg)
 
 **Work Experience Programme (WEP)**  
 
@@ -34,7 +32,7 @@ The WEP is a large-scale education and career guidance programme for our all IP 
 
 Our JAE students will be offered WEP in June when they are in Year 5.
 
-![](https://dunmanhigh.moe.edu.sg/wp-content/uploads/2020/01/WEP.jpg)
+![](/images/Homepage/weprogramme.jpg)
 
 **Learning Journey**
 
