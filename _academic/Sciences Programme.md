@@ -77,10 +77,10 @@ Lower Secondary Science is organised through the three disciplines: Biology, Che
 |17. Cell Division  | Electrolysis | Thermal Properties of Matter |
 |18. Inheritance and Evolution  | Fuels and Crude Oil  | Static Electricity  |
 |19. -  | Alkanes  | Current of Electricity  |
-|20. - | Alkenes | C.Circuits  |
+|20. - | Alkenes | C. Circuits  |
 |21. -  | Alcohols | Circuit Components  |
 |22. -  | Carboxylic Acids  | Electrical Components |
-|23  Macromolecules| Practical Electricity |   |
+|23. -  |Macromolecules| Practical Electricity |   |
 |24.  - | - | Magnetism  |
 |25. - | - | Electromagnetism  |
 |26. - | - | Practical Skills-Planning  |
