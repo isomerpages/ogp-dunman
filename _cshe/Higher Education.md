@@ -50,4 +50,4 @@ The following briefings are also conducted to support students in their universi
 
 Compilation of the alumni sharing on how they go about their decision-making process in choosing their universities, courses and scholarships.
 
-![](/images/Publication-3.jpg)
+![](/images/Homepage/programme.png)
