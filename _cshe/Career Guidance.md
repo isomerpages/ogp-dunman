@@ -32,7 +32,7 @@ The WEP is a large-scale education and career guidance programme for our all IP 
 
 Our JAE students will be offered WEP in June when they are in Year 5.
 
-
+![](/images/Homepage/weprogramme.jpg)
 
 **Learning Journey**
 
