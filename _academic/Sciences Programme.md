@@ -80,7 +80,7 @@ Lower Secondary Science is organised through the three disciplines: Biology, Che
 |20. - | Alkenes | C. Circuits  |
 |21. -  | Alcohols | Circuit Components  |
 |22. -  | Carboxylic Acids  | Electrical Components |
-|23. -  |Macromolecules| Practical Electricity |   |
+|23. -  |Macromolecules| Practical Electricity |   
 |24.  - | - | Magnetism  |
 |25. - | - | Electromagnetism  |
 |26. - | - | Practical Skills-Planning  |
