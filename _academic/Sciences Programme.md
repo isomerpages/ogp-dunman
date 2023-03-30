@@ -77,10 +77,10 @@ Lower Secondary Science is organised through the three disciplines: Biology, Che
 |17. Cell Division  | Electrolysis | Thermal Properties of Matter |
 |18. Inheritance and Evolution  | Fuels and Crude Oil  | Static Electricity  |
 |19. -  | Alkanes  | Current of Electricity  |
-|20. - | Alkenes | C.Circuits  |
+|20. - | Alkenes | C. Circuits  |
 |21. -  | Alcohols | Circuit Components  |
 |22. -  | Carboxylic Acids  | Electrical Components |
-|23  Macromolecules| Practical Electricity |   |
+|23. -  |Macromolecules| Practical Electricity |   
 |24.  - | - | Magnetism  |
 |25. - | - | Electromagnetism  |
 |26. - | - | Practical Skills-Planning  |
@@ -153,7 +153,7 @@ H2生物学为打算在大学修读生物及相关科目的学生打好必备基
 
 **中一与二年级 初中科学**
 
-| 生物学（模块式课程） | 化学（模块式课程） | 物理学（模块式课程） |
+| 生物学 (模块式课程) | 化学 (模块式课程) | 物理学 (模块式课程) |
 | --- | --- | --- |
 |1.  细胞的结构和功能  | 细胞的结构和功能  | 实验室安全，实验室设备 |
 |2. 细胞运输| 溶解与悬浮物质| 科学方法|
