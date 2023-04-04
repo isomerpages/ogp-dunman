@@ -190,7 +190,7 @@ Dunmanians are ambassadors of the school when in uniform. Students are expected 
 
 #### **8.  List of Minor and Major Offences****
 
-##### **Examples of Minor Offerences**
+##### **Examples of Minor Offences**
 
 **Attendance**
 
@@ -204,7 +204,7 @@ Dunmanians are ambassadors of the school when in uniform. Students are expected 
 3.  **Using vulgar language** – verbalising coarse or abusive language (including online communications)
 4.  **Inconsiderate behaviour** – Eating and drinking outside designated areas, not following the rules of taking of lift, inconsiderate public behaviour
 
-##### **Examples of Major Offerences**
+##### **Examples of Major Offences**
 **Attendance**
 
 1.  **Truancy** – Being absent from school without a valid reason on school days (Mon – Fri)
