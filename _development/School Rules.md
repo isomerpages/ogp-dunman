@@ -188,7 +188,7 @@ Dunmanians are ambassadors of the school when in uniform. Students are expected 
 
 7.2 **Students who witness any inappropriate online behaviour are to report to their teachers as soon as possible**.
 
-#### **8.  List of Minor and Major Offences****
+#### **8.  List of Minor and Major Offences**
 
 ##### **Examples of Minor Offences**
 
