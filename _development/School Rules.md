@@ -190,7 +190,7 @@ Dunmanians are ambassadors of the school when in uniform. Students are expected 
 
 #### **8.  List of Minor and Major Offences****
 
-##### **Examples of Minor Offerences**
+##### **Examples of Minor Offences**
 
 **Attendance**
 
