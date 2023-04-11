@@ -1,6 +1,6 @@
 ---
-title: Sciences Programme
-permalink: /academic/sciences-programme/
+title: Science Programme
+permalink: /academic/science-programme/
 description: ""
 ---
 ![](/images/Homepage/masthead-science.jpg)
