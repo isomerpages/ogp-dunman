@@ -78,28 +78,29 @@ Senior High students will undergo Junior College curriculum to prepare them for 
 
 Students choose from the following subjects to be taken at GCE ‘A’ Level:
 
-|   | **Disciplines** | **Subjects** | **H1** | **H2** | **H3** |
-| --- | --- | --- | --- | --- | --- |
-| Compulsory | Knowledge Skills | General Paper (GP) | **●** |  |  |
-|  |  | Project Work (PW) | **●** |  |  |
-|  | Mother Tongue Languages (MTL) | Chinese Language (CL) | **●** |  |  |
-|  |  | Malay Language (ML) | **●** |  |  |
-|  |  | Tamil Language (TL) | **●** |  |  |
-| **–**  | Foreign Language | Foreign Language (French, German, Japanese, Spanish etc.) (FL) | **●** |  |  |
-| Contrasting Discipline | Humanities and the Arts | Chinese Language and Literature (CLL) |  | **●** | **●** |
-|   |  | China Studies (Chinese) (CSC) |  | **●** |  |
-|   |  | Translation (Chinese ) (TC) |   | **●** |  |
-|   |  | Foreign Language (French, German, Japanese, Spanish etc.) (FL) |  | **●** |  |
-|   |  | English Language and Linguistics (ELL) |  | **●** |  |
-|   |  | Literature in English (EL) |  | **●** | **●** |
-|   |  | Economics (EC) | **●** | **●** | **●** |
-|   |  | Geography (GE) | **●** | **●** | **●** |
-|   |  | History (HS) | **●** | **●** | **●** |
-|   |  | Art (AR) |  | **●** |  |
-|   |  | Music (MU) |  | **●** | **●** |
-|   | Mathematics and Sciences | Biology (BI) |  | **●** | **●** |
-|   |  | Chemistry (CH) | **●** | ● | **●** |
-|  |  | Physics (PH) |  | ● | ● |
-|  |  | Mathematics (MA) | ● | ● | ● |
-|  |  | Further Mathematics (FM) |  | ● |  |
-|  |  | Computing (CP) |  | ● |  |
+
+| **Disciplines** | **Subjects** | **H1** | **H2** | **H3** |
+| --- | --- | --- | --- | --- |
+ Knowledge Skills | General Paper (GP) | **●** |  |  |
+|  | Project Work (PW) | **●** |  |  |
+| Mother Tongue Languages (MTL) | Chinese Language (CL) | **●** |  |  |
+|  | Malay Language (ML) | **●** |  |  |
+|  | Tamil Language (TL) | **●** |  |  |
+| Foreign Language | Foreign Language (French, German, Japanese, Spanish etc.) (FL) | **●** |  |  |
+| Humanities and the Arts | Chinese Language and Literature (CLL) |  | **●** | **●** |
+|  | China Studies (Chinese) (CSC) |  | **●** |  |
+|  | Translation (Chinese ) (TC) |   | **●** |  |
+| |Foreign Language (French, German, Japanese, Spanish etc.) (FL) |  | **●** |  |
+|  | English Language and Linguistics (ELL) |  | **●** |  |
+|  | Literature in English (EL) |  | **●** | **●** |
+|  | Economics (EC) | **●** | **●** | **●** |
+|  | Geography (GE) | **●** | **●** | **●** |
+|  | History (HS) | **●** | **●** | **●** |
+|  | Art (AR) |  | **●** |  |
+|  | Music (MU) |  | **●** | **●** |
+| Mathematics and Sciences | Biology (BI) |  | **●** | **●** |
+|  | Chemistry (CH) | **●** | ● | **●** |
+|  | Physics (PH) |  | ● | ● |
+|  | Mathematics (MA) | ● | ● | ● |
+|  | Further Mathematics (FM) |  | ● |  |
+|  | Computing (CP) |  | ● |  |
