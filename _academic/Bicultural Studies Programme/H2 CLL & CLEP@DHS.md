@@ -1,5 +1,5 @@
 ---
-title: H2 CLL & CLEP@DHS
+title: H2 CLL &amp; CLEP@DHS
 permalink: /academic/bicultural-studies-programme/h2cll-clep/
 description: ""
 third_nav_title: Bicultural Studies Programme
@@ -10,6 +10,10 @@ H2 Chinese Language and Literature enhances students’ language proficiency by 
 
 H2 华文与文学重视培养学生的语言运用能力和文学赏析能力。学生能够通过这门科目强化写作、批判性思维和沟通技能。学生也将畅游于丰富多彩的文学天地之中，领略中国古典文化精品，以及中国、台湾和新加坡现当代文学作品的风采。
 
+##### **2023 CLEP Orientation 语特迎新会**
+![](/images/Homepage/clep%20orientation%202023%20(1).jpg)
+
+
 ##### **2022 Shadow Puppet Mother Tongue Fortnight 皮影母语双周活动**
 
 ![](/images/2022-Shadow-Puppet_Mother-Tongue-fortnight-2022.jpeg)
@@ -17,10 +21,6 @@ H2 华文与文学重视培养学生的语言运用能力和文学赏析能力�
 ##### **2022 CLEP Best Improvement Award Presentation 语特飞跃奖颁奖典礼**
 
 ![](/images/2022-CLEP-Best-Improvement-Award-presentation-2022-scaled.jpg)
-
-##### **2022 CLEP Orientation 语特迎新会**
-
-![](/images/2022-CLEP-Orientation-2022.jpg)
 
 ##### **2022 CLEP Scholarship Award Presentation 语特奖学金领奖仪式**
 
@@ -48,9 +48,14 @@ This MOE programme nurtures students who have an aptitude for Chinese language a
 
 **学长有话说:**
 
-选择文学是一条漫长的道路。但这趟旅程我收获了重要的伙伴，也拾取了坚定的初心。文字的魅力无限，让人在光明中沉睡，又在黑暗中清醒。我们用柔软的笔触写下内心的世界，用繁杂的词句交换彼此的悲喜。回望高中两年文学之旅，只觉得自己才刚刚启程。遥望远方，路漫漫其修远兮，吾将上下而求索。愿与诸君共勉！—— **杨雅棋 Yang Ya Qi；语特理事会主席 (21Y6C22)**
+选修文学是个非常幸运的决定！因为文学是连接我们和历史及未来的桥梁。年少不知文学好，如今开始步入社会，这时才幡然醒悟——文学给了我一个巨大的宝藏！上文学课时，老师们会带领我们领略文字的美妙，其字里行间流转着含蓄情感。在阅读的过程中，我们会不断挖掘、拓宽个人思维的宽度和深度。研读作品时，我们能够对作者的情感和经历感同身受。无论是李白的豪放、苏轼的潇洒，还是陶渊明“不为五斗米折腰”的风骨，我们通过文学了解社会，学会交际，看清本质。我们也会在不经意间被这些大人物的侠气以及“一蓑烟雨任平生”的豁达心态而感染，通透地看待世事。
 
-语特在我心中就像一把能带我走进文学世界的钥匙。当初我修读它，是出于对华文与文学的热忱，它让我品鉴文字的多元魅力，提高我的文化素养！同时语特也给我带来新的力量，让我有机会贡献自己的一份爱校情怀。愿语特这个大家庭能收获更多有趣的灵魂，继续发光发热！—— **陈萱婷 Tan Xuan Ting；语特理事会宣传委员 (21Y6C12)**
+ **22Y6C12 Liu Hanxue 刘韩雪（语特自理会副主席）**
+
+给岁月以文学，而不是给文学以岁月。语特搜集着每一位独特的灵魂，并给予其机遇和空间，滋养这些灵魂的胚芽，使之成为独一无二的、有趣味的灵魂。进入语特后，我们就当在“文字”这第四维度中观察世界，发掘自我，表达自我。请记住，你无需被束缚在现实的考量之中，因为你不过是在寻找表达思想的方式罢了。而这一次，偶然，或必然地，选择了文学这种形式。所以，抓紧机会，在语特这个大家庭中，尽情探索文字的多元魅力吧！
+
+**22Y6C22  Zhao Yuanzhen赵元桢 （语特自理会宣传委员）**
+
 
 什么是“语特”？为什么选“语特”？“语特”会给你带来什么？请点按[**这里**](https://youtu.be/cF8erxWMc1U)，来听德明语特的学长学姐们说说吧!
 
