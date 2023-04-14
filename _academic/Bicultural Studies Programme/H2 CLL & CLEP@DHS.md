@@ -10,6 +10,10 @@ H2 Chinese Language and Literature enhances students’ language proficiency by 
 
 H2 华文与文学重视培养学生的语言运用能力和文学赏析能力。学生能够通过这门科目强化写作、批判性思维和沟通技能。学生也将畅游于丰富多彩的文学天地之中，领略中国古典文化精品，以及中国、台湾和新加坡现当代文学作品的风采。
 
+##### **2023 CLEP Orientation 语特迎新会**
+![](/images/Homepage/clep%20orientation%202023%20(1).jpg)
+
+
 ##### **2022 Shadow Puppet Mother Tongue Fortnight 皮影母语双周活动**
 
 ![](/images/2022-Shadow-Puppet_Mother-Tongue-fortnight-2022.jpeg)
@@ -17,10 +21,6 @@ H2 华文与文学重视培养学生的语言运用能力和文学赏析能力�
 ##### **2022 CLEP Best Improvement Award Presentation 语特飞跃奖颁奖典礼**
 
 ![](/images/2022-CLEP-Best-Improvement-Award-presentation-2022-scaled.jpg)
-
-##### **2022 CLEP Orientation 语特迎新会**
-
-![](/images/2022-CLEP-Orientation-2022.jpg)
 
 ##### **2022 CLEP Scholarship Award Presentation 语特奖学金领奖仪式**
 
