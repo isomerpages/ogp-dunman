@@ -12,7 +12,7 @@ sections:
       background: /images/Homepage/homepage slider.gif
       key_highlights:
         - title: ANNOUNCEMENTS 通告
-          description: 2022 GCE A-Level Results 考试成绩
+          description: 2023 DSA-Sec & DSA-JC 直接收生计划
           url: /announcements/news-happenings/
   - infopic:
       title: Campus Life
