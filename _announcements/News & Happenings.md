@@ -5,13 +5,13 @@ description: ""
 ---
 ![](/images/Homepage/masthead-announcement-school.jpg)
 
-### 2023 Direct School Admission for Secondary Schools (DSA-Sec) 中学直接收生计划
+### [2023 Direct School Admission for Secondary Schools (DSA-Sec) 中学直接收生计划](/files/dhs_sec_2023%20direct%20school%20admission%20for%20sec.pdf)
 
 Click **[HERE](/files/dhs_sec_2023%20direct%20school%20admission%20for%20sec.pdf)** to view the details
 
-### 2023 Direct School Admission for Junior Colleges (DSA-JC) 初院直接收生计划
+### [2023 Direct School Admission for Junior Colleges (DSA-JC) 初院直接收生计划](/files/dhs_jc_2023%20direct%20school%20admission%20for%20junior%20colleges.pdf)
 
-Click **[HERE](/files/dhs_jc_2023%20direct%20school%20admission%20for%20sec.pdf)** to view the details
+Click **[HERE](/files/dhs_jc_2023%20direct%20school%20admission%20for%20junior%20colleges.pdf)** to view the details
 
 ### [2022 GCE ‘A’ Level Results A 水准考试成绩](https://dhs.edu.sg/sh-news-happenings)
 
