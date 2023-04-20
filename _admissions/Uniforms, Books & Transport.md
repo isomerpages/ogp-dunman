@@ -1,5 +1,5 @@
 ---
-title: Uniforms, Books &amp; Transport
+title: Uniforms, Books & Transport
 permalink: /admissions/uniforms-books-transport/
 description: ""
 ---
@@ -29,7 +29,7 @@ Ms Chong Ching Ling
 10 Ubi Crescent #01-02  
 Singapore 408564 
 
-Tel: 65474203/65474204  
+Tel:  93474563/65474203/65474204  
 Fax: 65474305  
 
 
