@@ -41,7 +41,7 @@ Through the Sexuality Education lessons, secondary students will have the opport
 
 **At Dunman High School, the following lessons from the Sexuality Education Programme will be taught in 2023.** 
 
-Please click [**HERE**](https://dunmanhigh.moe.edu.sg/wp-content/uploads/2023/02/2023_Sexuality-Education-Programme.pdf) to view.
+Please click **[HERE](/files/2023_sexuality-education-programme.pdf)** to view.
 
 The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/CI package covers Interpersonal Relationships, with themes of Human Development, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.
 
