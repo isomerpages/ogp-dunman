@@ -1,5 +1,5 @@
 ---
-title: Uniforms, Books & Transport
+title: Uniforms, Books &amp; Transport
 permalink: /admissions/uniforms-books-transport/
 description: ""
 ---
@@ -12,7 +12,7 @@ Ms Claudia Chua
 Singapore 408937  
 Tel: 63522741  
 Fax: 68422741  
-Email: [contact@shanghai-uniforms.com](mailto:Email:%20contact@shanghai-uniforms.com)
+Email:&nbsp;[contact@shanghai-uniforms.com](mailto:Email:%20contact@shanghai-uniforms.com)
 
 ### **2. PE Attire / Polo-Shirt**
 #### **Blug Stag**
@@ -23,17 +23,15 @@ Singapore 169203
 Tel :6276 0084
 
 ### **3. Bookshop**
-#### **Popular Book Co (Pte) Ltd**
+#### **Casco Educational Supply Pte Ltd**
 
-Ms Anna Low  
-Popular School Bookshop Tel :64475998  
-Fax :63450484 
+Ms Chong Ching Ling  
+10 Ubi Crescent #01-02  
+Singapore 408564 
 
-15 Serangoon North Ave 5  
-Singapore 554360  
-Tel :64629530  
-Fax :64632206  
-Email: [popschs@popularworld.com](mailto:popschs@popularworld.com)
+Tel: 65474203/65474204  
+Fax: 65474305  
+
 
 ### **4. Private Transport**
 
