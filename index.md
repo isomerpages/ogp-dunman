@@ -6,7 +6,8 @@ description: |-
   关怀 • 服务 • 引领
 image: /images/Homepage/dhs.jpg
 permalink: /
-notification: ""
+notification: "DHS e-Open House: 20 May (Sat). More info will be available on
+  our website soon."
 sections:
   - hero:
       background: /images/Homepage/homepage slider.gif
