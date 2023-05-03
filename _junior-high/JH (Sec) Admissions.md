@@ -15,7 +15,7 @@ Dunman High aims to nurture bilingual Leaders of Honour with a heart to care, to
 **Direct School Admission Exercise-Secondary (DSA-Sec)  
 中学直接招生计划**
 
-* The exercise has been completed for 2022.
+* Click **[HERE](/files/dsa_sec_2023%20dunman%20high%20school%20admission%20to%20year%20one%202024.pdf)** to view the details.
 
 **International Students 国际学生**
 
