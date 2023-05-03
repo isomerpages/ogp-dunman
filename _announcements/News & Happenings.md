@@ -13,7 +13,6 @@ Click **[HERE](/files/dsa_sec_2023%20dunman%20high%20school%20admission%20to%20y
 
 Click **[HERE](/files/dsa_jc_2023%20dunman%20high%20school%20admission%20to%20year%20jc%20one%202024.pdf)**  to view the details.
 
-
 ### [2022 GCE ‘A’ Level Results A 水准考试成绩](https://dhs.edu.sg/sh-news-happenings)
 
 ![](/images/Homepage/senior%20high.png)
