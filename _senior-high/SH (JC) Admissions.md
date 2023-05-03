@@ -15,6 +15,6 @@ Dunman High aims to nurture bilingual Leaders of Honour with a heart to care, to
 **Direct School Admission Exercise-Junior College (DSA-JC)  
 高中直接招生计划**
 
-Click **[HERE](/files/dsa_jc_2023%20dunman%20high%20school%20admission%20to%20year%20jc%20one%202024.pdf)**  to view the details.
+* Click **[HERE](/files/dsa_jc_2023%20dunman%20high%20school%20admission%20to%20year%20jc%20one%202024.pdf)**  to view the details.
 
 **For queries, please send your email to [dhs@moe.edu.sg](mailto:dhs@moe.edu.sg) or call us at +65 6345 0533, between 8.30am to 5.30pm, Monday to Friday, except for public holidays.**
