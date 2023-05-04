@@ -15,7 +15,7 @@ Dunman High aims to nurture bilingual Leaders of Honour with a heart to care, to
 **Direct School Admission Exercise-Secondary (DSA-Sec)  
 中学直接招生计划**
 
-Click **[HERE](/files/dhs_dsa-sec_2023%20dunman%20high%20school.pdf)** to view the details.
+* Click **[HERE](https://go.gov.sg/dhs-dsa-sec23)** to view the details.
 
 **International Students 国际学生**
 
