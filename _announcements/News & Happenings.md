@@ -5,9 +5,9 @@ description: ""
 ---
 ![](/images/Homepage/masthead-announcement-school.jpg)
 
-### [2023 Direct School Admission for Secondary School (DSA-Sec) 中学直接收生计划](/files/dsa_sec_2023%20dunman%20high%20school%20admission%20to%20year%20one%202024.pdf)
+### [](/files/dhs_dsa-sec_2023%20dunman%20high%20school.pdf)
 
-Click **[HERE](/files/dsa_sec_2023%20dunman%20high%20school%20admission%20to%20year%20one%202024.pdf)** to view the details.
+Click **[HERE](/files/dhs_dsa-sec_2023%20dunman%20high%20school.pdf)** to view the details.
 
 ### [2023 Direct School Admission for Junior Colleges (DSA-JC) 初院直接收生计划](/files/dsa_jc_2023%20dunman%20high%20school%20admission%20to%20year%20jc%20one%202024.pdf)
 
