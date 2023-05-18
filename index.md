@@ -13,8 +13,8 @@ sections:
       background: /images/Homepage/homepage slider.gif
       key_highlights:
         - title: ANNOUNCEMENTS 通告
-          description: 2023 DSA-Sec & DSA-JC 直接收生计划
-          url: /announcements/news-happenings/
+          description: 20-31 May 2023 | e-Open House 线上校园开放日
+          url: /announcements/news-happenings
   - infopic:
       title: e-Open House
       subtitle: 线上校园开放日
