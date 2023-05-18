@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/20230520%20e-open%20house%20poster.png)
 
-Dear P6 pupils and parents, 
+Dear P6 pupils and Parents, 
 
 We invite you to join us for Dunman High School’s e-Open House 2023!
 
