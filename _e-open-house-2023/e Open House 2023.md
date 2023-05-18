@@ -14,4 +14,3 @@ You will have the opportunity to learn about our Integrated Programme, including
 The Open House microsite will be available online from 20 May (Sat) to 31 May (Wed).
 
 The link will be made available here on **20 May (Sat)**.
-
