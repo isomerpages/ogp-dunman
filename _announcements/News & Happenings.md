@@ -5,6 +5,10 @@ description: ""
 ---
 ![](/images/Homepage/masthead-announcement-school.jpg)
 
+### [2023 e-Open House 线上校园开放日](https://dunmanhigh.moe.edu.sg/e-open-house-2023/)
+
+Click **[HERE](https://dunmanhigh.moe.edu.sg/e-open-house-2023/)** to access.
+
 ### [2023 Direct School Admission for Secondary School (DSA-Sec) 中学直接收生计划](https://go.gov.sg/dhs-dsa-sec23)
 
 Click **[HERE](https://go.gov.sg/dhs-dsa-sec23)** to view the details.

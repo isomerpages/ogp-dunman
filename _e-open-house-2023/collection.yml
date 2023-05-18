@@ -1,0 +1,5 @@
+collections:
+  e-open-house-2023:
+    output: true
+    order:
+      - e Open House 2023.md
