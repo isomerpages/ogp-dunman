@@ -39,4 +39,12 @@ sections:
       url: /admissions/sh-admissions/
       image: /images/Homepage/Senior High.png
       alt: Image alt text
+  - infopic:
+      title: e-Open House
+      subtitle: 线上校园开放日
+      description: Join us online
+      button: MORE
+      url: https://www.dunmanhigh.moe.edu.sg/e-open-house-2023
+      image: /images/20230520 e-open house poster.png
+      alt: Image alt text
 ---
