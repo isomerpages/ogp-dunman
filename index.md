@@ -42,7 +42,7 @@ sections:
   - infopic:
       title: SENIOR HIGH (JC)
       subtitle: 高中部
-      description: Admissions | Academic | CCA
+      description: DSA-JC | Academic | CCA
       button: MORE
       url: /admissions/sh-admissions/
       image: /images/Homepage/Senior High.png
