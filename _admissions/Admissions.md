@@ -7,14 +7,14 @@ description: ""
 
 Dunman High aims to nurture bilingual Leaders of Honour with a heart to care, to serve and to lead. If you share the same mission with us, you may seek admission through the following:
 
-##### **Junior High (Sec) Admissions (Click [HERE](https://ogp-dunman-staging.netlify.app/admissions/jh-admissions/))**
+##### **Junior High (Sec) Admissions (Click [HERE](https://www.dunmanhigh.moe.edu.sg/admissions/jh-admissions/))**
 
 *   Secondary One Posting Exercise based on PSLE Results
 *   Direct School Admission Exercise-Secondary** **(DSA-Sec)
 *   International Students
 *   Returning Singaporean
 
-##### **Senior High (JC) Admissions (Click [HERE](https://ogp-dunman-staging.netlify.app/admissions/sh-admissions/))**
+##### **Senior High (JC) Admissions (Click [HERE](https://www.dunmanhigh.moe.edu.sg/admissions/sh-admissions/))**
 *    Direct School Admission Exercise-Junior College(DSA-JC)
 *   Joint Admission Exercise-Junior College (JAE)
 
