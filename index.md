@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: ANNOUNCEMENTS 通告
           description: 20-31 May 2023 | e-Open House 线上校园开放日
-          url: /announcements/news-happenings
+          url: https://dhsopenhouse.com/
   - infopic:
       title: e-Open House
       subtitle: 线上校园开放日
@@ -34,7 +34,7 @@ sections:
   - infopic:
       title: JUNIOR HIGH (Sec)
       subtitle: 初中部
-      description: "Admissions | Academic | CCA "
+      description: DSA-Sec | Academic | CCA
       button: MORE
       image: /images/Homepage/Junior-High-Sec.png
       alt: Image alt text
@@ -42,7 +42,7 @@ sections:
   - infopic:
       title: SENIOR HIGH (JC)
       subtitle: 高中部
-      description: Admissions | Academic | CCA
+      description: DSA-JC | Academic | CCA
       button: MORE
       url: /admissions/sh-admissions/
       image: /images/Homepage/Senior High.png
