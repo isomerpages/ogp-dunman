@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: ANNOUNCEMENTS 通告
           description: ""
-          url: https://dhsopenhouse.com/
+          url: https://www.dunmanhigh.moe.edu.sg/announcements/news-happenings/
   - infopic:
       title: Campus Life
       subtitle: 校园新鲜事
