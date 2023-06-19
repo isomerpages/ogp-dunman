@@ -12,7 +12,7 @@ sections:
       background: /images/Homepage/homepage slider.gif
       key_highlights:
         - title: ANNOUNCEMENTS 通告
-          description: 20-31 May 2023 | e-Open House 线上校园开放日
+          description: ""
           url: https://dhsopenhouse.com/
   - infopic:
       title: Campus Life
