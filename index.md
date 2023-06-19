@@ -15,14 +15,6 @@ sections:
           description: 20-31 May 2023 | e-Open House 线上校园开放日
           url: https://dhsopenhouse.com/
   - infopic:
-      title: e-Open House
-      subtitle: 线上校园开放日
-      description: Join us online
-      button: MORE
-      url: https://dhsopenhouse.com/
-      image: /images/20230520 e-open house poster.png
-      alt: Image alt text
-  - infopic:
       title: Campus Life
       subtitle: 校园新鲜事
       description: Join us on Facebook & Instagram
