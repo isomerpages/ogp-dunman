@@ -6,8 +6,7 @@ description: |-
   关怀 • 服务 • 引领
 image: /images/Homepage/dhs.jpg
 permalink: /
-notification: Our e-Open House microsite will be available online from 20 May
-  (Sat) to 31 May (Wed).
+notification: ""
 sections:
   - hero:
       background: /images/Homepage/homepage slider.gif
