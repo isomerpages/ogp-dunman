@@ -6,23 +6,14 @@ description: |-
   关怀 • 服务 • 引领
 image: /images/Homepage/dhs.jpg
 permalink: /
-notification: Our e-Open House microsite will be available online from 20 May
-  (Sat) to 31 May (Wed).
+notification: ""
 sections:
   - hero:
       background: /images/Homepage/homepage slider.gif
       key_highlights:
         - title: ANNOUNCEMENTS 通告
-          description: 20-31 May 2023 | e-Open House 线上校园开放日
-          url: https://dhsopenhouse.com/
-  - infopic:
-      title: e-Open House
-      subtitle: 线上校园开放日
-      description: Join us online
-      button: MORE
-      url: https://dhsopenhouse.com/
-      image: /images/20230520 e-open house poster.png
-      alt: Image alt text
+          description: ""
+          url: https://www.dunmanhigh.moe.edu.sg/announcements/news-happenings/
   - infopic:
       title: Campus Life
       subtitle: 校园新鲜事
