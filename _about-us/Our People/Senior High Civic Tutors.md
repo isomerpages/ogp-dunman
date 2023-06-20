@@ -37,15 +37,15 @@ third_nav_title: Our People
 | 6C22     | Ho Ming Wei Mark | Tan Yu Shi  |
 | 6C31     | Lee Xiuli  | Ong Wen Kai 
 | 6C32     | Tan Jie Ying     | Teo Chai Hock     |
-| 6C33     | Rathyi Devi D/O Ramanathan  | Neo Sock Khim  |
+| 6C33     | Rathyi Devi D/O Ramanathan  | -  |
 | 6C34     | Ooi Ming Fong James  | Yick Jue Ru  |
 | 6C35     | Selena Vera Hey | Nathalie Seah     |
 | 6C36     | Lim Pei Fang   |  Goh Terence    |
 | 6C37     | Chin Shuang Ning | Lim Boon Siong     |
-| 6C41     | Alicia Ng Yi-May  | Yap Kok Hung   |
-| 6C42     | Tan Chwee Bock | -     |
+| 6C41     | Alicia Ng Yi-May  | -  |
+| 6C42     | Tan Chwee Bock | -  |
 | 6C43     | Steven Lee Joo Li  | Tan Jiaqi     |
-| 6C44     | Lam Kar Mun | -     |
+| 6C44     | Lam Kar Mun | Ku Siying   |
 | 6C45     | Lee Wee Siang Joseph  | Ng Wan Chin   |
 | 6C46     | Chew Soon Chiang Martin| An Fengyun   |
 | 6C47     | Tan Ai Ling Debbie | Tan Weiqiang Melvyn   |
