@@ -51,7 +51,7 @@ third_nav_title: Our People
 
 | Class  | Form Teacher | Form Teacher |
 | -------- | -------- | -------- |
-| 23Y4A   | Wu Yao Quan | Sau Wee Wee     |
+| 23Y4A   | Sau Wee Wee | Wu Yao Quan     |
 | 23Y4B   | Ong Chyai-Lian Grace  | Sherene Jeevitha Joseph  |
 | 23Y4C   | Lim Yuan Chin  | Heng Li Tze  |
 | 23Y4D   | Tan Lee Hwee | Asha Vora  |
