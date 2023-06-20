@@ -8,11 +8,11 @@ third_nav_title: Our People
 
 | Class  | Form Teacher | Form Teacher |
 | -------- | -------- | -------- |
-| 23Y1A     | Zhang Liping     | Yip Sook Kwan     |
-| 23Y1B     | Hong Shuqi     | Joyce Teh Kiam Peng  |
+| 23Y1A     | Zhang Liping   | Yip Sook Kwan |
+| 23Y1B     | Hong Shuqi     | Darren Chin|
 | 23Y1C     | Tan Bee Hong  | Richard Neo  |
 | 23Y1D     | Lew Wei Sern Vincent | Noorizan Beevi Binte Abdul Azi  |
-| 23Y1E     | Lien Hui Lin Christine | Yeo Kim Neo Michelle 
+| 23Y1E     | Lien Hui Lin Christine | Lim Bock Boon 
 | 23Y1F     | Aow Ci Hui     | Wong Wei Ting     |
 | 23Y1G     | Khow Zhi Wei Adrian  | Juwana Bte Juwahir     |
 | 23Y1H     | Pear Siew Lee     | Huang Huang     |
@@ -23,14 +23,14 @@ third_nav_title: Our People
 | Class  | Form Teacher | Form Teacher |
 | -------- | -------- | -------- |
 | 23Y2A     | Wong Min Tzu, Sharilyn  | Tay Min Kimberley|
-| 23Y2B   | Lim Hwa Chuan     | Lim Boon Hwee  |
+| 23Y2B   | Wong Teck Piaw | Lim Boon Hwee  |
 | 23Y2C   | Law Seow Li  | Leo June Kit  |
-| 23Y2D   | Chen Shunfa | Hon Shuzhen  |
+| 23Y2D   | Chen Shunfa | Lee Khai Qi  |
 | 23Y2E   | Low Siok Hong | Fu Yuanting Desiree 
-| 23Y2F   | Chia Siew Ling  | Goh Wee Suan  |
+| 23Y2F   | Chia Siew Ling  | Lee Siew Choo  |
 | 23Y2G  | Lim Ngoh Ying, Camilla | Goh Wei Jie Jefferson |
 | 23Y2H   | Lee Xue Ning Vanessa  | Lee Jin Meng  |
-| 23Y2I    | Nora Bte Supa'at | Chan JIa Kun Jason    |
+| 23Y2I    | Nora Bte Supa'at | Chan Jia Kun Jason    |
 
 
 ## Year 3
