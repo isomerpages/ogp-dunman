@@ -81,7 +81,6 @@ third_nav_title: Our People
 | Mrs Chew-Tan Bee Hong | SH/Physical Education |
 | Ilyana Hardianti Bte Hartono W | HOD/Co-Curricular Activities |
 | Ms Ang Peiyu | SH/Co-Curricular Activities |
-| Mr Boh Weiliang Brandon | SH/Co-Curricular Activities |
 | Mr Jason Chen Quansheng | HOD/Character & Citizenship Education and Discipline |
 | Ms Yeo Kim Neo Michelle | SH/Character & Citizenship Education |
 | Ms Lim Ern Chze, Angie | SH/Character & Citizenship Education |
