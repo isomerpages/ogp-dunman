@@ -25,12 +25,11 @@ Tel :6276 0084
 ### **3. Bookshop**
 #### **Casco Educational Supply Pte Ltd**
 
-Ms Chong Ching Ling  
+Ms Anna Low  
 10 Ubi Crescent #01-02  
 Singapore 408564 
 
-Tel:  93474563/65474203/65474204  
-Fax: 65474305  
+Tel / Fax:  63224337
 
 
 ### **4. Private Transport**
