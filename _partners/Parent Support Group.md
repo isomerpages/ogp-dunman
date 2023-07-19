@@ -9,7 +9,7 @@ description: ""
 
 ## **MISSION**
 
-To strengthen the ties between the school and the parents for the well-being of our students by fostering a closer working partnership among all stakeholders, namely students, parents and the school
+To strengthen the ties between the school and the parents for the well-being of our students by fostering a closer working partnership among all stakeholders, namely students, parents and the school.
 
 ## **OBJECTIVES**
 
