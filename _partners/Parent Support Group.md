@@ -63,7 +63,7 @@ Stay tuned to the updates of current and future activities organised by PSG and 
 |Committee Members 家长会执行委员 | Ms. Annissa Koh 许倩芸 | Ms. Emily Soo 苏植惠| 
 | | Mr. Kenny Chia 谢逸中| Ms. Michelle Yong 杨秀萍| 
 | |Ms. Rita Yan 颜蕾| Ms. Selena Tay 郑美卿| 
-| | Ms。 Shirley Thum 谭舒蜺|
+| | Ms. Shirley Thum 谭舒蜺|
  
 ###  **PSG Liaison Teachers**
 * Mrs Phua-Loo Poh Lim -
