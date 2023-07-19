@@ -51,7 +51,15 @@ Stay tuned to the updates of current and future activities organised by PSG and 
 ## **2023/2024 PSG Executive Committee**
  **德明家长会执行委员**
  
- ![](/images/Homepage/psg_2023.png)
+| Designation | Name | 
+| -------- | -------- | 
+| Co-Chairperson 联合主席 | Ms. Amy Wong 黄于飞  Ms. Karlyn Looi 雷彬彬  |
+| Vice-Chairperson 副主席  | Mr. Lionell Yeo 杨金臻 Ms. Noelle Lee 李树玲   |
+|Advisor 顾问| Mr. Alvin Lee Chong Yin 李昌仁|
+|Secretary 秘书 | Ms. Tang Tung San 邓冬姗 | 
+|Treasurer 财务 | Ms. Zhao Jiaqi 赵珈錡 Mr. Tan Chow Pin 陈超斌| 
+| Internal Auditor 内部审计| Mr. Dominic Chu  朱浩章 Mr. Joycelyn Lee 李丽芳 | 
+|   |   | 
  
 ###  **PSG Liaison Teachers**
 * Mrs Phua-Loo Poh Lim -
