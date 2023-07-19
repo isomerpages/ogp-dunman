@@ -15,7 +15,7 @@ To strengthen the ties between the school and the parents for the well-being of 
 
 *   To serve as a communication link between the school and parents
 *   To support and assist the school in its programmes and activities
-*   To organise events & activities which benefit parents, students and the school
+*   To organise events &amp; activities which benefit parents, students and the school
 
 ## **使命**
 
@@ -35,7 +35,7 @@ To strengthen the ties between the school and the parents for the well-being of 
 
 Calling out to all parents of Dunmanians! Make your parenting journey memorable by joining the DHS Parent Support Group (PSG)! We are a vibrant and passionate group of parents, actively involved in our children’s DHS journey to create a win-win situation for the school, parents and teachers.
 
-All parents / guardians of current Dunman High School students are welcome to join PSG. Scan the QR Code or register via the following link: [**https://tinyurl.com/DHS-PSG-Membership**](https://tinyurl.com/DHS-PSG-Membership)
+All parents / guardians of current Dunman High School students are welcome to join PSG. Scan the QR Code or register via the following link:&nbsp;[**https://tinyurl.com/DHS-PSG-Membership**](https://tinyurl.com/DHS-PSG-Membership)
 
 [**现在就加入成为德明家长会的会员！**](https://tinyurl.com/DHS-PSG-Membership)
 
@@ -44,26 +44,26 @@ All parents / guardians of current Dunman High School students are welcome to jo
 
 ### **DHS PSG Facebook and Instagram**
 
-Stay tuned to the updates of current and future activities organised by PSG and school!  想知道最新家长会活动及学校动态的资讯？请扫描以下的二维码或登入以下链接：
+Stay tuned to the updates of current and future activities organised by PSG and school!&nbsp; 想知道最新家长会活动及学校动态的资讯？请扫描以下的二维码或登入以下链接：
 
 ![](/images/Homepage/psg%20social%20media%20qr%20code.png)
 
 ## **2023/2024 PSG Executive Committee**
  **德明家长会执行委员**
  
-| Designation | Name | Name
+| Designation | Name | Name | 
 | -------- | -------- | -------- |
-| Co-Chairperson 联合主席 | Ms. Amy Wong 黄于飞  | Ms. Karlyn Looi 雷彬彬  |
-| Vice-Chairperson 副主席  | Mr. Lionell Yeo 杨金臻 | Ms. Noelle Lee 李树玲   |
-|Advisor 顾问| Mr. Alvin Lee Chong Yin 李昌仁| - |
-|Secretary 秘书 | Ms. Tang Tung San 邓冬姗 | - | 
-|Treasurer 财务 | Ms. Zhao Jiaqi 赵珈錡 | Mr. Tan Chow Pin 陈超斌| 
-| Internal Auditor 内部审计| Mr. Dominic Chu  朱浩章 | Mr. Joycelyn Lee 李丽芳 | 
-|Publicity 宣传 | Mr. Dennis Lim 林心毅 | Mr. Edwin Lim 林豪民 | Ms. Leong Wai May 梁慧媚 |
-|Committee Members 家长会执行委员 | Ms. Annissa Koh 许倩芸 | Ms. Emily Soo 苏植惠| 
-| | Mr. Kenny Chia 谢逸中| Ms. Michelle Yong 杨秀萍| 
-| | Ms. Rita Yan 颜蕾| Ms. Selena Tay 郑美卿| 
-| | Ms. Shirley Thum 谭舒蜺|
+| Co-Chairperson <br>联合主席<br> | Ms. Amy Wong<br> 黄于飞<br>  | Ms. Karlyn Looi<br>雷彬彬<br>  |
+| Vice-Chairperson<br>副主席<br>| Mr. Lionell Yeo<br>杨金臻<br> | Ms. Noelle Lee <br>李树玲<br>|
+|Advisor<br>顾问<br>|Mr. Alvin Lee Chong Yin<br>李昌仁<br>| - |
+|Secretary<br>秘书<br>| Ms. Tang Tung San<br>邓冬姗<br> | - | 
+|Treasurer<br>财务<br>| Ms. Zhao Jiaqi<br>赵珈錡<br>| Mr. Tan Chow Pin<br>陈超斌<br>| 
+| Internal Auditor<br>内部审计<br>| Mr. Dominic Chu<br>朱浩章<br>| Mr. Joycelyn Lee<br>李丽芳<br> | 
+|Publicity<br>宣传<br>| Mr. Dennis Lim<br> 林心毅<br>| Mr. Edwin Lim<br>林豪民<br> | Ms. Leong Wai May<br>梁慧媚<br> |
+|Committee Members<br>家长会执行委员<br> | Ms. Annissa Koh<br>许倩芸<br> | Ms. Emily Soo <br>苏植惠<br>| 
+|| Mr. Kenny Chia<br>谢逸中<br>| Ms. Michelle Yong<br>杨秀萍<br>| 
+| | Ms. Rita Yan<br> 颜蕾<br> |Ms. Selena Tay<br>郑美卿<br>|
+||Ms. Shirley Thum<br>谭舒蜺<br>|
  
 ###  **PSG Liaison Teachers**
 * Mrs Phua-Loo Poh Lim -
