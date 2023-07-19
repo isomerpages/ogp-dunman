@@ -5,12 +5,11 @@ description: ""
 ---
 ![](/images/Homepage/psg-web.jpeg)
 
-
 ![](/images/Homepage/PSG-header.jpg)
 
 ## **MISSION**
 
-To strengthen the ties between the school and the parents for the well-being of our students by fostering a closer working partnership among all stakeholders, namely students, parents, and the school
+To strengthen the ties between the school and the parents for the well-being of our students by fostering a closer working partnership among all stakeholders, namely students, parents and the school
 
 ## **OBJECTIVES**
 
@@ -52,7 +51,19 @@ Stay tuned to the updates of current and future activities organised by PSG and 
 ## **2023/2024 PSG Executive Committee**
  **德明家长会执行委员**
  
- ![](/images/Homepage/psg_2023.png)
+| Designation | Name | Name
+| -------- | -------- | -------- |
+| Co-Chairperson 联合主席 | Ms. Amy Wong 黄于飞  | Ms. Karlyn Looi 雷彬彬  |
+| Vice-Chairperson 副主席  | Mr. Lionell Yeo 杨金臻 | Ms. Noelle Lee 李树玲   |
+|Advisor 顾问| Mr. Alvin Lee Chong Yin 李昌仁| - |
+|Secretary 秘书 | Ms. Tang Tung San 邓冬姗 | - | 
+|Treasurer 财务 | Ms. Zhao Jiaqi 赵珈錡 | Mr. Tan Chow Pin 陈超斌| 
+| Internal Auditor 内部审计| Mr. Dominic Chu  朱浩章 | Mr. Joycelyn Lee 李丽芳 | 
+|Publicity 宣传 | Mr. Dennis Lim 林心毅 | Mr. Edwin Lim 林豪民 | Ms. Leong Wai May 梁慧媚 |
+|Committee Members 家长会执行委员 | Ms. Annissa Koh 许倩芸 | Ms. Emily Soo 苏植惠| 
+| | Mr. Kenny Chia 谢逸中| Ms. Michelle Yong 杨秀萍| 
+| | Ms. Rita Yan 颜蕾| Ms. Selena Tay 郑美卿| 
+| | Ms. Shirley Thum 谭舒蜺|
  
 ###  **PSG Liaison Teachers**
 * Mrs Phua-Loo Poh Lim -
