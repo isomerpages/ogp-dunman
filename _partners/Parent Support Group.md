@@ -56,7 +56,7 @@ Stay tuned to the updates of current and future activities organised by PSG and 
 | Co-Chairperson <br>联合主席<br> | Ms. Amy Wong<br> 黄于飞<br>  | Ms. Karlyn Looi<br>雷彬彬<br>  |
 | Vice-Chairperson<br>副主席<br>| Mr. Lionell Yeo<br>杨金臻<br> | Ms. Noelle Lee <br>李树玲<br>|
 |Advisor<br>顾问<br>|Mr. Alvin Lee Chong Yin<br>李昌仁<br>|  
-|Secretary<br>秘书<br>| Ms. Tang Tung San<br>邓冬姗<br> |  
+|Secretary<br>秘书<br>| Ms. Tang Tung San<br>邓冬姗<br> |  Ms. Clariece Tan<br> 陈淑湘<br>|
 |Treasurer<br>财务<br>| Ms. Zhao Jiaqi<br>赵珈錡<br>| Mr. Tan Chow Pin<br>陈超斌<br>| 
 | Internal Auditor<br>内部审计<br>| Mr. Dominic Chu<br>朱浩章<br>| Mr. Joycelyn Lee<br>李丽芳<br> | 
 |Publicity<br>宣传<br>| Mr. Dennis Lim<br> 林心毅<br>| Mr. Edwin Lim<br>林豪民<br> | Ms. Leong Wai May<br>梁慧媚<br> |
