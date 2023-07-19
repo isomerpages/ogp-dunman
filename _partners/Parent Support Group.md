@@ -62,7 +62,7 @@ Stay tuned to the updates of current and future activities organised by PSG and 
 |Publicity 宣传 | Mr. Dennis Lim 林心毅 | Mr. Edwin Lim 林豪民 | Ms. Leong Wai May 梁慧媚 |
 |Committee Members 家长会执行委员 | Ms. Annissa Koh 许倩芸 | Ms. Emily Soo 苏植惠| 
 | | Mr. Kenny Chia 谢逸中| Ms. Michelle Yong 杨秀萍| 
-| |Ms. Rita Yan 颜蕾| Ms. Selena Tay 郑美卿| 
+| | Ms. Rita Yan 颜蕾| Ms. Selena Tay 郑美卿| 
 | | Ms. Shirley Thum 谭舒蜺|
  
 ###  **PSG Liaison Teachers**
