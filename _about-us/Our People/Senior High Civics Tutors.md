@@ -1,5 +1,5 @@
 ---
-title: Senior High Civic Tutors
+title: Senior High Civics Tutors
 permalink: /about-dhs/contact-us/senior-high-civics-tutors/
 description: ""
 third_nav_title: Our People
