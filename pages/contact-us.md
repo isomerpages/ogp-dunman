@@ -7,7 +7,7 @@ locations:
   - address:
       - Dunman High School
       - 10 Tanjong Rhu Rd
-      - Singapore 123456
+      - Singapore 436895
     operating_hours:
       - days: Mon - Fri
         time: 8.00am - 5.00pm
@@ -19,5 +19,6 @@ contacts:
       - phone: +65 6563 4505
       - email: dhs@moe.edu.sg
       - other: ""
-    title: "General Enquiries "
+    title: General Enquiries
+feedback: ""
 ---
