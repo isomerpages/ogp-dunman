@@ -16,7 +16,7 @@ locations:
     title: Main Office
 contacts:
   - content:
-      - phone: +65 6563 4505
+      - phone: +65 6345 0533
       - email: dhs@moe.edu.sg
       - other: ""
     title: General Enquiries
