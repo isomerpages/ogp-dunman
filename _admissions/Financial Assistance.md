@@ -15,7 +15,7 @@ b. Raised the qualifying household income criterion for the Edusave Merit Bursar
 
 c. Set up “Opportunity Fund” in schools.
 
-2\. In line with the above objective, Dunman High School (DHS) has revised the eligibility criteria for the [**DHS Financial Financial Assistance Scheme** ](https://go.gov.sg/dhs-fas-guidelines-23) and established a set of guidelines to disburse the **Opportunity Fund** to needy students.
+2\. In line with the above objective, Dunman High School (DHS) has revised the eligibility criteria for the **DHS Financial Assistance** and established a set of guidelines to disburse the **Opportunity Fund** to needy students.
 
 3\. The DHS FAS is a financial scheme that complements the MOE FAS. It seeks to further support needy students by (i) providing financial assistance in areas not covered by the MOE FAS, and (ii) helping those who miss the criteria for MOE FAS.
 
