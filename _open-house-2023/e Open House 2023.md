@@ -2,8 +2,9 @@
 title: e Open House 2023
 permalink: /e-open-house-2023/
 description: ""
+variant: markdown
 ---
-![](/images/20230520%20e-open%20house%20poster.png)
+![](/images/open%20house.PNG)
 
 Dear P6 pupils and Parents, 
 
