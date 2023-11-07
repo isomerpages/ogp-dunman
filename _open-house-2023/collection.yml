@@ -2,4 +2,4 @@ collections:
   open-house-2023:
     output: true
     order:
-      - e Open House 2023.md
+      - Open House 2023.md
