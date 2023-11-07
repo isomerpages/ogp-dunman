@@ -8,10 +8,10 @@ variant: markdown
 
 Dear P6 pupils and Parents, 
 
-We invite you to join us for Dunman High School’s e-Open House 2023!
+We invite you to join us for Dunman High School’s Open House 2023!
 
-You will have the opportunity to learn about our Integrated Programme, including details of our Direct School Admission (DSA) talent areas, and hear from Dunmanians about their school experience.
+![](/images/open%20house_2.PNG)
 
-The Open House microsite will be available online from 20 May (Sat) to 31 May (Wed).
+You will have the opportunity to learn about our Integrated Programme, and hear from Dunmanians about their school experience.
 
-The link will be made available here on **20 May (Sat)**.
+![](/images/open%20house_3.PNG)
