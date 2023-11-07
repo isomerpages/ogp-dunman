@@ -20,7 +20,7 @@ sections:
       id: infopic
       description: 25 Nov 2023, Saturday 9 a.m. – 1 p.m.
       button: MORE
-      url: https://www.dunmanhigh.moe.edu.sg/e-open-house-2023/
+      url: https://www.dunmanhigh.moe.edu.sg/open-house-2023/
       image: /images/open house_1.PNG
       alt: Image alt text
   - infopic:
