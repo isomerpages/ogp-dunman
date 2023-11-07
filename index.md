@@ -6,7 +6,7 @@ description: |-
   关怀 • 服务 • 引领
 image: /images/Homepage/dhs.jpg
 permalink: /
-notification: ""
+notification: Join us at our Open House on 25 Nov 2023, Saturday   9 a.m. – 1 p.m.
 sections:
   - hero:
       background: /images/Homepage/homepage slider.gif
