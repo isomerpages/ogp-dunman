@@ -2,6 +2,7 @@
 title: Co curricular Activities
 permalink: /student-development/co-curricular-activities/
 description: ""
+variant: markdown
 ---
 ![](/images/masthead-development-cca.jpg)
 
@@ -118,8 +119,8 @@ Core CCAs
 **Performing Arts**
 
 *   Chinese Society
+    *   Calligraphy
     *   Drama
-    *   Beijing Opera
 *   Chinese Orchestra (including Guzheng Ensemble)
 *   Choir
 *   Dance Society
