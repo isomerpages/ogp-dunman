@@ -4,7 +4,9 @@ permalink: /announcements/news-happenings/
 description: ""
 variant: markdown
 ---
-![](/images/Homepage/masthead-announcement-school.jpg)### [2022 GCE ‘A’ Level Results A 水准考试成绩](https://dhs.edu.sg/sh-news-happenings)
+![](/images/Homepage/masthead-announcement-school.jpg)
+
+### [2022 GCE ‘A’ Level Results A 水准考试成绩](https://dhs.edu.sg/sh-news-happenings)
 
 ![](/images/Homepage/senior%20high.png)
 
