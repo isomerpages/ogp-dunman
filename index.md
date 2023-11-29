@@ -6,7 +6,7 @@ description: |-
   关怀 • 服务 • 引领
 image: /images/Homepage/dhs.jpg
 permalink: /
-notification: Join us at our Open House on 25 Nov 2023, Saturday   9 a.m. – 1 p.m.
+notification: ""
 sections:
   - hero:
       background: /images/Homepage/homepage slider.gif
@@ -14,15 +14,6 @@ sections:
         - title: ANNOUNCEMENTS 通告
           description: ""
           url: https://www.dunmanhigh.moe.edu.sg/announcements/news-happenings/
-  - infopic:
-      title: Open House 2023
-      subtitle: 校园开放日
-      id: infopic
-      description: 25 Nov 2023, Saturday 9 a.m. – 1 p.m.
-      button: MORE
-      url: https://www.dunmanhigh.moe.edu.sg/open-house-2023/
-      image: /images/open house_1.PNG
-      alt: Image alt text
   - infopic:
       title: Campus Life
       subtitle: 校园新鲜事
