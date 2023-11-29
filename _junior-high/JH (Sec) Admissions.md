@@ -2,6 +2,7 @@
 title: JH (Sec) Admissions
 permalink: /admissions/jh-admissions/
 description: ""
+variant: markdown
 ---
 ![](/images/Homepage/Junior-High-Sec.png)
 
@@ -10,12 +11,8 @@ Dunman High aims to nurture bilingual Leaders of Honour with a heart to care, to
  **Secondary One Posting Exercise based on PSLE Results  
 中学一年级学校分配活动**
 
-* The event has been completed for 2023.
-
 **Direct School Admission Exercise-Secondary (DSA-Sec)  
 中学直接招生计划**
-
-* Click **[HERE](https://go.gov.sg/dhs-dsa-sec23)** to view the details.
 
 **International Students 国际学生**
 
