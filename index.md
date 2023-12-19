@@ -6,7 +6,7 @@ description: |-
   关怀 • 服务 • 引领
 image: /images/Homepage/dhs.jpg
 permalink: /
-notification: 2024 Year One Registration & Class Allocation (中一新生注册与班级分配)
+notification: ""
 sections:
   - hero:
       background: /images/Homepage/homepage slider.gif
@@ -14,6 +14,10 @@ sections:
         - title: ANNOUNCEMENTS 通告
           description: ""
           url: https://www.dunmanhigh.moe.edu.sg/announcements/news-happenings/
+        - title: 2024 Year One Registration & Class Allocation
+          description: 中一新生注册与班级分配
+          url: https://www.dunmanhigh.moe.edu.sg/junior-high/2024-y1-registration-class-allocation/
+      variant: center
   - infopic:
       title: Campus Life
       subtitle: 校园新鲜事
@@ -29,7 +33,7 @@ sections:
       button: MORE
       image: /images/Homepage/Junior-High-Sec.png
       alt: Image alt text
-      url: /admissions/jh-admissions/
+      url: /jh-sec-admissions/admissions/
   - infopic:
       title: SENIOR HIGH (JC)
       subtitle: 高中部
