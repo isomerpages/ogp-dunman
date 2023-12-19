@@ -2,7 +2,6 @@ collections:
   admissions:
     output: true
     order:
-      - 2024 Year One Registration & Class Allocation.md
       - Admissions.md
       - Uniforms, Books & Transport.md
       - Financial Assistance.md
