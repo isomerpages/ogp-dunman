@@ -29,7 +29,7 @@ sections:
       button: MORE
       image: /images/Homepage/Junior-High-Sec.png
       alt: Image alt text
-      url: /admissions/jh-admissions/
+      url: /jh-sec-admissions/admissions/
   - infopic:
       title: SENIOR HIGH (JC)
       subtitle: 高中部
