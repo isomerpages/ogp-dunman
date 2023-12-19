@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Admissions.md
-      - Y1 Registration/.keep
       - Uniforms, Books & Transport.md
       - Financial Assistance.md
