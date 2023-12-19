@@ -2,9 +2,9 @@ collections:
   admissions:
     output: true
     order:
+      - 2024 Year One Registration/.keep
+      - 2024 Year One Registration/Admissions.md
       - 2024 Year One Registration/2024 Year One Registration & Class
         Allocation.md
-      - 2024 Year One Registration/Admissions.md
-      - 2024 Year One Registration/.keep
       - Uniforms, Books & Transport.md
       - Financial Assistance.md
