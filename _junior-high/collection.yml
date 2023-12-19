@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - JH (Sec) Admissions.md
-      - JH (Admission)/.keep
       - JH (Sec) Academic.md
       - JH (Sec) CCAs.md
