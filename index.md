@@ -6,7 +6,7 @@ description: |-
   关怀 • 服务 • 引领
 image: /images/Homepage/dhs.jpg
 permalink: /
-notification: ""
+notification: 2024 Year One Registration & Class Allocation (中一新生注册与班级分配)
 sections:
   - hero:
       background: /images/Homepage/homepage slider.gif

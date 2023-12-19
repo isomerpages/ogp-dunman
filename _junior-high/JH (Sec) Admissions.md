@@ -1,6 +1,6 @@
 ---
 title: JH (Sec) Admissions
-permalink: /admissions/jh-admissions/
+permalink: /jh-sec-admissions/admissions/
 description: ""
 variant: markdown
 ---
