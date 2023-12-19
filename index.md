@@ -38,10 +38,4 @@ sections:
       url: /admissions/sh-admissions/
       image: /images/Homepage/Senior High.png
       alt: Image alt text
-  - infobar:
-      title: 2024 Year One Registration & Class Allocation
-      subtitle: 中一新生注册与班级分配
-      id: infobar
-      description: Infobar description
-      button: Button Text
 ---
