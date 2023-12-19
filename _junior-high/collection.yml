@@ -2,8 +2,8 @@ collections:
   junior-high:
     output: true
     order:
-      - JH (Admission)/2024 Year One Registration & Class Allocation.md
-      - JH (Admission)/JH (Sec) Admissions.md
       - JH (Admission)/.keep
+      - JH (Admission)/JH (Sec) Admissions.md
+      - JH (Admission)/2024 Year One Registration & Class Allocation.md
       - JH (Sec) Academic.md
       - JH (Sec) CCAs.md
