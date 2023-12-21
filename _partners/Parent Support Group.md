@@ -2,6 +2,7 @@
 title: Parent Support Group
 permalink: /about-dhs/partners/psg/
 description: ""
+variant: markdown
 ---
 ![](/images/Homepage/psg-web.jpeg)
 
@@ -29,18 +30,18 @@ To strengthen the ties between the school and the parents for the well-being of 
 
 ![](/images/Homepage/psgpsg.jpeg)
 
-### **[Join Dunman High School Parent Support Group now!](https://tinyurl.com/DHS-PSG-Membership)**
+## **[Join Dunman High School Parent Support Group now!](https://forms.gle/HqL9rizwBGvQB7zM9)**
 
-![](/images/icon.png)
+![](/images/code7.jpg)
 
 Calling out to all parents of Dunmanians! Make your parenting journey memorable by joining the DHS Parent Support Group (PSG)! We are a vibrant and passionate group of parents, actively involved in our children’s DHS journey to create a win-win situation for the school, parents and teachers.
 
-All parents / guardians of current Dunman High School students are welcome to join PSG. Scan the QR Code or register via the following link:&nbsp;[**https://tinyurl.com/DHS-PSG-Membership**](https://tinyurl.com/DHS-PSG-Membership)
+All parents / guardians of current Dunman High School students are welcome to join PSG. Scan the QR Code or register via the following link [**HERE**](https://forms.gle/HqL9rizwBGvQB7zM9).
 
 [**现在就加入成为德明家长会的会员！**](https://tinyurl.com/DHS-PSG-Membership)
 
-各位德明家长及监护人，您们好！我们是一群充满着活力和热情、本着贡献精神的家长。我们认为家长若能在子女的德明学习旅程当中积极参与，对学校、家长和老师都有莫大禆益。我们欢迎所有在籍德明学生的家长及监护人加入成为会员，现在就扫描以上的二维码或登入以下链接注册吧！  
-**[https://tinyurl.com/DHS-PSG-Membership](https://tinyurl.com/DHS-PSG-Membership)**
+各位德明家长及监护人，您们好！我们是一群充满着活力和热情、本着贡献精神的家长。我们认为家长若能在子女的德明学习旅程当中积极参与，对学校、家长和老师都有莫大禆益。我们欢迎所有在籍德明学生的家长及监护人加入成为会员，现在就扫描以上的二维码或登入[**这里**](https://forms.gle/HqL9rizwBGvQB7zM9)注册吧！  
+
 
 ### **DHS PSG Facebook and Instagram**
 
@@ -63,10 +64,7 @@ Stay tuned to the updates of current and future activities organised by PSG and 
 |Committee Members<br>家长会执行委员<br> | Ms. Annissa Koh<br>许倩芸<br> | Ms. Emily Soo <br>苏植惠<br>| Mr. Kenny Chia<br>谢逸中<br>| Ms. Michelle Yong<br>杨秀萍<br>
 || Ms. Rita Yan<br> 颜蕾<br> |Ms. Selena Tay<br>郑美卿<br>| Ms. Shirley Thum<br>谭舒蜺<br>|
  
-###  **PSG Liaison Teachers**
-* Mrs Phua-Loo Poh Lim -
- HOD / Science (Junior High)
-
+###  **PSG Liaison Teacher**
 * Mdm Lam Non Har Serene - 
  School Staff Developer
  
