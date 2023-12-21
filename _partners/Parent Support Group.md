@@ -32,7 +32,7 @@ To strengthen the ties between the school and the parents for the well-being of 
 
 ## **[Join Dunman High School Parent Support Group now!](https://forms.gle/HqL9rizwBGvQB7zM9)**
 
-![](/images/code7.jpg)
+![](/images/code7small.png)
 
 Calling out to all parents of Dunmanians! Make your parenting journey memorable by joining the DHS Parent Support Group (PSG)! We are a vibrant and passionate group of parents, actively involved in our children’s DHS journey to create a win-win situation for the school, parents and teachers.
 
