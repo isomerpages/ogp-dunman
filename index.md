@@ -42,4 +42,21 @@ sections:
       url: /admissions/sh-admissions/
       image: /images/Homepage/Senior High.png
       alt: Image alt text
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: 北京大学和复旦大学的招生信息
+      announcement_items:
+        - title: Re
+          date: 22 December 2023
+          announcement: 2024年北京大学于新加坡本科招生活动 (Peking University Undergraduate Recruitment
+            Exercise in Singapore)
+          link_text: ""
+          link_url: ""
+        - title: New Announcement
+          date: 22 December 2023
+          announcement: 2024年复旦大学于新加坡本科招生活动 (Fudan University Undergraduate Recruitment
+            Exercise in Singapore)
+          link_text: ""
+          link_url: ""
 ---
