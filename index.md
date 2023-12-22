@@ -18,6 +18,26 @@ sections:
           description: 中一新生注册与班级分配
           url: https://www.dunmanhigh.moe.edu.sg/junior-high/2024-y1-registration-class-allocation/
       variant: center
+  - textcards:
+      title: 北京大学与复旦大学于新加坡本科招生信息
+      subtitle: 2024年
+      id: textcards
+      description: Peking & Fudan University Undergraduate Recruitment Exercise in
+        Singapore for 2024
+      cards:
+        - title: 北京大学招生活动通知
+          description: >+
+            Peking University Undergraduate Recruitment Exercise in Singapore
+            for 2024
+
+          linktext: 详情
+          url: ""
+        - title: 复旦大学招生活动通知
+          description: >
+            Fudan University Undergraduate Recruitment Exercise in Singapore for
+            2024
+          linktext: 详情
+          url: ""
   - infopic:
       title: Campus Life
       subtitle: 校园新鲜事
@@ -42,20 +62,4 @@ sections:
       url: /admissions/sh-admissions/
       image: /images/Homepage/Senior High.png
       alt: Image alt text
-  - announcements:
-      title: 北京大学和复旦大学招生信息
-      id: announcements
-      announcement_items:
-        - title: Re
-          date: 22 December 2023
-          announcement: 2024年北京大学于新加坡本科招生活动 (Peking University Undergraduate Recruitment
-            Exercise in Singapore)
-          link_text: ""
-          link_url: ""
-        - title: New Announcement
-          date: 22 December 2023
-          announcement: 2024年复旦大学于新加坡本科招生活动 (Fudan University Undergraduate Recruitment
-            Exercise in Singapore)
-          link_text: ""
-          link_url: ""
 ---
