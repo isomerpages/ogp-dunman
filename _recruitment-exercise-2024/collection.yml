@@ -1,4 +1,6 @@
 collections:
   recruitment-exercise-2024:
     output: true
-    order: []
+    order:
+      - Peking University Undergraduate Recruitment Exercise in Singapore for
+        2024.md
