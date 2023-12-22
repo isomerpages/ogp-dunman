@@ -11,12 +11,12 @@ sections:
   - hero:
       background: /images/Homepage/homepage slider.gif
       key_highlights:
-        - title: ANNOUNCEMENTS 通告
-          description: ""
-          url: https://www.dunmanhigh.moe.edu.sg/announcements/news-happenings/
         - title: 2024 Year One Registration & Class Allocation
           description: 中一新生注册与班级分配
           url: https://www.dunmanhigh.moe.edu.sg/junior-high/2024-y1-registration-class-allocation/
+        - title: ANNOUNCEMENTS 通告
+          description: ""
+          url: https://www.dunmanhigh.moe.edu.sg/announcements/news-happenings/
       variant: center
   - textcards:
       title: 北京大学与复旦大学于新加坡本科招生信息
