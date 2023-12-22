@@ -43,9 +43,8 @@ sections:
       image: /images/Homepage/Senior High.png
       alt: Image alt text
   - announcements:
-      title: Announcements
+      title: 北京大学和复旦大学招生信息
       id: announcements
-      subtitle: 北京大学和复旦大学的招生信息
       announcement_items:
         - title: Re
           date: 22 December 2023
