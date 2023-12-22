@@ -28,7 +28,7 @@ sections:
         - title: 北京大学
           description: Peking University
           linktext: 详情
-          url: ""
+          url: https://www.dunmanhigh.moe.edu.sg/recruitment-exercise-2024/peking-university/
         - title: 复旦大学
           description: Fudan University
           linktext: 详情
