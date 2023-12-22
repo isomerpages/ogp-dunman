@@ -26,13 +26,11 @@ sections:
         Singapore for 2024
       cards:
         - title: 北京大学
-          description: Peking University Undergraduate Recruitment Exercise in Singapore
-            for 2024
+          description: "Peking University "
           linktext: 详情
           url: ""
         - title: 复旦大学
-          description: Fudan University Undergraduate Recruitment Exercise in Singapore
-            for 2024
+          description: "Fudan University "
           linktext: 详情
           url: ""
   - infopic:
