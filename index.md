@@ -25,17 +25,14 @@ sections:
       description: Peking & Fudan University Undergraduate Recruitment Exercise in
         Singapore for 2024
       cards:
-        - title: 北京大学招生活动通知
-          description: >+
-            Peking University Undergraduate Recruitment Exercise in Singapore
+        - title: 北京大学
+          description: Peking University Undergraduate Recruitment Exercise in Singapore
             for 2024
-
           linktext: 详情
           url: ""
-        - title: 复旦大学招生活动通知
-          description: >
-            Fudan University Undergraduate Recruitment Exercise in Singapore for
-            2024
+        - title: 复旦大学
+          description: Fudan University Undergraduate Recruitment Exercise in Singapore
+            for 2024
           linktext: 详情
           url: ""
   - infopic:
