@@ -3,16 +3,6 @@ title: Teacher Leaders Council
 permalink: /about-dhs/contact-us/teacher-leaders-council/
 description: ""
 third_nav_title: Our People
+variant: tiptap
 ---
-| Name | Designation |
-| --- | --- |
-| Mr Wee Shoo Soon | Lead Teacher/English Language |
-| Mrs Grace Bok | Lead Teacher/Geography |
-| Mdm Khoo Geok Hwa | Lead Teacher/High Achieving Learners |
-| Mr Sng Jianming Joshua | Senior Teacher/Character and Citizenship Education |
-| Mdm An Fengyun | Senior Teacher/Chinese Language |
-| Mdm Hong Lan | Senior Teacher/Chinese Language |
-| Mdm Sau Wee Wee | Senior Teacher/Chinese Language |
-| Mrs Asha Vora | Senior Teacher/English Literature |
-| Ms Fang Chye Pin | Senior Teacher/Mathematics |
-| Mr Lim Lian Joo Jeremy | Senior Teacher/Physics |
+<table><tbody><tr><th rowspan="1" colspan="1"><p>Name</p></th><th rowspan="1" colspan="1"><p>Designation</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mr Wee Shoo Soon</p></td><td rowspan="1" colspan="1"><p>Lead Teacher/English Language</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mrs Grace Bok</p></td><td rowspan="1" colspan="1"><p>Lead Teacher/Geography</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Khoo Geok Hwa</p></td><td rowspan="1" colspan="1"><p>Lead Teacher/High Achieving Learners</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm An Fengyun</p></td><td rowspan="1" colspan="1"><p>Senior Teacher/Chinese Language</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Hong Lan</p></td><td rowspan="1" colspan="1"><p>Senior Teacher/Chinese Language</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Sau Wee Wee</p></td><td rowspan="1" colspan="1"><p>Senior Teacher/Chinese Language</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mrs Asha Vora</p></td><td rowspan="1" colspan="1"><p>Senior Teacher/English Literature</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Fang Chye Pin</p></td><td rowspan="1" colspan="1"><p>Senior Teacher/Mathematics</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Lau Min Yin, Emmeline</p></td><td rowspan="1" colspan="1"><p>Senior Teacher/Mathematics</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Lim Lian Joo Jeremy</p></td><td rowspan="1" colspan="1"><p>Senior Teacher/Physics</p></td></tr></tbody></table><p></p>
