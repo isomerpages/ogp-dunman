@@ -45,7 +45,7 @@ sections:
       description: Join us on Facebook & Instagram
       button: MORE
       url: https://dhs.edu.sg/campus-life
-      image: /images/campus_life.jpg
+      image: /images/campus_life2024.jpg
       alt: Image alt text
   - infopic:
       title: JUNIOR HIGH (Sec)
