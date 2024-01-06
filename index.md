@@ -6,7 +6,7 @@ description: |-
   关怀 • 服务 • 引领
 image: /images/Homepage/dhs.jpg
 permalink: /
-notification: ""
+notification: Join us at our JAE Open House - 13 Jan 2024 (Sat)
 sections:
   - hero:
       background: /images/Homepage/homepage slider.gif
@@ -15,6 +15,15 @@ sections:
           description: 中一新生注册与班级分配
           url: https://www.dunmanhigh.moe.edu.sg/junior-high/2024-y1-registration-class-allocation/
       variant: center
+  - infopic:
+      title: JAE Open House
+      subtitle: 13 Jan 2024 (Sat)
+      id: infopic
+      description: 联合招生计划 · 校园开放日
+      button: MORE
+      image: /images/2024_JAE_Open_House_1.PNG
+      alt: Image alt text
+      url: https://dunmanhigh.moe.edu.sg/jae-open-house2024/
   - textcards:
       title: 北京大学与复旦大学于新加坡本科招生信息
       subtitle: 2024年
