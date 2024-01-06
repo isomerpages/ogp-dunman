@@ -1,5 +1,4 @@
 collections:
   open-house-2024:
     output: true
-    order:
-      - JAE Open House 2024.md
+    order: []
