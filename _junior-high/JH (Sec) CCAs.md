@@ -2,55 +2,6 @@
 title: JH (Sec) CCAs
 permalink: /jh-cca/
 description: ""
+variant: tiptap
 ---
-
-![](/images/Homepage/Junior-High-Sec.png)
-
-The Junior High (Sec) CCAs are made up of 4 categories of CCAs in Dunman High School namely the Performing Arts, Sports & Games, the Uniformed Groups and Clubs & Societies. 
-
-Many of these CCAs are rich in tradition and strong in achievements and will provide many opportunities to develop students’ characters and holistic qualities. All students MUST participate in ONE CCA.
-
-*Only applicable to Art Club, Infocomm and Robotics
-
-**Admission to most CCAs is by merit. Students are required to attend auditions/trials before being accepted.**
-
-### **Sports & Games**
-![](/images/Homepage/Sports-Games.png)
-
-* [Air Weapons Club](/files/Sports_Air-Weapons-Club-JH.pdf)
-* [Badminton](/files/Sports_Badminton-JH.pdf)
-* [Basketball](/files/Sports_Basketball-JH.pdf)
-* [Sailing](/files/Sports_Sailing.pdf)
-* [Softball](/files/Sports_Softball-JH.pdf)
-* [Table Tennis](/files/Sports_Table-Tennis-JH.pdf)
-* [Track & Field](/files/Sports_Track-Field-JH.pdf)
-* [Volleyball](/files/Sports_Volleyball-JH.pdf)
-* [Wushu](/files/Sports_Wushu-JH.pdf)
-
-### **Uniformed Groups**
-![](/images/Homepage/Uniformed-Groups.png)
-
-* [Girl Guides](/files/Uniformed-Groups-Girl-Guides-JH.pdf)
-* [National Police Cadet Corps](/files/Uniformed-Groups-Police-Cadet-Corps-JH.pdf)
-* [Scouts (including Lion Dance)](/files/Uniformed-Groups-Scouts_Lion-Dance-JH.pdf)
-* [St John Brigade](/files/Uniformed-Groups-St-John-Brigade-JH.pdf)
-
-### **Performing Arts**
-![](/images/Homepage/Performing-Arts.png)
-* [Chinese Society](/files/Performing-Arts_Chinese-Society-JH-SH%20(1).pdf)
-* [Chinese Orchestra (including Guzheng Ensemble)](/files/Performing-Arts_Chinese-Orchestra-JH-SH.pdf)
-* [Choir](/files/Performing-Arts_Choir-JH-SH.pdf)
-* [English Drama Society](/files/English-Drama-Society_JH-.pdf)
-* [String Ensemble](/files/Performing-Arts_String-Ensemble-JH-SH.pdf)
-* [Symphonic Band](/files/Performing-Arts_Symphonic-Band-JH-SH.pdf)
-
-### **Clubs & Societies**
-![](/images/Homepage/Clubs-Societies.png)
-
-* [Art Club](/files/Clubs-Society_Art-Club-JH-SH.pdf)
-* [STEAM Collective](/files/Clubs_Society-JH-STEAM-Collective.pdf)
-
-Only Available as 2nd CCA
-* [Chinese Society](/files/Performing-Arts_Chinese-Society-JH-SH%20(1).pdf)
-* [Oratorical Society - Debate](/files/Clubs-Society_Oratorical-Society_Debate-JH.pdf)
-* [Library Society](/files/Clubs-Society_Library-Society-JH-SH.pdf)
+<p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/junior_high2024.jpg"></div><p>The&nbsp;Junior High (Sec) CCAs&nbsp;are made up of 4 categories of CCAs in Dunman High School namely the Performing Arts, Sports &amp; Games, the Uniformed Groups and Clubs &amp; Societies.</p><p>Many of these CCAs are rich in tradition and strong in achievements and will provide many opportunities to develop students’ characters and holistic qualities. All students MUST participate in&nbsp;ONE&nbsp;CCA.</p><p>*Only applicable to Art Club, Infocomm and Robotics</p><p><strong>Admission to most CCAs is by merit. Students are required to attend auditions/trials before being accepted.</strong></p><h3><strong>Sports &amp; Games</strong></h3><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage/Sports-Games.png"></div><ul data-tight="true" class="tight"><li><p><a href="/files/Sports_Air-Weapons-Club-JH.pdf" rel="noopener noreferrer nofollow" target="_blank">Air Weapons Club</a></p></li><li><p><a href="/files/Sports_Badminton-JH.pdf" rel="noopener noreferrer nofollow" target="_blank">Badminton</a></p></li><li><p><a href="/files/Sports_Basketball-JH.pdf" rel="noopener noreferrer nofollow" target="_blank">Basketball</a></p></li><li><p><a href="/files/Sports_Sailing.pdf" rel="noopener noreferrer nofollow" target="_blank">Sailing</a></p></li><li><p><a href="/files/Sports_Softball-JH.pdf" rel="noopener noreferrer nofollow" target="_blank">Softball</a></p></li><li><p><a href="/files/Sports_Table-Tennis-JH.pdf" rel="noopener noreferrer nofollow" target="_blank">Table Tennis</a></p></li><li><p><a href="/files/Sports_Track-Field-JH.pdf" rel="noopener noreferrer nofollow" target="_blank">Track &amp; Field</a></p></li><li><p><a href="/files/Sports_Volleyball-JH.pdf" rel="noopener noreferrer nofollow" target="_blank">Volleyball</a></p></li><li><p><a href="/files/Sports_Wushu-JH.pdf" rel="noopener noreferrer nofollow" target="_blank">Wushu</a></p></li></ul><h3><strong>Uniformed Groups</strong></h3><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage/Uniformed-Groups.png"></div><ul data-tight="true" class="tight"><li><p><a href="/files/Uniformed-Groups-Girl-Guides-JH.pdf" rel="noopener noreferrer nofollow" target="_blank">Girl Guides</a></p></li><li><p><a href="/files/Uniformed-Groups-Police-Cadet-Corps-JH.pdf" rel="noopener noreferrer nofollow" target="_blank">National Police Cadet Corps</a></p></li><li><p><a href="/files/Uniformed-Groups-Scouts_Lion-Dance-JH.pdf" rel="noopener noreferrer nofollow" target="_blank">Scouts (including Lion Dance)</a></p></li><li><p><a href="/files/Uniformed-Groups-St-John-Brigade-JH.pdf" rel="noopener noreferrer nofollow" target="_blank">St John Brigade</a></p></li></ul><h3><strong>Performing Arts</strong></h3><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage/Performing-Arts.png"></div><ul data-tight="true" class="tight"><li><p><a href="/files/Performing-Arts_Chinese-Society-JH-SH%20(1).pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Society</a></p></li><li><p><a href="/files/Performing-Arts_Chinese-Orchestra-JH-SH.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Orchestra (including Guzheng Ensemble)</a></p></li><li><p><a href="/files/Performing-Arts_Choir-JH-SH.pdf" rel="noopener noreferrer nofollow" target="_blank">Choir</a></p></li><li><p><a href="/files/English-Drama-Society_JH-.pdf" rel="noopener noreferrer nofollow" target="_blank">English Drama Society</a></p></li><li><p><a href="/files/Performing-Arts_String-Ensemble-JH-SH.pdf" rel="noopener noreferrer nofollow" target="_blank">String Ensemble</a></p></li><li><p><a href="/files/Performing-Arts_Symphonic-Band-JH-SH.pdf" rel="noopener noreferrer nofollow" target="_blank">Symphonic Band</a></p></li></ul><h3><strong>Clubs &amp; Societies</strong></h3><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage/Clubs-Societies.png"></div><ul data-tight="true" class="tight"><li><p><a href="/files/Clubs-Society_Art-Club-JH-SH.pdf" rel="noopener noreferrer nofollow" target="_blank">Art Club</a></p></li><li><p><a href="/files/Clubs_Society-JH-STEAM-Collective.pdf" rel="noopener noreferrer nofollow" target="_blank">STEAM Collective</a></p></li></ul><p>Only Available as 2nd CCA</p><ul data-tight="true" class="tight"><li><p><a href="/files/Performing-Arts_Chinese-Society-JH-SH%20(1).pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Society</a></p></li><li><p><a href="/files/Clubs-Society_Oratorical-Society_Debate-JH.pdf" rel="noopener noreferrer nofollow" target="_blank">Oratorical Society - Debate</a></p></li><li><p><a href="/files/Clubs-Society_Library-Society-JH-SH.pdf" rel="noopener noreferrer nofollow" target="_blank">Library Society</a></p></li></ul><p></p>
