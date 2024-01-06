@@ -52,7 +52,7 @@ sections:
       subtitle: 初中部
       description: DSA-Sec | Academic | CCA
       button: MORE
-      image: /images/Homepage/Junior-High-Sec.png
+      image: /images/junior_high2024.jpg
       alt: Image alt text
       url: /jh-sec-admissions/admissions/
   - infopic:
@@ -61,6 +61,6 @@ sections:
       description: DSA-JC | Academic | CCA
       button: MORE
       url: /admissions/sh-admissions/
-      image: /images/Homepage/Senior High.png
+      image: /images/senior_high2024.jpg
       alt: Image alt text
 ---
