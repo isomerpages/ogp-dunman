@@ -20,9 +20,10 @@ sections:
       subtitle: 13 Jan 2024 (Sat)
       id: infopic
       description: 联合招生计划 · 校园开放日
-      button: Button Text
+      button: MORE
       image: /images/2024_JAE_Open_House_1.PNG
       alt: Image alt text
+      url: https://dunmanhigh.moe.edu.sg/jae-open-house2024/
   - textcards:
       title: 北京大学与复旦大学于新加坡本科招生信息
       subtitle: 2024年
