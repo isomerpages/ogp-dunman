@@ -6,7 +6,7 @@ description: |-
   关怀 • 服务 • 引领
 image: /images/Homepage/dhs.jpg
 permalink: /
-notification: JAE Open House - 13 Jan 2024 (Sat)
+notification: Join us on 13 Jan 2024 (Sat) for our JAE Open House!
 sections:
   - hero:
       background: /images/Homepage/homepage slider.gif
