@@ -50,7 +50,7 @@ sections:
   - infopic:
       title: JUNIOR HIGH (Sec)
       subtitle: 初中部
-      description: Admissions | Academic | CCA
+      description: Admissions | Academic | CCAs
       button: MORE
       image: /images/junior_high2024.jpg
       alt: Image alt text
@@ -58,7 +58,7 @@ sections:
   - infopic:
       title: SENIOR HIGH (JC)
       subtitle: 高中部
-      description: Admissions | Academic | CCA
+      description: Admissions | Academic | CCAs
       button: MORE
       url: /admissions/sh-admissions/
       image: /images/senior_high2024.jpg
