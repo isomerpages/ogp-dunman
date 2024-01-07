@@ -9,7 +9,7 @@ permalink: /
 notification: Join us at our JAE Open House - 13 Jan 2024 (Sat)
 sections:
   - hero:
-      background: /images/slideshow2024.gif
+      background: /images/final24.gif
       key_highlights:
         - title: 2024 Year One Registration & Class Allocation
           description: 中一新生注册与班级分配
