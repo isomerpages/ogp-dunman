@@ -6,15 +6,22 @@ description: |-
   关怀 • 服务 • 引领
 image: /images/Homepage/dhs.jpg
 permalink: /
-notification: Join us at our JAE Open House - 13 Jan 2024 (Sat)
+notification: ""
 sections:
   - hero:
-      background: /images/Homepage/homepage slider.gif
-      key_highlights:
-        - title: 2024 Year One Registration & Class Allocation
-          description: 中一新生注册与班级分配
-          url: https://www.dunmanhigh.moe.edu.sg/junior-high/2024-y1-registration-class-allocation/
+      background: /images/homepage_slides.gif
       variant: center
+      key_highlights:
+        - title: JAE Open House - 13 Jan 2024 (Sat)
+          description: 联合招生计划 · 校园开放日
+          url: https://www.dunmanhigh.moe.edu.sg/jae-open-house2024/
+  - infobar:
+      title: 2024 DHS Academic Booklet
+      subtitle: For JAE Students
+      id: infobar
+      description: Information on school programme, subjects and subject combinations
+      button: CLICK HERE
+      url: https://go.gov.sg/dhs-jae-booklet
   - infopic:
       title: JAE Open House
       subtitle: 13 Jan 2024 (Sat)
@@ -45,22 +52,22 @@ sections:
       description: Join us on Facebook & Instagram
       button: MORE
       url: https://dhs.edu.sg/campus-life
-      image: /images/Homepage/dhs_campus_news.jpg
+      image: /images/campus_life2024.jpg
       alt: Image alt text
   - infopic:
       title: JUNIOR HIGH (Sec)
       subtitle: 初中部
-      description: DSA-Sec | Academic | CCA
+      description: Admissions | Academic | CCAs
       button: MORE
-      image: /images/Homepage/Junior-High-Sec.png
+      image: /images/students_JH.jpg
       alt: Image alt text
       url: /jh-sec-admissions/admissions/
   - infopic:
       title: SENIOR HIGH (JC)
       subtitle: 高中部
-      description: DSA-JC | Academic | CCA
+      description: Admissions | Academic | CCAs
       button: MORE
       url: /admissions/sh-admissions/
-      image: /images/Homepage/Senior High.png
+      image: /images/students_senior_high.jpg
       alt: Image alt text
 ---
