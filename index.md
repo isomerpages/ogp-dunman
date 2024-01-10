@@ -11,9 +11,9 @@ sections:
   - hero:
       background: /images/homepage_slides.gif
       key_highlights:
-        - title: 2024 Year One Registration & Class Allocation
-          description: 中一新生注册与班级分配
-          url: https://www.dunmanhigh.moe.edu.sg/junior-high/2024-y1-registration-class-allocation/
+        - title: 2024 DHS Academic Booklet
+          description: (For JAE Students)
+          url: https://go.gov.sg/dhs-jae-booklet
       variant: center
   - infopic:
       title: JAE Open House
