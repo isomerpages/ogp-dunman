@@ -61,6 +61,6 @@ sections:
       description: Admissions | Academic | CCAs
       button: MORE
       url: /admissions/sh-admissions/
-      image: /images/students_senior_high.jpg
+      image: /images/students_junior_high.jpg
       alt: Image alt text
 ---
