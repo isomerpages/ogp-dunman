@@ -52,7 +52,7 @@ sections:
       subtitle: 初中部
       description: Admissions | Academic | CCAs
       button: MORE
-      image: /images/junior_high2024.jpg
+      image: /images/students_JH.jpg
       alt: Image alt text
       url: /jh-sec-admissions/admissions/
   - infopic:
