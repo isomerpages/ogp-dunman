@@ -20,7 +20,7 @@ sections:
       title: 2024 DHS Academic Booklet
       subtitle: For JAE Students
       id: infobar
-      description: Information on school programme, subjects and subject combinations
+      description: Information on school programmes, subjects and subject combinations
       button: CLICK HERE
       url: https://go.gov.sg/dhs-jae-booklet
   - infopic:
