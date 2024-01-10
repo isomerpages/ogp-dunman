@@ -11,7 +11,7 @@ sections:
   - hero:
       background: /images/homepage_slides.gif
       key_highlights:
-        - title: 2024 DHS Academic Booklet (For JAE Students)
+        - title: 2024 DHS academic booklet (for jae students)
           description: PLEASE CLICK HERE
           url: https://go.gov.sg/dhs-jae-booklet
       variant: center
