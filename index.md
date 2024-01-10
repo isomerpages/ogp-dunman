@@ -6,7 +6,7 @@ description: |-
   关怀 • 服务 • 引领
 image: /images/Homepage/dhs.jpg
 permalink: /
-notification: JAE Open House - 13 Jan 2024 (Sat) | Academic Booklet for
+notification: JAE Open House - 13 Jan 2024 (Sat) | Academic Booklet on
   Programmes, Subjects & Subject Combinations
 sections:
   - hero:
