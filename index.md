@@ -6,7 +6,8 @@ description: |-
   关怀 • 服务 • 引领
 image: /images/Homepage/dhs.jpg
 permalink: /
-notification: Join us at our JAE Open House - 13 Jan 2024 (Sat)
+notification: JAE Open House - 13 Jan 2024 (Sat) | Academic Booklet on
+  Programmes, Subjects & Subject Combinations
 sections:
   - hero:
       background: /images/homepage_slides.gif
@@ -19,7 +20,7 @@ sections:
       title: 2024 DHS Academic Booklet
       subtitle: For JAE Students
       id: infobar
-      description: Information on school programme, subjects and subject combinations
+      description: Information on school programmes, subjects and subject combinations
       button: CLICK HERE
       url: https://go.gov.sg/dhs-jae-booklet
   - infopic:
