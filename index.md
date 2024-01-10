@@ -60,10 +60,10 @@ sections:
       image: /images/students_senior_high.jpg
       alt: Image alt text
   - infobar:
-      title: "2024 DHS Academic Booklet "
-      subtitle: "For JAE Students "
+      title: 2024 DHS Academic Booklet
+      subtitle: For JAE Students
       id: infobar
       description: Information on school programme, subjects and subject combinations.
-      button: Click HERE
+      button: CLICK HERE
       url: https://go.gov.sg/dhs-jae-booklet
 ---
