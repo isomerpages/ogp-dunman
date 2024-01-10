@@ -11,6 +11,13 @@ sections:
   - hero:
       background: /images/homepage_slides.gif
       variant: center
+  - infobar:
+      title: 2024 DHS Academic Booklet
+      subtitle: For JAE Students
+      id: infobar
+      description: Information on school programme, subjects and subject combinations
+      button: CLICK HERE
+      url: https://go.gov.sg/dhs-jae-booklet
   - infopic:
       title: JAE Open House
       subtitle: 13 Jan 2024 (Sat)
@@ -59,11 +66,4 @@ sections:
       url: /admissions/sh-admissions/
       image: /images/students_senior_high.jpg
       alt: Image alt text
-  - infobar:
-      title: 2024 DHS Academic Booklet
-      subtitle: For JAE Students
-      id: infobar
-      description: Information on school programme, subjects and subject combinations
-      button: CLICK HERE
-      url: https://go.gov.sg/dhs-jae-booklet
 ---
