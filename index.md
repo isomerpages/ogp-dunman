@@ -29,7 +29,7 @@ sections:
       id: infopic
       description: 联合招生计划 · 校园开放日
       button: MORE
-      image: /images/2024_JAE_Open_House_1.PNG
+      image: /images/JAE_Open_House_2024_poster.png
       alt: Image alt text
       url: https://dunmanhigh.moe.edu.sg/jae-open-house2024/
   - textcards:
