@@ -3,6 +3,7 @@ title: Mother Tongue Languages
 permalink: /academic/bicultural-studies-programme/mtl/
 description: ""
 third_nav_title: Bicultural Studies Programme
+variant: markdown
 ---
 ![](/images/Homepage/masthead-academic-chinese.jpg)
 ### **Curriculum 课程内容**
