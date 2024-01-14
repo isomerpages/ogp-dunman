@@ -18,15 +18,6 @@ sections:
       description: Information on school programmes, subjects and subject combinations
       button: CLICK HERE
       url: https://go.gov.sg/dhs-jae-booklet
-  - infopic:
-      title: JAE Open House
-      subtitle: 13 Jan 2024 (Sat)
-      id: infopic
-      description: 联合招生计划 · 校园开放日
-      button: MORE
-      image: /images/JAE_Open_House_2024_poster.png
-      alt: Image alt text
-      url: https://dunmanhigh.moe.edu.sg/jae-open-house2024/
   - textcards:
       title: 北京大学与复旦大学于新加坡本科招生信息
       subtitle: 2024年
