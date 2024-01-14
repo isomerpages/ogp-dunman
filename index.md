@@ -11,10 +11,6 @@ sections:
   - hero:
       background: /images/homepage_slides.gif
       variant: center
-      key_highlights:
-        - title: JAE Open House - 13 Jan 2024 (Sat)
-          description: 联合招生计划 · 校园开放日
-          url: https://www.dunmanhigh.moe.edu.sg/jae-open-house2024/
   - infobar:
       title: 2024 DHS Academic Booklet
       subtitle: For JAE Students
