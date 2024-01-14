@@ -6,7 +6,8 @@ description: |-
   关怀 • 服务 • 引领
 image: /images/Homepage/dhs.jpg
 permalink: /
-notification: ""
+notification: "Scroll Down to View: 2024 JAE DHS Academic Booklet for
+  Programmes, Subjects & Subject Combinations"
 sections:
   - hero:
       background: /images/homepage_slides.gif
