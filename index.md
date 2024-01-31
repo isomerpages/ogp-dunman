@@ -12,6 +12,10 @@ sections:
   - hero:
       background: /images/homepage_slides.gif
       variant: center
+      key_highlights:
+        - title: 2024 JAE Appeal Process
+          description: 1 Feb 2024 - 6 Feb 2024
+          url: ""
   - infobar:
       title: 2024 DHS Academic Booklet
       subtitle: For JAE Students
