@@ -12,6 +12,10 @@ sections:
   - hero:
       background: /images/homepage_slides.gif
       variant: center
+      key_highlights:
+        - title: 2024 JAE Appeal Process
+          description: CLICK HERE FOR THE DETAILS
+          url: https://dunmanhigh.moe.edu.sg/jae-appeal2024/
   - infobar:
       title: 2024 DHS Academic Booklet
       subtitle: For JAE Students
