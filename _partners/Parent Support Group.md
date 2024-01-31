@@ -70,10 +70,10 @@ PSG and school!&nbsp; 想知道最新家长会活动及学校动态的资讯？�
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_PSG_EXCO_v3__2_Jan_2024_.png">
 </div>
 <h3><strong>PSG Event Calendar</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DHS_PSG_2024_Year_Calendar.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updated_DHS_PSG_2024_Year_Calendar.png">
+</div>
 <h3><strong>PSG Liaison Teacher</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
