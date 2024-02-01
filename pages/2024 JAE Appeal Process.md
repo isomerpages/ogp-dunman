@@ -7,7 +7,8 @@ description: ""
 <p>For 2024, the JAE Appeal window is from&nbsp;<strong>0900hrs on 1&nbsp;Feb 2024 to 1200hrs on 6 Feb 2024. &nbsp;</strong>
 </p>
 <p>Only applicants with the net L1R5 aggregate score equal to or less than
-the DHS cut-off points for JAE 2024 will be considered for appeals.&nbsp;
+the DHS cut-off points for JAE 2024 will be considered for appeals. The
+2024 COP for the Science course is 7 and the Arts course is 8.&nbsp;
 <br>
 <br>All appeal applications&nbsp;must be&nbsp;<strong>completed&nbsp;online</strong>.
 The online application form can be accessed <strong><a href="https://go.gov.sg/dhsjaeappeal2024" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong> from <strong>1 Feb 2024, 0900hrs</strong>.&nbsp;</p>
