@@ -58,7 +58,7 @@ can approach the AUs directly for further clarifications.</p>
 available to them to make informed decisions about their next steps. They
 may refer to the following websites for more information:</p>
 <p></p>
-<p><strong>MOE's CourseFinder - Click <a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">HERE</a> </strong>
+<p><strong>MOE's CourseFinder - Click <a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>
 </p>
 <p><strong>MySkillsFuture Portal - Click <a href="https://go.gov.sg/mysfpreu" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>
 </p>
