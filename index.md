@@ -11,7 +11,10 @@ sections:
   - hero:
       background: /images/homepage_slides.gif
       variant: center
-      url: https://www.dunmanhigh.moe.edu.sg/jae-appeal2024/
+      key_highlights:
+        - title: RELEASE OF 2023 GCE A LEVEL EXAMINATION RESULTS
+          description: CLICK HERE FOR THE DETAILS
+          url: https://www.dunmanhigh.moe.edu.sg/gce-a-level-2024/
   - infopic:
       title: Campus Life
       subtitle: 校园新鲜事
