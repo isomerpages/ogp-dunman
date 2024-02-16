@@ -22,7 +22,7 @@ may park at public carparks in the Kampong Arang estate.</p>
 <li>
 <p>Students who are unable to collect their results in person can also access
 their results online via Singapore Examinations and Assessment Board’s
-(SEAB) Candidates Portal at <strong><a href="www.seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.seab.gov.sg</a></strong>&nbsp;from
+(SEAB) Candidates Portal at <strong><a href="https://www.seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.seab.gov.sg </a></strong>from
 3.15pm on Friday, 23 February 2024 till 11.59pm on Thursday, 7 March 2024.
 Students can use their Singpass account to access SEAB’s Candidates Portal.
 International Students will receive their system-generated username via
@@ -62,11 +62,11 @@ may refer to the following websites for more information:</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>MOE’s CourseFinder (<a href="www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>)</strong>
+<p><strong>MOE’s CourseFinder (<a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>)</strong>
 </p>
 </li>
 <li>
-<p><strong>MySkillsFuture Portal (<a href="go.gov.sg/mysfpreu" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mysfpreu</a>)</strong>
+<p><strong>MySkillsFuture Portal (<a href="go.gov.sg/mysfpreu" rel="noopener noreferrer nofollow" target="_blank">g</a><a href="https://go.gov.sg/mysfpreu" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfpreu</a>)</strong>
 </p>
 <p></p>
 </li>
