@@ -22,7 +22,7 @@ may park at public carparks in the Kampong Arang estate.</p>
 <li>
 <p>Students who are unable to collect their results in person can also access
 their results online via Singapore Examinations and Assessment Board’s
-(SEAB) Candidates Portal at www. <strong><a href="seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seab.gov.sg</a></strong> &nbsp;from
+(SEAB) Candidates Portal at <strong><a href="https://www.seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.seab.gov.sg</a></strong>&nbsp;from
 3.15pm on Friday, 23 February 2024 till 11.59pm on Thursday, 7 March 2024.
 Students can use their Singpass account to access SEAB’s Candidates Portal.
 International Students will receive their system-generated username via
@@ -35,9 +35,9 @@ return to school to collect their results. They can appoint a proxy to
 collect a physical copy of their results on their behalf. Please click <strong><a href="/files/Letter_of_authorisation_for_collection_of_documents_for_A_level_exam.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong> for
 the letter of authorisation. Proxies are required to produce the relevant
 documents for the school’s verification when collecting the results. Please
-contact our Administration Manager, Ms Koh Siew Leng (<strong><a href="koh.siewleng@dhs.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh.siewleng@dhs.edu.sg</a></strong>)
-for assistance if you are unable to appoint a proxy, or if you have not
-received your system-generated username for SEAB’s Candidates Portal.</p>
+contact our Administration Manager, Ms Koh Siew Leng <strong>(<a href="koh.siewleng@dhs.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh.siewleng@dhs.edu.sg</a>) </strong>for
+assistance if you are unable to appoint a proxy, or if you have not received
+your system-generated username for SEAB’s Candidates Portal.</p>
 <p></p>
 </li>
 </ol>
