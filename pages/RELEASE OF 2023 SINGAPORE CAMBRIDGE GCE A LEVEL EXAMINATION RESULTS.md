@@ -62,11 +62,11 @@ may refer to the following websites for more information:</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>MOE’s CourseFinder (<a href="www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>)</strong>
+<p><strong>MOE’s CourseFinder (<a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>)</strong>
 </p>
 </li>
 <li>
-<p><strong>MySkillsFuture Portal (<a href="go.gov.sg/mysfpreu" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mysfpreu</a>)</strong>
+<p><strong>MySkillsFuture Portal (<a href="go.gov.sg/mysfpreu" rel="noopener noreferrer nofollow" target="_blank">g</a><a href="https://go.gov.sg/mysfpreu" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfpreu</a>)</strong>
 </p>
 <p></p>
 </li>
