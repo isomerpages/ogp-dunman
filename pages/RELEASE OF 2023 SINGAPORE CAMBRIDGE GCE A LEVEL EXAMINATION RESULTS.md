@@ -32,10 +32,10 @@ email from Tuesday, 20 February 2024.</p>
 <li>
 <p>School candidates who are unwell should seek medical attention and not
 return to school to collect their results. They can appoint a proxy to
-collect a physical copy of their results on their behalf (see attachment).
-Proxies are required to produce the relevant documents for the school’s
-verification when collecting the results. Please contact our Administration
-Manager, Ms Koh Siew Leng (<strong><a rel="noopener noreferrer nofollow" target="_blank">koh.siewleng@dhs.edu.sg</a></strong>)
+collect a physical copy of their results on their behalf. Please click <strong><a href="/files/Letter_of_authorisation_for_collection_of_documents_for_A_level_exam.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong> for
+the letter of authorisation. Proxies are required to produce the relevant
+documents for the school’s verification when collecting the results. Please
+contact our Administration Manager, Ms Koh Siew Leng (<strong><a rel="noopener noreferrer nofollow" target="_blank">koh.siewleng@dhs.edu.sg</a></strong>)
 for assistance if you are unable to appoint a proxy, or if you have not
 received your system-generated username for SEAB’s Candidates Portal.</p>
 <p></p>
