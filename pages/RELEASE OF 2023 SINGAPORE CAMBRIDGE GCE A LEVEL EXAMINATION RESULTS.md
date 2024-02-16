@@ -57,21 +57,13 @@ can approach the AUs directly for further clarifications.</p>
 <p>Students are encouraged to explore the range of education and career pathways
 available to them to make informed decisions about their next steps. They
 may refer to the following websites for more information:</p>
-</li>
-</ol>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>MOE's CourseFinder (Click <a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">HERE</a> )</strong>
+<p><strong>MOE's CourseFinder - Click <a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">HERE</a> </strong>
 </p>
-</li>
-<li>
-<p><strong>MySkillsFuture Portal (Click <a href="https://go.gov.sg/mysfpreu" rel="noopener noreferrer nofollow" target="_blank">HERE</a>)</strong>
+<p><strong>MySkillsFuture Portal - Click <a href="https://go.gov.sg/mysfpreu" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>
 </p>
-</li>
-</ul>
 <p></p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
 <p>Candidates can also make an appointment for counselling at <strong><a href="http://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/moe-ecg-centre</a></strong>.
 The MOE ECG Centre offers online or phone counselling services to GCE A-Level
@@ -82,5 +74,5 @@ candidates from Monday, 19 February 2024 to Saturday, 16 March 2024 (Weekdays:
 <li>
 <p>Wishing you all the best in your GCE A-Level examination results!</p>
 </li>
-</ul>
+</ol>
 <p></p>
