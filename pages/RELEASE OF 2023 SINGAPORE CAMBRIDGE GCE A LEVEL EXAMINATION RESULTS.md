@@ -22,7 +22,7 @@ may park at public carparks in the Kampong Arang estate.</p>
 <li>
 <p>Students who are unable to collect their results in person can also access
 their results online via Singapore Examinations and Assessment Board’s
-(SEAB) Candidates Portal at www. <strong><a rel="noopener noreferrer nofollow" target="_blank">seab.gov.sg</a></strong> &nbsp;from
+(SEAB) Candidates Portal at www. <strong><a href="seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seab.gov.sg</a></strong> &nbsp;from
 3.15pm on Friday, 23 February 2024 till 11.59pm on Thursday, 7 March 2024.
 Students can use their Singpass account to access SEAB’s Candidates Portal.
 International Students will receive their system-generated username via
@@ -35,7 +35,7 @@ return to school to collect their results. They can appoint a proxy to
 collect a physical copy of their results on their behalf. Please click <strong><a href="/files/Letter_of_authorisation_for_collection_of_documents_for_A_level_exam.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong> for
 the letter of authorisation. Proxies are required to produce the relevant
 documents for the school’s verification when collecting the results. Please
-contact our Administration Manager, Ms Koh Siew Leng (<strong><a rel="noopener noreferrer nofollow" target="_blank">koh.siewleng@dhs.edu.sg</a></strong>)
+contact our Administration Manager, Ms Koh Siew Leng (<strong><a href="koh.siewleng@dhs.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh.siewleng@dhs.edu.sg</a></strong>)
 for assistance if you are unable to appoint a proxy, or if you have not
 received your system-generated username for SEAB’s Candidates Portal.</p>
 <p></p>
@@ -62,18 +62,18 @@ may refer to the following websites for more information:</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>MOE’s CourseFinder (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>)</strong>
+<p><strong>MOE’s CourseFinder (<a href="www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>)</strong>
 </p>
 </li>
 <li>
-<p><strong>MySkillsFuture Portal (<a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mysfpreu</a>)</strong>
+<p><strong>MySkillsFuture Portal (<a href="go.gov.sg/mysfpreu" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mysfpreu</a>)</strong>
 </p>
 <p></p>
 </li>
 </ul>
 <ol start="7" data-tight="true" class="tight">
 <li>
-<p>Candidates can also make an appointment for counselling at <strong><a rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/moe-ecg-centre</a></strong>.
+<p>Candidates can also make an appointment for counselling at <strong><a href="http://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/moe-ecg-centre</a></strong>.
 The MOE ECG Centre offers online or phone counselling services to GCE A-Level
 candidates from Monday, 19 February 2024 to Saturday, 16 March 2024 (Weekdays:
 9am to 5pm; Saturdays: 9am to 12pm).</p>
