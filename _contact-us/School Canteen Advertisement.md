@@ -22,7 +22,7 @@ description: ""
 <p>Vegetarian Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16 Feb 2024</p>
+<p>31 Mar 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NIL</p>
@@ -33,7 +33,7 @@ description: ""
 <p>Halal Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>29 Feb 2024</p>
+<p>31 Mar 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Any sort of cuisine other than Halal Western is acceptable</p>
