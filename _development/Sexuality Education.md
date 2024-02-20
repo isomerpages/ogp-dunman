@@ -59,7 +59,7 @@ ones.</p>
 </ul>
 <p>You may click&nbsp;<strong><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>&nbsp;for
 more information on MOE Sexuality Education.</p>
-<p><strong>Overview of Dunman High</strong>&nbsp;<strong>School’s</strong>&nbsp;<strong>Sexuality Education Programme for 2023</strong>
+<p><strong>Overview of Dunman High</strong>&nbsp;<strong>School’s</strong>&nbsp;<strong>Sexuality Education Programme for 2024</strong>
 </p>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
