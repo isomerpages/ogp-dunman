@@ -94,9 +94,9 @@ consequences of sexual behaviour.</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<p><strong>At Dunman High School, the following lessons from the Sexuality Education Programme will be taught in 2023.</strong>
+<p><strong>At Dunman High School, the following lessons from the Sexuality Education Programme will be taught in 2024.</strong>
 </p>
-<p>Please click&nbsp;<strong><a href="/files/2023_sexuality-education-programme.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>&nbsp;to
+<p>Please click <strong><a href="/files/2024_Info_on_SEd_for_schs_website__Y1_6_.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>&nbsp;to
 view.</p>
 <p>The focus for Sexuality Education at Pre-University is on respectful relationships.
 Specifically, the JC/CI package covers Interpersonal Relationships, with
@@ -120,7 +120,7 @@ desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme is that students
 are empowered to make wise, informed and sensible decisions.</p>
 </li>
 </ol>
-<p><strong>At Dunman High School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2023:</strong>
+<p><strong>At Dunman High School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</strong>
 </p>
 <table>
 <tbody>
@@ -132,7 +132,7 @@ are empowered to make wise, informed and sensible decisions.</p>
 <p>Programme Learning Objectives</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Time Period (e.g. Term 3 Week 9)</p>
+<p>Time Period</p>
 </th>
 </tr>
 <tr>
@@ -143,7 +143,7 @@ are empowered to make wise, informed and sensible decisions.</p>
 <p>Awareness of the different STIs and HIV/AIDS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 3</p>
 </td>
 </tr>
 <tr>
@@ -188,7 +188,7 @@ are empowered to make wise, informed and sensible decisions.</p>
 of assertiveness and responsible decision-making</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 3</p>
 </td>
 </tr>
 </tbody>
@@ -210,7 +210,7 @@ desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme is that students
 are empowered to make wise, informed and sensible decisions.</p>
 </li>
 </ol>
-<p><strong>At Dunman High School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2023:</strong>
+<p><strong>At Dunman High School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</strong>
 </p>
 <table>
 <tbody>
@@ -222,7 +222,7 @@ are empowered to make wise, informed and sensible decisions.</p>
 <p>Programme Learning Objectives</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Time Period (e.g. Term 3 Week 2)</p>
+<p>Time Period</p>
 </th>
 </tr>
 <tr>
@@ -233,7 +233,7 @@ are empowered to make wise, informed and sensible decisions.</p>
 <p>Awareness of the different STI and HIV</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 2</p>
 </td>
 </tr>
 <tr>
@@ -281,13 +281,13 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable <strong><a href="/files/Annex-A-2023-SEd-Opt-Out-Form.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>.</p>
+the start of the year and is also downloadable <strong><a href="/files/MOE_Sexuality_Education_in_Schools_Opt_out_Form_2024_DHS.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em></strong>&nbsp;<strong>programme</strong>&nbsp;need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable for Secondary (click&nbsp;<strong><a href="/files/Annex-B-2023-SEd-eTeens-Opt-Out-Form.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>)
-and JC/CI (click <strong><a href="/files/Annex-C-2023-SEd-eTeens-Opt-Out-Form.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>).</p>
+the start of the year and is also downloadable for Secondary (click <strong><a href="/files/eTeens_Parents_Opt_out_Form__Sec__2024_DHS.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong> )
+and JC/CI (click <strong><a href="/files/eTeens_Parents_Opt_out_Form__JCMI__2024_DHS.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>).</p>
 </li>
 <li>
 <p>Parents can contact the school Mr Jason Chen, HOD/CCE, at&nbsp;<strong><a href="mailto:chen.quansheng@dhs.sg" rel="noopener noreferrer nofollow" target="_blank">chen.quansheng@dhs.sg</a></strong>&nbsp;for
