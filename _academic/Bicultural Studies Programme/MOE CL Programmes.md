@@ -37,7 +37,7 @@ All students under this 2-year programme must offer H2 Chinese Language and Lite
 
 Outstanding Singapore Citizens selected for the CLEP will be eligible for the MOE CLEP Scholarship. Each scholarship is valued at $1000 per annum, includes waiver of school fees, full subsidy for the immersion trip to China or Taiwan and is tenable for 2 years subject to the scholar’s satisfactory progress and performance at the end of Year 5 (JC1). Scholarship recipients are not required to enter into a bond with the Singapore Government.
 
-For more information on the **Chinese Language Elective Programme** **at** **JC Level (MOE)**, click **[HERE](https://ogp-dunman-staging.netlify.app/academic/bicultural-studies-programme/h2cll-clep/)** .
+For more information on the **Chinese Language Elective Programme** **at** **JC Level (MOE)**, click **[HERE](/academic/bicultural-studies-programme/h2cll-clep/)** .
 
 
 ### **1. **教育部双文化课程****
@@ -64,4 +64,4 @@ For more information on the **Chinese Language Elective Programme** **at** **
 
 华文语文特选课程 (语特) 是一门高中课程，旨在栽培精通双语的人才，并提高学生的华文水平和文学素养。本课程为期两年，提供学生机会参与多姿多彩的学习活动，例如文学讲座系列、语特营、海外浸濡计划 (北京/上海/台北)、出版文艺刊物、实习计划和校本专题研究等。参与语特课程的学生，在高中必须修读H2华文与文学 (H2 Chinese Language & Literature)。杰出的本地公民学生可参加面试，获颁华文语文特选课程奖学金。奖学金为期2年，学生每年可获1000新元，同时豁免学费。
 
-欲知更多有关**高中语特**的详情，请点击 **[这里](https://ogp-dunman-staging.netlify.app/academic/bicultural-studies-programme/h2cll-clep/)**。
+欲知更多有关**高中语特**的详情，请点击 **[这里](/academic/bicultural-studies-programme/h2cll-clep/)**。
