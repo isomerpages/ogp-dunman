@@ -1,0 +1,8 @@
+collections:
+  junior-high:
+    output: true
+    order:
+      - JH (Sec) Admissions.md
+      - 2024 Year One Registration & Class Allocation.md
+      - JH (Sec) Academic.md
+      - JH (Sec) CCAs.md

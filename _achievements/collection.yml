@@ -1,0 +1,16 @@
+collections:
+  achievements:
+    output: true
+    order:
+      - Achievements.md
+      - School.md
+      - Scholars/.keep
+      - Scholars/Scholars.md
+      - Scholars/2011 Cohort.md
+      - Scholars/2012 Cohort.md
+      - Scholars/2013 Cohort.md
+      - Scholars/2014 Cohort.md
+      - Scholars/2015 Cohort.md
+      - Scholars/2016 Cohort.md
+      - Scholars/2017 Cohort.md
+      - Co–Curricular Activities.md

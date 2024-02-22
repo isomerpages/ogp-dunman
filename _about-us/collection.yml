@@ -1,0 +1,18 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal’s Message.md
+      - Mission, Vision, Motto & School Spirit.md
+      - Strategic Directions.md
+      - School Crest & Song.md
+      - News & Happenings.md
+      - Our History/.keep
+      - Our History/Through the Eras.md
+      - Our History/Honour Roll.md
+      - Our People/.keep
+      - Our People/School Leaders.md
+      - Our People/Key Personnel.md
+      - Our People/Teacher Leaders Council.md
+      - Our People/Junior High Form Teachers.md
+      - Our People/Senior High Civics Tutors.md

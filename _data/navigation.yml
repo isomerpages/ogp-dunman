@@ -1,0 +1,16 @@
+logo: /images/Homepage/dhs.jpg
+links:
+  - title: About Us
+    collection: about-us
+  - title: ADMISSIONS
+    collection: admissions
+  - title: ACADEMIC
+    collection: academic
+  - title: DEVELOPMENT
+    collection: development
+  - title: CSHE
+    collection: cshe
+  - title: PARTNERS
+    collection: partners
+  - title: CONTACT US
+    collection: contact-us

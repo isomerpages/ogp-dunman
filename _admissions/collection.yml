@@ -1,0 +1,7 @@
+collections:
+  admissions:
+    output: true
+    order:
+      - Admissions.md
+      - Uniforms, Books & Transport.md
+      - Financial Assistance.md
