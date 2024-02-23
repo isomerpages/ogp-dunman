@@ -12,7 +12,7 @@ sections:
       background: /images/homepage_slides.gif
       variant: center
       key_highlights:
-        - title: 2023 GCE A-LEVEL EXAMINATION RESULTS
+        - title: 2023 GCE ‘A’ Level Results | A 水准考试成绩
           description: CLICK HERE FOR THE DETAILS
           url: https://www.dunmanhigh.moe.edu.sg/announcements/news-happenings/
   - infopic:
