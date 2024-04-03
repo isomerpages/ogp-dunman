@@ -22,7 +22,7 @@ description: ""
 <p>Vegetarian Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 March 2024</p>
+<p>30 April 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NIL</p>
@@ -30,21 +30,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Others (Non-Halal, Open to Proposal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>31 March 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mixed Chinese Rice, Yong Tau Foo/Fish Soup, or any others</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Halal Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 March 2024</p>
+<p>30 April 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Any sort of cuisine other than Halal Western is acceptable</p>
