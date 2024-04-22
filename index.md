@@ -15,6 +15,9 @@ sections:
         - title: 2023 GCE ‘A’ Level Results
           description: CLICK HERE FOR THE DETAILS
           url: https://www.dunmanhigh.moe.edu.sg/announcements/news-happenings/
+        - title: Information on DSA-Sec and DSA-JC Talent Areas 2024
+          description: CLICK HERE FOR THE DETAILS
+          url: https://for.edu.sg/dhs-dsa
   - infopic:
       title: Campus Life
       subtitle: 校园新鲜事
