@@ -6,7 +6,7 @@ description: |-
   关怀 • 服务 • 引领
 image: /images/Homepage/dhs.jpg
 permalink: /
-notification: ""
+notification: "Our e-Open House microsite will go live on 18 May 2024 (Sat). Stay tuned! "
 sections:
   - hero:
       background: /images/homepage_slides.gif
