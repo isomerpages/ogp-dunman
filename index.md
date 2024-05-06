@@ -6,7 +6,7 @@ description: |-
   关怀 • 服务 • 引领
 image: /images/Homepage/dhs.jpg
 permalink: /
-notification: "Our e-Open House microsite will go live on 18 May 2024 (Sat). Stay tuned! "
+notification: Our e-Open House microsite will go live on 18 May 2024 (Sat). Stay tuned!
 sections:
   - hero:
       background: /images/homepage_slides.gif
@@ -15,6 +15,18 @@ sections:
         - title: Information on DSA-Sec and DSA-JC Talent Areas 2024
           description: CLICK HERE FOR THE DETAILS
           url: https://for.edu.sg/dhs-dsa
+  - textcards:
+      title: "INFORMATION "
+      id: textcards
+      cards:
+        - title: DSA-SEC
+          description: ""
+          linktext: Learn more
+          url: https://go.gov.sg/dhs-dsa-sec-website
+        - title: DSA-JC
+          description: ""
+          linktext: Learn more
+          url: https://go.gov.sg/dhs-dsa-jc-website
   - infopic:
       title: Campus Life
       subtitle: 校园新鲜事
