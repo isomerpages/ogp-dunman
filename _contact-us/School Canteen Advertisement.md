@@ -4,7 +4,12 @@ permalink: /contact-us/school-canteen-advertisement/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -22,7 +27,7 @@ description: ""
 <p>Vegetarian Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 April 2024</p>
+<p>30 June 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NIL</p>
@@ -33,7 +38,7 @@ description: ""
 <p>Halal Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 April 2024</p>
+<p>30 June 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Any sort of cuisine other than Halal Western is acceptable</p>
