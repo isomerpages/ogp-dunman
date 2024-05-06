@@ -11,12 +11,8 @@ sections:
   - hero:
       background: /images/homepage_slides.gif
       variant: center
-      key_highlights:
-        - title: Information on DSA-Sec and DSA-JC Talent Areas 2024
-          description: CLICK HERE FOR THE DETAILS
-          url: https://for.edu.sg/dhs-dsa
   - textcards:
-      title: "INFORMATION "
+      title: INFORMATION
       id: textcards
       cards:
         - title: DSA-SEC
