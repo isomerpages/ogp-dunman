@@ -64,7 +64,7 @@ The CCAs that are offered in Junior High are:
 *   Chinese Society
     *   Calligraphy
     *   Literary
-*   Bejing Opera
+*   Beijing Opera
 *   Library Society
 *   Oratorical Society
 
