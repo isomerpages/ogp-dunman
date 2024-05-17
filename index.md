@@ -6,11 +6,15 @@ description: |-
   关怀 • 服务 • 引领
 image: /images/Homepage/dhs.jpg
 permalink: /
-notification: Our e-Open House microsite will go live on 18 May 2024 (Sat). Stay tuned!
+notification: ""
 sections:
   - hero:
       background: /images/homepage_slides.gif
       variant: center
+      key_highlights:
+        - title: e-Open House microsite
+          description: CLICK HERE TO ACCESS
+          url: https://dhsopenhouse.com/
   - textcards:
       title: INFORMATION
       id: textcards
