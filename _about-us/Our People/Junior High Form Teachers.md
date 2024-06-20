@@ -283,7 +283,7 @@ variant: tiptap
 <p>Fang Chye Pin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fu Yuanting Desiree &amp; Ng Bing Yuan Wilson</p>
+<p>Ng Bing Yuan Wilson</p>
 </td>
 </tr>
 <tr>
@@ -360,7 +360,7 @@ variant: tiptap
 <p>Seet Seok Beng, Stella</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sherene Joseph</p>
+<p>Sherene Joseph &amp; See Wee Siang</p>
 </td>
 </tr>
 </tbody>
