@@ -6,7 +6,12 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h2>Year 5</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -112,10 +117,10 @@ variant: tiptap
 <p>5C35</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Selena Vera Hey</p>
+<p>Nicolas Elliot Phua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ooi Ming Fong James</p>
+<p>Lavinia Liang</p>
 </td>
 </tr>
 <tr>
@@ -134,7 +139,7 @@ variant: tiptap
 <p>5C37</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Boon Siong</p>
+<p>Emmeline Lau</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;-</p>
@@ -220,7 +225,12 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Year 6</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
