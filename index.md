@@ -1,9 +1,7 @@
 ---
 layout: homepage
 title: Dunman High School
-description: |-
-  To Care • To Serve • To Lead 
-  关怀 • 服务 • 引领
+description: To Care • To Serve • To Lead  关怀 • 服务 • 引领
 image: /images/Homepage/dhs.jpg
 permalink: /
 notification: ""
@@ -11,10 +9,6 @@ sections:
   - hero:
       background: /images/homepage_slides.gif
       variant: center
-      key_highlights:
-        - title: e-Open House microsite
-          description: CLICK HERE TO ACCESS
-          url: https://dhsopenhouse.com/
   - textcards:
       title: INFORMATION
       id: textcards
