@@ -54,7 +54,7 @@ variant: tiptap
 <p>Mah Shi Hui Adeline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Xiuli</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -87,7 +87,7 @@ variant: tiptap
 <p>Amy Limei Chambers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ong Wen Kai</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
