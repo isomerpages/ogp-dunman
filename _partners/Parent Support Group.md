@@ -66,8 +66,9 @@ PSG and school!&nbsp; 想知道最新家长会活动及学校动态的资讯？�
 <h2><strong>2023/2024 PSG Executive Committee</strong></h2>
 <p><strong>德明家长会执行委员</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_PSG_EXCO_v3__2_Jan_2024_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_DHS_PSG_EXCO_Org_Chart_v1__4_Mar_2024____final.png">
 </div>
 <h3><strong>PSG Event Calendar</strong></h3>
 <p></p>
