@@ -13,10 +13,6 @@ sections:
       title: INFORMATION
       id: textcards
       cards:
-        - title: DSA-SEC
-          description: ""
-          linktext: Learn more
-          url: https://go.gov.sg/dhs-dsa-sec-website
         - title: DSA-JC
           description: ""
           linktext: Learn more
