@@ -80,7 +80,7 @@ email OR to the School's General Office.</p>
 </li>
 </ul>
 <p></p>
-<p><strong>How to get there? </strong>
+<p><strong>How to get there?</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
