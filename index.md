@@ -9,14 +9,6 @@ sections:
   - hero:
       background: /images/homepage_slides.gif
       variant: center
-  - textcards:
-      title: INFORMATION
-      id: textcards
-      cards:
-        - title: DSA-JC
-          description: ""
-          linktext: Learn more
-          url: https://go.gov.sg/dhs-dsa-jc-website
   - infopic:
       title: Campus Life
       subtitle: 校园新鲜事
