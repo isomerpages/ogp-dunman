@@ -2,8 +2,9 @@
 title: School Advisory Committee
 permalink: /about-dhs/partners/school-advisory-committee/
 description: ""
+variant: markdown
 ---
-![](/images/dhs_sac_15%20sep%202023.jpg)
+![](/images/2_Oct_2024_2026_DHS_SAC.png)
 
 我校咨询委员会的成员都是我国工商界的翘楚。他们在商场上长袖善舞，在国内外投资、开创了许多独具特色的企业，是“心系祖国，放眼世界”的最佳写照。他们不但驰骋在世界的舞台上，而且也对我国的各种慈善、建设、文化教育等做出了巨大的贡献。
 
