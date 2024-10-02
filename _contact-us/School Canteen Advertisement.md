@@ -4,40 +4,10 @@ permalink: /contact-us/school-canteen-advertisement/
 variant: tiptap
 description: ""
 ---
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Type of Stall</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Closing Date</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Requirements</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Noodle Stall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>30 Nov 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Any local noodle dish except Ban Mian is acceptable</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>There are currently no available stalls for application in our school
+canteen.</p>
+<p>To view advertisements for stall vacancies in other schools, please click <strong><a href="https://schadmsvc.moe.gov.sg/schcanteenads" rel="noopener nofollow" target="_blank">HERE</a></strong>.</p>
+<p></p>
 <h4><strong>Application Procedure</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
