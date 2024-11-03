@@ -4,7 +4,7 @@ title: Dunman High School
 description: To Care • To Serve • To Lead  关怀 • 服务 • 引领
 image: /images/Homepage/dhs.jpg
 permalink: /
-notification: 23 Nov 2024 | Junior High Open House | 0900 - 1500
+notification: 23 Nov 2024 | Junior High Open House 校园开放日 | 9:00 - 15:00
 sections:
   - hero:
       background: /images/homepage_slides.gif
