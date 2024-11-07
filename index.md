@@ -9,6 +9,10 @@ sections:
   - hero:
       background: /images/homepage_slides.gif
       variant: center
+      key_highlights:
+        - title: Junior High Open House | 23 Nov 2024 - Programme
+          description: Click HERE to view
+          url: https://for.edu.sg/dhs-openhouse-poster
   - infopic:
       title: Campus Life
       subtitle: 校园新鲜事
