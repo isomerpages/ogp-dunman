@@ -2,6 +2,7 @@
 title: Mission, Vision, Motto & School Spirit
 permalink: /about-dhs/mission-vision-motto-sch-spirit/
 description: ""
+variant: markdown
 ---
 ![students mission vision motto](/images/Homepage/students.jpg)
 
@@ -9,10 +10,9 @@ description: ""
 ### 学校愿景
 
 A school of eminence that nurtures
-
-*   Role-Models of Learning
-*   Leaders of Honour,
-*   Pillars of Society
+* Role Models of Learning
+* Leaders of Honour
+* Pillars of Society
 
 培育“学习楷模、堂正领袖、社稷栋梁”的卓著学府
 
