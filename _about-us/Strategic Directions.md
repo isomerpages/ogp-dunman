@@ -30,7 +30,7 @@ variant: tiptap
 <br>树德立道，自强不息</p>
 <h2><strong>Organisation Outcomes</strong></h2>
 <h3><strong>学校成果</strong></h3>
-<p>A school of eminence exemplifying organizational excellence</p>
+<p>A school of eminence exemplifying organisational excellence</p>
 <p>德明学府，桃李芬芳
 <br>誉高卓著，引领卓越</p>
 <h2><strong>Staff Values: SPRIDE</strong></h2>
