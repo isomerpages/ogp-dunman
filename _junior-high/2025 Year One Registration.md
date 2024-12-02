@@ -1,6 +1,6 @@
 ---
-title: 2025 Year One Registration & Class Allocation
-permalink: /junior-high/2025-y1-registration-class-allocation/
+title: 2025 Year One Registration
+permalink: /junior-high/2025-y1-registration/
 variant: tiptap
 description: ""
 ---
