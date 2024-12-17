@@ -1,5 +1,5 @@
 ---
-title: 2025 Year One Registration
+title: 2025 Year One Registration | Appeal Form
 permalink: /junior-high/2025-y1-registration/
 variant: tiptap
 description: ""
