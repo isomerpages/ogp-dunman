@@ -51,8 +51,28 @@ more information on engaging school bus vendors.
 the online form.</p>
 </li>
 <li>
-<p>Application period: <strong>18-Dec 2024, 9am – 23 Dec 2024, 5pm</strong>
+<p>Application period: <strong>18-Dec 2024, 9am – 23 Dec 2024, 5pm.</strong>
 </p>
+<p></p>
+</li>
+</ul>
+<p><strong>5.&nbsp;&nbsp;&nbsp;INFORMATION ON DHS PSG</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To complete PSG Membership Registration, click <strong><a href="https://forms.gle/PWdgipBN7ygXaBSy7" rel="noopener noreferrer nofollow" target="_blank"><u>HERE</u></a></strong> or
+scan the QR code below:</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_PSG_Membership_Regn__12_Dec_2024_.png">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p>To view PSG Webpage, click <strong><a href="https://www.dunmanhigh.moe.edu.sg/about-dhs/partners/psg/" rel="noopener noreferrer nofollow" target="_blank"><u>HERE</u></a></strong>.</p>
+</li>
+<li>
+<p>Click on the links to add <strong><a href="https://www.facebook.com/groups/DHS.PSG" rel="noopener noreferrer nofollow" target="_blank"><u>PSG Facebook</u></a></strong> and <strong><a href="https://www.instagram.com/dhspsg/" rel="noopener noreferrer nofollow" target="_blank"><u>Instagram</u></a> </strong>respectively.</p>
 </li>
 </ul>
 <p></p>
