@@ -65,7 +65,7 @@ scan the QR code below:</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_PSG_Membership_Regn__12_Dec_2024_.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025_PSG_Membership_Regn__12_Dec_2024_.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
