@@ -48,7 +48,7 @@ more information on engaging school bus vendors.
 <ul data-tight="true" class="tight">
 <li>
 <p>Please click <strong><a href="https://go.gov.sg/dhsappeal2025y1" rel="noopener nofollow" target="_blank">HERE</a> </strong>for
-the online form</p>
+the online form.</p>
 </li>
 <li>
 <p>Application period: <strong>18-Dec 2024, 9am – 23 Dec 2024, 5pm</strong>
