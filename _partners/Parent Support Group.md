@@ -43,9 +43,9 @@ the school</p>
 <p>组织有利于家长、学生和学校的活动</p>
 </li>
 </ul>
-<h2><strong><a href="https://forms.gle/PWdgipBN7ygXaBSy7" rel="noopener noreferrer nofollow" target="_blank">Join Dunman High School Parent Support Group now!</a></strong></h2>
+<h3><strong><a href="https://forms.gle/PWdgipBN7ygXaBSy7" rel="noopener noreferrer nofollow" target="_blank">Join Dunman High School Parent Support Group now!</a></strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_PSG_Membership_Regn__12_Dec_2024_.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025_PSG_Membership_Regn__12_Dec_2024_.png">
 </div>
 <p>Calling out to all parents of Dunmanians! Make your parenting journey
 memorable by joining the DHS Parent Support Group (PSG)! We are a vibrant
@@ -76,10 +76,10 @@ PSG and school!&nbsp; 想知道最新家长会活动及学校动态的资讯？�
 <h3><strong>PSG Liaison Teacher</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm Lam Non Har Serene - School Staff Developer</p>
+<p>Mdm Lam Non Har Serene</p>
 </li>
 <li>
-<p>Mdm Loh Chien Yuen June - Year Head/Year 1 &amp; 2</p>
+<p>Ms Michelle Yeo Kim Neo</p>
 </li>
 </ul>
 <p></p>
