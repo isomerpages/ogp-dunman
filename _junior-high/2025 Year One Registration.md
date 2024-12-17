@@ -43,7 +43,7 @@ more information on engaging school bus vendors.
 </p>
 </li>
 </ul>
-<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp; 2025 Y1 APPEAL FORM</strong>
+<p><strong>4.&nbsp;&nbsp;&nbsp;2025 Y1 APPEAL FORM</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
