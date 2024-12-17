@@ -21,29 +21,10 @@ after the posting results is released.</p>
 <li>
 <p>If you need further clarification and assistance, please contact the school’s
 General Office at 6345 0533.</p>
+<p></p>
 </li>
 </ul>
-<p><strong>2.&nbsp;&nbsp;PURCHASE OF TEXTBOOKS AND SCHOOL ATTIRE</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>To view the detailed sale schedule, click <strong><a href="https://for.edu.sg/dhs-sales-schedule-textbooks-sch-attire" rel="noopener nofollow" target="_blank">HERE</a></strong>.</p>
-</li>
-<li>
-<p>To view the 2025 DHS Year One Booklist, click <strong><a href="https://for.edu.sg/dhs-y1-booklist" rel="noopener nofollow" target="_blank">HERE</a></strong>.</p>
-</li>
-</ul>
-<p><strong>3.&nbsp;&nbsp; SCHOOL BUS TRANSPORT TO DHS</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>If you require school bus transport to DHS, click <strong><a href="https://www.dunmanhigh.moe.edu.sg/files/Private_Bus_Transport_2024_11112024.pdf" rel="noopener nofollow" target="_blank">HERE </a></strong>for
-more information on engaging school bus vendors.
-<br>
-</p>
-</li>
-</ul>
-<p><strong>4.&nbsp;&nbsp;&nbsp;2025 Y1 APPEAL FORM</strong>
+<p><strong>2.&nbsp;&nbsp;&nbsp;2025 YEAR ONE APPEAL FORM</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -53,6 +34,26 @@ the online form.</p>
 <li>
 <p>Application period: <strong>18-Dec 2024, 9am – 23 Dec 2024, 5pm.</strong>
 </p>
+<p></p>
+</li>
+</ul>
+<p><strong>3.&nbsp;&nbsp;PURCHASE OF TEXTBOOKS AND SCHOOL ATTIRE</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To view the detailed sale schedule, click <strong><a href="https://for.edu.sg/dhs-sales-schedule-textbooks-sch-attire" rel="noopener nofollow" target="_blank">HERE</a></strong>.</p>
+</li>
+<li>
+<p>To view the 2025 DHS Year One Booklist, click <strong><a href="https://for.edu.sg/dhs-y1-booklist" rel="noopener nofollow" target="_blank">HERE</a></strong>.</p>
+<p></p>
+</li>
+</ul>
+<p><strong>4.&nbsp;&nbsp; SCHOOL BUS TRANSPORT TO DHS</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>If you require school bus transport to DHS, click <strong><a href="https://www.dunmanhigh.moe.edu.sg/files/Private_Bus_Transport_2024_11112024.pdf" rel="noopener nofollow" target="_blank">HERE </a></strong>for
+more information on engaging school bus vendors.</p>
 <p></p>
 </li>
 </ul>
