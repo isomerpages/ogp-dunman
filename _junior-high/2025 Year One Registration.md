@@ -38,16 +38,13 @@ General Office at 6345 0533.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>If you require school bus transport to DHS, click <strong><a href="https://www.dunmanhigh.moe.edu.sg/files/Private_Bus_Transport_2024_11112024.pdf" rel="noopener nofollow" target="_blank">HERE </a></strong>for
-more information on engaging school bus vendors.</p>
-<p></p>
-</li>
-</ul>
-<ol start="4" data-tight="true" class="tight">
-<li>
-<p><strong>2025 Y1 APPEAL FORM</strong>
+more information on engaging school bus vendors.
+<br>
 </p>
 </li>
-</ol>
+</ul>
+<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp; 2025 Y1 APPEAL FORM</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Please click <strong><a href="https://go.gov.sg/dhsappeal2025y1" rel="noopener nofollow" target="_blank">HERE</a> </strong>for
