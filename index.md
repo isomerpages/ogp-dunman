@@ -10,8 +10,8 @@ sections:
       background: /images/homepage_slides.gif
       variant: center
       key_highlights:
-        - title: 2025 Year One Registration
-          description: CLICK HERE FOR THE INFO
+        - title: 2025 Year One Registration | Appeal Form
+          description: CLICK HERE FOR THE DETAILS
           url: https://www.dunmanhigh.moe.edu.sg/junior-high/2025-y1-registration
   - infopic:
       title: Campus Life
