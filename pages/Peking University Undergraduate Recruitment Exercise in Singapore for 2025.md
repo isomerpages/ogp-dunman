@@ -11,12 +11,11 @@ description: ""
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="/files/2025_Beijing_University_chengnuoshu.pdf" rel="noopener nofollow" target="_blank">附件1: 2025年北京大学外国留学生本科生招生项目考生申请承诺书</a></strong>
+<p><a href="/files/2025_Beijing_University_chengnuoshu.pdf" rel="noopener noreferrer nofollow" target="_blank">2025年北京大学外国留学生本科生招生项目考生申请承诺书</a>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/2025_Beijing_University_ziwojieshao.pdf" rel="noopener nofollow" target="_blank">附件2: 北京大学外国留学生本科生申请者自我介绍视频录制与上传要求</a></strong>
-</p>
+<p></p>
 </li>
 </ul>
 <p></p>
@@ -32,7 +31,7 @@ description: ""
 <p>实体复试考核：北京大学将于<strong>2025年1月16日（星期四）</strong>对申请者进行实体复试考核。申请者到时将接获具体安排的通知。</p>
 </li>
 <li>
-<p><strong>宣讲会：2025年的北京大学海外招生宣讲会，详情待定。</strong>有兴趣报读北大的同学可以先浏览 <strong><a href="http://www.pku.edu.cn" rel="noopener noreferrer nofollow" target="_blank">www.pku.edu.cn</a></strong> 以及 <strong><a href="http://www.isd.pku.edu.cn" rel="noopener noreferrer nofollow" target="_blank">www.isd.pku.edu.cn</a>  </strong>了解北大的具体情况。</p>
+<p><strong>宣讲会：2025年的北京大学海外招生宣讲会，详情待定。</strong>有兴趣报读北大的同学可以先浏览 <strong><a href="http://www.pku.edu.cn" rel="noopener noreferrer nofollow" target="_blank">www.pku.edu.cn</a></strong> 以及 <strong><a href="http://www.isd.pku.edu.cn" rel="noopener noreferrer nofollow" target="_blank">www.isd.pku.edu.cn</a> </strong>了解北大的具体情况。</p>
 </li>
 <li>
 <p>本招生活动只限<strong><u>非中国国籍</u></strong>的高中毕业生参加。需要服兵役的同学也可以先提交申请。若申请成功，北大将会为学生预留名额。</p>
