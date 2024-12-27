@@ -26,7 +26,7 @@ sections:
         - title: 复旦大学
           description: Fudan University
           linktext: Learn more
-          url: ""
+          url: https://dunmanhigh.moe.edu.sg/fudan-university-undergraduate-recruitment-exercise-2025
   - infopic:
       title: Campus Life
       subtitle: 校园新鲜事
