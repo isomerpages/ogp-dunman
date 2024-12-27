@@ -11,11 +11,12 @@ description: ""
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025_Beijing_University_chengnuoshu.pdf" rel="noopener noreferrer nofollow" target="_blank">2025年北京大学外国留学生本科生招生项目考生申请承诺书</a>
+<p><strong><a href="/files/2025_Beijing_University_chengnuoshu.pdf" rel="noopener nofollow" target="_blank">附件1：2025年北京大学外国留学生本科生招生项目考生申请承诺书</a></strong>
 </p>
 </li>
 <li>
-<p></p>
+<p><strong><a href="/files/2025_Beijing_University_ziwojieshao.pdf" rel="noopener nofollow" target="_blank">附件2：北京大学外国留学生本科生申请者自我介绍视频</a></strong>
+</p>
 </li>
 </ul>
 <p></p>
