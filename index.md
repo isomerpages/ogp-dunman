@@ -13,6 +13,20 @@ sections:
         - title: 2025 Year One Registration | Appeal Form
           description: CLICK HERE FOR THE DETAILS
           url: https://www.dunmanhigh.moe.edu.sg/junior-high/2025-y1-registration
+  - textcards:
+      title: Peking University & Fudan University
+      subtitle: 2025年北京大学与复旦大学于新加坡本科招生活动通知
+      id: textcards
+      description: Undergraduate Recruitment Exercise in Singapore for 2025
+      cards:
+        - title: 北京大学
+          description: Peking University
+          linktext: Learn more
+          url: https://www.dunmanhigh.moe.edu.sg/peking-university-undergraduate-recruitment-exercise-2025/
+        - title: 复旦大学
+          description: Fudan University
+          linktext: Learn more
+          url: ""
   - infopic:
       title: Campus Life
       subtitle: 校园新鲜事
