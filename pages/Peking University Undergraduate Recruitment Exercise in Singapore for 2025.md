@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>2025年北京大学于新加坡本科招生活动通知</strong></h4>
-<p>北京大学留学生办公室将在<strong>2025年1月份</strong>为新加坡学生进行2025学年的本科招生工作。德明政府中学有幸再次成为本届招生活动的协办单位之一。</p>
+<p>北京大学留学生办公室将在2025年1月份为新加坡学生进行2025学年的本科招生工作。德明政府中学有幸再次成为本届招生活动的协办单位之一。</p>
 <p>请有意申请的同学点击下载<strong><a href="/files/2025_Peking_University_zhaosheng_jianzhang.pdf" rel="noopener nofollow" target="_blank">招生简章</a></strong>，以及相关的附件，详读并根据指示完成所需程序。</p>
 <p><strong>附件：</strong>
 </p>
