@@ -16,7 +16,7 @@ description: ""
 <p>本招生活动只限<strong><u>非中国国籍</u></strong>的高中毕业生参加。需要服兵役的同学也可以先提交申请。若申请成功，复旦将会为学生预留名额。</p>
 </li>
 <li>
-<p><strong>2025年的复旦大学海外招生宣讲会，详情待定。</strong>有兴趣报读复旦的同学可以先浏览&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.fudan.edu.cn</a></strong>&nbsp;了解复旦的具体情况。</p>
+<p><strong>2025年的复旦大学海外招生宣讲会，详情待定。</strong>有兴趣报读复旦的同学可以先浏览&nbsp;<strong><a href="https://www.fudan.edu.cn" rel="noopener nofollow" target="_blank">https://www.fudan.edu.cn</a></strong>了解复旦的具体情况。</p>
 </li>
 </ul>
 <p></p>
