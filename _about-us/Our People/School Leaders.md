@@ -29,22 +29,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Melvin Ng Yong Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal (Academic)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Toh Sook Hing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal (Academic)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Jake Ong Qiu Jie</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -53,7 +37,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Melvin Ng Yong Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Academic)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Puah You Kai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Academic)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Toh Sook Hing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal (Academic)</p>
