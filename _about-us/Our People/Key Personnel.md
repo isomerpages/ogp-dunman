@@ -7,7 +7,11 @@ variant: tiptap
 ---
 <h2>Bicultural Studies Programme</h2>
 <hr>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -27,7 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Liangzhou</p>
+<p>Ms Lim Sheau Jen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Mother Tongue Languages (Senior High)</p>
@@ -67,15 +71,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Christine Chen Huiqing</p>
+<p>Mr Ong Chin Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ English Language (Senior High)</p>
+<p>HOD/English Language (Senior High)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Min Tzu, Sharilyn</p>
+<p>Ms Lee Xue Ning Vanessa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/ English Literature (Junior High)</p>
@@ -83,7 +87,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Shafaa Bte Yang Razali</p>
+<p>Ms Lim Pei Fang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/General Paper</p>
@@ -100,7 +104,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Humanities &amp; Aesthetics Programme</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -112,7 +120,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Joo Cheong</p>
+<p>Ms Ng Mui Leng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Humanities (Junior High)</p>
@@ -124,14 +132,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Humanities (Senior High)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ng Mui Leng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/Geography (Junior High)</p>
 </td>
 </tr>
 <tr>
@@ -152,14 +152,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Ai Ling Debbie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/Music</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Tan Yu Shi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -169,7 +161,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Mathematics &amp; Sciences Programme</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -213,15 +209,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ooi Ming Fong James</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/Mathematics (Senior High)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Wee Hock Guan</p>
+<p>Mr Lim Bock Boon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Mathematics (Senior High)</p>
@@ -237,7 +225,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Leong Howe</p>
+<p>Mr Goh Wei Bin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Science (Senior High)</p>
@@ -253,6 +241,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Neo Boon Kiat Ronson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/Physics (Junior High)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Ye Meixiu</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -261,16 +257,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Wei Bin</p>
+<p>Mr Yeo Boon Heng Elvin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Chemistry (Senior High)</p>
+<p>SH/Physics (Senior High)</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h2>Knowledge Skills &amp; Curriculum Development</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -290,23 +290,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chen Shunfa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/Design, Innovation &amp; Research</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chew Soon Chiang Martin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/Project Work</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lester Ian Lim Choon Siang</p>
+<p>Mr Lee Wei Keong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Curriculum Development</p>
@@ -320,10 +304,30 @@ variant: tiptap
 <p>SH/Curriculum Development</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tiah Junkai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/Curriculum Development</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chew Soon Chiang Martin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/Project Work</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>Organisational Excellence</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -351,6 +355,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Wee Hock Guan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Data &amp; Systems</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Ho Su Siew</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -359,23 +371,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tiah Junkai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/Data and Information Management 1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr&nbsp;Neo Boon Kiat Ronson</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/Data and Information Management 2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lam Non Har Serene</p>
+<p>Mr Teo Joo Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
@@ -384,7 +380,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Holistic Development</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -412,18 +412,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ilyana Hardianti Bte Hartono W</p>
+<p>Mdm Ilyana Hardianti Bte Hartono W</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Co-Curricular Activities</p>
+<p>HOD/Student Development</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ang Peiyu</p>
+<p>Ms Amelia Thian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Co-Curricular Activities</p>
+<p>SH/Student Development</p>
 </td>
 </tr>
 <tr>
@@ -431,7 +431,15 @@ variant: tiptap
 <p>Mr Jeffrey Ng Jie Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Co-Curricular Activities</p>
+<p>SH/Student Development</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Ai Ling Debbie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/Student Development</p>
 </td>
 </tr>
 <tr>
@@ -444,7 +452,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yeo Kim Neo, Michelle</p>
+<p>Ms Heng Li Tze Joanna</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Character &amp; Citizenship Education</p>
@@ -452,7 +460,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Ern Chze, Angie</p>
+<p>Mdm Lim Ern Chze, Angie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Character &amp; Citizenship Education</p>
@@ -460,7 +468,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;Noorizan Beevi Abdul Aziz</p>
+<p>Mdm&nbsp;Noorizan Beevi Abdul Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Citizenship Education</p>
@@ -468,18 +476,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Heng Li Tze</p>
+<p>Mr Lim Kit Siang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Discipline</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chin Wei Ming Darren</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/Values in Action (VIA)</p>
 </td>
 </tr>
 <tr>
@@ -516,7 +516,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ho Xin An</p>
+<p>Ms Liang Wanyu Lavinia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Student Leadership</p>
@@ -524,7 +524,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Loh Chien Yuen June</p>
+<p>Ms Michelle Yeo Kim Neo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head/Year 1 &amp; 2</p>
@@ -540,7 +540,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Boon Kian</p>
+<p>Ms Tee Wen Ching Alysia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head/Year 5</p>
@@ -548,7 +548,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tee Wen Ching Alysia</p>
+<p>Mr Chan Boon Kian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head/Year 6</p>
@@ -556,7 +556,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Siew Choo</p>
+<p>Mr Lee Jin Meng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head/Year 1 &amp; 2</p>
@@ -572,7 +572,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Jie Ying</p>
+<p>Ms Lam Kar Mun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head/Year 5</p>
@@ -580,7 +580,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Low Thiam Yew Alvin</p>
+<p>Ms Tan Jie Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head/Year 6</p>
