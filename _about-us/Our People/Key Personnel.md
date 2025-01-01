@@ -74,12 +74,12 @@ variant: tiptap
 <p>Mr Ong Chin Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ English Language (Senior High)</p>
+<p>HOD/English Language (Senior High)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Vanessa Lee</p>
+<p>Ms Lee Xue Ning Vanessa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/ English Literature (Junior High)</p>
@@ -241,6 +241,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Neo Boon Kiat Ronson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/Physics (Junior High)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Ye Meixiu</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -282,23 +290,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chen Shunfa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/Design, Innovation &amp; Research</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chew Soon Chiang Martin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/Project Work</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lester Ian Lim Choon Siang</p>
+<p>Mr Lee Wei Keong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Curriculum Development</p>
@@ -310,6 +302,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Curriculum Development</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tiah Junkai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/Curriculum Development</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chew Soon Chiang Martin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/Project Work</p>
 </td>
 </tr>
 </tbody>
@@ -347,6 +355,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Wee Hock Guan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Data &amp; Systems</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Ho Su Siew</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -355,23 +371,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tiah Junkai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/Data and Information Management 1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr&nbsp;Neo Boon Kiat Ronson</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/Data and Information Management 2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lam Non Har Serene</p>
+<p>Mr Teo Joo Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
