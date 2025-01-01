@@ -37,7 +37,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Leong Sook Hing</p>
+<p>Mrs Toh Sook Hing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal (Academic)</p>
@@ -45,7 +45,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Qiu Jie, Jake</p>
+<p>Mr Jake Ong Qiu Jie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal (Academic)</p>
