@@ -144,7 +144,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Chin Sin</p>
+<p>Mdm Lee Chin Sin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Aesthetics</p>
