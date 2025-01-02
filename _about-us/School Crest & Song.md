@@ -25,7 +25,7 @@ the school ethos, which is, building on and fostering traditional values.</p>
 peace and dignity while the circular border represents wholeness and unity,
 and symbolizes the pursuit of universality, derived from the classic ‘Liji
 Daxue’ (《礼记•大学》).</p>
-<h3><strong>School Song</strong></h3>
+<h2><strong>School Song</strong></h2>
 <p>德明中学&nbsp;&nbsp;&nbsp; 矗立加东
 <br>亭亭松影&nbsp;&nbsp;&nbsp; 习习海风
 <br>集我英才&nbsp;&nbsp;&nbsp; 汇于一家
