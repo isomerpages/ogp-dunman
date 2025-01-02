@@ -31,7 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Sheau Jen</p>
+<p>Mrs Chionh-Lim Sheau Jen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Mother Tongue Languages (Senior High)</p>
