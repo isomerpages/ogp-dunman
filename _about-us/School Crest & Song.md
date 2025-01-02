@@ -32,7 +32,7 @@ Daxue’ (《礼记•大学》).</p>
 <br>文艺科学&nbsp;&nbsp;&nbsp; 同冶同攻
 <br>树模楷&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 教诚信
 <br>立风范&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 诲勇忠
-<br>吾学兮博通 吾德兮高崇
-<br>师生共陶镕 浩气干长空
-<br>爱护我德明 永志乎五中
-<br>光大我德明 永志乎五中</p>
+<br>吾学兮博通&nbsp;&nbsp;&nbsp; 吾德兮高崇
+<br>师生共陶镕&nbsp;&nbsp;&nbsp; 浩气干长空
+<br>爱护我德明&nbsp;&nbsp;&nbsp; 永志乎五中
+<br>光大我德明&nbsp;&nbsp;&nbsp; 永志乎五中</p>
