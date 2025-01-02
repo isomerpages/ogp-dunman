@@ -404,7 +404,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ilyana Hardianti Bte Hartono W</p>
+<p>Mdm Ilyana Hardianti Bte Hartono</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Student Development</p>
