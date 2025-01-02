@@ -5,126 +5,6 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<h2>Year 1</h2>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24Y1A</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Law Seow Li</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Loke Jee Wah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24Y1B</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Richard Neo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Low Siok Hong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24Y1C</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lee Xue Ning Vanessa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chin Yong Chiang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24Y1D</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lim Hwa Chuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Zhang Liping &amp; Lee Siew Choo</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24Y1E</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lee Khai Qi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lai Jinkun</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24Y1F</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nora Bte Supa'at</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wong Min Tzu, Sharilyn</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24Y1G</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Leo June Kit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lee Wenting</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24Y1H</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chan Jia Kun Jason</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Alvina Bte Kasmuri</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24Y1I</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hong Shuqi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cecilia Ng Shau Ching</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h2>Year 2</h2>
 <table style="minWidth: 75px">
 <colgroup>
@@ -146,54 +26,87 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24Y2A</p>
+<p>2 ASPIRATION</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yip Sook Kwan</p>
+<p>Law Seow Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zhao Bolun Ian</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24Y2B</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lim Ngoh Ying Camilla</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lim Kit Siang</p>
+<p>Loke Jee Wah</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24Y2C</p>
+<p>2 BENEVOLENCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kimberley Tay Min</p>
+<p>Goh Wee Suan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Bee Hong &amp; Tan Han Yuen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24Y2D</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cheng Guomei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Noorizan Beevi Binte Abdul Azi &amp; Goh Wee Suan</p>
+<p>Low Siok Hong</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24Y2E</p>
+<p>2 COMPASSION</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Diana Loi</p>
+<p>Lee Xue Ning Vanessa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Han Yuen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 DETERMINATION</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Hwa Chuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chia Siew Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 EMPATHY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Khai Qi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sharmila d/o Tanapathy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 FORTITUDE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Liang Qidi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh Lay Eng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 GRATITUDE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leo June Kit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chia Shu Hui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 HUMILITY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chan Jia Kun Jason</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lien Hui Lin Christine</p>
@@ -201,46 +114,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24Y2F</p>
+<p>2 INTEGRITY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chia Siew Ling</p>
+<p>Cecilia Ng Shau Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Jin Meng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24Y2G</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Juwana Bte Juwahir</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Khow Zhi Wei Adrian</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24Y2H</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pear Siew Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Liang Qidi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24Y2I</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chia Shu Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lim Boon Hwee</p>
+<p>Kimberley Tay Min</p>
 </td>
 </tr>
 </tbody>
