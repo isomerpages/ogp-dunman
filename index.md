@@ -10,12 +10,12 @@ sections:
       background: /images/homepage_slides.gif
       variant: center
       key_highlights:
-        - title: "JAE OPEN HOUSE - 11 Jan 2025 | Time: 09:00 - 13:00"
+        - title: JAE OPEN HOUSE - 11 Jan 2025 | 09:00 - 13:00
           description: CLICK HERE FOR THE INFO
           url: https://for.edu.sg/dhs-openhouse25
         - title: JAE Academic Booklet
           description: CLICK HERE TO VIEW
-          url: https://for.edu.sg/dhs-acad-booklet25
+          url: https://for.edu.sg/dhs-jae-academicbooklet2025
         - title: 2025 Year One Registration
           description: CLICK HERE FOR THE DETAILS
           url: https://www.dunmanhigh.moe.edu.sg/junior-high/2025-y1-registration
