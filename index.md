@@ -10,7 +10,7 @@ sections:
       background: /images/homepage_slides.gif
       variant: center
       key_highlights:
-        - title: "JAE OPEN HOUSE - 11 Jan 2025 | Time: 09:00 - 13:00"
+        - title: JAE OPEN HOUSE - 11 Jan 2025 | 09:00 - 13:00
           description: CLICK HERE FOR THE INFO
           url: https://for.edu.sg/dhs-openhouse25
         - title: JAE Academic Booklet
