@@ -24,20 +24,7 @@ General Office at 6345 0533.</p>
 <p></p>
 </li>
 </ul>
-<p><strong>2.&nbsp;&nbsp;&nbsp;2025 YEAR ONE APPEAL FORM</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Please click <strong><a href="https://go.gov.sg/dhsappeal2025y1" rel="noopener nofollow" target="_blank">HERE</a> </strong>for
-the online form.</p>
-</li>
-<li>
-<p>Application period: <strong>18-Dec 2024, 9am – 23 Dec 2024, 5pm.</strong>
-</p>
-<p></p>
-</li>
-</ul>
-<p><strong>3.&nbsp;&nbsp;PURCHASE OF TEXTBOOKS AND SCHOOL ATTIRE</strong>
+<p><strong>2.&nbsp;&nbsp;PURCHASE OF TEXTBOOKS AND SCHOOL ATTIRE</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -48,7 +35,7 @@ the online form.</p>
 <p></p>
 </li>
 </ul>
-<p><strong>4.&nbsp;&nbsp; SCHOOL BUS TRANSPORT TO DHS</strong>
+<p><strong>3.&nbsp;&nbsp; SCHOOL BUS TRANSPORT TO DHS</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -57,7 +44,7 @@ more information on engaging school bus vendors.</p>
 <p></p>
 </li>
 </ul>
-<p><strong>5.&nbsp;&nbsp;&nbsp;INFORMATION ON DHS PSG</strong>
+<p><strong>4.&nbsp;&nbsp;&nbsp;INFORMATION ON DHS PSG</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
