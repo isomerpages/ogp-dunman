@@ -5,6 +5,127 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
+<h2>Year 1</h2>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Aspiration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pear Siew Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Benevolence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fu Yuanting Desiree</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chin Yong Chiang Darren</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Huang Huang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Richard Neo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Determination</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Andrew Emmanuel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhang Liping</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Empathy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sharilyn Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lai Jinkun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Fortitude</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chew Bee Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Ai Juan Eileen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Gratitude</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yip Sook Kwan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Noorizan Beevi Binte Abdul Aziz</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Humility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alvina Binte Kasmuri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Jin Meng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chang Wan Yin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nora Bte Supa'at</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h2>Year 2</h2>
 <table style="minWidth: 75px">
 <colgroup>
