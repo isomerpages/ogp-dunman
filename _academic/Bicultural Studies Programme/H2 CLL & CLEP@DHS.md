@@ -28,7 +28,6 @@ language and culture.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage/clep%20orientation%202023%20(1).jpg">
 </div>
 <h5><strong>Drama Performance by Theatre Practice --The Soldier &amp; His Virtuous Wife 观看实践剧场的喜剧《都是当兵惹的祸》</strong></h5>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_CLEP_Show1.jpg">
 </div>
@@ -37,11 +36,9 @@ language and culture.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_CLEP_Show2.jpg">
 </div>
 <h5><strong>2024 CLEP Best Improvement Award Presentation 语特飞跃奖颁奖典礼</strong></h5>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/09_CLEP_improvement_Gao_Luquan.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/10_CLEP_improvement_zhou_yunqing.jpg">
 </div>
@@ -50,7 +47,6 @@ language and culture.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/11_CLEP_JC__Scholars_group_photo_1.jpg">
 </div>
 <h5><strong>2023 CLEP 15th Anniversary Celebration 语特15周年庆大合照</strong></h5>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLEP_Group_Photo_Anniversary.jpg">
 </div>
@@ -60,7 +56,6 @@ language and culture.</p>
 <br>修读H2CLL的学生最大的乐趣在于接触大量的华文文学，以及中国和新加坡的历史文化。同学们也能学会深刻地分析人性和社会现状，有助于提升批判性和创造性思维，对GP和PW大有帮助。困难是每一位同学在学习任何科目的时候都会面临的，学习的态度是否诚恳，学习的方法是否正确等问题。</p>
 <p><strong>您觉得要考好H2CLL的“秘诀”是什么?</strong> 
 <br>秘诀就是——兴趣。兴趣是最好的老师，对于人文精神的关注是关键所在！同时，阅读要成为你的兴趣，平时多阅读，多摘录一些好词好句。阅读老师的笔记也要多划关键词句。</p>
-<p></p>
 <h5><strong>2024 CLEP Overseas Immersion to Beijing, China 高中华文语文特选课程海外浸濡计划——中国北京</strong></h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/beijing_immersion.jpg">
