@@ -29,19 +29,21 @@ language and culture.</p>
 </div>
 <h5><strong>Drama Performance by Theatre Practice --The Soldier &amp; His Virtuous Wife 观看实践剧场的喜剧《都是当兵惹的祸》</strong></h5>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_CLEP_Show1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2023_CLEP_Show1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_CLEP_Show2.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2023_CLEP_Show2.jpg">
 </div>
 <h5><strong>2024 CLEP Best Improvement Award Presentation 语特飞跃奖颁奖典礼</strong></h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/09_CLEP_improvement_Gao_Luquan.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/10_CLEP_improvement_zhou_yunqing.jpg">
 </div>
+<p></p>
 <h5><strong>2024 CLEP Scholarship Award Presentation 语特奖学金领奖仪式</strong></h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/11_CLEP_JC__Scholars_group_photo_1.jpg">
