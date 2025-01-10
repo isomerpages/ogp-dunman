@@ -23,11 +23,11 @@ literature lectures, cultural camps, internships and overseas immersions,
 which enhance students’ learning and cultivate a deeper interest in Chinese
 language and culture.</p>
 <p>华文语文特选课程（语特）旨在培养精通双语的人才，提高学生的华文水平和文学素养。语特学生将有机会参与多元化的活动，例如文学讲座、文化营、工作实习和出国浸濡等，从而提升写作技能以及对华文文学的鉴赏与分析能力。</p>
-<h5><strong>2023 CLEP Orientation 语特迎新会</strong></h5>
+<h5><strong>CLEP Orientation 语特迎新会</strong></h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage/clep%20orientation%202023%20(1).jpg">
 </div>
-<h5><strong>2023 Drama Performance by Theatre Practice --The Soldier &amp; His Virtuous Wife观看实践剧场的喜剧《都是当兵惹的祸》</strong></h5>
+<h5><strong>Drama Performance by Theatre Practice --The Soldier &amp; His Virtuous Wife 观看实践剧场的喜剧《都是当兵惹的祸》</strong></h5>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_CLEP_Show1.jpg">
@@ -36,16 +36,18 @@ language and culture.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_CLEP_Show2.jpg">
 </div>
-<p></p>
-<h5><strong>2023 CLEP Best Improvement Award Presentation 语特飞跃奖颁奖典礼</strong></h5>
+<h5><strong>2024 CLEP Best Improvement Award Presentation 语特飞跃奖颁奖典礼</strong></h5>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_______.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/09_CLEP_improvement_Gao_Luquan.jpg">
 </div>
-<h5><strong>2023 CLEP Scholarship Award Presentation 语特奖学金领奖仪式</strong></h5>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_CLEP_Scholarship_Award_Presentation.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10_CLEP_improvement_zhou_yunqing.jpg">
+</div>
+<h5><strong>2024 CLEP Scholarship Award Presentation 语特奖学金领奖仪式</strong></h5>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/11_CLEP_JC__Scholars_group_photo_1.jpg">
 </div>
 <h5><strong>2023 CLEP 15th Anniversary Celebration 语特15周年庆大合照</strong></h5>
 <p></p>
@@ -59,16 +61,10 @@ language and culture.</p>
 <p><strong>您觉得要考好H2CLL的“秘诀”是什么?</strong> 
 <br>秘诀就是——兴趣。兴趣是最好的老师，对于人文精神的关注是关键所在！同时，阅读要成为你的兴趣，平时多阅读，多摘录一些好词好句。阅读老师的笔记也要多划关键词句。</p>
 <p></p>
-<h5><strong>2023 CLEP Overseas Immersion to Beijing, China 高中华文语文特选课程海外浸濡计划——中国北京</strong></h5>
-<p></p>
+<h5><strong>2024 CLEP Overseas Immersion to Beijing, China 高中华文语文特选课程海外浸濡计划——中国北京</strong></h5>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLEP_Beijing1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/beijing_immersion.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLEP_Beijing2.jpg">
-</div>
-<p></p>
 <p><strong>学长有话说:</strong>
 </p>
 <p>选修文学是个非常幸运的决定！因为文学是连接我们和历史及未来的桥梁。年少不知文学好，如今开始步入社会，这时才幡然醒悟——文学给了我一个巨大的宝藏！上文学课时，老师们会带领我们领略文字的美妙，其字里行间流转着含蓄情感。在阅读的过程中，我们会不断挖掘、拓宽个人思维的宽度和深度。研读作品时，我们能够对作者的情感和经历感同身受。无论是李白的豪放、苏轼的潇洒，还是陶渊明“不为五斗米折腰”的风骨，我们通过文学了解社会，学会交际，看清本质。我们也会在不经意间被这些大人物的侠气以及“一蓑烟雨任平生”的豁达心态而感染，通透地看待世事。</p>
@@ -80,6 +76,15 @@ language and culture.</p>
 <p></p>
 <h5><strong>2024 Publicity Poster for CLEP Scholarship 语特奖学金宣传海报</strong></h5>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLEP_Scholarship.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLEP_Scholarship_Poster_2025_pdf.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLEP_Publicity_Poster_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLEP_Publicity_Poster_2.png">
+</div>
+<p></p>
 <p></p>
