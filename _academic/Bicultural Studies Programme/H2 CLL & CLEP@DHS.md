@@ -14,7 +14,7 @@ ranging from classical prose and poetry, to modern novels and drama plays.</p>
 <h5><strong>Chinese Language Elective Programme (CLEP) 华文语文特选课程 (语特)</strong></h5>
 <p>什么是“语特”？为什么选“语特”？“语特”会给你带来什么？请点按<strong><a href="https://youtu.be/cF8erxWMc1U" rel="noopener noreferrer nofollow" target="_blank">这里</a></strong>，来听德明语特的学长学姐们说说吧!</p>
 <p>想进一步了解德明语特吗？请点击<strong><a href="https://drive.google.com/file/d/1SgLIZnk3KYf5KXsXQEgab9igh4qLQF24/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">这里</a></strong>。</p>
-<p>德明语特有何特别之处？为何如此吸引众多文学爱好者？为何成为高中生涯令人难以忘怀的经历？<strong><a href="https://youtu.be/A_l-j74mBp4" rel="noopener noreferrer nofollow" target="_blank">答案就在这里！</a></strong>
+<p>德明语特有何特别之处？为何如此吸引众多文学爱好者？为何成为高中生涯令人难以忘怀的经历？<strong><a href="https://youtu.be/gl6BSvgQamQ" rel="noopener noreferrer nofollow" target="_blank">答案就在这里！</a></strong>
 </p>
 <p>This MOE programme nurtures students who have an aptitude for Chinese
 language and literature, and aims to groom them to become effectively bilingual
