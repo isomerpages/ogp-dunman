@@ -68,7 +68,6 @@ language and culture.</p>
 <p>给岁月以文学，而不是给文学以岁月。语特搜集着每一位独特的灵魂，并给予其机遇和空间，滋养这些灵魂的胚芽，使之成为独一无二的、有趣味的灵魂。进入语特后，我们就当在“文字”这第四维度中观察世界，发掘自我，表达自我。请记住，你无需被束缚在现实的考量之中，因为你不过是在寻找表达思想的方式罢了。而这一次，偶然，或必然地，选择了文学这种形式。所以，抓紧机会，在语特这个大家庭中，尽情探索文字的多元魅力吧！</p>
 <p><strong>22Y6C22 Zhao Yuanzhen赵元桢 （语特自理会宣传委员）</strong>
 </p>
-<p></p>
 <h5><strong>2024 Publicity Poster for CLEP Scholarship 语特奖学金宣传海报</strong></h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLEP_Scholarship_Poster_2025_pdf.jpg">
