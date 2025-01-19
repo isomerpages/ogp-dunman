@@ -13,9 +13,6 @@ sections:
         - title: JAE Academic Booklet
           description: CLICK HERE TO VIEW
           url: https://for.edu.sg/dhs-jae-academicbooklet2025
-        - title: 2025 Year One Registration
-          description: CLICK HERE FOR THE DETAILS
-          url: https://www.dunmanhigh.moe.edu.sg/junior-high/2025-y1-registration
   - textcards:
       title: Peking University & Fudan University
       subtitle: 2025年北京大学与复旦大学于新加坡本科招生活动通知
