@@ -14,15 +14,11 @@ sections:
           description: CLICK HERE TO VIEW
           url: https://for.edu.sg/dhs-jae-academicbooklet2025
   - textcards:
-      title: Peking University & Fudan University
-      subtitle: 2025年北京大学与复旦大学于新加坡本科招生活动通知
+      title: Fudan University
+      subtitle: 2025年复旦大学于新加坡本科招生活动通知
       id: textcards
       description: Undergraduate Recruitment Exercise in Singapore for 2025
       cards:
-        - title: 北京大学
-          description: Peking University
-          linktext: Learn more
-          url: https://www.dunmanhigh.moe.edu.sg/peking-university-undergraduate-recruitment-exercise-2025/
         - title: 复旦大学
           description: Fudan University
           linktext: Learn more
