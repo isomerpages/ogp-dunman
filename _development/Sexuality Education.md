@@ -102,10 +102,6 @@ the main focus on relationships.</p>
 </p>
 <p>Please click <strong><a href="/files/2025_Info_on_SEd_lessons_in_CCE__DHS_Y1_to_Y6_.pdf" rel="noopener nofollow" target="_blank">HERE</a></strong>&nbsp;to
 view.</p>
-<p>The focus for Sexuality Education at Pre-University is on respectful relationships.
-Specifically, the JC/CI package covers Interpersonal Relationships, with
-themes of Human Development, Sexual Health, Sexual Behaviour, and Culture,
-Society and Law woven into the main focus on relationships.</p>
 <h4><strong>eTeens Programme for Junior High</strong></h4>
 <p><em>eTeens</em> is a programme developed by Health Promotion Board, in
 collaboration with the Ministry of Education, to provide Secondary 3 students
@@ -264,7 +260,7 @@ the start of the year and is also downloadable for Secondary (click <strong><a h
 and JC/CI (click<strong> <a href="/files/eTeens_Parents_Opt_out_form__JC__2025_DHS.pdf" rel="noopener nofollow" target="_blank">HERE</a></strong>).</p>
 </li>
 <li>
-<p>Parents can contact the school Mr Jason Chen, HOD/CCE, at&nbsp;<strong><a href="mailto:chen.quansheng@dhs.sg" rel="noopener noreferrer nofollow" target="_blank">chen.quansheng@dhs.sg</a></strong>&nbsp;for
+<p>Parents can contact the school Mr Jason Chen, HOD/CCE, at&nbsp;<strong><a href="mailto:chen.quansheng@dhs.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen.quansheng@dhs.sg</a></strong>&nbsp;for
 discussion or to seek clarification about the school’s Sexuality Education
 Programme.</p>
 </li>
