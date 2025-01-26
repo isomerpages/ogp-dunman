@@ -255,18 +255,18 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable <strong><a href="/files/MOE_Sexuality_Education_in_Schools_Opt_out_Form_2024_DHS.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>.</p>
+the start of the year and is also downloadable <strong><a href="/files/MOE_Sexuality_education_in_schools_opt_out_form.pdf" rel="noopener nofollow" target="_blank">HERE</a></strong>.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em></strong>&nbsp;<strong>programme</strong>&nbsp;need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable for Secondary (click <strong><a href="/files/eTeens_Parents_Opt_out_Form__Sec__2024_DHS.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong> )
-and JC/CI (click <strong><a href="/files/eTeens_Parents_Opt_out_Form__JCMI__2024_DHS.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>).</p>
+the start of the year and is also downloadable for Secondary (click <strong><a href="/files/eTeens_Parents_Opt_out_form__Sec__2025_DHS.pdf" rel="noopener nofollow" target="_blank">HERE</a> </strong>)
+and JC/CI (click<strong> <a href="/files/eTeens_Parents_Opt_out_form__JC__2025_DHS.pdf" rel="noopener nofollow" target="_blank">HERE</a></strong>).</p>
 </li>
 <li>
 <p>Parents can contact the school Mr Jason Chen, HOD/CCE, at&nbsp;<strong><a href="mailto:chen.quansheng@dhs.sg" rel="noopener noreferrer nofollow" target="_blank">chen.quansheng@dhs.sg</a></strong>&nbsp;for
-discussion or to seek clarification about the school’s sexuality education
-programme.</p>
+discussion or to seek clarification about the school’s Sexuality Education
+Programme.</p>
 </li>
 </ul>
 <p></p>
