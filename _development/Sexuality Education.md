@@ -102,10 +102,6 @@ the main focus on relationships.</p>
 </p>
 <p>Please click <strong><a href="/files/2025_Info_on_SEd_lessons_in_CCE__DHS_Y1_to_Y6_.pdf" rel="noopener nofollow" target="_blank">HERE</a></strong>&nbsp;to
 view.</p>
-<p>The focus for Sexuality Education at Pre-University is on respectful relationships.
-Specifically, the JC/CI package covers Interpersonal Relationships, with
-themes of Human Development, Sexual Health, Sexual Behaviour, and Culture,
-Society and Law woven into the main focus on relationships.</p>
 <h4><strong>eTeens Programme for Junior High</strong></h4>
 <p><em>eTeens</em> is a programme developed by Health Promotion Board, in
 collaboration with the Ministry of Education, to provide Secondary 3 students
