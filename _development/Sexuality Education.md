@@ -145,14 +145,10 @@ Abstinence and upholding family values are the key messages.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Raise awareness and provide knowledge on:</p>
-</li>
-<li>
-<p>Infectious diseases (STIs and HIV): what it is, how it spreads, how to
-prevent infection mainly through ABC (abstinence, being faithful, correct,
+<p>a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
+to prevent infection mainly through ABC (abstinence, being faithful, correct,
 and consistent condom use).</p>
-</li>
-<li>
-<p>Managing relationships and risky situations in a healthy way.</p>
+<p>b) Managing relationships and risky situations in a healthy way.</p>
 </li>
 </ul>
 </td>
