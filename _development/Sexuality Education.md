@@ -71,6 +71,8 @@ more information on the scope of Sexuality Education in the school curriculum.</
 </li>
 </ul>
 <h4><strong>Sexuality Education Lessons</strong></h4>
+<p><strong>For Junior High:</strong>
+</p>
 <p>The values and attitudes of our youth towards sexuality are increasingly
 shaped by their peers, exposure to the media, popular culture and the internet.
 Adolescence is a complex stage in life as the adolescent attempts to find
@@ -89,33 +91,34 @@ consequences of sexual behaviour.</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<p><strong>At Dunman High School, the following lessons from the Sexuality Education Programme will be taught in 2024.</strong>
+<p><strong>For Senior High:</strong>
 </p>
-<p>Please click <strong><a href="/files/2024_Info_on_SEd_for_schs_website__Y1_6_.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>&nbsp;to
+<p>The focus for Sexuality Education at Pre-University is on respectful relationships.
+Specifically, the JC/MI package covers themes of Interpersonal Relationships,
+Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into
+the main focus on relationships.</p>
+<p></p>
+<p><strong>At Dunman High School, the following lessons from the Sexuality Education Programme will be taught in 2025.</strong>
+</p>
+<p>Please click <strong><a href="/files/2025_Info_on_SEd_lessons_in_CCE__DHS_Y1_to_Y6_.pdf" rel="noopener nofollow" target="_blank">HERE</a></strong>&nbsp;to
 view.</p>
 <p>The focus for Sexuality Education at Pre-University is on respectful relationships.
 Specifically, the JC/CI package covers Interpersonal Relationships, with
 themes of Human Development, Sexual Health, Sexual Behaviour, and Culture,
 Society and Law woven into the main focus on relationships.</p>
-<h4><strong>Secondary - eTeens Programme</strong></h4>
-<ol>
-<li>
-<p><em>eTeens</em>&nbsp;is a programme developed by Health Promotion Board,
-in collaboration with the Ministry of Education, to provide Secondary 3
-students with accurate information on STIs, HIV and protection from a health
-perspective.&nbsp;<em>eTeens</em>&nbsp;is conducted in two segments – a
-mass talk segment and a classroom-based programme.</p>
-</li>
-<li>
+<h4><strong>eTeens Programme for Junior High</strong></h4>
+<p><em>eTeens</em> is a programme developed by Health Promotion Board, in
+collaboration with the Ministry of Education, to provide Secondary 3 students
+with accurate information on STIs, HIV and protection from a health perspective. <em>eTeens</em> is
+conducted in two segments – a mass talk segment and a classroom-based programme.
+The desired outcome of the <em>eTeens</em> programme is that students are
+empowered to make wise, informed and sensible decisions.</p>
 <p>Students are taught skills such as decision-making, assertiveness and
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
-family. Abstinence and upholding family values are the key messages. The
-desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme is that students
-are empowered to make wise, informed and sensible decisions.</p>
-</li>
-</ol>
-<p><strong>At Dunman High School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</strong>
+family, and the importance of responsible decision-making and seeking help.
+Abstinence and upholding family values are the key messages.</p>
+<p><strong>At Dunman High School, the&nbsp;<em>eTeens</em>&nbsp;programme (Junior High) will be implemented as follows in 2025:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -125,58 +128,40 @@ are empowered to make wise, informed and sensible decisions.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Mass Talk by HPB Appointed Vendor</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Programme Learning Objectives</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time Period</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p><strong>Topics/Lessons</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Awareness of the different STIs and HIV/AIDS</p>
+<p><strong>Programme Learning Objectives</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3</p>
+<p><strong>Time Period</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Modes of transmission</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Raise awareness and provide knowledge on:</p>
+</li>
+<li>
+<p>Infectious diseases (STIs and HIV): what it is, how it spreads, how to
+prevent infection mainly through ABC (abstinence, being faithful, correct,
+and consistent condom use).</p>
+</li>
+<li>
+<p>Managing relationships and risky situations in a healthy way.</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Modes of protection, specifically on how the condom is used</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Consequences and impact of STIs/HIV</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -184,33 +169,30 @@ are empowered to make wise, informed and sensible decisions.</p>
 <p>Classroom-based Lesson</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Learn to negotiate their way out of a risky situation by applying skills
 of assertiveness and responsible decision-making</p>
+<p></p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3</p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>JC/CI - eTeens Programme</strong></h4>
-<ol>
-<li>
-<p><em>eTeens</em>&nbsp;is a programme developed by Health Promotion Board,
-in collaboration with the Ministry of Education, to provide JC/CI Year
-1 students with accurate information on STI/HIV and protection from a health
-perspective so as to enable them to make wise, informed, and sensible decisions.</p>
-</li>
-<li>
+<h4><strong>eTeens Programme for Senior High</strong></h4>
+<p><em>eTeens</em> is a programme developed by Health Promotion Board, in
+collaboration with the Ministry of Education, to provide JC/MI Year 1 students
+with accurate information on STIs/HIV and protection from a health perspective.
+The desired outcome of the eTeens programme is that students are empowered
+to make wise, informed and sensible decisions.</p>
 <p>Students learn the health, social and financial implications of STIs/HIV
-on an individual and the family if he/she gets infected with STIs/HIV and
-the importance of responsible decision-making and knowing where to seek
-help. Abstinence and upholding family values are the key messages. The
-desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme is that students
-are empowered to make wise, informed and sensible decisions.</p>
-</li>
-</ol>
-<p><strong>At Dunman High School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</strong>
+on an individual and the family, and the importance of responsible decision-making
+and seeking help. Abstinence and upholding family values are the key messages.</p>
+<p><strong>At Dunman High School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -220,59 +202,46 @@ are empowered to make wise, informed and sensible decisions.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Topics/Lessons</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Programme Learning Objectives</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time Period</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p><strong>Topics/Lessons</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Awareness of the different STI and HIV</p>
+<p><strong>Programme Learning Objectives</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p><strong>Time Period</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mass Talk delivered through a pre-recorded video from Semester 2 2025</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Modes of transmission for STI and HIV</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Infectious diseases (STIs and HIV)</p>
+</li>
+<li>
+<p>Modes of transmission for STIs and HIV</p>
+</li>
+<li>
 <p>Modes of protection against infection, specifically abstinence and the
-correct use of condom</p>
+correct and consistent use of condoms</p>
+</li>
+<li>
+<p>Consequences and impact of being infected with STIs/HIV</p>
+</li>
+<li>
+<p>Ways of managing the impact of STIs</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>State the ways of managing the impact of STIs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Term 3 Week 7</p>
 </td>
 </tr>
 </tbody>
