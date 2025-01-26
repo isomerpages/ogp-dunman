@@ -18,28 +18,23 @@ marriages and stable nuclear family units with extended family support.
 The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
-<p>The goals of Sexuality Education are to:</p>
+<p>The <strong>Goals </strong>of Sexuality Education are to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>To help students make wise, responsible and informed decisions through
-the provision of accurate, current and age-appropriate knowledge on human
-sexuality and the consequences of sexual activity;</p>
+<p>Support students in managing their physiological, social and emotional
+changes as they grow up and develop safe and healthy relationships.</p>
 </li>
 <li>
-<p>To help students know themselves and build healthy and rewarding relationships
-through the acquisition of social and emotional skills of self-awareness,
-management of their thoughts, feelings and behaviours, development of empathy
-for others, possession of effective communication, problem-solving and
-decision-making skills; and</p>
+<p>Guide students to make wise, informed and responsible decisions on sexuality
+matters.</p>
 </li>
 <li>
-<p>To help students develop a moral compass, respect for themselves and for
-others as sexual beings, premised on the family as the basic unit of society,
-through the inculcation of positive mainstream values and attitudes about
-sexuality.</p>
+<p>Help students develop a moral compass and respect for themselves and others
+by having positive mainstream values and attitudes about sexuality that
+are premised on the family as the basic unit of society.</p>
 </li>
 </ul>
-<p>The key messages of Sexuality Education are:</p>
+<p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Love and respect yourself as you love and respect others;</p>
@@ -57,14 +52,14 @@ unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 </li>
 </ul>
-<p>You may click&nbsp;<strong><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>&nbsp;for
+<p>You may click&nbsp;<strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>&nbsp;for
 more information on MOE Sexuality Education.</p>
-<p><strong>Overview of Dunman High</strong>&nbsp;<strong>School’s</strong>&nbsp;<strong>Sexuality Education Programme for 2024</strong>
+<p><strong>Overview of Dunman High</strong>&nbsp;<strong>School’s</strong>&nbsp;<strong>Sexuality Education Programme for 2025</strong>
 </p>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<strong><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>&nbsp;for
+Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<strong><a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>&nbsp;for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <p>The subjects that incorporate topics on sexuality include:</p>
 <ul data-tight="true" class="tight">
@@ -76,6 +71,8 @@ more information on the scope of Sexuality Education in the school curriculum.</
 </li>
 </ul>
 <h4><strong>Sexuality Education Lessons</strong></h4>
+<p><strong>For Junior High:</strong>
+</p>
 <p>The values and attitudes of our youth towards sexuality are increasingly
 shaped by their peers, exposure to the media, popular culture and the internet.
 Adolescence is a complex stage in life as the adolescent attempts to find
@@ -94,89 +91,77 @@ consequences of sexual behaviour.</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<p><strong>At Dunman High School, the following lessons from the Sexuality Education Programme will be taught in 2024.</strong>
+<p><strong>For Senior High:</strong>
 </p>
-<p>Please click <strong><a href="/files/2024_Info_on_SEd_for_schs_website__Y1_6_.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>&nbsp;to
+<p>The focus for Sexuality Education at Pre-University is on respectful relationships.
+Specifically, the JC/MI package covers themes of Interpersonal Relationships,
+Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into
+the main focus on relationships.</p>
+<p></p>
+<p><strong>At Dunman High School, the following lessons from the Sexuality Education Programme will be taught in 2025.</strong>
+</p>
+<p>Please click <strong><a href="/files/2025_Info_on_SEd_lessons_in_CCE__DHS_Y1_to_Y6_.pdf" rel="noopener nofollow" target="_blank">HERE</a></strong>&nbsp;to
 view.</p>
 <p>The focus for Sexuality Education at Pre-University is on respectful relationships.
 Specifically, the JC/CI package covers Interpersonal Relationships, with
 themes of Human Development, Sexual Health, Sexual Behaviour, and Culture,
 Society and Law woven into the main focus on relationships.</p>
-<h4><strong>Secondary - eTeens Programme</strong></h4>
-<ol>
-<li>
-<p><em>eTeens</em>&nbsp;is a programme developed by Health Promotion Board,
-in collaboration with the Ministry of Education, to provide Secondary 3
-students with accurate information on STIs, HIV and protection from a health
-perspective.&nbsp;<em>eTeens</em>&nbsp;is conducted in two segments – a
-mass talk segment and a classroom-based programme.</p>
-</li>
-<li>
+<h4><strong>eTeens Programme for Junior High</strong></h4>
+<p><em>eTeens</em> is a programme developed by Health Promotion Board, in
+collaboration with the Ministry of Education, to provide Secondary 3 students
+with accurate information on STIs, HIV and protection from a health perspective. <em>eTeens</em> is
+conducted in two segments – a mass talk segment and a classroom-based programme.
+The desired outcome of the <em>eTeens</em> programme is that students are
+empowered to make wise, informed and sensible decisions.</p>
 <p>Students are taught skills such as decision-making, assertiveness and
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
-family. Abstinence and upholding family values are the key messages. The
-desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme is that students
-are empowered to make wise, informed and sensible decisions.</p>
-</li>
-</ol>
-<p><strong>At Dunman High School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</strong>
+family, and the importance of responsible decision-making and seeking help.
+Abstinence and upholding family values are the key messages.</p>
+<p><strong>At Dunman High School, the&nbsp;<em>eTeens</em>&nbsp;programme (Junior High) will be implemented as follows in 2025:</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Mass Talk by HPB Appointed Vendor</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Programme Learning Objectives</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time Period</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p><strong>Topics/Lessons</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Awareness of the different STIs and HIV/AIDS</p>
+<p><strong>Programme Learning Objectives</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3</p>
+<p><strong>Time Period</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Modes of transmission</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Raise awareness and provide knowledge on:</p>
+</li>
+<li>
+<p>Infectious diseases (STIs and HIV): what it is, how it spreads, how to
+prevent infection mainly through ABC (abstinence, being faithful, correct,
+and consistent condom use).</p>
+</li>
+<li>
+<p>Managing relationships and risky situations in a healthy way.</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Modes of protection, specifically on how the condom is used</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Consequences and impact of STIs/HIV</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -184,90 +169,79 @@ are empowered to make wise, informed and sensible decisions.</p>
 <p>Classroom-based Lesson</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Learn to negotiate their way out of a risky situation by applying skills
 of assertiveness and responsible decision-making</p>
+<p></p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3</p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>JC/CI - eTeens Programme</strong></h4>
-<ol>
-<li>
-<p><em>eTeens</em>&nbsp;is a programme developed by Health Promotion Board,
-in collaboration with the Ministry of Education, to provide JC/CI Year
-1 students with accurate information on STI/HIV and protection from a health
-perspective so as to enable them to make wise, informed, and sensible decisions.</p>
-</li>
-<li>
+<h4><strong>eTeens Programme for Senior High</strong></h4>
+<p><em>eTeens</em> is a programme developed by Health Promotion Board, in
+collaboration with the Ministry of Education, to provide JC/MI Year 1 students
+with accurate information on STIs/HIV and protection from a health perspective.
+The desired outcome of the eTeens programme is that students are empowered
+to make wise, informed and sensible decisions.</p>
 <p>Students learn the health, social and financial implications of STIs/HIV
-on an individual and the family if he/she gets infected with STIs/HIV and
-the importance of responsible decision-making and knowing where to seek
-help. Abstinence and upholding family values are the key messages. The
-desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme is that students
-are empowered to make wise, informed and sensible decisions.</p>
-</li>
-</ol>
-<p><strong>At Dunman High School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</strong>
+on an individual and the family, and the importance of responsible decision-making
+and seeking help. Abstinence and upholding family values are the key messages.</p>
+<p><strong>At Dunman High School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Topics/Lessons</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Programme Learning Objectives</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time Period</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p><strong>Topics/Lessons</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Awareness of the different STI and HIV</p>
+<p><strong>Programme Learning Objectives</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p><strong>Time Period</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mass Talk delivered through a pre-recorded video from Semester 2 2025</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Modes of transmission for STI and HIV</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Infectious diseases (STIs and HIV)</p>
+</li>
+<li>
+<p>Modes of transmission for STIs and HIV</p>
+</li>
+<li>
 <p>Modes of protection against infection, specifically abstinence and the
-correct use of condom</p>
+correct and consistent use of condoms</p>
+</li>
+<li>
+<p>Consequences and impact of being infected with STIs/HIV</p>
+</li>
+<li>
+<p>Ways of managing the impact of STIs</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>State the ways of managing the impact of STIs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Term 3 Week 7</p>
 </td>
 </tr>
 </tbody>
@@ -281,18 +255,18 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable <strong><a href="/files/MOE_Sexuality_Education_in_Schools_Opt_out_Form_2024_DHS.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>.</p>
+the start of the year and is also downloadable <strong><a href="/files/MOE_Sexuality_education_in_schools_opt_out_form.pdf" rel="noopener nofollow" target="_blank">HERE</a></strong>.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em></strong>&nbsp;<strong>programme</strong>&nbsp;need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable for Secondary (click <strong><a href="/files/eTeens_Parents_Opt_out_Form__Sec__2024_DHS.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong> )
-and JC/CI (click <strong><a href="/files/eTeens_Parents_Opt_out_Form__JCMI__2024_DHS.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>).</p>
+the start of the year and is also downloadable for Secondary (click <strong><a href="/files/eTeens_Parents_Opt_out_form__Sec__2025_DHS.pdf" rel="noopener nofollow" target="_blank">HERE</a> </strong>)
+and JC/CI (click<strong> <a href="/files/eTeens_Parents_Opt_out_form__JC__2025_DHS.pdf" rel="noopener nofollow" target="_blank">HERE</a></strong>).</p>
 </li>
 <li>
 <p>Parents can contact the school Mr Jason Chen, HOD/CCE, at&nbsp;<strong><a href="mailto:chen.quansheng@dhs.sg" rel="noopener noreferrer nofollow" target="_blank">chen.quansheng@dhs.sg</a></strong>&nbsp;for
-discussion or to seek clarification about the school’s sexuality education
-programme.</p>
+discussion or to seek clarification about the school’s Sexuality Education
+Programme.</p>
 </li>
 </ul>
 <p></p>
