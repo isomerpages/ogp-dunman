@@ -264,7 +264,7 @@ the start of the year and is also downloadable for Secondary (click <strong><a h
 and JC/CI (click<strong> <a href="/files/eTeens_Parents_Opt_out_form__JC__2025_DHS.pdf" rel="noopener nofollow" target="_blank">HERE</a></strong>).</p>
 </li>
 <li>
-<p>Parents can contact the school Mr Jason Chen, HOD/CCE, at&nbsp;<strong><a href="mailto:chen.quansheng@dhs.sg" rel="noopener noreferrer nofollow" target="_blank">chen.quansheng@dhs.sg</a></strong>&nbsp;for
+<p>Parents can contact the school Mr Jason Chen, HOD/CCE, at&nbsp;<strong><a href="mailto:chen.quansheng@dhs.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen.quansheng@dhs.sg</a></strong>&nbsp;for
 discussion or to seek clarification about the school’s Sexuality Education
 Programme.</p>
 </li>
