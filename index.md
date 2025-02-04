@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: For jae students
           description: WELCOME TO DUNMAN HIGH
-          url: ""
+          url: https://www.dunmanhigh.moe.edu.sg/for-jae-students-welcome-to-dunman-high/
         - title: JAE Academic Booklet
           description: CLICK HERE TO VIEW
           url: https://for.edu.sg/dhs-jae-academicbooklet2025
