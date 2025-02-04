@@ -4,7 +4,17 @@ permalink: /2025-joint-admissions-exercise-jae-appeal-process/
 variant: tiptap
 description: ""
 ---
-<p>For 2025, the JAE appeal period is from <strong>4 Feb 2025, 0900h to 10 Feb 2025, 1200h</strong>.</p>
+<p>The 2025 cut-off point for Dunman High School is</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Science 7</p>
+</li>
+<li>
+<p>Arts 8</p>
+</li>
+</ul>
+<p></p>
+<p>The JAE appeal period is from <strong>4 Feb 2025, 0900h to 10 Feb 2025, 1200h</strong>.</p>
 <p>Only applicants who meet the cut-off points (COP) of DHS for JAE 2025
 will be considered for&nbsp;appeals.&nbsp;</p>
 <p>All&nbsp;appeal&nbsp;applications&nbsp;must be&nbsp;<strong>completed&nbsp;online</strong>&nbsp;through
