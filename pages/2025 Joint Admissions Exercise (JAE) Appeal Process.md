@@ -17,8 +17,8 @@ from&nbsp;<strong>4 Feb 2025, 0900h</strong>.&nbsp;</p>
 through FormSG</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Dunman High&nbsp;JAE&nbsp;Appeal&nbsp;Form (to be downloaded from this
-webpage)</p>
+<p>Dunman High&nbsp;JAE&nbsp;Appeal&nbsp;Form (Click <a href="/files/2025_DHS_JAE_Appeal_Form.pdf" rel="noopener nofollow" target="_blank">HERE)</a>
+</p>
 </li>
 <li>
 <p>JAE&nbsp;verification slip (showing your Junior College/Polytechnic choices)</p>
