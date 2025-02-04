@@ -11,13 +11,13 @@ sections:
       variant: center
       key_highlights:
         - title: For jae students
-          description: WELCOME TO DUNMAN HIGH
+          description: REPORTING DETAILS
           url: ""
         - title: JAE Academic Booklet
           description: CLICK HERE TO VIEW
           url: https://for.edu.sg/dhs-jae-academicbooklet2025
         - title: 2025 Joint Admissions Exercise (JAE) Appeal Process
-          description: CLICK HERE FOR THE DETAILS
+          description: CLICK HERE
           url: ""
   - textcards:
       title: Fudan University
