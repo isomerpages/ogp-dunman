@@ -14,7 +14,7 @@ sections:
           description: REPORTING DETAILS
           url: ""
         - title: JAE Academic Booklet
-          description: CLICK HERE TO VIEW
+          description: CLICK HERE
           url: https://for.edu.sg/dhs-jae-academicbooklet2025
         - title: 2025 Joint Admissions Exercise (JAE) Appeal Process
           description: CLICK HERE
