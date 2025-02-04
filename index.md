@@ -13,6 +13,9 @@ sections:
         - title: JAE Academic Booklet
           description: CLICK HERE TO VIEW
           url: https://for.edu.sg/dhs-jae-academicbooklet2025
+        - title: For jae students
+          description: WELCOME TO DUNMAN HIGH
+          url: ""
   - textcards:
       title: Fudan University
       subtitle: 2025年复旦大学于新加坡本科招生活动通知
