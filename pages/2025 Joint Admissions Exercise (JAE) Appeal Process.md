@@ -17,7 +17,8 @@ from&nbsp;<strong>4 Feb 2025, 0900h</strong>.&nbsp;</p>
 through FormSG</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Dunman High&nbsp;JAE&nbsp;Appeal&nbsp;Form (Click <a href="/files/2025_DHS_JAE_Appeal_Form.pdf" rel="noopener nofollow" target="_blank">HERE)</a>
+<p>Dunman High&nbsp;JAE&nbsp;Appeal&nbsp;Form (Click <strong><a href="/files/2025_DHS_JAE_Appeal_Form.pdf" rel="noopener nofollow" target="_blank">HERE</a></strong>
+<a href="/files/2025_DHS_JAE_Appeal_Form.pdf" rel="noopener nofollow" target="_blank">)</a>
 </p>
 </li>
 <li>
