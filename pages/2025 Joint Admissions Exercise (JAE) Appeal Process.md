@@ -45,6 +45,6 @@ under the Direct School Admission (DSA-JC).</p>
 <p>Shortlisted applicants will be invited for an interview.&nbsp;Only successful
 applicants will be notified. The decision by the school will be final.
 &nbsp;</p>
-<p>Should you have any subject related queries, please refer to&nbsp;<strong><a href="https://go.gov.sg/dhsjaeappeal2025" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/dhs-jae-academicbooklet2025</a></strong>.</p>
+<p>Should you have any subject related queries, please refer to&nbsp;<strong><a href="https://for.edu.sg/dhs-jae-academicbooklet2025" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/dhs-jae-academicbooklet2025</a></strong>.</p>
 <p>Should you have any other queries, please email <strong><a href="mailto:dhs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>dhs@moe.edu.sg</u></a></strong>
 </p>
