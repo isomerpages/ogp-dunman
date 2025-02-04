@@ -18,7 +18,7 @@ sections:
           url: https://for.edu.sg/dhs-jae-academicbooklet2025
         - title: 2025 Joint Admissions Exercise (JAE) Appeal Process
           description: CLICK HERE
-          url: ""
+          url: https://www.dunmanhigh.moe.edu.sg/2025-joint-admissions-exercise-jae-appeal-process/
   - textcards:
       title: Fudan University
       subtitle: 2025年复旦大学于新加坡本科招生活动通知
