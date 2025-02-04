@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p>Dear JAE students,</p>
-<p>Welcome to Dunman High School! Please report to the school on 5 February
-2025.</p>
+<p>Welcome to Dunman High! Please report to the school on 5 February 2025.</p>
 <p>The school will contact you individually with more information about the
 reporting process.</p>
 <p></p>
