@@ -3,6 +3,7 @@ title: MOE CL Programmes
 permalink: /academic/bicultural-studies-programme/moe-cl-programmes/
 description: ""
 third_nav_title: Bicultural Studies Programme
+variant: markdown
 ---
 ![](/images/Homepage/masthead-academic-chinese.jpg)
 
@@ -39,8 +40,7 @@ Outstanding Singapore Citizens selected for the CLEP will be eligible for the MO
 
 For more information on the **Chinese Language Elective Programme** **at** **JC Level (MOE)**, click **[HERE](/academic/bicultural-studies-programme/h2cll-clep/)** .
 
-
-### **1. **教育部双文化课程****
+### **1. 教育部双文化课程**
 
 教育部双文化课程 (Bicultural Studies Programme (MOE)), 简称BSP，是一门为期四年（从中三到高二）的奖学金课程。该课程旨在培育一批既了解中国、又能同西方沟通的双语双文化人才。在课程中，学生将能以跨文化视角深入探讨与当代中国发展相关的核心课题。
 
