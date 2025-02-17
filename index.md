@@ -10,7 +10,7 @@ sections:
       background: /images/homepage_slides.gif
       variant: center
       key_highlights:
-        - title: RELEASE OF 2024  GCE A-LEVEL EXAMINATION RESULTS
+        - title: 21 Feb 2025 | RELEASE OF 2024  GCE A-LEVEL EXAM RESULTS
           description: CLICK HERE FOR DETAILS
           url: https://www.dunmanhigh.moe.edu.sg/gce-a-level-2024/
         - title: JAE Academic Booklet
