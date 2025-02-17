@@ -21,7 +21,13 @@ their results online via the Singapore Examinations and Assessment Board’s
 Students can use their Singpass account to access SEAB’s Candidates Portal.
 International Students will receive their system-generated username via
 email from 19 February 2025.</p>
-<p></p>
+<p>Students who are unable to collect their results in person can appoint
+a proxy to collect a physical copy of their results on their behalf. Please
+click <strong><a href="/files/DHS_Letter_of_authorisation_for_collection_of_documents_for_A_Level_Exam.pdf" rel="noopener nofollow" target="_blank">HERE</a></strong> for
+the letter of authorisation. Proxies are required to produce the relevant
+documents for the school’s verification when collecting the results. Please
+contact our Administration Manager, Ms Koh Siew Leng (<strong><a href="mailto:koh.siewleng@dhs.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>koh.siewleng@dhs.edu.sg</u></a></strong>)
+for assistance</p>
 <h4><strong>Applications to Local Autonomous Universities</strong></h4>
 <p>Students who wish to apply for admission to the Autonomous Universities
 should submit their applications online via the respective AUs’ websites.
