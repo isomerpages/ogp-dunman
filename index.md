@@ -10,6 +10,9 @@ sections:
       background: /images/homepage_slides.gif
       variant: center
       key_highlights:
+        - title: RELEASE OF 2024  GCE A-LEVEL EXAMINATION RESULTS
+          description: CLICK HERE FOR DETAILS
+          url: https://www.dunmanhigh.moe.edu.sg/gce-a-level-2024/
         - title: JAE Academic Booklet
           description: CLICK HERE TO VIEW
           url: https://for.edu.sg/dhs-jae-academicbooklet2025
