@@ -13,9 +13,9 @@ sections:
         - title: Fri, 21 Feb 2025 | RELEASE OF 2024  GCE A-LEVEL EXAM RESULTS
           description: CLICK HERE FOR DETAILS
           url: https://www.dunmanhigh.moe.edu.sg/gce-a-level-2024/
-        - title: JAE Academic Booklet
-          description: CLICK HERE TO VIEW
-          url: https://for.edu.sg/dhs-jae-academicbooklet2025
+        - title: 2024 GCE A-Level Results Release
+          description: A 水准考试成绩放榜
+          url: https://sites.google.com/dhs.edu.sg/dunman-high-sch-senior-high
   - textcards:
       title: Fudan University
       subtitle: 2025年复旦大学于新加坡本科招生活动通知
