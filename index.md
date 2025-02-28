@@ -10,9 +10,6 @@ sections:
       background: /images/homepage_slides.gif
       variant: center
       key_highlights:
-        - title: Fri, 21 Feb 2025 | RELEASE OF 2024  GCE A-LEVEL EXAM RESULTS
-          description: CLICK HERE FOR DETAILS
-          url: https://www.dunmanhigh.moe.edu.sg/gce-a-level-2024/
         - title: 2024 GCE A-Level Results Release | A 水准考试成绩放榜
           description: CLICK HERE TO VIEW
           url: https://sites.google.com/dhs.edu.sg/dunman-high-sch-senior-high
