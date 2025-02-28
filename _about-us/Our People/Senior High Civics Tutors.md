@@ -6,111 +6,30 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h2>Year 5</h2>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>S/N</p>
+<p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Teacher Mentor</p>
+<p>Civics Tutor</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Civics Tutor</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p>5C11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Alicia Ng Yi-May</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chan Oi Ming</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chong Kheng Wye</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Foo Thiam Sin Timothy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Goh Wen Ling Gloria</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lam Kar Mun</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lim Bock Boon</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Low Chun Wei</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Oliver Kwek</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Phua Jun Quan Nicolas Elliot</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>11</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Shaun Lim Tyan Gin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>12</p>
+<p>Xu Zhisheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Soh Wen Qi Rachel</p>
@@ -118,87 +37,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13</p>
+<p>5C12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Steven Lee Joo Li</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>14</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Chee Keong Matthew</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>15</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Chien Ming</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Chin Hui</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>17</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Hui Cheng Cindy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>18</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Kang Hui Zachary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>19</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Siu Yian Jerena</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>20</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Swee Leng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>21</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teo Hsin Wei</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>22</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tiah Junkai</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>23</p>
+<p>Lim Bock Boon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wang Yanchun</p>
@@ -206,26 +48,167 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24</p>
+<p>5C21</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Xu Zhisheng</p>
+<p>Low Chun Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25</p>
+<p>5C22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nicolas Phua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhang Weidong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C23</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Foo Thiam Sin Timothy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chong Kheng Wye</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C31</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teo Hsin Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Wee Siang Joseph</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Chin Hui Alan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C33</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Oliver Kwek Jian Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C34</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Yap Chang Xin Daryl</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26</p>
+<p>5C35</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Steven Lee Joo Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C36</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Hui Cheng Cindy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Yeo Boon Heng Elvin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C37</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tiah Junkai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C38</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Siu Yian Jerena</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C41</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chan Oi Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Chee Keong Matthew</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C42</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shaun Lim Tyan Gin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lam Kar Mun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C43</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Swee Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Chih King Clarence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C44</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Kang Hui Zachary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
 </td>
 </tr>
 </tbody>
