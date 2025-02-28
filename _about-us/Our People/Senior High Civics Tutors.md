@@ -169,18 +169,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5C41</p>
+<p>5C39</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chan Oi Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Chee Keong Matthew</p>
+<p>Tee Chee Keong Matthew</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5C42</p>
+<p>5C41</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shaun Lim Tyan Gin</p>
@@ -191,13 +191,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>5C42</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alicia Ng Yi-May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Chih King Clarence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>5C43</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Swee Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Chih King Clarence</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
