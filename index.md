@@ -13,16 +13,6 @@ sections:
         - title: 2024 GCE A-Level Results Release | A 水准考试成绩放榜
           description: CLICK HERE TO VIEW
           url: https://sites.google.com/dhs.edu.sg/dunman-high-sch-senior-high
-  - textcards:
-      title: Fudan University
-      subtitle: 2025年复旦大学于新加坡本科招生活动通知
-      id: textcards
-      description: Undergraduate Recruitment Exercise in Singapore for 2025
-      cards:
-        - title: 复旦大学
-          description: Fudan University
-          linktext: Learn more
-          url: https://dunmanhigh.moe.edu.sg/fudan-university-undergraduate-recruitment-exercise-2025
   - infopic:
       title: Campus Life
       subtitle: 校园新鲜事
