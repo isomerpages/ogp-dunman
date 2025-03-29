@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Admissions.md
-      - Uniforms, Books & Transport.md
+      - Uniforms & Books.md
       - Financial Assistance.md

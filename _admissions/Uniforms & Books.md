@@ -1,6 +1,6 @@
 ---
-title: Uniforms, Books & Transport
-permalink: /admissions/uniforms-books-transport/
+title: Uniforms & Books
+permalink: /admissions/uniforms-books/
 description: ""
 variant: tiptap
 ---
