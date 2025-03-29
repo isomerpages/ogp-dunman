@@ -22,17 +22,6 @@ variant: tiptap
 <br>1092 Lower Delta Road #07-03
 <br>Singapore 169203
 <br>Tel :6276 0084</p>
-<h3><strong>3. Bookshop</strong></h3>
-<h4><strong>Casco Educational Supply Pte Ltd</strong></h4>
-<p>Ms Anna Low
-<br>10 Ubi Crescent #01-02
-<br>Singapore 408564</p>
-<p>Tel / Fax: 63224337</p>
-<h3><strong>4. Private Transport</strong></h3>
-<h4><strong>Residential to DHS</strong></h4>
-<p>Click <a href="/files/Private_Bus_Transport_2024_11112024.pdf" rel="noopener nofollow" target="_blank">HERE </a>to
-view</p>
-<p></p>
 <p></p>
 <table style="minWidth: 175px">
 <colgroup>
@@ -202,3 +191,9 @@ view</p>
 </table>
 <p>REMARKS: Students may purchase the Junior High school uniform buttons
 at the Bookshop (4 pcs/packet -$1.40 for each piece)</p>
+<h3><strong>3. Bookshop</strong></h3>
+<h4><strong>Casco Educational Supply Pte Ltd</strong></h4>
+<p>Ms Anna Low
+<br>10 Ubi Crescent #01-02
+<br>Singapore 408564</p>
+<p>Tel / Fax: 63224337</p>
