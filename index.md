@@ -13,6 +13,9 @@ sections:
         - title: 2024 GCE A-Level Results Release | A 水准考试成绩放榜
           description: CLICK HERE TO VIEW
           url: https://sites.google.com/dhs.edu.sg/dunman-high-sch-senior-high
+        - title: Direct School Admission (DSA) 2025 | 直接收生计划
+          description: CLICK HERE FOR INFO
+          url: https://for.edu.sg/dhs-dsa25info
   - infopic:
       title: Campus Life
       subtitle: 校园新鲜事
