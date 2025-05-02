@@ -10,12 +10,22 @@ sections:
       background: /images/homepage_slides.gif
       variant: center
       key_highlights:
-        - title: Direct School Admission (DSA) 2025 | 直接收生计划
-          description: CLICK HERE FOR INFO
-          url: https://for.edu.sg/dhs-dsa25info
         - title: 2024 GCE A-Level Results Release | A 水准考试成绩放榜
           description: CLICK HERE TO VIEW
           url: https://sites.google.com/dhs.edu.sg/dunman-high-sch-senior-high
+  - textcards:
+      title: 2025 Direct School Admission (DSA)
+      id: textcards
+      description: 直接收生计划
+      cards:
+        - title: Direct School Admission for Secondary Schools
+          description: DSA- SEC
+          linktext: MORE INFO
+          url: https://for.edu.sg/dhs-dsa25info
+        - title: Direct School Admission for Junior Colleges
+          description: DSA-JC
+          linktext: MORE INFO
+          url: https://for.edu.sg/dhs-dsa25jcinfo
   - infopic:
       title: Campus Life
       subtitle: 校园新鲜事
