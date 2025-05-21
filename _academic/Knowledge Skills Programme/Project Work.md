@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Knowledge Skills Programme
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Senior High.png">
+</div>
 <h3><strong>Content</strong></h3>
 <p>Project Work is designed to nurture essential 21st-century competencies
 in our students. Through carefully structured activities and projects,
