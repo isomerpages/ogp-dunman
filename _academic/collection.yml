@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Knowledge Skills Programme/.keep
-      - Knowledge Skills Programme/Knowledge Skills Programme.md
+      - Knowledge Skills Programme/Overview.md
       - Knowledge Skills Programme/The Dragonfly Programme.md
       - Knowledge Skills Programme/Project Work.md
       - Dunman High Programme.md
