@@ -32,7 +32,7 @@ skills.</p>
 <p>Junior High</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dragonfly Programme (LEARN MORE)</p>
+<p>Dragonfly Programme (<strong><a href="https://www.dunmanhigh.moe.edu.sg/knowledge-skills-the-dragonfly-programme/" rel="noopener nofollow" target="_blank">MORE</a></strong>)</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@ skills.</p>
 <p>Senior High</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Project Work (LEARN MORE)</p>
+<p>Project Work (<strong><a href="https://www.dunmanhigh.moe.edu.sg/knowledge-skills-project-work/" rel="noopener nofollow" target="_blank">MORE</a></strong>)</p>
 </td>
 </tr>
 </tbody>
