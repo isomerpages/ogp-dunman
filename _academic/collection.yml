@@ -2,9 +2,9 @@ collections:
   academic:
     output: true
     order:
-      - Aesthetics Programme/Art & Art Special Programme.md
-      - Aesthetics Programme/Aesthetics Programme.md
       - Aesthetics Programme/.keep
+      - Aesthetics Programme/Aesthetics Programme.md
+      - Aesthetics Programme/Art & Art Special Programme.md
       - Dunman High Programme.md
       - Subjects Overview.md
       - Bicultural Studies Programme/.keep
