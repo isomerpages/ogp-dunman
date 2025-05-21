@@ -50,6 +50,10 @@ and Art Special Programme at Junior High, and the Music Elective Programme
 </table>
 <h3><strong>Content</strong></h3>
 <h4><strong>Art &amp; Art Special Programme (ASP)</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/doll.jpg">
+</div>
 <p>Through Art, students are involved in the three behavioural domains of
 seeing, expressing and appreciating, which take into consideration the
 cognitive, affective and psychomotor dimensions of art-making. The framework
@@ -57,6 +61,9 @@ ensures that students are provided with opportunities to observe their
 environment, generate ideas, create artworks, discuss about art and value
 the role of art in society.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Y2_ASP_Learning_about_colours_and_brushwork.jpg">
+</div>
 <p>The Art Special Programme (ASP) is a platform for students who are committed
 and passionate about Art to further their Art education beyond the compulsory
 Art subject. Taken as an examinable subject in Years 1-4, it provides students
@@ -64,8 +71,11 @@ with deeper understanding of various art elements and design principles,
 and possibilities to explore a wider range of media and techniques. ASP
 students are also given opportunities to visit museums and platforms to
 showcase their talents through exhibitions.</p>
-<p></p>
 <h4><strong>H2 Art</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/draw.jpg">
+</div>
 <p>H2 Art offers students a comprehensive curriculum in art with a balance
 of art making and discourse learning experiences. Through the study of
 art, students develop fresh perspectives, an embodied understanding of
@@ -81,14 +91,17 @@ at university levels.</p>
 taught in an integrative manner. Through active musical experiences, students
 learn about the elements of music and apply these concepts in music-making.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Y5_Indian_Music_Workshop.jpg">
+</div>
+<p></p>
 <p>The MEP curriculum aims to develop students' musical perception, broaden
 their knowledge of music from a wide range of genres and culture, and provides
 opportunities for creating and performing music, both individually and
 in groups. Learning takes place both in and out of the classrooms, through
 listening, performing, composing, as well as enrichment activities such
 as concerts, camps, masterclasses, workshops and competitions.</p>
-<p></p>
-<h4><strong>Music &amp; Music Elective Programme (MEP)</strong></h4>
+<h4><strong>Life Skills Programme</strong></h4>
 <p>The LSP seeks to provide students with the knowledge and skills for better
 understanding of the application of food nutrition and textiles. It inculcates
 positive attitudes that will empower students to make informed choices
