@@ -2,6 +2,10 @@ collections:
   academic:
     output: true
     order:
+      - Knowledge Skills Programme/.keep
+      - Knowledge Skills Programme/Overview.md
+      - Knowledge Skills Programme/The Dragonfly Programme.md
+      - Knowledge Skills Programme/Project Work.md
       - Dunman High Programme.md
       - Subjects Overview.md
       - Bicultural Studies Programme/.keep
@@ -15,4 +19,3 @@ collections:
       - Mathematics Programme.md
       - Science Programme.md
       - Aesthetics Programme.md
-      - Knowledge Skills Programme.md
