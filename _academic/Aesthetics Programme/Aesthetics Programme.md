@@ -34,30 +34,12 @@ and Art Special Programme at Junior High, and the Music Elective Programme
 <li>
 <p>Art &amp; Art Special Programme (ACP)</p>
 </li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
 <li>
 <p>H2 Art</p>
 </li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
 <li>
-<p>Music and Music Elective Programme (MEP)</p>
+<p>Music &amp; Music Elective Programme</p>
 </li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
 <li>
 <p>Life Skills Programme</p>
 </li>
