@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - "Knowledge Skills Programme/Knowledge Skills: The Dragonfly Programme.md"
       - Knowledge Skills Programme/Knowledge Skills Programme.md
       - Knowledge Skills Programme/.keep
       - Dunman High Programme.md
