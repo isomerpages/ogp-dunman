@@ -2,7 +2,7 @@ collections:
   academic:
     output: true
     order:
-      - "Aesthetics Programme/Aesthetics: Art & Art Special Programme.md"
+      - Aesthetics Programme/Art & Art Special Programme.md
       - Aesthetics Programme/Aesthetics Programme.md
       - Aesthetics Programme/.keep
       - Dunman High Programme.md
