@@ -45,7 +45,7 @@ skills.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Dragonfly Programme </strong></h3>
+<h3><strong>Dragonfly Programme</strong></h3>
 <h3><strong>Content</strong></h3>
 <p>At Dunman High School, our Dragonfly Programme draws inspiration from
 the dragonfly that exemplifies extraordinary capabilities in the natural
