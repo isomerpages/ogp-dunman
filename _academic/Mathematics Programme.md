@@ -104,7 +104,7 @@ through an interactive math trail experience.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/JH_Math2.jpg">
 </div>
-<h3><strong>Readiness, Engagement, and Mastery</strong></h3>
+<h4><strong>Readiness, Engagement, and Mastery</strong></h4>
 <p>Our curriculum delivery is centred around three pillars:</p>
 <ul data-tight="true" class="tight">
 <li>
