@@ -89,7 +89,7 @@ requiring more in-depth mathematical knowledge.</p>
 <h4><strong>Enrichment and Competitions</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SHMath_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SH_Math_Competition.png">
 </div>
 <p>DHS students benefit from collaborations with organisations such as the
 Gifted Education Branch, the Singapore Mathematical Society, and international
