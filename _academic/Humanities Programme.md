@@ -4,12 +4,13 @@ permalink: /academic/humanities-programme/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage/masthead-academic-humanities.jpg">
-</div>
 <p>At the heart of the DHS Humanities Department is a commitment to nurturing
 thoughtful, informed, and empathetic individuals ready to make a positive
 impact.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Y2_National_Museum_LJ__1_.jpg">
+</div>
 <h3><strong>Curriculum</strong></h3>
 <p>Rooted in the study of human experiences, cultures, histories, and environments,
 the DHS Humanities curriculum adopts inquiry-based and constructivist approaches
@@ -18,9 +19,6 @@ issues. Spanning Active Citizenship Education, Economics, Geography, and
 History, the Humanities curriculum is forward-looking and responsive to
 the evolving needs of society.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Y2_National_Museum_LJ__1_.jpg">
-</div>
 <p></p>
 <h3><strong>Content</strong></h3>
 <table style="minWidth: 50px">

@@ -4,13 +4,15 @@ permalink: /academic/aesthetics-programme/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage/masthead-academic-aesthetics.jpg">
-</div>
 <p>The Aesthetics Department seeks to nurture students with the ability to
 appreciate the aesthetics and the skills to participate in the creative
 process of arts-making. It reaches out to the entire cohort of lower secondary
 students through the Art, Music and Life Skills Programme (LSP) curriculum.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_DHS_MEP_Graduates.jpg">
+</div>
+<p></p>
 <h3><strong>Curriculum</strong></h3>
 <p>For the more artistically or musically-inclined students, the Aesthetics
 Department provides opportunities to develop their skills and widen their
