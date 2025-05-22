@@ -12,11 +12,16 @@ thoughtful, informed, and empathetic individuals ready to make a positive
 impact.</p>
 <h3><strong>Curriculum</strong></h3>
 <p>Rooted in the study of human experiences, cultures, histories, and environments,
-the curriculum adopts inquiry-based and constructivist approaches to promote
-curiosity, independent thinking, and engagement with real-world issues.
-Spanning Active Citizenship Education, Economics, Geography, and History,
-the Humanities curriculum is forward-looking and responsive to the evolving
-needs of society.</p>
+the DHS Humanities curriculum adopts inquiry-based and constructivist approaches
+to promote curiosity, independent thinking, and engagement with real-world
+issues. Spanning Active Citizenship Education, Economics, Geography, and
+History, the Humanities curriculum is forward-looking and responsive to
+the evolving needs of society.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Y2_National_Museum_LJ__1_.jpg">
+</div>
+<p></p>
 <h3><strong>Content</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -95,6 +100,9 @@ and student-centred approach. Lessons are intentionally designed to be
 interactive, authentic, and reflective, enabling students to take ownership
 of their learning and actively construct knowledge.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHOTO_2024_02_29_10_39_44.jpg">
+</div>
 <p>Across subjects, lesson delivery incorporates a variety of strategies
 such as role-play, debates, group discussions and projects. These approaches
 are complemented by experiential learning opportunities like fieldwork,
@@ -103,18 +111,30 @@ to real-world contexts. Digital platforms enhance engagement, allowing
 students to analyse data, explore diverse perspectives, and construct knowledge
 by forming evidence-based conclusions.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Y3_History_SYSNMH_LJ_Pic_2__1_.jpg">
+</div>
+<p></p>
 <p>Across all subjects, lesson delivery emphasises reflection, independence,
 and collaboration—equipping students to be thoughtful inquirers, engaged
 citizens, and adaptable, future-ready learners. Humanities lessons at DHS
 are crafted not just to impart knowledge, but to nurture reflective inquirers,
 engaged citizens, and future-ready learners prepared to navigate and contribute
 meaningfully to a complex, interconnected world.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Geog03.jpg">
+</div>
 <h3><strong>Assessment&nbsp;</strong></h3>
 <p>At the heart of our assessment philosophy is the belief that assessment
 should inspire growth, reflection, and a lifelong love for learning. Through
 the intentional design of assessments, we aim for students to develop core
 skills such as critical thinking and communication, and sustain their curiosity,
 build independence, and deepen their appreciation of the world.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Y3_4_MPP___MPP_Debates_1.jpg">
+</div>
 <p></p>
 <p>To support this, we employ a variety of authentic and reflective assessment
 strategies such as fieldwork, reflecting on diverse perspectives and communicating
