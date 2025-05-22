@@ -14,16 +14,15 @@ opportunities for students to engage in research, participate in national
 competitions, and take on leadership roles by organising science-related
 events for their juniors.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JHScience.jpg">
+</div>
 <p>These experiences empower students to apply their scientific understanding
 meaningfully, fostering a culture of inquiry, innovation, and collaboration.
 For students entering DHS via the Joint Admission Exercise, the Senior
 High Science programme is designed to integrate them smoothly with IP students,
 ensuring continuity and coherence in learning.</p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science.jpg">
-</div>
 <p>In line with Dunman High School’s vision to nurture “Role Models of Learning,
 Leaders of Honour, and Pillars of Society”, the Science Programme aims
 to cultivate all Dunmanians with a scientific mind and attitude, enabling
@@ -34,6 +33,58 @@ in a technologically-driven world.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Forensic_Science___Fingerprint.jpg">
 </div>
 <h3><strong>Curriculum</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Subject / Programme</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Junior High Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Secondary Science is organised around five themes, which provide
+the foundational concepts that students need for the disciplinary Sciences
+(Biology, Chemistry and Physics) at upper secondary.</p>
+<p></p>
+<p>The Lower Secondary Science curriculum encompasses five themes, namely: <strong>The Scientific Endeavour, Diversity, Models, Interactions and Systems.</strong>
+</p>
+<p></p>
+<p>For Upper Secondary Science, students are offered to take <strong>Biology, Chemistry </strong>and<strong> Physics</strong>.
+Students who show exceptional aptitude in Science may opt to study Science
+subjects at the D2 level, where they delve deeper into selected topics,
+challenging themselves with enriched content and greater conceptual depth.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior High Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aligned to A level curriculum, students pursue Science subjects, <strong>Biology, Chemistry </strong>and <strong>Physics</strong> at
+the different levels (H1, H2 or H3) depending on their interests and abilities
+and are offered to take the Singapore-Cambridge General Certificate of
+Education Advanced Level examinations. The study of Sciences at Senior
+High builds on the foundations and knowledge acquired at Junior High/ O-level
+and develops deeper understanding and application of scientific concepts
+and principles at a higher level.</p>
+<p></p>
+<p>Beyond knowledge and skills, the Senior High Science programme aims to
+develop in students the disciplinary, values and attitudes that will enable
+them to apply their knowledge in an ethical way.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>The DHS Science Programme enables students to:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -54,7 +105,6 @@ life (Relating Science, Technology, Society &amp; Environment)&nbsp;</p>
 <li>
 <p>develop 21st Century Competencies, with focus on Critical Thinking, Adaptive
 Thinking, Inventive Thinking, Communication and Civic Literacy&nbsp;&nbsp;</p>
-<p></p>
 </li>
 </ul>
 <h3><strong>Content</strong></h3>
@@ -67,61 +117,96 @@ hone their investigative and problem-solving skills through mentorship
 programmes and competitions, including participation in our Science Mentorship
 Programme (science research) and Science Olympiads.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJBO.jpg">
+</div>
+<p></p>
 <p>At the <strong>advanced level</strong>, students undertake in-depth research,
 working independently or in small groups to address real-world challenges
 under guidance of an expert mentor. As a culmination of their work, they
 have the opportunity to present their findings at national science fairs
 such as the Singapore Science and Engineering Fair and the Youth Science
 Conference.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SSEF_2025.jpg">
+</div>
 <h3><strong>Delivery</strong></h3>
-<p>At DHS, Humanities programmes are delivered through a dynamic, inquiry-based,
-and student-centred approach. Lessons are intentionally designed to be
-interactive, authentic, and reflective, enabling students to take ownership
-of their learning and actively construct knowledge.</p>
+<p>The Science Department adopts a range of pedagogical approaches to foster
+critical thinking and scientific literacy. An<strong> inquiry-based approach</strong> encourages
+students to engage in hands-on experiments, open-ended investigations,
+and real-world problem-solving.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHOTO_2024_02_29_10_39_44.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dissection.jpg">
 </div>
-<p>Across subjects, lesson delivery incorporates a variety of strategies
-such as role-play, debates, group discussions and projects. These approaches
-are complemented by experiential learning opportunities like fieldwork,
-learning journeys, and investigative tasks that connect academic content
-to real-world contexts. Digital platforms enhance engagement, allowing
-students to analyse data, explore diverse perspectives, and construct knowledge
-by forming evidence-based conclusions.</p>
+<p></p>
+<p>For example, Year 1 students design and build models to direct sunlight
+effectively into greenhouses as part of the Farming on Mars project. Year
+3 Biology students plan and conduct their own investigations to explore
+enzyme activity under varying conditions. In another instance, students
+use protein-folding origami activities to visualise complex molecular structures,
+discovering scientific concepts through guided exploration. Models and
+simulations are also used to reinforce abstract ideas, making science more
+tangible and relatable.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Y3_History_SYSNMH_LJ_Pic_2__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Periodic_Table.png">
 </div>
+<p>Through structured inquiry, students systematically develop essential
+science process skills — such as investigating how temperature and concentration
+affect reaction rates in Chemistry, or performing titrations to determine
+vitamin C content in food samples.</p>
 <p></p>
-<p>Across all subjects, lesson delivery emphasises reflection, independence,
-and collaboration—equipping students to be thoughtful inquirers, engaged
-citizens, and adaptable, future-ready learners. Humanities lessons at DHS
-are crafted not just to impart knowledge, but to nurture reflective inquirers,
-engaged citizens, and future-ready learners prepared to navigate and contribute
-meaningfully to a complex, interconnected world.</p>
+<p>Beyond experimentation, students engage in case studies, article analyses,
+and discussions of real-world issues — including the creation of GMOs and
+controversial environmental topics — where they are encouraged to reflect
+on the ethical and social implications of scientific advancements.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Geog03.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Collab_Work.png">
 </div>
+<p>Technology enhances <strong>collaborative learning </strong>and<strong> peer critique</strong>,
+allowing students to share data, review one another’s work, exchange ideas,
+and refine their understanding through constructive feedback. By leveraging
+technology, students develop digital literacy alongside scientific reasoning,
+fostering a learning environment where collaboration and critical evaluation
+are integral to scientific inquiry.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci_Use_of_ICT.jpg">
+</div>
+<p>To nurture 21st Century Competencies — such as critical and adaptive thinking,
+inventive problem-solving, and effective communication — students engage
+in creative, hands-on projects like the Rube Goldberg and crane machine
+challenges, where they apply scientific concepts to solve complex problems.
+They also participate in performance tasks such as presentations and debates,
+which further strengthen their ability to communicate and reason scientifically.</p>
+<p></p>
+<p>These approaches, often applied in STEM-related contexts, ensure that
+students not only acquire scientific knowledge, but also cultivate the
+skills and mindset needed to thrive in a rapidly evolving world.</p>
 <h3><strong>Assessment&nbsp;</strong></h3>
-<p>At the heart of our assessment philosophy is the belief that assessment
-should inspire growth, reflection, and a lifelong love for learning. Through
-the intentional design of assessments, we aim for students to develop core
-skills such as critical thinking and communication, and sustain their curiosity,
-build independence, and deepen their appreciation of the world.</p>
+<p>Assessment complements teaching and learning by providing timely and accurate
+insights into students’ understanding of concepts, mastery of skills, and
+overall learning progress — for both teachers and students.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Y3_4_MPP___MPP_Debates_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Farming_on_Mars.jpg">
 </div>
+<p>Beyond written tests and assignments, students demonstrate their learning
+through authentic performance tasks that mirror real-world applications.
+These include planning and conducting laboratory investigations, as well
+as designing models or prototypes to communicate scientific concepts and
+address both scientific and practical challenges.</p>
 <p></p>
-<p>To support this, we employ a variety of authentic and reflective assessment
-strategies such as fieldwork, reflecting on diverse perspectives and communicating
-these insights through a multitude of media such as forum letters, videos,
-podcasts, infographics, reports and essays. Our assessments support continuous
-learning and development through class practices, quizzes, peer and self-assessments,
-and sample marking. Students receive timely feedback that informs their
-learning and encourages ownership of their academic growth. These practices
-encourage metacognition, helping students monitor their own thinking and
-continuously improve their learning.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JH_Science_Crane.jpg">
+</div>
+<p>Technology is seamlessly integrated into assessment practices through
+the use of Personal Learning Devices (PLDs), enabling students to complete
+online quizzes and present their projects digitally. In addition, students
+are encouraged to reflect on their growth in both disciplinary and affective
+domains over time. They engage in self-evaluation and benefit from constructive
+peer feedback, fostering a deeper awareness of their learning journey.</p>
 <p></p>
