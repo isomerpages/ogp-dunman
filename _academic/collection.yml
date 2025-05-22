@@ -2,7 +2,6 @@ collections:
   academic:
     output: true
     order:
-      - Mother Tongue Languages.md
       - Dunman High Programme.md
       - Subjects Overview.md
       - Bicultural Studies Programme/.keep
@@ -11,6 +10,7 @@ collections:
       - Bicultural Studies Programme/H2 CLL & CLEP@DHS.md
       - Bicultural Studies Programme/Malay Subjects.md
       - Bicultural Studies Programme/English Language.md
+      - Mother Tongue Languages.md
       - Humanities Programme.md
       - Mathematics Programme.md
       - Science Programme.md
