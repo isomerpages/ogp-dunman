@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Mother Tongue Languages.md
       - Dunman High Programme.md
       - Subjects Overview.md
       - Bicultural Studies Programme/.keep
