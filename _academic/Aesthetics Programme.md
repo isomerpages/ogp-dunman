@@ -11,7 +11,7 @@ variant: tiptap
 appreciate the aesthetics and the skills to participate in the creative
 process of arts-making. It reaches out to the entire cohort of lower secondary
 students through the Art, Music and Life Skills Programme (LSP) curriculum.</p>
-<h2><strong>Curriculum</strong></h2>
+<h3><strong>Curriculum</strong></h3>
 <p>For the more artistically or musically-inclined students, the Aesthetics
 Department provides opportunities to develop their skills and widen their
 exposure to a broad range of genres and repertoire through the Music Elective
