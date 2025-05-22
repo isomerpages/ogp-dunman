@@ -12,6 +12,8 @@ variant: tiptap
 spiral approach for students to enhance their 21st Century competencies
 in the fields of thinking skills, coding, research skills and communication
 skills.</p>
+<p></p>
+<h2><strong>Curriculum</strong></h2>
 <p>KSP offers the following key level-wide subjects/programmes:</p>
 <table style="minWidth: 50px">
 <colgroup>
