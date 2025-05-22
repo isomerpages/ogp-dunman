@@ -2,64 +2,201 @@
 title: Physical Education
 permalink: /student-development/physical-education/
 description: ""
+variant: tiptap
 ---
-![](/images/masthead-development-pe.jpg)
-#### **Objectives**
-
-The aim of the Physical Education (PE) Programme is to develop the physical, social and emotional aspects of the pupils through physical activities. The school seeks to equip our students with the necessary skills, knowledge and attitude to enjoy lifelong, active and healthy lifestyles through participation in physical activities.
-
-#### **Curriculum**
-
-By the end of the 6-year Programme, students should be able to:
-
-*   Enjoy and appreciate a wide variety of sports/games.
-*   Enjoy at least one team and one individual sports/games.
-*   Assess personal fitness and design a personal fitness programme that relates to total wellness.
-*   Demonstrate the spirit of fair play, teamwork and sportsmanship.
-*   Acquire safe practices during physical activities.
-
-**Year 1**
-
-*   Track & Field
-*   Territorial/ Invasion Game – Netball
-*   Fitness Management – Warm Up, Stretching Exercises, Resistance Exercises, Use of Outdoor Fitness Stations
-*   Outdoor Education – Knots and Lashing
-*   Enrichment Programme – Golf or Other Activity
-
-**Year 2**
-
-*   Territorial/ Invasion Game – Frisbee
-*   Net / Wall Game – Volleyball
-*   Fitness Management – FITT , Monitoring of Heart Rate, Interval Training, Circuit Training
-*   Outdoor Education – Navigation and Orienteering
-*   Enrichment Programme – Bowling
-
-**Year 3**
-
-*   Territorial/ Invasion Games – Floorball, Soccer
-*   Fitness Management – Walk Test, Circuit Training, Strength Training
-
-**Year 4**
-
-*   Territorial/ Invasion Game – Basketball
-*   Net / Wall Game – Badminton
-*   Fitness Management – Design a two-month training programme to improve cardiovascular endurance, muscular strength or muscular endurance using the Principles of Training and FITT Principle.
-
-**Year 5 & Year 6**
-
-*   Net / Wall Games – Volleyball, Badminton, Tennis
-*   Territorial/ Invasion Games – Handball, Tchoukball, Touch Rugby
-*   Striking/ Fielding Game – Softball
-*   Fitness Management – Weights Training, Training Principles and Periodization
-
-#### **Physical Fitness Test**
-National Physical Fitness Award (NAPFA) will be conducted for students on alternate years: Year 2, Year 4 and Year 6.
-
-To facilitate the use of the NAPFA test results for pre-enlistment purpose, NAPFA pull-up test is replaced by a push-up test for pre-National Service (NS) students in Year 6. This is in line with the modifications in the Individual Physical Proficiency Test (IPPT) announced by MINDEF in 2015.
-
-**Other Events**
-
-*   Four Schools Combined Athletics Meet with Chung Cheng High (Main) School, Ngee Ann Secondary School and Temasek Secondary School (Junior High)
-*   Inter-class Class Games (Junior High), including Mini Olympics for Year 1
-*   Sports Carnival (Senior High)
-*   Inter-house Games (Senior High)
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead-development-pe.jpg">
+</div>
+<p>The Physical Education (PE) Department aims to develop the physical, social,
+and emotional aspects of every student through a diverse range of physical
+activities and programmes. The curriculum equips students with the skills,
+knowledge, and positive attitudes necessary for a lifelong, active, and
+healthy lifestyle.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE01.jpg">
+</div>
+<h3><strong>Curriculum</strong></h3>
+<p>Anchored in the Five Goals of PE</p>
+<p>Our curriculum addresses the five national goals:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Movement Competence: Students master fundamental and sport-specific skills
+across diverse physical activities.</p>
+</li>
+<li>
+<p>Healthy Lifestyle Practices: Knowledge and habits around nutrition, training,
+sleep, and self-care are nurtured.</p>
+</li>
+<li>
+<p>Safety Mindset: Risk assessment, CPR/AED, and safe equipment use are taught
+and practised.</p>
+</li>
+<li>
+<p>Core Values: Fair play, resilience, integrity, respect, and responsibility
+are instilled.</p>
+</li>
+<li>
+<p>Enjoyment: Students discover joy through physical movement, camaraderie,
+and active engagement.</p>
+</li>
+</ul>
+<p></p>
+<p>Three Learning Dimensions in Action are used in the curriculum:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learning in Movement: Skill development in sports like Volleyball, Netball,
+Softball, Floorball, etc.</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learning about Movement: Health and fitness concepts taught via the Student
+Learning Space (SLS).</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learning through Movement: Values, collaboration, and reflective learning
+via gameplay.</p>
+</li>
+</ul>
+<p></p>
+<h3><strong>Content</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Subject / Programme</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Junior High Math</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In the Junior High years, all IP students undertake <strong>Math 1 and Math 2</strong>,
+which together cover and extend beyond O-Level Mathematics and Additional
+Mathematics. This ensures a strong foundation for advanced study. Students
+who show exceptional aptitude in Mathematics may opt to study Math 2 at
+the D2 level, where they delve deeper into selected topics, challenging
+themselves with enriched content and greater conceptual depth.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Senior High Math</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In Senior High, aligned to A level curriculum, students choose between <strong>H1 or H2 Mathematics</strong> based
+on their interests and university aspirations. H1 Mathematics supports
+students inclined toward pursuing business and social science disciplines,
+while H2 Mathematics is more suited for those targeting science, technology,
+engineering, and mathematics (STEM) fields. Students with a strong passion
+and readiness for the subject may further opt for <strong>H2 Further Mathematics and/or MOE-H3 Mathematics</strong>,
+offering them deeper exposure and preparation for higher-level studies
+requiring more in-depth mathematical knowledge.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Enrichment and Competitions</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_Competition.png">
+</div>
+<p>DHS students benefit from collaborations with organisations such as the
+Gifted Education Branch, the Singapore Mathematical Society, and international
+partners. These partnerships provide access to enrichment programmes and
+competitions including the <strong>Singapore Mathematical Olympiad, American Mathematics Competition, and the Singapore Mathematical Society Project Festival</strong>,
+allowing students to pursue their passion and stretch their potential.
+Students also have valuable opportunities to develop practical financial
+literacy skills and actively participate in engaging, real-world problem-solving
+through an interactive math trail experience.</p>
+<h3><strong>Delivery</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JH_Math2.jpg">
+</div>
+<h4><strong>Readiness, Engagement, and Mastery</strong></h4>
+<p>Our curriculum delivery is centred around three pillars:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Readiness</strong>: We consider students’ profiles, prior knowledge,
+and learning environments to tailor differentiated experiences.</p>
+</li>
+<li>
+<p><strong>Engagement</strong>: Instruction is driven by a blend of activity-based
+learning, inquiry-based learning, and direct instruction. Students experience
+discovery learning, open-ended problem solving, and collaborative group
+work. Engaging tools such as games and real-life applications are integrated
+to maintain motivation and deepen understanding.</p>
+</li>
+<li>
+<p><strong>Mastery</strong>: Students consolidate and extend their learning
+through regular summaries, reviews, and practice. Emphasis is placed on
+ensuring all students — regardless of ability — are supported to grow,
+while those with a mathematical flair are challenged further to reach their
+full potential.</p>
+</li>
+</ul>
+<p></p>
+<p>Our Mathematics curriculum emphasises both the discipline and utility
+of Mathematics. Students explore the nature and practices of Mathematics
+while also applying it as a problem-solving tool in authentic contexts.</p>
+<p></p>
+<p>The curriculum is underpinned by the philosophy of <strong>Teaching towards Big Ideas</strong>,
+guiding students to make meaningful connections across mathematical concepts
+and with other disciplines. A strong focus is placed on the development
+of 21st-century competencies, particularly critical and adaptive thinking,
+through regular problem-solving opportunities.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JH_Math4.jpg">
+</div>
+<p></p>
+<p>Students also engage in <strong>Mathematical Modelling</strong>, which
+involves analysing real-world problems, making assumptions, building mathematical
+representations, and validating predictions — deepening their appreciation
+and application of the subject.</p>
+<p></p>
+<p>Communication and collaboration are also key, and students are regularly
+encouraged to reason and articulate their mathematical ideas confidently,
+both individually and in teams, through various media.</p>
+<h3><strong>Assessment&nbsp;</strong></h3>
+<p>Assessment is an integral part of our teaching and learning process. We
+adopt a balanced mix of formative and summative assessments to evaluate
+learning outcomes and inform instructional strategies. Formative assessments
+offer timely feedback, empowering students to track their progress and
+take ownership of their learning.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JH_Math.jpg">
+</div>
+<p>Not all assessments are graded, particularly formative tasks, which are
+used to identify learning gaps and guide interventions. Traditional written
+tests remain important, but students also undertake alternative assessments—especially
+at the Junior High level—including group projects, oral presentations,
+e-assessments, and authentic tasks.</p>
+<p></p>
+<p>All assessments are designed to be purposeful, appropriately challenging,
+and aligned with learning objectives, helping to foster confidence and
+sustain positive attitudes towards Mathematics.</p>
+<p></p>
+<p>Through intentional planning, thoughtful pedagogy, and robust support
+structures, our Mathematics programme aspires to nurture confident problem-solvers,
+critical thinkers, and collaborative learners — equipped to contribute
+meaningfully in a rapidly evolving world.</p>
+<p></p>
