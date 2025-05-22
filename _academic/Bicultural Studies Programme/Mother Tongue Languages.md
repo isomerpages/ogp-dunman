@@ -227,55 +227,6 @@ Radio Drama.</p>
 <p></p>
 <p>中华文史华艺鉴赏课程旨在帮助学生建立扎实的基础知识，并加深他们对中国历史、文学、哲学与文化的理解与欣赏，其中亦涵盖新加坡华族文化的相关内容。课程内容依据教育部修订课程纲要，围绕中国历史、文学与文化遗产等主题进行设计。</p>
 <p>课程亦融入体验式学习，透过一系列实践工作坊，让学生亲身感受中华文化艺术的魅力。这些活动涵盖传统艺术形式，如京剧、国画、书法、茶艺与相声，以及现代艺术形式，如华语广播剧。</p>
-<h3><strong>Content</strong></h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Subject / Programme</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Junior High Math</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>In the Junior High years, all IP students undertake <strong>Math 1 and Math 2</strong>,
-which together cover and extend beyond O-Level Mathematics and Additional
-Mathematics. This ensures a strong foundation for advanced study. Students
-who show exceptional aptitude in Mathematics may opt to study Math 2 at
-the D2 level, where they delve deeper into selected topics, challenging
-themselves with enriched content and greater conceptual depth.</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Senior High Math</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>In Senior High, aligned to A level curriculum, students choose between <strong>H1 or H2 Mathematics</strong> based
-on their interests and university aspirations. H1 Mathematics supports
-students inclined toward pursuing business and social science disciplines,
-while H2 Mathematics is more suited for those targeting science, technology,
-engineering, and mathematics (STEM) fields. Students with a strong passion
-and readiness for the subject may further opt for <strong>H2 Further Mathematics and/or MOE-H3 Mathematics</strong>,
-offering them deeper exposure and preparation for higher-level studies
-requiring more in-depth mathematical knowledge.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay.png">
@@ -389,6 +340,7 @@ global implications of China’s rise.</p>
 <p></p>
 <h4><strong>4. H2 Translation (Chinese) </strong><br><strong>H2 翻译（华文）</strong></h4>
 <p></p>
+<p></p>
 <p>H2 Translation (Chinese) is a Chinese-medium Humanities subject designed
 to encourage students’ interest in both the Chinese and English language,
 develop students’ capacity in inter-lingual and cross-cultural communication
@@ -406,7 +358,11 @@ contexts in translation.</p>
 与“ 翻译学”两个部分组成。语言学旨在培养学生系统分析中英两种语言的能力。翻译学则建立在语言学的基础上，引导学生掌握翻译理论知识和翻译策略，让学生懂得如何根据翻译任务、翻译环境和翻译对象适当地进行翻译实践，并提高学生对翻译作品的批判性鉴赏能力。</p>
 <p></p>
 <h4><strong>Special Programmes offered by MTL Department</strong><br><strong>母语部提供的特别课程</strong></h4>
-<h4><strong>Bicultural Studies Programme (BSP) </strong>双文化课程</h4>
+<h4><strong>1. Bicultural Studies Programme (BSP) </strong>双文化课程</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/21__1_.png">
+</div>
 <p>The Bicultural Studies Programme (MOE) [BSP] is a 4-year programme offered
 by MOE that spans from Year 3 (Sec 3) to Year 6 (JC 2). It aims to develop
 bicultural and bilingual talents who can effectively interact with China
@@ -490,7 +446,6 @@ Level (MOE), click <strong><a href="https://www.dunmanhigh.moe.edu.sg/academic/b
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/xinkongxia1.jpg">
 </div>
-<h4><strong>2. 中学华文特选课程（Chinese Language Elective Programme at Secondary Level ，简称 CLEP-Sec）</strong></h4>
 <p>中学华文特选课程（Chinese Language Elective Programme at Secondary Level，简称 CLEP-Sec）由新加坡教育部于2020年推行，旨在培养发掘有潜质的学生，帮他们在华文语言能力与文学素养方面达到更高水平，同时提升他们的双语能力，以更好地满足国家发展的需要。</p>
 <p></p>
 <p>修读语特的学生将共同参与由教育部主办的两项标志性活动。包括：</p>
@@ -540,6 +495,37 @@ are not required to enter into a bond with the Singapore Government.</p>
 <p>For more information on the Chinese Language Elective Programme at JC
 Level (MOE), click HERE.</p>
 <p></p>
+<h4><strong>4. Malay Special Programme (Year 1 - Year 4)</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MSP.png">
+</div>
+<p>The Malay Special Programme (MSP) is offered to pupils who are interested
+and inclined towards learning the Malay language and culture. This third
+language subject is conducted in-house and is facilitated through weekly
+lessons and various enrichment opportunities. Through the span of four
+years, students offering MSP are equipped with the necessary skills to
+articulate and write like a native Malay student.</p>
+<p></p>
+<p>In recent years, Dunman High’s MSP has been organising her very own annual
+National Scrabble Competition (Sahibba WOW!) and National MSP Essay Writing
+Competition (Tari Pena). These events have provided a highly interactive
+learning environment for all MSP students in Singapore to showcase their
+oratorical and writing skills. Apart from the academic takeaways, the MSP
+also aims to further enhance the understanding of the Malay culture among
+the students.</p>
+<p></p>
+<p>Through our Twinning Programme with Sekolah Seri Puteri of Cyberjaya,
+Malaysia, students are exposed to the unique intricacies and traditions
+of the Malay culture as they encounter eventful experiences and interactions
+with native Malay speakers, further developing their cultural quotient.</p>
+<p></p>
+<p>MSP Students will sit for the end-of-year exam comprising oral and written
+components. The components for written assessments include essay, grammar
+and comprehension. Students may use MSP as a relevant subject for the calculation
+of their Grade-Point-Average (GPA). At the end of 4 years, students will
+sit for the O-Level MSP Exam.</p>
+<p></p>
 <h4><strong>教育部高中华文语文特选课程 (高中语特)</strong></h4>
 <p></p>
 <p>华文语文特选课程 (语特) (Chinese Language Elective Programme at JC Level，简称 CLEP-Jc）是一门高中课程，旨在栽培精通双语的人才，并提高学生的华文水平和文学素养。</p>
@@ -550,7 +536,138 @@ Level (MOE), click HERE.</p>
 <p></p>
 <p>欲知更多有关高中语特的详情，请点击这里。</p>
 <h3><strong>Delivery</strong></h3>
-<h4><strong>Readiness, Engagement, and Mastery</strong></h4>
+<p>Our Mother Tongue Language teachers employ a plethora of pedagogies to
+improve students’ language abilities and cultural appreciation, nurturing
+them into passionate users of the language. Teachers differentiate their
+teaching methods based on students’ abilities and content.</p>
+<p>Some of these methods include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Verbal methods, for example direct instruction by teachers, peer discussion,
+oral presentations, etc.</p>
+</li>
+<li>
+<p>Visual methods, for example demonstrations during lessons or fieldwork
+research, etc.</p>
+</li>
+<li>
+<p>Experiential methods to train skills and techniques, for example practice,
+experimenting, immersion, etc.</p>
+</li>
+</ul>
 <p></p>
-<h3><strong>Assessment&nbsp;</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLdebate1.jpg">
+</div>
+<p>In terms of teaching methods, teachers often use Socratic Questioning
+and Socratic Seminars to cultivate students’ critical thinking, encouraging
+students to voice their own perspectives, views and suggestions.</p>
+<p></p>
+<p>Teachers use Richard Paul’s Wheel of Reasoning model to guide students
+in their logical thinking process. Through the eight elements of thoughts,
+students will be able to consider problems, issues and perspectives.</p>
+<p></p>
+<p>Through classroom activities, students will practise making inferences,
+evaluating answers, recognising different perspectives and other logical
+deduction skills, all of which are essential to language learning.</p>
+<p></p>
+<p>母语老师以提升学生的母语能力和文化素养为宗旨，综合采用多样化的教学法，帮助学生活学善用。老师们也注意因材施教，针对不同学生和不同内容，灵活采用多种教学方法。</p>
+<p></p>
+<p>这些教学法基本包括：</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>以语言形式获得间接经验的方法，包括老师的讲授、同学之间的讨论、口头报告等；</p>
+</li>
+<li>
+<p>以直观形式获得直接经验的方法，如演示法，田野考察等；</p>
+</li>
+<li>
+<p>以实际训练形式形成技能、技巧的方法，如练习法，实验法，实习法，浸濡等。</p>
+</li>
+</ul>
+<p></p>
+<p>在教学技巧上，老师们也常使用苏格拉底提问法和苏格拉底研讨会来培养学生批判性思考的能力，并鼓励学生提出自己的看法、意见和建议。</p>
+<p></p>
+<p>老师也使用保罗思维模式来引导学生进行逻辑性思考。通过有效思考的八个元素，学生学会仔细和有意义地思考问题、课题及观点。通过活动，学生也练习提出推论、评估答案、辨识不同角度的观点以及其他逻辑理论等技能，而这些技能是各个语言学科的主要技能。</p>
+<p></p>
+<p>为了强调华文课程和生活的联系，老师们尽可能选用最真实的语料。比如，通过演讲辞、广告以及新闻篇章，学生不但能提升语感，也能更好地体会华文在生活中的实用性。每周定期的读报活动，也让学生更关心时事，了解社会，从而培养“心系祖国，放眼世界”的情怀。</p>
+<p>In our Chinese Language teaching and enrichment programmes, we adopt a
+wide range of innovative and interactive teaching strategies to create
+engaging, student-centered learning experiences that promote deeper understanding,
+critical thinking, and active participation. These strategies go beyond
+traditional lecture-based methods by incorporating real-world relevance,
+collaboration, creativity, and technology. The goal is to empower students
+to take ownership of their learning while developing communication, analytical,
+and problem-solving skills.</p>
+<p>Commonly used strategies include: Role-play and simulation, Project-based
+learning, Collaborative learning, Inquiry-based learning, Multimodal expression
+and visual thinking tools, Technology-enhanced learning, etc.</p>
+<p></p>
+<p>我们在华文教学及活动中采用多种创新且具互动性的教学策略，旨在营造以学生为中心的学习环境，提升学生的学习兴趣、理解深度、批判性思维能力与课堂参与度。这些策略突破了传统以讲授为主的教学方式，融入真实情境、协作学习、创意思维与科技工具，鼓励学生主动学习，培养他们的沟通、分析与解决问题的能力。常用的教学法包括：角色扮演与情境模拟,
+项目式学习, 合作学习, 探究式学习, 多模态表达与思维可视化, 技术辅助学习等。</p>
+<h3><strong>Assessment&nbsp;</strong><br><strong>评估与测试</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLSpeech.jpg">
+</div>
+<p>In our Chinese Language and Literature curriculum, a wide range of assessment
+methods and practice formats are used to provide a holistic understanding
+of students’ development in language proficiency, literary appreciation,
+critical thinking, and communication skills.</p>
+<p></p>
+<p>Assessment is not limited to traditional written tests but includes both
+formative and performance-based evaluations that value students' learning
+processes and real-world application. Common assessment approaches include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Oral presentations and role-play (e.g., mock trials, debates, storytelling)</p>
+</li>
+<li>
+<p>Project-based assessments (group presentations, research tasks, creative
+showcases)</p>
+</li>
+<li>
+<p>Writing assignments (creative writing, literary critique, reflective journaling)</p>
+</li>
+<li>
+<p>Classroom observations and learning behaviour tracking</p>
+</li>
+<li>
+<p>Peer assessment and self-evaluation (e.g., group reflections, personal
+learning logs)</p>
+</li>
+<li>
+<p>Multimodal submissions (e.g., video production, visual graphics, interactive
+Q&amp;A)</p>
+</li>
+</ul>
+<p></p>
+<p>These varied assessment strategies motivate students to engage meaningfully
+with the subject, provide teachers with a fuller picture of each learner’s
+progress, and foster authentic use of the language in real-life contexts.</p>
+<p>我们采用多元化的评估与练习方式，以全面了解学生在语言能力、文本理解、批判性思维与表达能力等方面的发展。评估不再局限于传统的笔试，而是结合过程性评估与表现性评估，关注学生的学习过程、思考深度和实际应用能力。</p>
+<p></p>
+<p>常见的评估方式包括：</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>口语表达与角色扮演（如模拟法庭、辩论演说）</p>
+</li>
+<li>
+<p>项目式汇报（小组展示、研究报告、创作分享）</p>
+</li>
+<li>
+<p>写作任务（创意写作、文学评论、反思日志）</p>
+</li>
+<li>
+<p>课堂观察与学习表现记录</p>
+</li>
+<li>
+<p>同侪评量与自我评估（如小组互评、个人成长记录）</p>
+</li>
+<li>
+<p>多模态呈现（影片制作、视觉图像、互动问答等）</p>
+</li>
+</ul>
+<p></p>
+<p>这些多元评估方式能更有效地激发学生的学习动机，帮助老师全面掌握学生的学习状态，并鼓励学生在真实语境中运用所学，达致“学以致用”的教学目标。</p>
 <p>Assessment is an i</p>
