@@ -4,9 +4,6 @@ permalink: /academic/science-programme/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage/masthead-science.jpg">
-</div>
 <p>Dunman High School offers a progressive six-year science education where
 students joining us from PSLE develop skills and knowledge in a structured
 and holistic way. Science education extends beyond the classroom, with
@@ -79,7 +76,7 @@ and develops deeper understanding and application of scientific concepts
 and principles at a higher level.</p>
 <p></p>
 <p>Beyond knowledge and skills, the Senior High Science programme aims to
-develop in students the disciplinary, values and attitudes that will enable
+develop in students the discipline, values and attitudes that will enable
 them to apply their knowledge in an ethical way.</p>
 </td>
 </tr>
