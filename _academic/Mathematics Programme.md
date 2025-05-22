@@ -4,13 +4,13 @@ permalink: /academic/mathematics-programme/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage/masthead-academic-mathematics.jpg">
-</div>
 <p>The design of the Mathematics curriculum at Dunman High School (DHS) is
 guided by the Ministry of Education’s <em>Teaching and Learning Guide</em> and
 anchored in the DHS Total Curriculum Framework.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JH_Math_3.jpg">
+</div>
 <h3><strong>Curriculum</strong></h3>
 <p>Mathematics plays a pivotal role in the advancement of numerous disciplines
 and underpins many of today’s innovations and future solutions. It enables
@@ -21,9 +21,6 @@ vehicles. It also enhances productivity, supports strategic decision-making,
 and strengthens cybersecurity through tools such as business analytics,
 academic research methodologies, and encryption technologies.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JH_Math_3.jpg">
-</div>
 <p>At DHS, in line with our mission to nurture “Role Models of Learning,
 Leaders of Honour, and Pillars of Society,” we believe that Mathematics
 education should empower students with the knowledge, skills, and thinking
