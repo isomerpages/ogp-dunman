@@ -20,11 +20,19 @@ For students entering DHS via the Joint Admission Exercise, the Senior
 High Science programme is designed to integrate them smoothly with IP students,
 ensuring continuity and coherence in learning.</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science.jpg">
+</div>
 <p>In line with Dunman High School’s vision to nurture “Role Models of Learning,
 Leaders of Honour, and Pillars of Society”, the Science Programme aims
 to cultivate all Dunmanians with a scientific mind and attitude, enabling
 them to be adept citizens who care for the environment and contribute effectively
 in a technologically-driven world.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Forensic_Science___Fingerprint.jpg">
+</div>
 <h3><strong>Curriculum</strong></h3>
 <p>The DHS Science Programme enables students to:</p>
 <ul data-tight="true" class="tight">
@@ -46,82 +54,25 @@ life (Relating Science, Technology, Society &amp; Environment)&nbsp;</p>
 <li>
 <p>develop 21st Century Competencies, with focus on Critical Thinking, Adaptive
 Thinking, Inventive Thinking, Communication and Civic Literacy&nbsp;&nbsp;</p>
+<p></p>
 </li>
 </ul>
-<p></p>
-<p></p>
 <h3><strong>Content</strong></h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
+<p>Beyond the Science Programme, our school offers differentiated enrichment
+to cater to diverse learning needs and interests. At the <strong>foundational level</strong>,
+students explore various scientific fields through learning journeys, workshops
+and Enrichment Modules in areas such as microbiology, forensic science,
+and cosmetic science. Those with a strong interest in science can further
+hone their investigative and problem-solving skills through mentorship
+programmes and competitions, including participation in our Science Mentorship
+Programme (science research) and Science Olympiads.</p>
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Subject / Programme</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Active Citizenry Education (ACE)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Active Citizenry Education (ACE) syllabus at Junior High (Year 1-4)
-adopts a values-driven, inquiry-based approach where students are encouraged
-to think critically about societal issues, reflect on their roles in a
-diverse world, and take ownership of their learning. They develop critical
-thinking, appreciate diverse perspectives, and become reflective learners.
-Core skills such as the ability to evaluate sources, detect bias, and discern
-truth promote informed decision-making, responsible citizenship, and independent
-thought. Our dynamic, real-world curriculum connects students to local
-and global challenges, fostering civic responsibility and social awareness.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Geography, History</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>At Dunman High School, the study of Geography and History cultivates confident,
-self-directed learners, active contributors, and concerned citizens. Students
-explore complex relationships between people, places, and time and develop
-critical thinking, research, and communication skills to engage meaningfully
-with real-world challenges. Geography equips students with the tools to
-understand environmental interdependence and issues such as climate change
-and sustainable development, while History deepens their understanding
-of global and regional transformations through key themes like Rise and
-Fall of Colonial Empires, the Development of the Cold War and 20th Century
-Conflicts. Both curricula emphasise analytical thinking, digital literacy,
-and global awareness, empowering students to make informed decisions and
-contribute to a sustainable and inclusive future.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Economics</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>At the core of the learning of Economics in Dunman High School at Senior
-High (Y5-6) is the Decision-Making Approach which guides disciplinary thinking.
-This approach emphasises Sound Reasoning and Decision-Making, supporting
-the development of Critical and Inventive Thinking. It enables students
-to evaluate how economic agents make decisions based on the fundamental
-disciplinary concepts of scarcity, choice and opportunity costs, and to
-apply this understanding to analyse domestic, regional and global economic
-issues. Through analysing wide ranging economic issues such as climate
-change and technological disruptions, the syllabus also aims to build the
-values of responsibility, resilience and empathy.</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>At the <strong>advanced level</strong>, students undertake in-depth research,
+working independently or in small groups to address real-world challenges
+under guidance of an expert mentor. As a culmination of their work, they
+have the opportunity to present their findings at national science fairs
+such as the Singapore Science and Engineering Fair and the Youth Science
+Conference.</p>
 <h3><strong>Delivery</strong></h3>
 <p>At DHS, Humanities programmes are delivered through a dynamic, inquiry-based,
 and student-centred approach. Lessons are intentionally designed to be
