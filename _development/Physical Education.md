@@ -4,20 +4,29 @@ permalink: /student-development/physical-education/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead-development-pe.jpg">
-</div>
-<p>The Physical Education (PE) Department aims to develop the physical, social,
-and emotional aspects of every student through a diverse range of physical
-activities and programmes. The curriculum equips students with the skills,
-knowledge, and positive attitudes necessary for a lifelong, active, and
-healthy lifestyle.</p>
+<p>The<strong> Physical Education (PE) Department</strong> aims to develop
+the physical, social, and emotional aspects of every student through a
+diverse range of physical activities and programmes. The curriculum equips
+students with the skills, knowledge, and positive attitudes necessary for
+a lifelong, active, and healthy lifestyle.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE01.jpg">
 </div>
+<p>Students are provided opportunities to enjoy and appreciate a wide variety
+of sports and games, experience success in both team and individual settings,
+assess their personal fitness, and design fitness programmes related to
+total wellness. Our PE lessons emphasise fair play, teamwork, sportsmanship,
+and safe practices during physical activity — all of which nurture Confident
+Persons, Self-Directed Learners, Active Contributors, and Concerned Citizens,
+which encompasses three interconnected pillars: Learning Content, Learning
+Delivery, and Learning Assessment.</p>
 <h3><strong>Curriculum</strong></h3>
-<p>Anchored in the Five Goals of PE</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6754__1_.jpg">
+</div>
+<h4><strong>Anchored in the Five Goals of PE</strong></h4>
 <p>Our curriculum addresses the five national goals:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -42,31 +51,51 @@ and active engagement.</p>
 </li>
 </ul>
 <p></p>
-<p>Three Learning Dimensions in Action are used in the curriculum:</p>
+<h4><strong>Three Learning Dimensions in Action are used in the curriculum:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Learning in Movement: Skill development in sports like Volleyball, Netball,
 Softball, Floorball, etc.</p>
 </li>
-</ul>
-<p></p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Learning about Movement: Health and fitness concepts taught via the Student
 Learning Space (SLS).</p>
 </li>
-</ul>
-<p></p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Learning through Movement: Values, collaboration, and reflective learning
 via gameplay.</p>
 </li>
 </ul>
-<p></p>
 <h3><strong>Content</strong></h3>
-<table style="minWidth: 50px">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/group_ball.jpg">
+</div>
+<p>By the end of the 6-year programme, students will:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Enjoy and appreciate a wide variety of sports and games</p>
+</li>
+<li>
+<p>Participate in at least one team and one individual sport (See table below)</p>
+</li>
+<li>
+<p>Assess personal fitness and design a fitness plan related to total wellness</p>
+</li>
+<li>
+<p>Demonstrate fair play, teamwork, and sportsmanship</p>
+</li>
+<li>
+<p>Practise safe physical activity habits</p>
+</li>
+</ul>
+<p></p>
+<table style="minWidth: 150px">
 <colgroup>
+<col>
+<col>
+<col>
+<col>
 <col>
 <col>
 </colgroup>
@@ -75,128 +104,263 @@ via gameplay.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Subject / Programme</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Junior High Math</strong>
+<td rowspan="1" colspan="5">
+<p><strong>Games Category</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>In the Junior High years, all IP students undertake <strong>Math 1 and Math 2</strong>,
-which together cover and extend beyond O-Level Mathematics and Additional
-Mathematics. This ensures a strong foundation for advanced study. Students
-who show exceptional aptitude in Mathematics may opt to study Math 2 at
-the D2 level, where they delve deeper into selected topics, challenging
-themselves with enriched content and greater conceptual depth.</p>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior High Math</strong>
+<p><strong>Type</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>In Senior High, aligned to A level curriculum, students choose between <strong>H1 or H2 Mathematics</strong> based
-on their interests and university aspirations. H1 Mathematics supports
-students inclined toward pursuing business and social science disciplines,
-while H2 Mathematics is more suited for those targeting science, technology,
-engineering, and mathematics (STEM) fields. Students with a strong passion
-and readiness for the subject may further opt for <strong>H2 Further Mathematics and/or MOE-H3 Mathematics</strong>,
-offering them deeper exposure and preparation for higher-level studies
-requiring more in-depth mathematical knowledge.</p>
+<p><strong>Territorial-invasion games</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Striking-Fielding games</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Net-barrier games</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Others</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Disability Sports Experience</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Individual</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Badminton</p>
+</li>
+<li>
+<p>Table-Tennis</p>
+</li>
+<li>
+<p>Mini/Paddle Tennis</p>
+</li>
+<li>
+<p>Tennis</p>
+</li>
+<li>
+<p>Pickleball</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Others</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boccia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Team</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Basketball</p>
+</li>
+<li>
+<p>Football</p>
+</li>
+<li>
+<p>Floorball</p>
+</li>
+<li>
+<p>Handball</p>
+</li>
+<li>
+<p>Netball</p>
+</li>
+<li>
+<p>Touch Rugby</p>
+</li>
+<li>
+<p>Ultimate Frisbee</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Baseball5</p>
+<p>Cricket</p>
+<p>Softball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sepak Takraw</p>
+<p>Volleyball</p>
+<p>Tchoukball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goalball</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>Enrichment and Competitions</strong></h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_Competition.png">
-</div>
-<p>DHS students benefit from collaborations with organisations such as the
-Gifted Education Branch, the Singapore Mathematical Society, and international
-partners. These partnerships provide access to enrichment programmes and
-competitions including the <strong>Singapore Mathematical Olympiad, American Mathematics Competition, and the Singapore Mathematical Society Project Festival</strong>,
-allowing students to pursue their passion and stretch their potential.
-Students also have valuable opportunities to develop practical financial
-literacy skills and actively participate in engaging, real-world problem-solving
-through an interactive math trail experience.</p>
 <h3><strong>Delivery</strong></h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JH_Math2.jpg">
-</div>
-<h4><strong>Readiness, Engagement, and Mastery</strong></h4>
-<p>Our curriculum delivery is centred around three pillars:</p>
+<h4><strong>Joy of Learning, Lifelong Participation</strong></h4>
+<p>Our PE programme inspires lifelong passion for health and wellness through:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Readiness</strong>: We consider students’ profiles, prior knowledge,
-and learning environments to tailor differentiated experiences.</p>
+<p>A student-centered, values-driven curriculum</p>
 </li>
 <li>
-<p><strong>Engagement</strong>: Instruction is driven by a blend of activity-based
-learning, inquiry-based learning, and direct instruction. Students experience
-discovery learning, open-ended problem solving, and collaborative group
-work. Engaging tools such as games and real-life applications are integrated
-to maintain motivation and deepen understanding.</p>
+<p>Thoughtful integration of technology and authentic experiences</p>
 </li>
 <li>
-<p><strong>Mastery</strong>: Students consolidate and extend their learning
-through regular summaries, reviews, and practice. Emphasis is placed on
-ensuring all students — regardless of ability — are supported to grow,
-while those with a mathematical flair are challenged further to reach their
-full potential.</p>
+<p>Continuous growth across physical, emotional, and social domain</p>
 </li>
 </ul>
-<p></p>
-<p>Our Mathematics curriculum emphasises both the discipline and utility
-of Mathematics. Students explore the nature and practices of Mathematics
-while also applying it as a problem-solving tool in authentic contexts.</p>
-<p></p>
-<p>The curriculum is underpinned by the philosophy of <strong>Teaching towards Big Ideas</strong>,
-guiding students to make meaningful connections across mathematical concepts
-and with other disciplines. A strong focus is placed on the development
-of 21st-century competencies, particularly critical and adaptive thinking,
-through regular problem-solving opportunities.</p>
+<h4><strong>Culminating Activities Across Levels</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JH_Math4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE.png">
 </div>
+<p>To deepen learning and translate it into action, students participate
+in progressive culminating tasks designed to apply their knowledge in authentic
+contexts:</p>
+<h4><strong>Junior High</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>A <strong>3D2N outdoor cohort camp</strong> (Year 1) develops resilience,
+initiative, and collaborative skills in dynamic settings.</p>
+</li>
+<li>
+<p>Personal exercise planning (Year 2) encourages goal-setting, self-monitoring,
+and personal responsibility in health.</p>
+</li>
+<li>
+<p>A <strong>4D3N outdoor adventure camp</strong> (Year 3) provides space for
+leadership and adaptive decision-making in real-world scenarios.</p>
+</li>
+<li>
+<p>In Year 4 students design a <strong>two-month training programme</strong> targeting
+cardiovascular endurance, muscular strength, or muscular endurance — applying
+the Principles of Training and FITT<strong> </strong>Principle in a purposeful,
+personalised way.</p>
+</li>
+<li>
+<p>Participation in <strong>at least three recreational competitions</strong> during
+their junior high journey fosters strategic thinking, camaraderie, and
+perseverance.</p>
+</li>
+</ul>
+<h4><strong>Senior High</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Completion of <strong>a personal or peer-directed wellness plan</strong>,
+positioning students as active role models in their communities.</p>
+</li>
+<li>
+<p>Engagement in <strong>at least one recreational competition</strong>, demonstrating
+confidence, initiative, and ownership of personal growth.</p>
 <p></p>
-<p>Students also engage in <strong>Mathematical Modelling</strong>, which
-involves analysing real-world problems, making assumptions, building mathematical
-representations, and validating predictions — deepening their appreciation
-and application of the subject.</p>
+</li>
+</ul>
+<h4><strong>Junior High: Inter-Class Games, Sports Day &amp; Sports Education Programme</strong></h4>
+<p>Our key events serve as more than just sporting competitions — they are
+authentic platforms where students develop character, build relationships,
+and grow as leaders:</p>
 <p></p>
-<p>Communication and collaboration are also key, and students are regularly
-encouraged to reason and articulate their mathematical ideas confidently,
-both individually and in teams, through various media.</p>
-<h3><strong>Assessment&nbsp;</strong></h3>
-<p>Assessment is an integral part of our teaching and learning process. We
-adopt a balanced mix of formative and summative assessments to evaluate
-learning outcomes and inform instructional strategies. Formative assessments
-offer timely feedback, empowering students to track their progress and
-take ownership of their learning.</p>
+<p>In Year 4, the Baseball5 Inter-class Game forms a major feature of the
+PE programme. More than just a game, it’s a structured experience where
+students assume purposeful roles such as umpire, fielder, or team strategist.
+Peer-led analysis, ICT tools like Baseball 9, and reflective practice enhance
+decision-making, ownership, and teamwork in every game.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JH_Math.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/archery.jpg">
 </div>
-<p>Not all assessments are graded, particularly formative tasks, which are
-used to identify learning gaps and guide interventions. Traditional written
-tests remain important, but students also undertake alternative assessments—especially
-at the Junior High level—including group projects, oral presentations,
-e-assessments, and authentic tasks.</p>
+<p>As part of our Sports Education Programme (managed by SportSG and MOE),
+Year 2 students participate in Post-Exam Activities that introduce them
+to non-curricular sports, extending learning beyond the classroom. Activities
+such as Karate and Archery Tag offer engaging and character-rich experiences.</p>
 <p></p>
-<p>All assessments are designed to be purposeful, appropriately challenging,
-and aligned with learning objectives, helping to foster confidence and
-sustain positive attitudes towards Mathematics.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_4347.jpg">
+</div>
 <p></p>
-<p>Through intentional planning, thoughtful pedagogy, and robust support
-structures, our Mathematics programme aspires to nurture confident problem-solvers,
-critical thinkers, and collaborative learners — equipped to contribute
-meaningfully in a rapidly evolving world.</p>
+<p>Through these authentic and immersive experiences, students grow into
+individuals who embody what it means to care, serve, and lead — bringing
+the school’s vision to life through action.</p>
+<h4><strong>Senior High: D’Carnival Sports Event</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7911.jpg">
+</div>
+<p>These opportunities are intentionally designed to stretch students in
+ways that go beyond skill execution — nurturing habits of mind, strength
+of character, and the joy of purposeful physical engagement.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dcarn.jpg">
+</div>
+<h3><strong>Assessment</strong></h3>
+<p>The PE department adopts a wide range of assessment modes to ensure that
+students not only learn but grow holistically, in different modes and physical
+domains, such as:</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Physical</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students are assessed on how they do in the National Physical Fitness
+Award (NAPFA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Digital</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Through the use of Student Learning Space (SLS), students’ conceptual
+understanding of Sports Science are assessed through their reflections
+and interactive quizzes.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Collaborative</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>By use of peer feedback, group planning, and reflective journaling, students
+learn and are then assessed on their self-awareness and team dynamics.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
