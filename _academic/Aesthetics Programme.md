@@ -11,12 +11,12 @@ variant: tiptap
 appreciate the aesthetics and the skills to participate in the creative
 process of arts-making. It reaches out to the entire cohort of lower secondary
 students through the Art, Music and Life Skills Programme (LSP) curriculum.</p>
-<p></p>
-<p>For the more artistically or musically-inclined students, it provides
-opportunities to develop their skills and widen their exposure to a broad
-range of genres and repertoire through the Music Elective Programme (JH)
-and Art Special Programme at Junior High, and the Music Elective Programme
-(SH) and H2 Art at Senior High.</p>
+<h3><strong>Curriculum</strong></h3>
+<p>For the more artistically or musically-inclined students, the Aesthetics
+Department provides opportunities to develop their skills and widen their
+exposure to a broad range of genres and repertoire through the Music Elective
+Programme (JH) and Art Special Programme at Junior High, and the Music
+Elective Programme (SH) and H2 Art at Senior High.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
