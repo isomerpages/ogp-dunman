@@ -5,14 +5,14 @@ description: ""
 third_nav_title: Knowledge Skills Programme
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage/KSP.jpg">
-</div>
 <p>Our Knowledge Skills Programme (KSP) curriculum applies an inquiry-based
 spiral approach for students to enhance their 21st Century competencies
 in the fields of thinking skills, coding, research skills and communication
 skills.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/makerspace.jpg">
+</div>
 <h3><strong>Curriculum</strong></h3>
 <p>KSP offers the following key level-wide subjects/programmes:</p>
 <table style="minWidth: 50px">
