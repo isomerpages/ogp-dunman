@@ -340,6 +340,9 @@ global implications of China’s rise.</p>
 <p></p>
 <h4><strong>4. H2 Translation (Chinese) </strong><br><strong>H2 翻译（华文）</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Translator.png">
+</div>
 <p></p>
 <p>H2 Translation (Chinese) is a Chinese-medium Humanities subject designed
 to encourage students’ interest in both the Chinese and English language,
