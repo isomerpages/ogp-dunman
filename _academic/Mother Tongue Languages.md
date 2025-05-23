@@ -358,7 +358,7 @@ contexts in translation.</p>
 与“ 翻译学”两个部分组成。语言学旨在培养学生系统分析中英两种语言的能力。翻译学则建立在语言学的基础上，引导学生掌握翻译理论知识和翻译策略，让学生懂得如何根据翻译任务、翻译环境和翻译对象适当地进行翻译实践，并提高学生对翻译作品的批判性鉴赏能力。</p>
 <p></p>
 <h4><strong>Special Programmes offered by MTL Department</strong><br><strong>母语部提供的特别课程</strong></h4>
-<h4><strong>1. Bicultural Studies Programme (BSP) </strong>双文化课程</h4>
+<h4><strong>1. Bicultural Studies Programme (BSP) </strong><br><strong>双文化课程</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/21__1_.png">
@@ -389,7 +389,7 @@ onboard the non-scholarship programme will participate in the same learning
 activities as the BSP scholars. However, study immersion trip opportunities
 are subjected to availability of vacancies and selection criteria.</p>
 <p></p>
-<p>For more information on the BSP, please click <strong><a href="https://www.dunmanhigh.moe.edu.sg/academic/bicultural-studies-programme/h2cll-clep/" class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-underline text-strikethrough-none" rel="noopener" target="_blank">HERE</a></strong>.</p>
+<p>For more information on the BSP, please click <strong><a href="https://www.dunmanhigh.moe.edu.sg/files/BSP-Infosheet.pdf" class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-underline text-strikethrough-none" rel="noopener" target="_blank">HERE</a></strong>.</p>
 <p></p>
 <p>教育部双文化课程 (Bicultural Studies Programme (MOE))，简称BSP，是一门为期四年（从中三到高二）的奖学金课程。课程旨在培养一批具有双语能力、能深入理解中国，同时具备与西方沟通能力的双文化人才。</p>
 <p></p>
@@ -411,7 +411,7 @@ H2 中国通识（H2 China Studies in Chinese），作为GCE ‘A’ 水准考�
 <p></p>
 <p>除了奖学金课程以外，我校也提供教育部双文化非奖学金课程（从中三到中四）让中二学生报名参加。非奖学金课程的学生仍有机会参与双文化学习营与研讨会等活动。浸濡活动方面，则须依学生人数情况而定。申请参加浸濡活动的学生也必须符合申请条件。</p>
 <p></p>
-<p>欲知更多有关双文化课程的详情，请点击<strong><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/bsp-sec" rel="noopener nofollow" target="_blank">此处</a></strong>。</p>
+<p>欲知更多有关双文化课程的详情，请点击<strong><a href="https://www.dunmanhigh.moe.edu.sg/files/BSP-Infosheet.pdf" rel="noopener nofollow" target="_blank">此处</a></strong>。</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DHS_CLEP1.jpg">
@@ -441,7 +441,7 @@ will also be given. The duration of the programme is two years, from Year
 government.</p>
 <p></p>
 <p>For more information on the Chinese Language Elective Programme at Sec
-Level (MOE), click <strong><a href="https://www.dunmanhigh.moe.edu.sg/files/BSP-Infosheet.pdf" class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-underline text-strikethrough-none" rel="noopener" target="_blank">HERE</a></strong> .</p>
+Level (MOE), click <strong><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/clep-sec" class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-underline text-strikethrough-none" rel="noopener" target="_blank">HERE</a></strong> .</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/xinkongxia1.jpg">
@@ -462,7 +462,7 @@ Level (MOE), click <strong><a href="https://www.dunmanhigh.moe.edu.sg/files/BSP-
 <p></p>
 <p>获颁语特奖学金的学生每年可获得 1000新元津贴，学费亦可获豁免（每年上限为 $2,400），并享有海外浸濡活动津贴。课程为期两年（中三至中四），学生无需与新加坡政府签署服务合约。</p>
 <p></p>
-<p>如需更多有关中学华文语文特选课程的资料，请点击<strong><a href="https://www.dunmanhigh.moe.edu.sg/files/BSP-Infosheet.pdf" rel="noopener nofollow" target="_blank">此处</a></strong>。</p>
+<p>如需更多有关中学华文语文特选课程的资料，请点击<strong><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/clep-sec" rel="noopener nofollow" target="_blank">此处</a></strong>。</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLEP.jpg">
@@ -493,7 +493,15 @@ progress and performance at the end of Year 5 (JC1). Scholarship recipients
 are not required to enter into a bond with the Singapore Government.</p>
 <p></p>
 <p>For more information on the Chinese Language Elective Programme at JC
-Level (MOE), click HERE.</p>
+Level (MOE), click <strong><a href="https://www.dunmanhigh.moe.edu.sg/bicultural-studies-programme/h2cll-clep/" rel="noopener nofollow" target="_blank">HERE</a></strong>.</p>
+<p></p>
+<p>华文语文特选课程 (语特) (Chinese Language Elective Programme at JC Level，简称 CLEP-JC）是一门高中课程，旨在栽培精通双语的人才，并提高学生的华文水平和文学素养。</p>
+<p></p>
+<p>本课程为期两年，提供学生机会参与多姿多彩的学习活动，例如文学讲座系列、语特营、海外浸濡计划 (北京/上海/台北)、出版文艺刊物、实习计划和校本专题研究等。</p>
+<p></p>
+<p>参与语特课程的学生，在高中必须修读H2华文与文学 (H2 Chinese Language &amp; Literature)。杰出的本地公民学生可参加面试，获颁华文语文特选课程奖学金。奖学金为期2年，学生每年可获1000新元，同时豁免学费。</p>
+<p></p>
+<p>欲知更多有关高中语特的详情，请点击<strong><a href="https://www.dunmanhigh.moe.edu.sg/bicultural-studies-programme/h2cll-clep/" rel="noopener nofollow" target="_blank">这里</a></strong>。</p>
 <p></p>
 <h4><strong>4. Malay Special Programme (Year 1 - Year 4)</strong></h4>
 <p></p>
@@ -525,15 +533,6 @@ components. The components for written assessments include essay, grammar
 and comprehension. Students may use MSP as a relevant subject for the calculation
 of their Grade-Point-Average (GPA). At the end of 4 years, students will
 sit for the O-Level MSP Exam.</p>
-<p></p>
-<h4><strong>教育部高中华文语文特选课程 (高中语特)</strong></h4>
-<p>华文语文特选课程 (语特) (Chinese Language Elective Programme at JC Level，简称 CLEP-Jc）是一门高中课程，旨在栽培精通双语的人才，并提高学生的华文水平和文学素养。</p>
-<p></p>
-<p>本课程为期两年，提供学生机会参与多姿多彩的学习活动，例如文学讲座系列、语特营、海外浸濡计划 (北京/上海/台北)、出版文艺刊物、实习计划和校本专题研究等。</p>
-<p></p>
-<p>参与语特课程的学生，在高中必须修读H2华文与文学 (H2 Chinese Language &amp; Literature)。杰出的本地公民学生可参加面试，获颁华文语文特选课程奖学金。奖学金为期2年，学生每年可获1000新元，同时豁免学费。</p>
-<p></p>
-<p>欲知更多有关高中语特的详情，请点击这里。</p>
 <h3><strong>Delivery</strong></h3>
 <p>Our Mother Tongue Language teachers employ a plethora of pedagogies to
 improve students’ language abilities and cultural appreciation, nurturing
@@ -555,9 +554,6 @@ experimenting, immersion, etc.</p>
 </li>
 </ul>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLdebate1.jpg">
-</div>
 <p>In terms of teaching methods, teachers often use Socratic Questioning
 and Socratic Seminars to cultivate students’ critical thinking, encouraging
 students to voice their own perspectives, views and suggestions.</p>
@@ -605,14 +601,14 @@ and visual thinking tools, Technology-enhanced learning, etc.</p>
 <p>我们在华文教学及活动中采用多种创新且具互动性的教学策略，旨在营造以学生为中心的学习环境，提升学生的学习兴趣、理解深度、批判性思维能力与课堂参与度。这些策略突破了传统以讲授为主的教学方式，融入真实情境、协作学习、创意思维与科技工具，鼓励学生主动学习，培养他们的沟通、分析与解决问题的能力。常用的教学法包括：角色扮演与情境模拟,
 项目式学习, 合作学习, 探究式学习, 多模态表达与思维可视化, 技术辅助学习等。</p>
 <h3><strong>Assessment&nbsp;</strong><br><strong>评估与测试</strong></h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLSpeech.jpg">
-</div>
 <p>In our Chinese Language and Literature curriculum, a wide range of assessment
 methods and practice formats are used to provide a holistic understanding
 of students’ development in language proficiency, literary appreciation,
 critical thinking, and communication skills.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLdebate1.jpg">
+</div>
 <p></p>
 <p>Assessment is not limited to traditional written tests but includes both
 formative and performance-based evaluations that value students' learning
@@ -669,4 +665,3 @@ progress, and foster authentic use of the language in real-life contexts.</p>
 </ul>
 <p></p>
 <p>这些多元评估方式能更有效地激发学生的学习动机，帮助老师全面掌握学生的学习状态，并鼓励学生在真实语境中运用所学，达致“学以致用”的教学目标。</p>
-<p>Assessment is an i</p>
