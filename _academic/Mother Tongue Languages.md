@@ -527,7 +527,6 @@ of their Grade-Point-Average (GPA). At the end of 4 years, students will
 sit for the O-Level MSP Exam.</p>
 <p></p>
 <h4><strong>教育部高中华文语文特选课程 (高中语特)</strong></h4>
-<p></p>
 <p>华文语文特选课程 (语特) (Chinese Language Elective Programme at JC Level，简称 CLEP-Jc）是一门高中课程，旨在栽培精通双语的人才，并提高学生的华文水平和文学素养。</p>
 <p></p>
 <p>本课程为期两年，提供学生机会参与多姿多彩的学习活动，例如文学讲座系列、语特营、海外浸濡计划 (北京/上海/台北)、出版文艺刊物、实习计划和校本专题研究等。</p>
