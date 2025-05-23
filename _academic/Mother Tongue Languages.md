@@ -493,7 +493,7 @@ progress and performance at the end of Year 5 (JC1). Scholarship recipients
 are not required to enter into a bond with the Singapore Government.</p>
 <p></p>
 <p>For more information on the Chinese Language Elective Programme at JC
-Level (MOE), click <strong><a href="https://www.dunmanhigh.moe.edu.sg/bicultural-studies-programme/h2cll-clep/" rel="noopener nofollow" target="_blank">HERE</a></strong>.</p>
+Level (MOE), click <strong><a href="/bicultural-studies-programme/h2cll-clep/" rel="noopener nofollow" target="_blank">HERE</a></strong>.</p>
 <p></p>
 <p>华文语文特选课程 (语特) (Chinese Language Elective Programme at JC Level，简称 CLEP-JC）是一门高中课程，旨在栽培精通双语的人才，并提高学生的华文水平和文学素养。</p>
 <p></p>
@@ -501,7 +501,7 @@ Level (MOE), click <strong><a href="https://www.dunmanhigh.moe.edu.sg/bicultural
 <p></p>
 <p>参与语特课程的学生，在高中必须修读H2华文与文学 (H2 Chinese Language &amp; Literature)。杰出的本地公民学生可参加面试，获颁华文语文特选课程奖学金。奖学金为期2年，学生每年可获1000新元，同时豁免学费。</p>
 <p></p>
-<p>欲知更多有关高中语特的详情，请点击<strong><a href="https://www.dunmanhigh.moe.edu.sg/bicultural-studies-programme/h2cll-clep/" rel="noopener nofollow" target="_blank">这里</a></strong>。</p>
+<p>欲知更多有关高中语特的详情，请点击<strong><a href="/bicultural-studies-programme/h2cll-clep/" rel="noopener nofollow" target="_blank">这里</a></strong>。</p>
 <p></p>
 <h4><strong>4. Malay Special Programme (Year 1 - Year 4)</strong></h4>
 <p></p>
