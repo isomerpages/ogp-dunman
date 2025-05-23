@@ -4,9 +4,11 @@ permalink: /academic/dunman-high-programme/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/academic%20programmes.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/students_JH.jpg">
 </div>
+<p></p>
 <p>In&nbsp;Dunman&nbsp;High School, we view character and cognitive development
 as fundamental to the holistic education of our&nbsp;students.</p>
 <p>We seek to equip every Dunmanian with the&nbsp;disposition&nbsp;and competencies
