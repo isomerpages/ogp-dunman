@@ -4,7 +4,7 @@ permalink: /student-development/physical-education/
 description: ""
 variant: tiptap
 ---
-<p>The<strong> Physical Education (PE) Department</strong> aims to develop
+<p>The<strong> </strong>Physical Education (PE) Department aims to develop
 the physical, social, and emotional aspects of every student through a
 diverse range of physical activities and programmes. The curriculum equips
 students with the skills, knowledge, and positive attitudes necessary for
