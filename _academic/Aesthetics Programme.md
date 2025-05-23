@@ -33,7 +33,7 @@ Elective Programme (SH) and H2 Art at Senior High.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Art &amp; Art Special Programme (ACP)</p>
+<p>Art &amp; Art Special Programme (ASP)</p>
 </li>
 <li>
 <p>H2 Art</p>
