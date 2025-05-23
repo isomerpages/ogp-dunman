@@ -9,16 +9,15 @@ Mother Tongue Language programmes that intrinsically motivate and inspire
 Dunmanians to use and enjoy the Mother Tongue Languages. Our experienced
 team of teachers has designed a variety of programmes for the students
 to choose from according to their interests.</p>
-<p></p>
 <p>在致力于为学生提供优质多元课程、并寓乐于教的理念的指引下，在强大的师资力量的支持下，我们为学生精心设计了丰富多元的母语课程，供学生根据自己的兴趣爱好灵活选择。</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL11.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTLtrip1.jpg">
 </div>
 <p></p>
 <h3><strong>Curriculum</strong></h3>
-<h4><strong>Subjects Offered by MTL Department </strong><br>母语部所提供的科目</h4>
+<h4><strong>Subjects Offered by MTL Department </strong><br><strong>母语部所提供的科目</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -106,9 +105,6 @@ to choose from according to their interests.</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTLtrip1.jpg">
-</div>
 <h4><strong>Special Programmes Offered by MTL Department</strong><br><strong>母语部所提供的特别课程</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
