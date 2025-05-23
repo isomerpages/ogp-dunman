@@ -10,9 +10,9 @@ sections:
       background: /images/homepage_slides.gif
       variant: center
       key_highlights:
-        - title: 2024 GCE A-Level Results Release | A 水准考试成绩放榜
+        - title: e-Open House | 线上校园开放日
           description: CLICK HERE TO VIEW
-          url: https://sites.google.com/dhs.edu.sg/dunman-high-sch-senior-high
+          url: https://dhsopenhouse.com/
   - textcards:
       title: 2025 Direct School Admission (DSA)
       id: textcards
