@@ -4,8 +4,8 @@ permalink: /academic/overview/
 description: ""
 variant: tiptap
 ---
-<p>The Academic Programme is delivered through our 4-year Junior High Academy
-and 2-year Senior High Academy.</p>
+<p>The Academic Programme is delivered through our 4-year Junior High and
+2-year Senior High Academy.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage/Junior-High-Sec.png">
 </div>
