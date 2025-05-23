@@ -4,135 +4,82 @@ permalink: /academic/bicultural-studies-programme/english/
 description: ""
 variant: tiptap
 ---
+<p>The English Language Department at Dunman High School is dedicated to
+nurturing students who are proficient and confident users of the English
+language, in alignment with the objectives of Singapore's Ministry of Education
+(MOE) English Language Syllabus 2020. Our comprehensive four-year programme
+is designed to progressively develop critical and creative thinking alongside
+essential language and communication skills, ensuring students are well-prepared
+for the demands of the 21st Century while being immersed in a variety of
+learning experiences.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage/masthead-academic-english.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JH_EL.png">
 </div>
-<h3><strong>Curriculum 课程内容</strong></h3>
-<p>The English Programme comprises a range of curricula that aim to develop
-in Dunmanians critical and creative thinking alongside essential language
-and communication skills. Capitalising on the 6 years of education our
-students have with us, we offer a spiral curriculum so that the students
-can build on the skills and content they have learnt previously.</p>
-<p>At Junior High, the English Department offers a comprehensive programme
-which enlivens the learning of the English Language through integrating
-aspects of linguistics, literature, media studies and social studies. Students
-who have a passion for Literature offer Literature in English in Years
-3 and 4. At Senior High, students are further challenged to think critically
-about current affairs and issues of global and local significance in the
-study of General Paper through in-depth analysis and evaluation of wide-ranging
-topics. ‘A’ Level Literature in English, and English Language and Linguistics
-allow students to explore more closely the intricacies of the English Language
-so as to heighten their sensitivity to the contextual use of the language.</p>
-<p>The following subjects are offered by the English Department:</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Subjects Offered</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Junior High</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Senior High</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Language Arts (Year 1 to Year 4)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>General Paper (H1)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Literature in English (offered as a Humanities option in Year 3 to Year
-4)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Literature in English (H1, H2 and H3)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language and Linguistics (H2)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>英文部的课程，主要培养德明学生的批判性和创意思维以及语文沟通技能。六年的综合课程中，我们采用螺旋式的教学法，让学生在已掌握的知识和技能的基础上继续学习，不断进步。</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>科目</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>初中部</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>高中部</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>英文文艺(中一到中四)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>理解与写作 (H1)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>英文文学（中三、中四的人文选课之一）</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>英文文学 (H1, H2 和 H3)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>英文与文学 (H2)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3><strong>Pedagogy 教学法</strong></h3>
+<h3><strong>Curriculum</strong></h3>
+<p>Today, many changing socio-economic factors make proficiency in English
+and the development of 21st Century competencies even more necessary for
+our students. Globally, the increasingly competitive international environment
+calls for an even greater need for linguistic and communicative competence,
+adaptability and flexibility. Our programme ensures that students experience
+a coherent and comprehensive language education that builds upon prior
+knowledge and skills. By emphasizing critical thinking, cultural awareness,
+and effective communication, we prepare students to excel academically
+and thrive in an increasingly interconnected world.</p>
+<h3><strong>Content</strong></h3>
+<p>Taking reference from the MOE EL Syllabus 2020, we seek to develop students
+as <strong>empathetic communicators, discerning readers, and creative inquirers</strong>.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JH_EL_table1.png">
+</div>
+<h4><strong>English Language</strong></h4>
+<p>At Dunman High School, our English programme is designed with these key
+competencies in mind. Through oral presentations, engaging discussions,
+Socratic seminars and analysis of multi-modal texts, we aim to equip our
+students with the emerging 21st Century competencies of Critical, Adaptive
+and Inventive Thinking, Communication, Collaboration and Information Skills
+and Civic, Global and Cross-Cultural Literacy.</p>
+<p></p>
+<h4><strong>Literature in English</strong></h4>
+<p>Literature in English is offered to all students at the lower seconday
+level. The study of Literature raises awareness of the range of perspectives
+that human beings - separated by time, space and culture - are capable
+of developing. This increased awareness promotes empathy and global awareness.
+Students become cognisant of and reassess their own values, beliefs and
+biases through the study of poetry, prose and plays.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JH_EL_Books.jpg">
+</div>
+<p>The habit of close reading promotes deep and heightened sensitivity towards
+language, helping students to appreciate the nuances and layers of meaning
+in texts around them. Students develop metacognitive habits of mind as
+they constantly pay attention to the impact of language on thoughts and
+feelings, and are sensitive to the places in a text that call for deeper
+reflection and processing. Their minds are trained to acknowledge and consider
+multiple perspectives, even as they learn to convince others of their interpretations.
+At the same time, students develop a greater acceptance for ambiguity and
+open-endedness.</p>
+<p></p>
+<p>Aligned to MOE’s Literature in English syllabus, our department also strive
+to develop Dunmanians into <strong>Empathetic and Global Thinkers, Critical Readers, Creative Meaning-makers, and Convincing Communicators</strong>.
+<br>
+</p>
+<p>In Years 3 and 4, students with a passion of Literature may opt to study
+it at a higher level as one of their Humanities subject. Literature at
+upper secondary aims to fosters students’ appreciation for the richness
+and diversity of literary texts. Through the exploration of themes, characters,
+and contexts, students develop empathy, cultural awareness, and a deeper
+understanding of the human condition. Deeper engagement with texts also
+cultivates critical and creative thinking, as students analyze a broader
+range of texts and articulate their interpretations effectively. These
+skills empower them to become thoughtful and articulate individuals who
+are prepared to navigate and contribute meaningfully to the world around
+them.</p>
+<h3><strong>Delivery</strong></h3>
+<p></p>
+<h4><strong>Literature in English</strong></h4>
 <p>In Dunman High, the teachers in the English Department infuse a variety
 of teaching pedagogies into the curriculum, allowing students to learn
 and acquire critical thinking skills through various platforms. In order
@@ -140,64 +87,60 @@ to enhance our students’ ability to fluently and effectively in Standard
 English, we provide them with opportunities to understand how language
 changes according to purpose, audience, context and culture, and apply
 this knowledge in speech and writing in both formal and informal situations.</p>
-<p>英文部门的老师在教学中融入各种教学法，通过多种平台让学生学习并运用批判性思维技能。为了促进学生流利及有效使用标准英语，我们会为学生提供各种机会，以让他们了解语文如何因目的、对象、语境及文化而改变，并在正式和非正式的场合进行演讲和写作活动。</p>
-<p>The English Programme is generally based on the Understanding by Design
-(UbD) framework, a planning process and structure to guide curriculum,
-instruction and assessment, developed by Grant Wiggins and Jay McTighe.
-Students are encouraged to make meaning of ‘big ideas’ and transfer their
-learning to new and different contexts. Lessons are designed to provide
-numerous opportunities for students to explain, interpret, apply, shift
-perspective, empathise and self-assess when interacting with a variety
-of texts, both print and non-print.</p>
-<p>Guided by the UbD framework, teachers employ a diverse range of methodologies
-to cater to the different learning needs of our students. One such strategy
-is Literary Circles where small groups of students gather to discuss a
-given text (print or non-print) in depth. Literary Circles allow students
-to engage in critical thinking and reflection as they read, respond to
-and discuss the texts, and they gain a deeper understanding of the text
-through structured discussions and extended written and artistic responses.
-In addition to the teacher’s facilitation and guidance via the use of essential
-questions, the students’ responses are also enriched by their peers’ insights
-and questions.</p>
-<p>Socratic Questioning and Socratic Seminars are commonly used in lessons
-to develop critical thinking among students. Through Socratic Questioning,
-a system of disciplined questioning, students, especially at the upper
-levels, are invited to explore complex ideas, analyse issues and problems,
-and uncover assumptions. In Socratic Seminars, students engage in a rigorous
-and thoughtful dialogue to gain a deeper understanding of complex ideas
-in different texts. These also encourage students to engage in meta-cognitive
-thinking and help them to develop a personal voice.</p>
-<p>Teachers also use Richard Paul’s Wheel of Reasoning to guide students
-in their thought process and reasoning in a logical manner. Through eight
-different elements of productive thinking, students learn to consider questions,
-issues and perspectives carefully and meaningfully. Students will practise
-making inferences, weighing evidence, recognising different points of views,
-and other forms of logical reasoning as they work through the given task
-– skills that are crucial in the different subjects under the English Department.</p>
-<p>To emphasise the relevance of the various English subjects, teachers endeavour
-to use authentic material in the lessons. Through authentic texts such
-as speeches, advertisements and newspapers articles, students not only
-become more sensitised to the subtle nuances of language use, they also
-appreciate better the relevance of English Language to their lives. At
-the upper levels, lessons focus more on current affairs and this helps
-them to become more informed of the issues that face Singapore and the
-world, and broaden their global outlook.</p>
-<p>英文的课程、教学以及评估以重理解的课程设计为理念和框架。课程鼓励学生诠释主题，并举一反三，应用所学。课堂提供许多机会，让学生在接触各种文体时理解文本、领悟内容、运用所学、学习改变观点、运用同理心以及自我评估。</p>
-<p>在重理解的课程设计框架中，老师运用多种教学法来配合学生不同的学习需求。其中一种教学方式，就是让学生组成阅读分享小组，通过小组讨论深入探讨文献。阅读分享小组让学生在阅读、赏析和讨论文献时进行批判性思考及反思。学生也通过有组织的讨论和各种表述对文献有更深一层的理解。老师通过提出有针对性的问题作为引导，学生也能从其他同学的意见与提问中获益。</p>
-<p>课堂上常使用苏格拉底提问法和苏格拉底研讨会来培养学生批判性思考的能力。通过具系统性的苏格拉底提问法，高年级学生能够更好地探讨较复杂的主题，分析各种课题与文体，以及提出更多假设。学生通过苏格拉底研讨会进行深具启发性的对话，以便更深入了解不同文本的要点。这也能鼓励学生思考自己的想法，帮助他们形成自己的意见。</p>
-<p>老师也使用保罗思维模式来引导学生进行逻辑性思考。通过有效思考的八个元素，学生学会仔细和有意义地思考问题、课题及观点。通过活动，学生也练习提出推论、评估答案、辨识不同角度的观点以及其他逻辑理论等技能，而这些技能是各个英文学科的主要技能。</p>
-<p>为了强调英文各科目的实用性，老师们尽可能选用最真实的教材。通过演讲辞、广告以及新闻篇章，学生不但能提升语感，也能更好地体会英文在生活中的实用性。高年级的课堂主要着重于时事新闻，以帮助学生了解新加坡及全球所面对的问题，以拓展学生的视野。</p>
-<h3><strong>Assessment&nbsp;评估与测试</strong></h3>
-<p>In Dunman High, we employ a variety of methods to assess the English language
-skills of the students. These skills encompass reading, writing, speaking,
-listening and visual literacy. We also place an emphasis on multimodal
-texts to align with current trends and reading habits of the young today.
-A high premium is placed on crafting effective methods of assessment, as
-this is an important complement to a rigorous language curriculum. The
-observations made from assessing our students then enable our teachers
-to refine and adapt the pedagogy to better cater to our students’ learning
-needs.</p>
-<p>通过进行形成性及总结性评估等各种评估方式，评估学生使用语文的能力，以及对教材内容的了解。由于评估是教学的核心部分，其主要目的是在于帮助学生学习，因此老师们通过学生在各种练习中的表现来调整教学方式，以应付学生的需求。</p>
+<p></p>
+<p>Guided by the EL Syllabus three foci of <strong>multiliteracies, metacognition and inquiry</strong> through
+dialogue, students engage with authentic texts, group discussions, close
+reading and analysis, presentations, and Socratic seminars to develop and
+enhance their receptive and productive language skills. Teachers also use <strong>Richard Paul’s Wheel of Reasoning</strong> to
+guide students in their thought process and reasoning in a logical manner.
+Through eight different elements of productive thinking, students learn
+to consider questions, issues and perspectives carefully and meaningfully.
+Students will practise making inferences, weighing evidence, recognising
+different points of views, and other forms of logical reasoning as they
+work through the given tasks. These learning experiences allow students
+to consider questions, issues and perspectives carefully and meaningfully.</p>
+<p></p>
+<p>At Upper Secondary levels, there is also an emphasis on civic and global
+awareness. Students are invited to explore complex ideas, analyse issues
+and problems, and uncover assumptions. In Socratic Seminars, students engage
+in a rigorous and thoughtful dialogue to gain a deeper understanding of
+complex ideas in different texts. These also encourage students to engage
+in meta-cognitive thinking and help them to develop a personal voice that
+is required for Senior High.</p>
+<p></p>
+<h4><strong>Literature in English</strong></h4>
+<p>At Dunman High School, the study of <strong>Literature</strong> in English
+is an immersive and dynamic experience that nurtures critical thinking,
+creativity, and empathy. Through role play, students step into the shoes
+of literary characters, deepening their understanding of different perspectives
+and emotions. They are exposed to a diverse range of genres and texts,
+from local, Asian, canonic texts to poetry and drama, broadening their
+appreciation of storytelling across cultures and time periods. Exposure
+to film further enrich their learning, allowing them to analyze adaptations
+and visual storytelling techniques.</p>
+<p></p>
+<p>Research projects and creative assignments, such as scriptwriting, storytelling,
+set and diorama design and multimedia presentations, encourage students
+to engage deeply with texts and express their interpretations in innovative
+ways. By fostering a love for literature and honing analytical skills,
+our programme equips students with the ability to think critically, communicate
+effectively, and appreciate the power of language in shaping the world.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JH_EL_Lib.jpg">
+</div>
+<h3><strong>Assessment&nbsp;</strong></h3>
+<p>In Dunman High, we employ a variety of methods to assess the English Language
+and Literature skills of the students. These skills encompass reading,
+writing, speaking, listening and visual literacy. We also place an emphasis
+on multimodal texts to align with current trends and reading habits of
+the young today. A high premium is placed on crafting effective methods
+of assessment, as this is an important complement to a rigorous language
+curriculum. The observations made from assessing our students then enable
+our teachers to refine and adapt the pedagogy to better cater to our students’
+learning needs.</p>
+<p></p>
 <p>Assessment tasks as part of formative assessment are carried out regularly
 so that teachers are able to give students timely customised feedback and
 guidance that they could work on in order to improve. At the lower secondary
@@ -206,13 +149,19 @@ good writing practices. Other formative assessment tasks include reflections
 and journals, role-plays, research projects and oral presentations, where
 students apply the language skills and content that they have learnt. Teachers
 also provide opportunities for students to work in groups to enhance their
-communication and collaboration skills.</p>
-<p>Summative assessment emphasises knowledge acquisition and reproduction
-in a time-trial environment. At Junior High, students are assessed on their
-listening, speaking, viewing and writing skills and content during the
-Common Tests and End-of-Year Examinations. At Senior High, the Common Test,
-the Mid-Year Examinations, the Promotional and the Preliminary Examinations
-are aligned to the structure and requirements of the ‘A’ Level Examinations
-in order to ensure that students have the requisite skills and content.</p>
-<p>形成性评估之一 — 平日作业，能够及时给予学生反馈与指导，帮助学生改进。初中阶段，学生通过有步骤地写作，以形成良好的写作方式。其他形成性评估包括自我反思、日记、角色扮演、专题作业和口头呈现，都是学生运用所学习的语文技能和知识的方式。老师也提供机会，让学生通过小组活动来加强他们的表达与协作能力。</p>
-<p>总结性评估考核学生对知识的掌握程度。初中阶段，学校通过统一测验及年终考试来评估学生的听、说、读、写的技巧及课程内容。到了高中，统一测验、年中考试、年终考试、毕业考试都以“A”水准考试的架构和要求为准，以确保学生已掌握相关的技能和课程内容。</p>
+communication and collaboration skills, giving them a chance to produce
+and receive peer feedback, and reflect on their own work.</p>
+<p></p>
+<p>Summative assessment at the end of the year will focus on written skills,
+allowing students to demonstrate the skills that they have acquired over
+the year. The components tested include grammar editing, situational writing,
+essays, reading comprehension, analysis of visual texts, and personal responses
+to texts. These assessment modes will ensure that students are able to
+showcase their proficiency in various aspects of the English language,
+including clarity of expression, coherence in argumentation, and depth
+of analysis.</p>
+<p></p>
+<p>By incorporating a balanced mix of assessments, our approach ensures that
+students not only excel in written examinations but also gain confidence
+in articulating their ideas effectively, preparing them for future academic
+and real-world communication challenges.</p>

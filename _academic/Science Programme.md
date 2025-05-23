@@ -20,16 +20,32 @@ For students entering DHS via the Joint Admission Exercise, the Senior
 High Science programme is designed to integrate them smoothly with IP students,
 ensuring continuity and coherence in learning.</p>
 <p></p>
-<p>In line with Dunman High School’s vision to nurture “Role Models of Learning,
-Leaders of Honour, and Pillars of Society”, the Science Programme aims
-to cultivate all Dunmanians with a scientific mind and attitude, enabling
-them to be adept citizens who care for the environment and contribute effectively
-in a technologically-driven world.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Forensic_Science___Fingerprint.jpg">
 </div>
 <h3><strong>Curriculum</strong></h3>
+<p>The DHS Science Programme enables students to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>develop an interest in matters of scientific importance</p>
+</li>
+<li>
+<p>develop skills and attitudes in the study and practice of science (Demonstrating
+Ways of Thinking &amp; Doing in Science)&nbsp;</p>
+</li>
+<li>
+<p>be able to recognise the usefulness and limitations of scientific methods
+(Understanding the Nature of Scientific knowledge)</p>
+</li>
+<li>
+<p>appreciate scientific applications in various disciplines and in everyday
+life (Relating Science, Technology, Society &amp; Environment)&nbsp;</p>
+</li>
+<li>
+<p>develop 21st Century Competencies, with focus on Critical Thinking, Adaptive
+Thinking, Inventive Thinking, Communication and Civic Literacy&nbsp;&nbsp;</p>
+</li>
+</ul>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -67,7 +83,7 @@ challenging themselves with enriched content and greater conceptual depth.</p>
 <p>Senior High Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aligned to A level curriculum, students pursue Science subjects, <strong>Biology, Chemistry </strong>and <strong>Physics</strong> at
+<p>Aligned to the A level curriculum, students pursue Science subjects, <strong>Biology, Chemistry </strong>and <strong>Physics</strong> at
 the different levels (H1, H2 or H3) depending on their interests and abilities
 and are offered to take the Singapore-Cambridge General Certificate of
 Education Advanced Level examinations. The study of Sciences at Senior
@@ -82,28 +98,7 @@ them to apply their knowledge in an ethical way.</p>
 </tr>
 </tbody>
 </table>
-<p>The DHS Science Programme enables students to:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>develop an interest in matters of scientific importance</p>
-</li>
-<li>
-<p>develop skills and attitudes in the study and practice of science (Demonstrating
-Ways of Thinking &amp; Doing in Science)&nbsp;</p>
-</li>
-<li>
-<p>be able to recognise the usefulness and limitations of scientific methods
-(Understanding the Nature of Scientific knowledge)</p>
-</li>
-<li>
-<p>appreciate scientific applications in various disciplines and in everyday
-life (Relating Science, Technology, Society &amp; Environment)&nbsp;</p>
-</li>
-<li>
-<p>develop 21st Century Competencies, with focus on Critical Thinking, Adaptive
-Thinking, Inventive Thinking, Communication and Civic Literacy&nbsp;&nbsp;</p>
-</li>
-</ul>
+<p></p>
 <h3><strong>Content</strong></h3>
 <p>Beyond the Science Programme, our school offers differentiated enrichment
 to cater to diverse learning needs and interests. At the <strong>foundational level</strong>,
@@ -141,20 +136,14 @@ and real-world problem-solving.</p>
 <p>For example, Year 1 students design and build models to direct sunlight
 effectively into greenhouses as part of the Farming on Mars project. Year
 3 Biology students plan and conduct their own investigations to explore
-enzyme activity under varying conditions. In another instance, students
-use protein-folding origami activities to visualise complex molecular structures,
-discovering scientific concepts through guided exploration. Models and
-simulations are also used to reinforce abstract ideas, making science more
-tangible and relatable.</p>
+enzyme activity under varying conditions. Through structured inquiry, students
+systematically develop essential science process skills — such as investigating
+how temperature and concentration affect reaction rates in Chemistry, or
+performing titrations to determine vitamin C content in food samples.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Periodic_Table.png">
 </div>
-<p>Through structured inquiry, students systematically develop essential
-science process skills — such as investigating how temperature and concentration
-affect reaction rates in Chemistry, or performing titrations to determine
-vitamin C content in food samples.</p>
-<p></p>
 <p>Beyond experimentation, students engage in case studies, article analyses,
 and discussions of real-world issues — including the creation of GMOs and
 controversial environmental topics — where they are encouraged to reflect
@@ -200,10 +189,10 @@ address both scientific and practical challenges.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/JH_Science_Crane.jpg">
 </div>
-<p>Technology is seamlessly integrated into assessment practices through
-the use of Personal Learning Devices (PLDs), enabling students to complete
-online quizzes and present their projects digitally. In addition, students
-are encouraged to reflect on their growth in both disciplinary and affective
-domains over time. They engage in self-evaluation and benefit from constructive
-peer feedback, fostering a deeper awareness of their learning journey.</p>
+<p>Technology is seamlessly integrated into assessment practices enabling
+students to complete online quizzes and present their projects digitally.
+In addition, students are encouraged to reflect on their growth in both
+disciplinary and affective domains over time. They engage in self-evaluation
+and benefit from constructive peer feedback, fostering a deeper awareness
+of their learning journey.</p>
 <p></p>
