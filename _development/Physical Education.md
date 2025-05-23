@@ -62,8 +62,8 @@ Softball, Floorball, etc.</p>
 Learning Space (SLS).</p>
 </li>
 <li>
-<p>Learning through Movement: Values, collaboration, and reflective learning
-via gameplay.</p>
+<p>Learning through Movement: Fostering values, collaboration, and reflective
+learning via gameplay.</p>
 </li>
 </ul>
 <h3><strong>Content</strong></h3>
