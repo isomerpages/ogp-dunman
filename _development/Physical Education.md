@@ -4,7 +4,7 @@ permalink: /student-development/physical-education/
 description: ""
 variant: tiptap
 ---
-<p>The<strong> Physical Education (PE) Department</strong> aims to develop
+<p>The<strong> </strong>Physical Education (PE) Department aims to develop
 the physical, social, and emotional aspects of every student through a
 diverse range of physical activities and programmes. The curriculum equips
 students with the skills, knowledge, and positive attitudes necessary for
@@ -62,8 +62,8 @@ Softball, Floorball, etc.</p>
 Learning Space (SLS).</p>
 </li>
 <li>
-<p>Learning through Movement: Values, collaboration, and reflective learning
-via gameplay.</p>
+<p>Learning through Movement: Fostering values, collaboration, and reflective
+learning via gameplay.</p>
 </li>
 </ul>
 <h3><strong>Content</strong></h3>
