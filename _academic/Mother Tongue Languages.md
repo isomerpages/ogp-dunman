@@ -26,8 +26,7 @@ to choose from according to their interests.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject/科目</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Junior High 初中部</strong>
@@ -117,8 +116,7 @@ to choose from according to their interests.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject/科目</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Junior High 初中部</strong>
