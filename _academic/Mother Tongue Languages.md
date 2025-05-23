@@ -13,9 +13,8 @@ to choose from according to their interests.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTLtrip1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLSpeech.jpg">
 </div>
-<p></p>
 <h3><strong>Curriculum</strong></h3>
 <h4><strong>Subjects Offered by MTL Department </strong><br><strong>母语部所提供的科目</strong></h4>
 <table style="minWidth: 75px">
@@ -105,6 +104,9 @@ to choose from according to their interests.</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTLtrip1.jpg">
+</div>
 <h4><strong>Special Programmes Offered by MTL Department</strong><br><strong>母语部所提供的特别课程</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -387,7 +389,7 @@ onboard the non-scholarship programme will participate in the same learning
 activities as the BSP scholars. However, study immersion trip opportunities
 are subjected to availability of vacancies and selection criteria.</p>
 <p></p>
-<p>For more information on the BSP, click <strong><a href="https://www.dunmanhigh.moe.edu.sg/academic/bicultural-studies-programme/h2cll-clep/" class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-underline text-strikethrough-none" rel="noopener" target="_blank">HERE</a> (<a href="https://www.dunmanhigh.moe.edu.sg/academic/bicultural-studies-programme/h2cll-clep/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/bsp-sec</a>) </strong>.</p>
+<p>For more information on the BSP, please click <strong><a href="https://www.dunmanhigh.moe.edu.sg/academic/bicultural-studies-programme/h2cll-clep/" class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-underline text-strikethrough-none" rel="noopener" target="_blank">HERE</a></strong>.</p>
 <p></p>
 <p>教育部双文化课程 (Bicultural Studies Programme (MOE))，简称BSP，是一门为期四年（从中三到高二）的奖学金课程。课程旨在培养一批具有双语能力、能深入理解中国，同时具备与西方沟通能力的双文化人才。</p>
 <p></p>
@@ -439,7 +441,7 @@ will also be given. The duration of the programme is two years, from Year
 government.</p>
 <p></p>
 <p>For more information on the Chinese Language Elective Programme at Sec
-Level (MOE), click <strong><a href="https://www.dunmanhigh.moe.edu.sg/academic/bicultural-studies-programme/h2cll-clep/" class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-underline text-strikethrough-none" rel="noopener" target="_blank">HERE</a></strong> .</p>
+Level (MOE), click <strong><a href="https://www.dunmanhigh.moe.edu.sg/files/BSP-Infosheet.pdf" class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-underline text-strikethrough-none" rel="noopener" target="_blank">HERE</a></strong> .</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/xinkongxia1.jpg">
@@ -460,7 +462,7 @@ Level (MOE), click <strong><a href="https://www.dunmanhigh.moe.edu.sg/academic/b
 <p></p>
 <p>获颁语特奖学金的学生每年可获得 1000新元津贴，学费亦可获豁免（每年上限为 $2,400），并享有海外浸濡活动津贴。课程为期两年（中三至中四），学生无需与新加坡政府签署服务合约。</p>
 <p></p>
-<p>如需更多有关中学华文语文特选课程的资料，请点击此处。</p>
+<p>如需更多有关中学华文语文特选课程的资料，请点击<strong><a href="https://www.dunmanhigh.moe.edu.sg/files/BSP-Infosheet.pdf" rel="noopener nofollow" target="_blank">此处</a></strong>。</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLEP.jpg">
