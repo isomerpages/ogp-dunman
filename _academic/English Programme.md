@@ -1,6 +1,6 @@
 ---
-title: English Language
-permalink: /academic/bicultural-studies-programme/english/
+title: English Programme
+permalink: /academic/english/
 description: ""
 variant: tiptap
 ---

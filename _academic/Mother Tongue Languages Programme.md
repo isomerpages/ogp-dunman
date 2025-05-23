@@ -1,6 +1,6 @@
 ---
-title: Mother Tongue Languages
-permalink: /academic/bicultural-studies-programme/mtl/
+title: Mother Tongue Languages Programme
+permalink: /academic/mtl/
 description: ""
 variant: tiptap
 ---
