@@ -12,17 +12,14 @@ competitions, and take on leadership roles by organising science-related
 events for their juniors.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JHScience.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci_lab1.png">
 </div>
+<p></p>
 <p>These experiences empower students to apply their scientific understanding
 meaningfully, fostering a culture of inquiry, innovation, and collaboration.
 For students entering DHS via the Joint Admission Exercise, the Senior
 High Science programme is designed to integrate them smoothly with IP students,
 ensuring continuity and coherence in learning.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Forensic_Science___Fingerprint.jpg">
-</div>
 <h3><strong>Curriculum</strong></h3>
 <p>The DHS Science Programme enables students to:</p>
 <ul data-tight="true" class="tight">
@@ -128,9 +125,8 @@ Conference.</p>
 critical thinking and scientific literacy. An<strong> inquiry-based approach</strong> encourages
 students to engage in hands-on experiments, open-ended investigations,
 and real-world problem-solving.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dissection.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci_lab3.png">
 </div>
 <p></p>
 <p>For example, Year 1 students design and build models to direct sunlight
@@ -141,16 +137,13 @@ systematically develop essential science process skills — such as investigatin
 how temperature and concentration affect reaction rates in Chemistry, or
 performing titrations to determine vitamin C content in food samples.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Periodic_Table.png">
-</div>
 <p>Beyond experimentation, students engage in case studies, article analyses,
 and discussions of real-world issues — including the creation of GMOs and
 controversial environmental topics — where they are encouraged to reflect
 on the ethical and social implications of scientific advancements.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Collab_Work.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci_lab2.png">
 </div>
 <p>Technology enhances <strong>collaborative learning </strong>and<strong> peer critique</strong>,
 allowing students to share data, review one another’s work, exchange ideas,
@@ -159,15 +152,16 @@ technology, students develop digital literacy alongside scientific reasoning,
 fostering a learning environment where collaboration and critical evaluation
 are integral to scientific inquiry.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci_Use_of_ICT.jpg">
-</div>
 <p>To nurture 21st Century Competencies — such as critical and adaptive thinking,
 inventive problem-solving, and effective communication — students engage
 in creative, hands-on projects like the Rube Goldberg and crane machine
 challenges, where they apply scientific concepts to solve complex problems.
 They also participate in performance tasks such as presentations and debates,
 which further strengthen their ability to communicate and reason scientifically.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci_lab4.png">
+</div>
 <p></p>
 <p>These approaches, often applied in STEM-related contexts, ensure that
 students not only acquire scientific knowledge, but also cultivate the
@@ -178,7 +172,7 @@ insights into students’ understanding of concepts, mastery of skills, and
 overall learning progress — for both teachers and students.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Farming_on_Mars.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci_lab5.png">
 </div>
 <p>Beyond written tests and assignments, students demonstrate their learning
 through authentic performance tasks that mirror real-world applications.
