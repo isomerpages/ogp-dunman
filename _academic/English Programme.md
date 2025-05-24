@@ -16,11 +16,13 @@ language</p>
 and the development of 21st Century competencies even more necessary for
 our students. Globally, the increasingly competitive international environment
 calls for an even greater need for linguistic and communicative competence,
-adaptability and flexibility. Our programme ensures that students experience
-a coherent and comprehensive language education that builds upon prior
-knowledge and skills. By emphasising critical thinking, cultural awareness,
-and effective communication, we prepare students to excel academically
-and thrive in an increasingly interconnected world.</p>
+adaptability and flexibility.</p>
+<p></p>
+<p>Our programme ensures that students experience a coherent and comprehensive
+language education that builds upon prior knowledge and skills. By emphasising
+critical thinking, cultural awareness, and effective communication, we
+prepare students to excel academically and thrive in an increasingly interconnected
+world.</p>
 <p></p>
 <p>Our comprehensive programme is designed to progressively develop critical
 and creative thinking alongside essential language and communication skills,
@@ -49,6 +51,9 @@ of developing. This increased awareness promotes empathy and global awareness.
 Students become cognisant of and reassess their own values, beliefs and
 biases through the study of poetry, prose and plays.</p>
 <p></p>
+<p>Aligned to MOE’s Literature in English syllabus, our department also strive
+to develop Dunmanians into <strong>Empathetic and Global Thinkers, Critical Readers, Creative Meaning-makers, and Convincing Communicators</strong>.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/JH_EL_Books.jpg">
 </div>
@@ -60,10 +65,7 @@ feelings, and are sensitive to the places in a text that call for deeper
 reflection and processing. Their minds are trained to acknowledge and consider
 multiple perspectives, even as they learn to convince others of their interpretations.
 At the same time, students develop a greater acceptance for ambiguity and
-open-endedness.</p>
-<p></p>
-<p>Aligned to MOE’s Literature in English syllabus, our department also strive
-to develop Dunmanians into <strong>Empathetic and Global Thinkers, Critical Readers, Creative Meaning-makers, and Convincing Communicators</strong>.
+open-endedness.
 <br>
 </p>
 <p>In Years 3 and 4, students with a passion of Literature may opt to study
@@ -106,7 +108,7 @@ to other issues.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Area 2 </strong>
+<p><strong>Area 2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -226,7 +228,6 @@ experiences.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4><strong>H3 Literature in English</strong></h4>
 <p>This option is designed for students with exceptional ability and passion
 for Literature. It encourages deeper specialisation and advanced literary
@@ -283,7 +284,6 @@ effectively, and appreciate the power of language in shaping the world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/JH_EL_Lib.jpg">
 </div>
-<h4></h4>
 <h4><strong>H1 General Paper (GP)</strong></h4>
 <p>In DHS, we believe that <em>GP is Life</em>. The values, skills and dispositions
 that students develop in the course of studying GP are integral and closely
@@ -339,7 +339,10 @@ where words shape thought, and thought shapes the world.</p>
 the world around them.</p>
 <h3><strong>Assessment&nbsp;</strong></h3>
 <p>Both formative and summative assessment play critical roles in providing
-learner-centred and balanced assessment.</p>
+learner-centred and balanced assessment. Assessment tasks as part of formative
+assessment are carried out regularly so that teachers are able to give
+students timely customised feedback and guidance that they could work on
+in order to improve.</p>
 <p></p>
 <p>In Dunman High, we employ a variety of methods to assess the English Language
 and Literature skills of the students. These skills encompass reading,
@@ -351,16 +354,13 @@ curriculum. The observations made from assessing our students then enable
 our teachers to refine and adapt the pedagogy to better cater to our students’
 learning needs.</p>
 <p></p>
-<p>Assessment tasks as part of formative assessment are carried out regularly
-so that teachers are able to give students timely customised feedback and
-guidance that they could work on in order to improve. At Junior High, process
-writing is used to allow students to become accustomed to good writing
-practices. Other formative assessment tasks include reflections and journals,
-role-plays, research projects and oral presentations, where students apply
-the language skills and content that they have learnt. Teachers also provide
-opportunities for students to work in groups to enhance their communication
-and collaboration skills, giving them a chance to produce and receive peer
-feedback, and reflect on their own work.</p>
+<p>At Junior High, process writing is used to allow students to become accustomed
+to good writing practices. Other formative assessment tasks include reflections
+and journals, role-plays, research projects and oral presentations, where
+students apply the language skills and content that they have learnt. Teachers
+also provide opportunities for students to work in groups to enhance their
+communication and collaboration skills, giving them a chance to produce
+and receive peer feedback, and reflect on their own work.</p>
 <p></p>
 <p>At Senior High, Formative assessment is carried out regularly at different
 points in the term to assess students’ understanding and demonstration
