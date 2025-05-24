@@ -34,7 +34,8 @@ world for the&nbsp;better.</p>
 <br><strong>热爱生命与学习 </strong>
 <br>Students are always learning and striving to be their best.自强不息，好学不倦。</p>
 <p></p>
-<p><strong>Idealism&nbsp;具有崇高理想</strong>
+<p><strong>Idealism&nbsp;</strong>
+<br><strong>具有崇高理想</strong>
 <br>Students have the conviction to make a difference to the world.
 <br>致力于创造美好世界。</p>
 <p></p>
