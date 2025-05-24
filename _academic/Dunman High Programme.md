@@ -25,20 +25,22 @@ world for the&nbsp;better.</p>
 <p>秉持着儒家思想及德明的校训——诚、信、勇、忠，我们努力激发德明人对生活和学习的热情。我们希望每个德明人都拥有积极的公民意识，关怀他人，以服务民众为己任，并能够领导社群创造更美好的世界。</p>
 <p></p>
 <h4><strong>Dunmanian Outcomes </strong><br><strong>德明人的素养</strong></h4>
-<p><strong>Moral Integrity&nbsp;人格高尚</strong>
+<p><strong>Moral Integrity&nbsp;</strong>
+<br><strong>人格高尚</strong>
 <br>Students are guided by honesty, trustworthiness, moral courage and loyalty.
 <br>诚、信、勇、忠。</p>
 <p></p>
 <p><strong>Passion for Life and Learning</strong>&nbsp;
-<br>热爱生命与学习
+<br><strong>热爱生命与学习 </strong>
 <br>Students are always learning and striving to be their best.自强不息，好学不倦。</p>
 <p></p>
-<p><strong>Idealism&nbsp;具有崇高理想</strong>
+<p><strong>Idealism&nbsp;</strong>
+<br><strong>具有崇高理想</strong>
 <br>Students have the conviction to make a difference to the world.
 <br>致力于创造美好世界。</p>
 <p></p>
 <p><strong>21st Century Competencies</strong>
-<br>掌握21世纪生活技能
+<br><strong>掌握21世纪生活技能</strong> 
 <br>Student are proficient in critical and creative thinking, communication,
 collaboration and information skills.
 <br>具有批判性与创意思维，掌握沟通、协作与资讯科技技能。</p>
@@ -50,7 +52,7 @@ different cultures and navigate them with ease.
 <br>兼通双语，欣赏不同文化，并游刃其间。</p>
 <p></p>
 <p><strong>Active Citizenry</strong>
-<br>体现积极的公民意识
+<br><strong>体现积极的公民意识 </strong>
 <br>Students are global citizens rooted in Singapore who serve the community,
 both local and beyond.
 <br>心系新加坡，回馈社会，服务大众。</p>
