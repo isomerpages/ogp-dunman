@@ -200,7 +200,7 @@ of purpose, audience, context and culture.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Paper 1 &amp; 2</strong>
+<p><strong>Paper 1 </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
