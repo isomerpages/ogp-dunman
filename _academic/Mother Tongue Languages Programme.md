@@ -11,7 +11,6 @@ team of teachers has designed a variety of programmes for the students
 to choose from according to their interests.</p>
 <p>在致力于为学生提供优质多元课程、并寓乐于教的理念的指引下，在强大的师资力量的支持下，我们为学生精心设计了丰富多元的母语课程，供学生根据自己的兴趣爱好灵活选择。</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLSpeech.jpg">
 </div>
@@ -66,7 +65,7 @@ to choose from according to their interests.</p>
 <td rowspan="1" colspan="1">
 <p>H2/H3 Chinese Language &amp; Literature
 <br>(Compulsory for CLEP students)
-<br>H2/H3 华文与文学 (高中学生必修）</p>
+<br>H2/H3 华文与文学 (语特学生必修）</p>
 </td>
 </tr>
 <tr>
@@ -150,7 +149,7 @@ to choose from according to their interests.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese Language Elective Programme at JC Level
-<br>华文语文特选课程 - 高中</p>
+<br>华文语文特选课程 - 高中语特</p>
 </td>
 </tr>
 <tr>
@@ -318,7 +317,7 @@ pen-based writing and computer-based text input, and expose students to
 a wide variety of texts including literary texts and authentic texts, both
 prescribed and non-prescribed.</p>
 <p></p>
-<p>H2和H3华文与文学的课程目标遵循21世纪技能框架，让学生能够学习并掌握相关的技能，例如沟通、协作与资讯科技技能；公民意识、环球意识与跨文化沟通技能；批判与创意思维。课程由“三大主题（关系、变化和选择）”
+<p>H2和H3华文与文学的课程目标遵循21世纪技能框架，让学生能够学习并掌握相关的技能，例如沟通、协作与资讯科技技能；公民意识、环球意识与跨文化沟通技能以及批判与创意思维。课程由“三大主题（关系、变化和选择）”
 、“语文教学”和“文学教学”三个元素组成。教师设计丰富多元的综合性学习活动，通过分析真实语料和文学哲理篇章，鉴赏指定文学作品和课外文学作品，强化学生的语文和文学技能，让H2和H3华文与文学课程的学生达到课程目标。</p>
 <p></p>
 <h4><strong>3. H2 China Studies in Chinese </strong><br><strong>H2 中国通识</strong></h4>
@@ -404,7 +403,7 @@ are subjected to availability of vacancies and selection criteria.</p>
 <p></p>
 <p>除课堂学习外，学校亦会提供丰富的延伸学习机会，如海外浸濡学习、实地考察、校际论坛与专题讲座等，进一步提升学生的文化理解与思辨能力。</p>
 <p></p>
-<p>获颁语特奖学金的学生每年可获得 1,000新元津贴，学费亦可获豁免（每年上限为 $2,400），并享有海外浸濡活动津贴。此外，他们也将参与由教育部资助的8周中国或东南亚地区及2周西方国家的浸濡体验。根据教育部要求，双文化奖学金学生在高中阶段必须修读
+<p>获颁双文化奖学金的学生每年可获得 1,000新元津贴，学费亦可获豁免（每年上限为 $2,400），并享有海外浸濡活动津贴。此外，他们也将参与由教育部资助的8周中国或东南亚地区及2周西方国家的浸濡体验。根据教育部要求，双文化奖学金学生在高中阶段必须修读
 H2 中国通识（H2 China Studies in Chinese），作为GCE ‘A’ 水准考试的一个科目。</p>
 <p></p>
 <p>除了奖学金课程以外，我校也提供教育部双文化非奖学金课程（从中三到中四）让中二学生报名参加。非奖学金课程的学生仍有机会参与双文化学习营与研讨会等活动。浸濡活动方面，则须依学生人数情况而定。申请参加浸濡活动的学生也必须符合申请条件。</p>
@@ -426,7 +425,7 @@ better serve the needs of our nation.</p>
 organised by MOE. A one to two-day camp will be held locally during the
 June holidays of Secondary 3 with a focus on Post-Secondary Educational
 Institutions’ (PSEI) MTL Pathways and CL-related interests. A one to two-week
-overseas immersion programme will be organised towards the end of Year
+overseas immersion programme will be organised towards the end of Secondary
 3. Students will also participate in school-based activities and programmes
 such as literary lectures, Meet-the-Author sessions, enrichment workshops,
 project work competition etc.</p>
@@ -434,8 +433,8 @@ project work competition etc.</p>
 <p>Outstanding Singapore Citizens selected for the CLEP-Sec will receive
 an annual scholarship allowance of $1,000. School fees will also be covered,
 subject to an annual cap of $2,400. Subsidy for overseas immersion trip
-will also be given. The duration of the programme is two years, from Year
-3 to Year4. Recipients are not required to enter into a bond with the Singapore
+will also be given. The duration of the programme is two years, from Secondary
+3 to 4. Recipients are not required to enter into a bond with the Singapore
 government.</p>
 <p></p>
 <p>For more information on the Chinese Language Elective Programme at Sec
@@ -444,7 +443,7 @@ Level (MOE), click <strong><a href="https://www.moe.gov.sg/education-in-sg/our-p
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/xinkongxia1.jpg">
 </div>
-<p>中学华文特选课程（Chinese Language Elective Programme at Secondary Level，简称 CLEP-Sec）由新加坡教育部于2020年推行，旨在培养发掘有潜质的学生，帮他们在华文语言能力与文学素养方面达到更高水平，同时提升他们的双语能力，以更好地满足国家发展的需要。</p>
+<p>中学华文特选课程（Chinese Language Elective Programme at Secondary Level，简称 CLEP-Sec）由新加坡教育部于2020年推行，旨在培养发掘有潜质的学生，帮助他们在华文语言能力与文学素养方面达到更高水平，同时提升他们的双语能力，以更好地满足国家发展的需要。</p>
 <p></p>
 <p>修读语特的学生将共同参与由教育部主办的两项标志性活动。包括：</p>
 <ul data-tight="true" class="tight">
@@ -596,8 +595,7 @@ and problem-solving skills.</p>
 learning, Collaborative learning, Inquiry-based learning, Multimodal expression
 and visual thinking tools, Technology-enhanced learning, etc.</p>
 <p></p>
-<p>我们在华文教学及活动中采用多种创新且具互动性的教学策略，旨在营造以学生为中心的学习环境，提升学生的学习兴趣、理解深度、批判性思维能力与课堂参与度。这些策略突破了传统以讲授为主的教学方式，融入真实情境、协作学习、创意思维与科技工具，鼓励学生主动学习，培养他们的沟通、分析与解决问题的能力。常用的教学法包括：角色扮演与情境模拟,
-项目式学习, 合作学习, 探究式学习, 多模态表达与思维可视化, 技术辅助学习等。</p>
+<p>我们在华文教学及活动中采用多种创新且具互动性的教学策略，旨在营造以学生为中心的学习环境，提升学生的学习兴趣、理解深度、批判性思维能力与课堂参与度。这些策略突破了传统以讲授为主的教学方式，融入真实情境、协作学习、创意思维与科技工具，鼓励学生主动学习，培养他们的沟通、分析与解决问题的能力。常用的教学法包括：角色扮演与情境模拟、项目式学习、合作学习、探究式学习、多模态表达与思维可视化以及技术辅助学习等。</p>
 <h3><strong>Assessment&nbsp;</strong><br><strong>评估与测试</strong></h3>
 <p>In our Chinese Language and Literature curriculum, a wide range of assessment
 methods and practice formats are used to provide a holistic understanding
