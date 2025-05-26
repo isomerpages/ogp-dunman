@@ -84,14 +84,17 @@ them.</p>
 <p>At the A-level, General Paper (GP), English Language and Linguistics (ELL),
 and Literature in English cultivate intellectual curiosity, ethical awareness,
 and expressive confidence – core to the Desired Outcomes of Education and
-21CC. GP develops critical thinking, ethical reasoning, and persuasive
-expression through engagement with global and societal issues. ELL deepens
-students’ understanding of language in real-world contexts, fostering precision
-in analysis and sensitivity to linguistic diversity and change. Literature
+21CC.</p>
+<p></p>
+<p>GP develops critical thinking, ethical reasoning, and persuasive expression
+through engagement with global and societal issues. ELL deepens students’
+understanding of language in real-world contexts, fostering precision in
+analysis and sensitivity to linguistic diversity and change. Literature
 nurtures empathy and insight through the exploration of human experiences
-and worldviews. Together, these subjects prepare students to think critically,
-appreciate diverse perspectives, and navigate a complex world with clarity
-and confidence.</p>
+and worldviews.</p>
+<p></p>
+<p>Together, these subjects prepare students to think critically, appreciate
+diverse perspectives, and navigate a complex world with clarity and confidence.</p>
 <p></p>
 <h4><strong>H1 General Paper (GP)</strong></h4>
 <p>Our GP content comprises knowledge and skills in three integrated areas:</p>
