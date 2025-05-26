@@ -6,17 +6,17 @@ variant: tiptap
 ---
 <p>The English Language Department at Dunman High School is dedicated to
 nurturing students who are proficient and confident users of the English
-language</p>
+language.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/JH_EL.png">
 </div>
 <h3><strong>Curriculum</strong></h3>
 <p>Today, many changing socio-economic factors make proficiency in English
-and the development of 21st Century competencies even more necessary for
-our students. Globally, the increasingly competitive international environment
-calls for an even greater need for linguistic and communicative competence,
-adaptability and flexibility.</p>
+and the development of 21st Century Competencies (21CC) even more necessary
+for our students. Globally, the increasingly competitive international
+environment calls for an even greater need for linguistic and communicative
+competence, adaptability and flexibility.</p>
 <p></p>
 <p>Our programme ensures that students experience a coherent and comprehensive
 language education that builds upon prior knowledge and skills. By emphasising
@@ -81,6 +81,18 @@ are prepared to navigate and contribute meaningfully to the world around
 them.</p>
 <p></p>
 <h4><strong>Senior High English</strong></h4>
+<p>At the A-level, General Paper (GP), English Language and Linguistics (ELL),
+and Literature in English cultivate intellectual curiosity, ethical awareness,
+and expressive confidence – core to the Desired Outcomes of Education and
+21CC. GP develops critical thinking, ethical reasoning, and persuasive
+expression through engagement with global and societal issues. ELL deepens
+students’ understanding of language in real-world contexts, fostering precision
+in analysis and sensitivity to linguistic diversity and change. Literature
+nurtures empathy and insight through the exploration of human experiences
+and worldviews. Together, these subjects prepare students to think critically,
+appreciate diverse perspectives, and navigate a complex world with clarity
+and confidence.</p>
+<p></p>
 <h4><strong>H1 General Paper (GP)</strong></h4>
 <p>Our GP content comprises knowledge and skills in three integrated areas:</p>
 <table style="minWidth: 75px">
@@ -200,7 +212,7 @@ of purpose, audience, context and culture.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Paper 1 </strong>
+<p><strong>Paper 1</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -344,8 +356,8 @@ assessment are carried out regularly so that teachers are able to give
 students timely customised feedback and guidance that they could work on
 in order to improve.</p>
 <p></p>
-<p>In Dunman High, we employ a variety of methods to assess the English Language
-and Literature skills of the students. These skills encompass reading,
+<p>In Dunman High, we employ a variety of methods to assess the skills of
+the students required for our subjects. These skills encompass reading,
 writing, speaking, listening and visual literacy. We also place an emphasis
 on multimodal texts to align with current trends and reading habits of
 the young today. A high premium is placed on crafting effective methods
