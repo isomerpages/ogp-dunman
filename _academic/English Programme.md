@@ -377,7 +377,7 @@ also provide opportunities for students to work in groups to enhance their
 communication and collaboration skills, giving them a chance to produce
 and receive peer feedback, and reflect on their own work.</p>
 <p></p>
-<p>At Senior High, Formative assessment is carried out regularly at different
+<p>At Senior High, formative assessment is carried out regularly at different
 points in the term to assess students’ understanding and demonstration
 of skills in relation to set learning goals. Students are assessed on selected
 components in different ways. This assessment informs teaching and learning
