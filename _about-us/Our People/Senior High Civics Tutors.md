@@ -54,7 +54,7 @@ variant: tiptap
 <p>Low Chun Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Goh Wen Ling Gloria</p>
 </td>
 </tr>
 <tr>
@@ -98,7 +98,7 @@ variant: tiptap
 <p>Tan Chin Hui Alan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Michelle Neo Yu Xiu</p>
 </td>
 </tr>
 <tr>
@@ -109,7 +109,7 @@ variant: tiptap
 <p>Oliver Kwek Jian Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Goh Tiong Ann</p>
 </td>
 </tr>
 <tr>
@@ -153,7 +153,7 @@ variant: tiptap
 <p>Tiah Junkai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Norhaiza Bin Basir Ahmad</p>
 </td>
 </tr>
 <tr>
@@ -219,7 +219,7 @@ variant: tiptap
 <p>Tan Kang Hui Zachary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Law Whiston</p>
 </td>
 </tr>
 </tbody>
@@ -306,7 +306,7 @@ variant: tiptap
 <p>Amy Limei Chambers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deric Low</p>
+<p>Deric Low &amp; Mohammad Alfiean Bin Hisham</p>
 </td>
 </tr>
 <tr>
@@ -328,7 +328,7 @@ variant: tiptap
 <p>Lim Chee Kam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chin Mee Yan Esther</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
