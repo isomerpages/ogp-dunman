@@ -347,10 +347,10 @@ variant: tiptap
 <p>3 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Wai Ching</p>
+<p>Lim Lian Joo Jeremy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Lian Joo Jeremy</p>
+<p>Geraldine Joseph</p>
 </td>
 </tr>
 <tr>
@@ -415,7 +415,7 @@ variant: tiptap
 <p>Wee Liang Ee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ng Bing Yuan Wilson</p>
+<p>Au Chee Ping</p>
 </td>
 </tr>
 <tr>
