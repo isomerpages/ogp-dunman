@@ -32,7 +32,7 @@ variant: tiptap
 <p>Pear Siew Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Nurul Aitqah</p>
 </td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@ variant: tiptap
 <p>1 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sharilyn Wong</p>
+<p>Rina Kawamoto</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lai Jinkun</p>
@@ -84,10 +84,10 @@ variant: tiptap
 <p>1 Fortitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chew Bee Hong</p>
+<p>Tan Bee Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Ai Juan Eileen</p>
+<p>Tan Lee Hwee</p>
 </td>
 </tr>
 <tr>
@@ -208,7 +208,7 @@ variant: tiptap
 <p>Liang Qidi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Goh Lay Eng</p>
+<p>Goh Lay Eng Ariel</p>
 </td>
 </tr>
 <tr>
@@ -219,7 +219,7 @@ variant: tiptap
 <p>Leo June Kit</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chia Shu Hui</p>
+<p>Eugene Lee</p>
 </td>
 </tr>
 <tr>
@@ -347,10 +347,10 @@ variant: tiptap
 <p>3 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Wai Ching</p>
+<p>Lim Lian Joo Jeremy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Lian Joo Jeremy</p>
+<p>Geraldine Joseph</p>
 </td>
 </tr>
 <tr>
@@ -415,7 +415,7 @@ variant: tiptap
 <p>Wee Liang Ee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ng Bing Yuan Wilson</p>
+<p>Au Chee Ping</p>
 </td>
 </tr>
 <tr>
