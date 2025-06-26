@@ -79,6 +79,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ong Chin Meng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/English Language (Senior High)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Lim Pei Fang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -464,6 +472,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Citizenship Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Shi Shi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/VIA Programme</p>
 </td>
 </tr>
 <tr>
