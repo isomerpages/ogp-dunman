@@ -9,10 +9,6 @@ sections:
   - hero:
       background: /images/homepage_slides.gif
       variant: center
-      key_highlights:
-        - title: e-Open House | 线上校园开放日
-          description: CLICK HERE TO VIEW
-          url: https://dhsopenhouse.com/
   - textcards:
       title: 2025 Direct School Admission (DSA)
       id: textcards
