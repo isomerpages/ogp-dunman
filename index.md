@@ -10,13 +10,13 @@ sections:
       background: /images/homepage_slides.gif
       variant: center
       key_highlights:
-        - title: Join Us to Celebrate DHS70!
+        - title: Join Us to Commemorate DHS70!
           description: 七秩荣光，共续华章
           url: https://for.edu.sg/dhs-celebrates70
   - infopic:
       title: Campus Life
       subtitle: 校园新鲜事
-      description: Join us on Facebook & Instagram
+      description: Connect with Us on Facebook & Instagram
       button: MORE
       url: https://dhs.edu.sg/campus-life
       image: /images/campus_life2024.jpg
