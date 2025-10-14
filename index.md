@@ -11,7 +11,7 @@ sections:
       variant: center
       key_highlights:
         - title: Join Us to Celebrate DHS70!
-          description: 七秩德明，璀璨日新；薪火相传，风华永续
+          description: 七秩荣光，共续华章
           url: https://for.edu.sg/dhs-celebrates70
   - infopic:
       title: Campus Life
