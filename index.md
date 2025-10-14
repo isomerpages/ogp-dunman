@@ -9,19 +9,6 @@ sections:
   - hero:
       background: /images/homepage_slides.gif
       variant: center
-  - textcards:
-      title: 2025 Direct School Admission (DSA)
-      id: textcards
-      description: 直接收生计划
-      cards:
-        - title: Direct School Admission for Secondary Schools
-          description: DSA- SEC (中学)
-          linktext: MORE INFO
-          url: https://for.edu.sg/dhs-dsa25info
-        - title: Direct School Admission for Junior Colleges
-          description: DSA-JC (初级学院)
-          linktext: MORE INFO
-          url: https://for.edu.sg/dhs-dsa25jcinfo
   - infopic:
       title: Campus Life
       subtitle: 校园新鲜事
