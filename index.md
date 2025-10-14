@@ -9,6 +9,10 @@ sections:
   - hero:
       background: /images/homepage_slides.gif
       variant: center
+      key_highlights:
+        - title: Join Us to Celebrate DHS70!
+          description: 七秩荣光，共续华章
+          url: https://for.edu.sg/dhs-celebrates70
   - infopic:
       title: Campus Life
       subtitle: 校园新鲜事
