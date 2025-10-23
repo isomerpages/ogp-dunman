@@ -175,7 +175,7 @@ variant: tiptap
 <p>Chan Oi Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tee Chee Keong Matthew</p>
+<p>Tan Chee Keong Matthew</p>
 </td>
 </tr>
 <tr>
