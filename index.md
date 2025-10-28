@@ -14,6 +14,13 @@ sections:
           description: 七秩荣光，共续华章
           url: https://for.edu.sg/dhs-celebrates70
   - infopic:
+      title: Junior High Open House
+      subtitle: 校园开放日 (初中部) | 2025年11月22日
+      id: infopic
+      description: Catch the DHS experience — 22 Nov 2025
+      image: /images/20251122_Junior_High_Open_House_Poster.png
+      alt: Image alt text
+  - infopic:
       title: Campus Life
       subtitle: 校园新鲜事
       description: Connect with Us on Facebook & Instagram
