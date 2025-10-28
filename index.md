@@ -17,7 +17,7 @@ sections:
       title: Junior High Open House
       subtitle: 校园开放日 (初中部) | 2025年11月22日
       id: infopic
-      description: Catch the DHS experience — 22 Nov 2025
+      description: Experience DHS — 22 Nov 2025
       image: /images/20251122_Junior_High_Open_House_Poster.png
       alt: Image alt text
   - infopic:
