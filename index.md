@@ -20,6 +20,8 @@ sections:
       description: Experience DHS — 22 Nov 2025
       image: /images/20251122_Junior_High_Open_House_Poster.png
       alt: Image alt text
+      url: https://go.gov.sg/dhs-openhousenov25
+      button: Programme Highlights
   - infopic:
       title: Campus Life
       subtitle: 校园新鲜事
