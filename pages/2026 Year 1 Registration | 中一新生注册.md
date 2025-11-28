@@ -16,7 +16,7 @@ description: ""
 <br><strong><a href="https://for.edu.sg/dhs-y1-textbook-sch-attire2026" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/dhs-y1-textbook-sch-attire2026</a></strong>
 <br>
 <br><strong><u>FAS Application</u></strong>
-<br> <strong><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a></strong>
+<br><strong><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a></strong>
 </p>
 <p>Information for 2026 Year 1 DHS students will be shared via <strong>Parents Gateway </strong>(after
 Secondary 1 Posting result is released)
