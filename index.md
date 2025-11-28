@@ -13,15 +13,14 @@ sections:
         - title: Join Us to Commemorate DHS70!
           description: 七秩荣光，共续华章
           url: https://for.edu.sg/dhs-celebrates70
-  - infopic:
-      title: Junior High Open House
-      subtitle: 校园开放日 (初中部) | 2025年11月22日
-      id: infopic
-      description: Experience DHS — 22 Nov 2025
-      image: /images/20251122_Junior_High_Open_House_Poster.png
-      alt: Image alt text
-      url: https://go.gov.sg/dhs-openhousenov25
-      button: Programme Highlights
+  - infobar:
+      title: 2026 Year 1 Registration
+      subtitle: 中一新生注册
+      id: infobar
+      description: Reporting Time | Book List | School Attire | FAS Application |
+        Appeal Form
+      button: More
+      url: https://www.dunmanhigh.moe.edu.sg/2026-year-1-registration/
   - infopic:
       title: Campus Life
       subtitle: 校园新鲜事
