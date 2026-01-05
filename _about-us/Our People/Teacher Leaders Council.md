@@ -21,18 +21,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Wee Shoo Soon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher/English Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Khoo Geok Hwa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher/High Achieving Learners</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wee Shoo Soon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher/English Language</p>
 </td>
 </tr>
 <tr>
@@ -53,22 +53,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad Alfiean Bin Hisham</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher / General Paper</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Sau Wee Wee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher/Chinese Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Lau Min Yin, Emmeline</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,6 +65,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher/Physics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohammad Alfiean Bin Hisham</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher / General Paper</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Sau Wee Wee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher/Chinese Language</p>
 </td>
 </tr>
 </tbody>
