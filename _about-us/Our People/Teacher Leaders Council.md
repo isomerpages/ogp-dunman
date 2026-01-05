@@ -45,7 +45,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hong Lan</p>
+<p>Mdm Hong Lan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher/Chinese Language</p>
