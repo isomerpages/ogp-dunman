@@ -45,6 +45,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Goh Wee Suan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher/English Literature</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Hong Lan</p>
 </td>
 <td rowspan="1" colspan="1">
