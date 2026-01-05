@@ -71,6 +71,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Alicia Ng Yi-May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/General Paper</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Lim Pei Fang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -476,18 +484,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Shi Shi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/VIA Programme</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Lim Kit Siang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Discipline</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Shi Shi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/VIA Programme</p>
 </td>
 </tr>
 <tr>
@@ -512,14 +520,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Student Leadership</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Alicia Ng Yi-May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/Student Leadership</p>
 </td>
 </tr>
 <tr>
