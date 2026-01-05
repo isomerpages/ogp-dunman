@@ -452,7 +452,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Ern Chze, Angie</p>
+<p>Mdm Lim Ern Chze Angie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Character &amp; Citizenship Education</p>
