@@ -29,14 +29,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Grace Bok</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher/Geography</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Khoo Geok Hwa</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -45,7 +37,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm An Fengyun</p>
+<p>Ms Fang Chye Pin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher/Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Hong Lan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher/Chinese Language</p>
@@ -53,10 +53,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Hong Lan</p>
+<p>Mr Mohammad Alfiean Bin Hisham</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher/Chinese Language</p>
+<p>Senior Teacher / General Paper</p>
 </td>
 </tr>
 <tr>
@@ -65,14 +65,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher/Chinese Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Fang Chye Pin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher/Mathematics</p>
 </td>
 </tr>
 <tr>
