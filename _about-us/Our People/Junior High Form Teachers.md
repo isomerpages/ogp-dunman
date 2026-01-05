@@ -29,10 +29,10 @@ variant: tiptap
 <p>1 Aspiration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pear Siew Lee</p>
+<p>Jason Chan Jia Kun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nurul Aitqah</p>
+<p>Chia Siew Ling</p>
 </td>
 </tr>
 <tr>
@@ -40,10 +40,11 @@ variant: tiptap
 <p>1 Benevolence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fu Yuanting Desiree</p>
+<p>Kimberley Tay Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chin Yong Chiang Darren</p>
+<p>Lee Jin Meng</p>
+<p>Marcus Goh Tao Zhi</p>
 </td>
 </tr>
 <tr>
@@ -51,10 +52,10 @@ variant: tiptap
 <p>1 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Huang Huang</p>
+<p>Eugene Lee Kee Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Richard Neo</p>
+<p>Sharmila d/o Tanapathy</p>
 </td>
 </tr>
 <tr>
@@ -62,10 +63,10 @@ variant: tiptap
 <p>1 Determination</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Andrew Emmanuel</p>
+<p>Law Seow Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zhang Liping</p>
+<p>Tong Chee San</p>
 </td>
 </tr>
 <tr>
@@ -73,10 +74,10 @@ variant: tiptap
 <p>1 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rina Kawamoto</p>
+<p>Cecilia Ng Shau Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lai Jinkun</p>
+<p>Chua San San Suzanna</p>
 </td>
 </tr>
 <tr>
@@ -84,10 +85,10 @@ variant: tiptap
 <p>1 Fortitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Bee Hong</p>
+<p>Goh Lay Eng Ariel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Lee Hwee</p>
+<p>Sean Lee Yue Hao</p>
 </td>
 </tr>
 <tr>
@@ -95,10 +96,11 @@ variant: tiptap
 <p>1 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yip Sook Kwan</p>
+<p>Liang Qidi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Noorizan Beevi Binte Abdul Aziz</p>
+<p>Lien Hui Lin Christine</p>
+<p>Ng U-Ning Ruth</p>
 </td>
 </tr>
 <tr>
@@ -106,10 +108,10 @@ variant: tiptap
 <p>1 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Alvina Binte Kasmuri</p>
+<p>Richard Neo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Jin Meng</p>
+<p>Lee Chuen Sing Serene</p>
 </td>
 </tr>
 <tr>
@@ -117,10 +119,10 @@ variant: tiptap
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chang Wan Yin</p>
+<p>Tan Bee Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nora Bte Supa'at</p>
+<p>Kee Zhiyin</p>
 </td>
 </tr>
 </tbody>
@@ -150,10 +152,10 @@ variant: tiptap
 <p>2 Aspiration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Law Seow Li</p>
+<p>Pear Siew Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Loke Jee Wah</p>
+<p>Nurul Atiqah</p>
 </td>
 </tr>
 <tr>
@@ -161,10 +163,10 @@ variant: tiptap
 <p>2 Benevolence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Goh Wee Suan</p>
+<p>Fu Yuanting Desiree</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Low Siok Hong</p>
+<p>Lim Hwa Chuan</p>
 </td>
 </tr>
 <tr>
@@ -172,10 +174,10 @@ variant: tiptap
 <p>2 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Xue Ning Vanessa</p>
+<p>Juwana Bte Juwahir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Han Yuen</p>
+<p>Low Siok Hong</p>
 </td>
 </tr>
 <tr>
@@ -183,10 +185,10 @@ variant: tiptap
 <p>2 Determination</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Hwa Chuan</p>
+<p>Andrew Emmanuel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chia Siew Ling</p>
+<p>Zhang Liping</p>
 </td>
 </tr>
 <tr>
@@ -194,10 +196,10 @@ variant: tiptap
 <p>2 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Khai Qi</p>
+<p>Rina Kawamoto</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sharmila d/o Tanapathy</p>
+<p>Lai Jinkun</p>
 </td>
 </tr>
 <tr>
@@ -205,10 +207,10 @@ variant: tiptap
 <p>2 Fortitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Liang Qidi</p>
+<p>Lim Ai Juan Eileen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Goh Lay Eng Ariel</p>
+<p>Tan Lee Hwee</p>
 </td>
 </tr>
 <tr>
@@ -216,10 +218,11 @@ variant: tiptap
 <p>2 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Leo June Kit</p>
+<p>Yip Sook Kwan</p>
+<p>Tan Han Yuen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Eugene Lee</p>
+<p>Noorizan Beevi Binte Abdul Aziz</p>
 </td>
 </tr>
 <tr>
@@ -227,10 +230,10 @@ variant: tiptap
 <p>2 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chan Jia Kun Jason</p>
+<p>Alvina Binte Kasmuri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lien Hui Lin Christine</p>
+<p>Lee Khai Qi</p>
 </td>
 </tr>
 <tr>
@@ -238,10 +241,10 @@ variant: tiptap
 <p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cecilia Ng Shau Ching</p>
+<p>Chang Wan Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kimberley Tay Min</p>
+<p>Nora Bte Supa'at</p>
 </td>
 </tr>
 </tbody>
@@ -270,10 +273,10 @@ variant: tiptap
 <p>3 Aspiration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zarifah Binte Zainal</p>
+<p>Loke Jee Wah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fong Kok Hoong</p>
+<p>Aow Ci Hui</p>
 </td>
 </tr>
 <tr>
@@ -281,10 +284,10 @@ variant: tiptap
 <p>3 Benevolence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ng Pei Chiun</p>
+<p>Xu Yuhan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vaz Cecilia Anne Angela</p>
+<p>Jeffrey Ng Jie Li</p>
 </td>
 </tr>
 <tr>
@@ -292,10 +295,10 @@ variant: tiptap
 <p>3 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chow Hui Xuan</p>
+<p>Fang Chye Pin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Kit Siang</p>
+<p>Ong Chyai-Lian Grace</p>
 </td>
 </tr>
 <tr>
@@ -303,10 +306,10 @@ variant: tiptap
 <p>3 Determination</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Leong Hwee</p>
+<p>Ng Pei Chiun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Ngoh Ying Camilla</p>
+<p>Ronson Neo Boon Kiat</p>
 </td>
 </tr>
 <tr>
@@ -314,10 +317,10 @@ variant: tiptap
 <p>3 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ng Shi Shi</p>
+<p>See Wee Siang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kee Zhiyin</p>
+<p>Goh Wee Suan</p>
 </td>
 </tr>
 <tr>
@@ -325,10 +328,10 @@ variant: tiptap
 <p>3 Fortitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Goh Fenyu Jessica</p>
+<p>Loo Ming Yang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aloysius Teo</p>
+<p>Au Chee Ping</p>
 </td>
 </tr>
 <tr>
@@ -336,10 +339,10 @@ variant: tiptap
 <p>3 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Boon Hwee</p>
+<p>Vaz Cecilia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cheng Guomei</p>
+<p>Lim Ern Chze Angie</p>
 </td>
 </tr>
 <tr>
@@ -347,10 +350,10 @@ variant: tiptap
 <p>3 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Lian Joo Jeremy</p>
+<p>Lim Yuan Chin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Geraldine Joseph</p>
+<p>Seet Seok Beng, Stella</p>
 </td>
 </tr>
 <tr>
@@ -358,10 +361,10 @@ variant: tiptap
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Xu Yuhan</p>
+<p>Wu Yao Quan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Low Jin Hao</p>
+<p>Heng Li Tze Joanna</p>
 </td>
 </tr>
 </tbody>
@@ -390,10 +393,10 @@ variant: tiptap
 <p>4 Aspiration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wu Yao Quan</p>
+<p>Zarifah Binte Zainal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Ern Chze Angie</p>
+<p>Fong Kok Hoong</p>
 </td>
 </tr>
 <tr>
@@ -401,10 +404,10 @@ variant: tiptap
 <p>4 Benevolence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fang Chye Pin</p>
+<p>Wee Liang Ee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sau Wee Wee</p>
+<p>Geraldine Raphaela Joseph</p>
 </td>
 </tr>
 <tr>
@@ -412,10 +415,10 @@ variant: tiptap
 <p>4 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wee Liang Ee</p>
+<p>Chow Hui Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Au Chee Ping</p>
+<p>Lim Kit Siang</p>
 </td>
 </tr>
 <tr>
@@ -423,10 +426,10 @@ variant: tiptap
 <p>4 Determination</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Jian Yin Pearlyn</p>
+<p>Lim Leong Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ronson Neo Boon Kiat</p>
+<p>Lim Ngoh Ying Camilla</p>
 </td>
 </tr>
 <tr>
@@ -434,10 +437,10 @@ variant: tiptap
 <p>4 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jeffrey Ng Jie Li</p>
+<p>Ng Shi Shi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thian Amelia</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -445,29 +448,7 @@ variant: tiptap
 <p>4 Fortitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Yuan Chin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Loo Ming Yang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Gratitude</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Heng Li Tze Joanna</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Humility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ong Chyai-Lian Grace</p>
+<p>Aloysius Teo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ng Si Yun Catherine</p>
@@ -475,13 +456,35 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>4 Gratitude</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Boon Hwee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheng Guomei</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Humility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Lian Joo Jeremy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sau Wee Wee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Seet Seok Beng Stella</p>
+<p>Low Jin Hao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>See Wee Siang</p>
+<p>Tan Jian Yin Pearlyn</p>
 </td>
 </tr>
 </tbody>
