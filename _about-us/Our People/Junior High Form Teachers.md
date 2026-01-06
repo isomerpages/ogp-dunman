@@ -273,28 +273,6 @@ variant: tiptap
 <p>3 Aspiration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Loke Jee Wah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Aow Ci Hui</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Benevolence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Xu Yuhan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jeffrey Ng Jie Li</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Compassion</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Fang Chye Pin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -303,13 +281,35 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>3 Benevolence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Yuan Chin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Seet Seok Beng, Stella</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wu Yao Quan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Heng Li Tze Joanna</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3 Determination</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ng Pei Chiun</p>
+<p>Loke Jee Wah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ronson Neo Boon Kiat</p>
+<p>Aow Ci Hui</p>
 </td>
 </tr>
 <tr>
@@ -328,17 +328,6 @@ variant: tiptap
 <p>3 Fortitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Loo Ming Yang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Au Chee Ping</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Gratitude</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Vaz Cecilia</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -347,13 +336,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>3 Gratitude</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ng Pei Chiun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ronson Neo Boon Kiat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Yuan Chin</p>
+<p>Xu Yuhan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Seet Seok Beng, Stella</p>
+<p>Jeffrey Ng Jie Li</p>
 </td>
 </tr>
 <tr>
@@ -361,10 +361,10 @@ variant: tiptap
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wu Yao Quan</p>
+<p>Loo Ming Yang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Heng Li Tze Joanna</p>
+<p>Au Chee Ping</p>
 </td>
 </tr>
 </tbody>

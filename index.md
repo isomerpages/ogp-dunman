@@ -13,14 +13,13 @@ sections:
         - title: Join Us to Commemorate DHS70!
           description: 七秩荣光，共续华章
           url: https://for.edu.sg/dhs-celebrates70
-  - infobar:
-      title: 2026 Year 1 Registration
-      subtitle: 中一新生注册
-      id: infobar
-      description: Reporting Time | Book List | School Attire | FAS Application |
-        Appeal Form
-      button: More
-      url: https://www.dunmanhigh.moe.edu.sg/2026-year-1-registration/
+  - infopic:
+      title: 17 Jan 2026 | JAE Open House
+      subtitle: Joint Admissions Exercise
+      id: infopic
+      description: 高中联合招生计划
+      image: /images/JAE_Open_House_2026.jpg
+      alt: Image alt text
   - infopic:
       title: Campus Life
       subtitle: 校园新鲜事
