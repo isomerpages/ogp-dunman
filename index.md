@@ -21,7 +21,7 @@ sections:
       image: /images/JAE_Open_House_2026.jpg
       alt: Image alt text
       url: https://www.dunmanhigh.moe.edu.sg/17-jan-2026-jae-open-house/
-      button: MORE
+      button: VIEW JAE Academic booklet
   - infopic:
       title: Campus Life
       subtitle: 校园新鲜事
