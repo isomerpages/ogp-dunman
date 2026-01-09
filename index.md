@@ -22,6 +22,14 @@ sections:
       alt: Image alt text
       url: https://www.dunmanhigh.moe.edu.sg/17-jan-2026-jae-open-house/
       button: VIEW JAE Academic booklet
+  - infobar:
+      title: 北京大学于新加坡本科招生活动通知
+      subtitle: 2026年
+      id: infobar
+      description: Peking University Undergraduate Recruitment Exercise in Singapore
+        for 2026
+      button: 详情
+      url: https://for.edu.sg/dhs-peking-uni-undergraduate-recruitment
   - infopic:
       title: Campus Life
       subtitle: 校园新鲜事
