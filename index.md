@@ -28,6 +28,8 @@ sections:
       id: infobar
       description: Peking University Undergraduate Recruitment Exercise in Singapore
         for 2026
+      button: 详情
+      url: https://for.edu.sg/dhs-peking-uni-undergraduate-recruitment
   - infopic:
       title: Campus Life
       subtitle: 校园新鲜事
