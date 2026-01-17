@@ -12,7 +12,7 @@ ranging from classical prose and poetry, to modern novels and drama plays.</p>
 <p>H2 华文与文学重视培养学生的语言运用能力和文学赏析能力。学生能够通过这门科目强化写作、批判性思维和沟通技能。学生也将畅游于丰富多彩的文学天地之中，领略中国古典文化精品，以及中国、台湾和新加坡现当代文学作品的风采。</p>
 <h5><strong>Chinese Language Elective Programme (CLEP) 华文语文特选课程 (语特)</strong></h5>
 <p>什么是“语特”？为什么选“语特”？“语特”会给你带来什么？请点按<strong><a href="https://youtu.be/cF8erxWMc1U" rel="noopener noreferrer nofollow" target="_blank">这里</a></strong>，来听德明语特的学长学姐们说说吧!</p>
-<p>想进一步了解德明语特吗？请点击<strong><a href="https://drive.google.com/file/d/1SgLIZnk3KYf5KXsXQEgab9igh4qLQF24/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">这里</a></strong>。</p>
+<p>想进一步了解德明语特吗？请点按<strong><a href="https://drive.google.com/file/d/1SgLIZnk3KYf5KXsXQEgab9igh4qLQF24/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">这里</a></strong>。</p>
 <p>德明语特有何特别之处？为何如此吸引众多文学爱好者？为何成为高中生涯令人难以忘怀的经历？<strong><a href="https://youtu.be/gl6BSvgQamQ" rel="noopener noreferrer nofollow" target="_blank">答案就在这里！</a></strong>
 </p>
 <p>This MOE programme nurtures students who have an aptitude for Chinese
@@ -59,6 +59,11 @@ language and culture.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/05__2025_____.jpg">
+</div>
+<p></p>
+<h5><strong>语特飞跃奖得主专访：点按<a href="https://for.edu.sg/dhs-interview-liu-yu-xi" rel="noopener nofollow" target="_blank">这里</a>阅读</strong></h5>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DHS_Liu_Yu_Xi_Interview.png">
 </div>
 <h5><strong>2025 Publicity Poster for CLEP Scholarship 语特奖学金宣传海报</strong></h5>
 <p></p>
