@@ -4,7 +4,7 @@ permalink: /bicultural-studies-programme/h2cll-clep/
 description: ""
 variant: tiptap
 ---
-<h3><strong>H2 Chinese Language and Literature (H2 CLL) 华文与文学</strong></h3>
+<h3><strong>H2 Chinese Language and Literature (H2 CLL) </strong><br><strong>华文与文学</strong></h3>
 <p>H2 Chinese Language and Literature enhances students’ language proficiency
 by honing their writing, critical thinking and communication skills. Students
 will also be immersed in an exciting world of renowned literature masterpieces
@@ -61,7 +61,7 @@ language and culture.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/05__2025_____.jpg">
 </div>
 <p></p>
-<h5><strong>语特飞跃奖得主专访：点按<a href="https://for.edu.sg/dhs-interview-liu-yu-xi" rel="noopener nofollow" target="_blank">这里</a>阅读</strong></h5>
+<h5><strong>语特飞跃奖得主专访：</strong><br><strong>点按<a href="https://for.edu.sg/dhs-interview-liu-yu-xi" rel="noopener nofollow" target="_blank">这里</a>阅读</strong></h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DHS_Liu_Yu_Xi_Interview.png">
 </div>
