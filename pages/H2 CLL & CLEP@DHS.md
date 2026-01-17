@@ -26,7 +26,7 @@ language and culture.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage/clep%20orientation%202023%20(1).jpg">
 </div>
-<h5><strong>Watch a Musical Performance: Moonlit City 观赏城里的月光</strong></h5>
+<h5><strong>Watch a Musical Performance: Moonlit City 观赏《城里的月光》</strong></h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/moonlitcity_2025.jpg">
 </div>
