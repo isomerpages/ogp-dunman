@@ -13,15 +13,6 @@ sections:
         - title: Join Us to Commemorate DHS70!
           description: 七秩荣光，共续华章
           url: https://for.edu.sg/dhs-celebrates70
-  - infopic:
-      title: 17 Jan 2026 | JAE Open House
-      subtitle: Joint Admissions Exercise
-      id: infopic
-      description: 高中联合招生计划
-      image: /images/JAE_Open_House_2026.jpg
-      alt: Image alt text
-      url: https://www.dunmanhigh.moe.edu.sg/17-jan-2026-jae-open-house/
-      button: VIEW JAE Academic booklet
   - infobar:
       title: 北京大学于新加坡本科招生活动通知
       subtitle: 2026年
