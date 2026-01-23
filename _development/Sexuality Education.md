@@ -251,7 +251,7 @@ the start of the year and is also downloadable <strong><a href="/files/2026_MOE_
 <li>
 <p>Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em></strong>&nbsp;<strong>programme</strong>&nbsp;need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable for Secondary (click <strong><a href="/files/2026_Info_on_SEd_lessons_in_CCE__DHS_Y1_to_Y6_.pdf" rel="noopener nofollow" target="_blank">HERE</a> </strong>)
+the start of the year and is also downloadable for Secondary (click <strong><a href="/files/eTeens_Parents_Opt_out_form__Sec__2026.pdf" rel="noopener nofollow" target="_blank">HERE</a></strong>)
 and JC/CI (click<strong> <a href="/files/eTeens_Parents_Opt_out_Form__JCMI__2026.pdf" rel="noopener nofollow" target="_blank">HERE</a></strong>).</p>
 </li>
 <li>
