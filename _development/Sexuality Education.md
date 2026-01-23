@@ -54,7 +54,7 @@ ones.</p>
 </ul>
 <p>You may click&nbsp;<strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>&nbsp;for
 more information on MOE Sexuality Education.</p>
-<p><strong>Overview of Dunman High</strong>&nbsp;<strong>School’s</strong>&nbsp;<strong>Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of Dunman High</strong>&nbsp;<strong>School’s</strong>&nbsp;<strong>Sexuality Education Programme for 2026</strong>
 </p>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
@@ -98,9 +98,9 @@ Specifically, the JC/MI package covers themes of Interpersonal Relationships,
 Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into
 the main focus on relationships.</p>
 <p></p>
-<p><strong>At Dunman High School, the following lessons from the Sexuality Education Programme will be taught in 2025.</strong>
+<p><strong>At Dunman High School, the following lessons from the Sexuality Education Programme will be taught in 2026.</strong>
 </p>
-<p>Please click <strong><a href="/files/2025_Info_on_SEd_lessons_in_CCE__DHS_Y1_to_Y6_.pdf" rel="noopener nofollow" target="_blank">HERE</a></strong>&nbsp;to
+<p>Please click <strong><a href="/files/2026_Info_on_SEd_lessons_in_CCE__DHS_Y1_to_Y6_.pdf" rel="noopener nofollow" target="_blank">HERE</a></strong> to
 view.</p>
 <h4><strong>eTeens Programme for Junior High</strong></h4>
 <p><em>eTeens</em> is a programme developed by Health Promotion Board, in
@@ -114,7 +114,7 @@ negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
-<p><strong>At Dunman High School, the&nbsp;<em>eTeens</em>&nbsp;programme (Junior High) will be implemented as follows in 2025:</strong>
+<p><strong>At Dunman High School, the&nbsp;<em>eTeens</em>&nbsp;programme (Junior High) will be implemented as follows in 2026:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -184,7 +184,7 @@ to make wise, informed and sensible decisions.</p>
 <p>Students learn the health, social and financial implications of STIs/HIV
 on an individual and the family, and the importance of responsible decision-making
 and seeking help. Abstinence and upholding family values are the key messages.</p>
-<p><strong>At Dunman High School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
+<p><strong>At Dunman High School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2026:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -209,26 +209,25 @@ and seeking help. Abstinence and upholding family values are the key messages.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk delivered through a pre-recorded video from Semester 2 2025</p>
-<p>&nbsp;</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Infectious diseases (STIs and HIV)</p>
+<p>Sexually transmitted infectious diseases (STIs and HIV): what it is, how
+it spreads, how to prevent infection mainly through ABC (abstinence, being
+faithful, correct, and consistent condom use), consequences and impact
+of STIs/HIV</p>
+<p></p>
 </li>
 <li>
-<p>Modes of transmission for STIs and HIV</p>
+<p>Skills for respecting boundaries (e.g. decision-making, assertiveness,
+negotiation to say ‘no’ to peer pressure to have pre-marital sex)</p>
+<p></p>
 </li>
 <li>
-<p>Modes of protection against infection, specifically abstinence and the
-correct and consistent use of condoms</p>
-</li>
-<li>
-<p>Consequences and impact of being infected with STIs/HIV</p>
-</li>
-<li>
-<p>Ways of managing the impact of STIs</p>
+<p>Managing relationships and risky situations in a healthy way, including
+avenues for help-seeking</p>
 </li>
 </ul>
 </td>
@@ -247,16 +246,16 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable <strong><a href="/files/MOE_Sexuality_education_in_schools_opt_out_form.pdf" rel="noopener nofollow" target="_blank">HERE</a></strong>.</p>
+the start of the year and is also downloadable <strong><a href="/files/2026_MOE_Sexuality_education_in_schools_opt_out_form.pdf" rel="noopener nofollow" target="_blank">HERE</a></strong>.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em></strong>&nbsp;<strong>programme</strong>&nbsp;need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable for Secondary (click <strong><a href="/files/eTeens_Parents_Opt_out_form__Sec__2025_DHS.pdf" rel="noopener nofollow" target="_blank">HERE</a> </strong>)
-and JC/CI (click<strong> <a href="/files/eTeens_Parents_Opt_out_form__JC__2025_DHS.pdf" rel="noopener nofollow" target="_blank">HERE</a></strong>).</p>
+the start of the year and is also downloadable for Secondary (click <strong><a href="/files/2026_Info_on_SEd_lessons_in_CCE__DHS_Y1_to_Y6_.pdf" rel="noopener nofollow" target="_blank">HERE</a> </strong>)
+and JC/CI (click<strong> <a href="/files/eTeens_Parents_Opt_out_Form__JCMI__2026.pdf" rel="noopener nofollow" target="_blank">HERE</a></strong>).</p>
 </li>
 <li>
-<p>Parents can contact the school Mr Jason Chen, HOD/CCE, at&nbsp;<strong><a href="mailto:chen.quansheng@dhs.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen.quansheng@dhs.edu.sg</a></strong>&nbsp;for
+<p>Parents can contact the school Ms Teh Shi Ling, at&nbsp;<strong><a href="mailto:teh.shiling@dhs.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teh.shiling@dhs.edu.sg</a></strong>&nbsp;for
 discussion or to seek clarification about the school’s Sexuality Education
 Programme.</p>
 </li>
