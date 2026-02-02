@@ -13,6 +13,9 @@ sections:
         - title: Join Us to Commemorate DHS70!
           description: 七秩荣光，共续华章
           url: https://for.edu.sg/dhs-celebrates70
+        - title: 2026 Joint Admissions Exercise (JAE)
+          description: Appeal Process
+          url: https://www.dunmanhigh.moe.edu.sg/2026-joint-admissions-exercise-jae-appeal-process/
   - infobar:
       title: 4 Feb 2026 | Reporting Details for JAE Students
       subtitle: "Reporting time: 0730"
