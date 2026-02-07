@@ -17,13 +17,6 @@ sections:
           description: Appeal Process
           url: https://www.dunmanhigh.moe.edu.sg/2026-joint-admissions-exercise-jae-appeal-process/
   - infobar:
-      title: 4 Feb 2026 | Reporting Details for JAE Students
-      subtitle: "Reporting time: 0730"
-      id: infobar
-      description: "Venue: School Auditorium"
-      button: MORE
-      url: https://www.dunmanhigh.moe.edu.sg/for-jae-students-welcome-to-dunman-high/
-  - infobar:
       title: 北京大学于新加坡本科招生活动通知
       subtitle: 2026年
       id: infobar
