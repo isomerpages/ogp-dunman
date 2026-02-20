@@ -24,11 +24,11 @@ candidates who are International Students will receive their system-generated
 username via email from Wednesday, 25 February 2026.</p>
 <p>Students who are unable to collect their results in person can appoint
 a proxy to collect a physical copy of their results on their behalf. Please
-click <strong>HERE</strong> for the letter of authorisation. Proxies are
-required to produce the relevant documents for the school’s verification
-when collecting the results. Please contact our Administration Manager,
-Ms Filzah Hussain (<a href="mailto:filzah.hussain@dhs.edu.sg" rel="noopener noreferrer nofollow" target="_blank">filzah.hussain@dhs.edu.sg</a>)
-for assistance</p>
+click <strong><a href="/files/DHS_Letter_of_authorisation_for_collection_of_documents_for_2025_A_Level_Exam.pdf" rel="noopener nofollow" target="_blank">HERE</a></strong> for
+the letter of authorisation. Proxies are required to produce the relevant
+documents for the school’s verification when collecting the results. Please
+contact our Administration Manager, Ms Filzah Hussain <strong>(<a href="mailto:filzah.hussain@dhs.edu.sg" rel="noopener noreferrer nofollow" target="_blank">filzah.hussain@dhs.edu.sg</a>)</strong> for
+assistance</p>
 <h4><strong>Applications to Local Autonomous Universities</strong></h4>
 <p>Students who wish to apply for admission to the Autonomous Universities
 (AU) should submit their applications online via the respective AUs’ websites.
