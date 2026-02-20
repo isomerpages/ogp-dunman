@@ -52,8 +52,10 @@ may refer to the following websites for more information:</p>
 </li>
 </ul>
 <p>Students can consult our school ECG counsellor, Ms Karel Tang, about their
-next steps. They can also make an ECG counselling appointment via the ECG
-Centre at <strong><a href="http://go.gov.sg/moe-ecg-centre" rel="noopener nofollow" target="_blank">http://go.gov.sg/moe-ecg-centre</a></strong>.
+next steps. They may make an appointment with her via this link: <strong><a href="https://go.gov.sg/dunmanhighecg-appmt" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dunmanhighecg-appmt</a></strong>.</p>
+<p>They can also make an ECG counselling appointment via the ECG Centre at <strong><a href="http://go.gov.sg/moe-ecg-centre" rel="noopener nofollow" target="_blank">http://go.gov.sg/moe-ecg-centre</a></strong>.
 The ECG Centre @ MOE offers online or phone counselling services from Monday,
 23 February 2026 to Thursday, 19 March 2026 from 9am to 5pm on weekdays,
 and 9am to 12pm on Saturdays.</p>
+<p></p>
+<p></p>
