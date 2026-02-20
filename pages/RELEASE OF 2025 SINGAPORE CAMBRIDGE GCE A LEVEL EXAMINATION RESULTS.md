@@ -6,7 +6,7 @@ description: ""
 ---
 <p><strong>RELEASE OF 2025 SINGAPORE-CAMBRIDGE GCE A-LEVEL EXAMINATION RESULTS</strong>
 </p>
-<p>The 2025 GCE A-Level Examination results will be released on <strong>Friday, 21 February 2025</strong>.</p>
+<p>The 2025 GCE A-Level Examination results will be released on <strong>Friday, 27 February 2025</strong>.</p>
 <h4><strong>Collection of Examination Results</strong></h4>
 <p>Students will collect their result slips and certificates in the school
 hall. They may enter the school via Gate 1 or Gate 4 from 1.30 pm and should
