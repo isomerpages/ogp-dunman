@@ -20,8 +20,9 @@ sections:
       title: Celebrating the Class of 2025
       subtitle: 2025 GCE A-Level Results
       id: infobar
-      description: Recognising the Hard Work and Growth of Our Graduating Cohort!
-      button: Button Text
+      description: 我们为你们感到自豪！
+      button: MORE
+      url: https://www.dunmanhigh.moe.edu.sg/2025-gce-a-level-results-release/
   - infobar:
       title: 北京大学于新加坡本科招生活动通知
       subtitle: 2026年
