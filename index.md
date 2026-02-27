@@ -17,6 +17,12 @@ sections:
           description: A水准成绩放榜 | Fri, 27 Feb 2026
           url: https://www.dunmanhigh.moe.edu.sg/gce-a-level-2025/
   - infobar:
+      title: Celebrating the Class of 2025
+      subtitle: 2025 GCE A-Level Results
+      id: infobar
+      description: Recognising the Hard Work and Growth of Our Graduating Cohort!
+      button: Button Text
+  - infobar:
       title: 北京大学于新加坡本科招生活动通知
       subtitle: 2026年
       id: infobar
