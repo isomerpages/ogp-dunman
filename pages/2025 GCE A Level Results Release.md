@@ -20,5 +20,6 @@ as Role Models of Learning, Leaders of Honour, and Pillars of Society.</p>
 <p>在高中阶段，同学们积极投入学习与活动，充分展现了 “关怀、服务、引领” 的精神。他们不仅关怀他人，更具备服务社会与引领团队的素养。我们坚信，他们已整装待发，必将以“学习楷模、堂正领袖、社稷栋梁”的身份，为新加坡的未来贡献力量！</p>
 <p></p>
 <p>Click <strong><a href="https://sites.google.com/dhs.edu.sg/dunmanhighschoolseniorhighjc25" rel="noopener nofollow" target="_blank">HERE</a></strong> to
-read about our good stories! 点击<strong><a href="https://sites.google.com/dhs.edu.sg/dunmanhighschoolseniorhighjc25" rel="noopener nofollow" target="_blank">这里</a></strong>，了解他们背后的努力与坚持！</p>
+read about our good stories!</p>
+<p>点按<strong><a href="https://sites.google.com/dhs.edu.sg/dunmanhighschoolseniorhighjc25" rel="noopener nofollow" target="_blank">这里</a></strong>，了解同学们背后的努力与坚持！</p>
 <p></p>
