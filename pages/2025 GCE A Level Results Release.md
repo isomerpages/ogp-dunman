@@ -13,3 +13,4 @@ are confident that they are ready to contribute to Singapore in their capacities
 as Role Models of Learning, Leaders of Honour, and Pillars of Society.</p>
 <p>我校热烈祝贺 2025 届高二毕业生圆满完成剑桥 A 水准考试！我们为他们的辛勤付出与卓越成就感到无比自豪！</p>
 <p>在高中阶段，同学们积极投入学习与活动，充分展现了 “关怀、服务、引领” 的精神。他们不仅关怀他人，更具备服务社会与引领团队的素养。我们坚信，他们已整装待发，必将以“学习楷模、堂正领袖、社稷栋梁”的身份，为新加坡的未来贡献力量！</p>
+<p></p>
