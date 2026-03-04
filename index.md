@@ -23,14 +23,6 @@ sections:
       description: 我们为你们感到自豪！
       button: MORE
       url: https://www.dunmanhigh.moe.edu.sg/2025-gce-a-level-results-release/
-  - infobar:
-      title: 北京大学于新加坡本科招生活动通知
-      subtitle: 2026年
-      id: infobar
-      description: Peking University Undergraduate Recruitment Exercise in Singapore
-        for 2026
-      button: 详情
-      url: https://for.edu.sg/dhs-peking-uni-undergraduate-recruitment
   - infopic:
       title: Campus Life
       subtitle: 校园新鲜事
