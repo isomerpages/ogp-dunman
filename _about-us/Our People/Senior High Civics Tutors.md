@@ -5,6 +5,225 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
+<h2>Year 5</h2>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Civics Tutor</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Civics Tutor</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh Lian Kiah Vincent</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ng Sue Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Chee Kam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>An Fengyun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Whiston Law</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lavinia Liang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Selena Vera Hey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Brandon Boh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C31</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Martin Chew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wong Teck Hee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C33</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ku Siying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jade Neo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh Terence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C35</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tee Shao Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Pei Fang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C36</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yim Ai Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C37</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Ai Ling Debbie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Low Kay Siang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C38</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Jiaqi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Law Gin Lieng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C41</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Neo Sock Khim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Benjamin Chew</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C42</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong Pee Yeow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C43</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mark Ho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Liow Pei Xian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C44</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Norashikin Ibrahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yick Jue Ru</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C45</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hong Lan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Yu Shi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C46</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Seah Yi Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chan Yu Wei Dominique</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h2>Year 6</h2>
 <table style="minWidth: 75px">
 <colgroup>
