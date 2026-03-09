@@ -45,7 +45,7 @@ the school</p>
 </ul>
 <h3><strong><a href="https://forms.gle/1KpSjhqN46mGexTa8" rel="noopener noreferrer nofollow" target="_blank">Join Dunman High School Parent Support Group now!</a></strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/PSG2026_Registration.png">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/PSG2026_Registration.png">
 </div>
 <p>Calling out to all parents of Dunmanians! Make your parenting journey
 memorable by joining the DHS Parent Support Group (PSG)! We are a vibrant
