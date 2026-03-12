@@ -8,8 +8,6 @@ variant: markdown
 
 Dunman High School, the premier school of Leaders of Honour, aims to nurture our students to Care, to Serve and to Lead.
 
-![](https://dunmanhigh.moe.edu.sg/wp-content/uploads/2020/01/Student-Leadership-Collage.jpg)
-
 We believe that –
 
 #### **Every Student Can be Developed As A Leader**
