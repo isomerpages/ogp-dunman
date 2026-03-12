@@ -2,6 +2,7 @@
 title: Student Leadership
 permalink: /student-development/student-leadership/
 description: ""
+variant: markdown
 ---
 ![](/images/student%20leadership.png)
 
@@ -19,7 +20,7 @@ Leadership development is self-development. Every student possesses a unique ble
  
 Leadership entails having the confidence and taking the initiative to make a positive difference, regardless of one’s title. Every student should aim to make a positive difference within one’s sphere of influence.
 
-#### **Student Leadership Development Needs to be International**
+#### **Student Leadership Development Needs to be Intentional**
 
 Leadership competencies, values and attributes ought to be taught and assessed. Every student should be equipped with the requisite leadership competencies to be better prepared to assume posts/ roles, for effective leadership. This includes creating opportunities/ platforms for students to practise leadership for authentic learning.
 
