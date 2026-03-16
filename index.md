@@ -13,9 +13,6 @@ sections:
         - title: Join Us to Commemorate DHS70!
           description: 七秩荣光，共续华章
           url: https://for.edu.sg/dhs-celebrates70
-        - title: RELEASE OF 2025 SINGAPORE-CAMBRIDGE GCE A-LEVEL EXAM RESULTS
-          description: A水准成绩放榜 | Fri, 27 Feb 2026
-          url: https://www.dunmanhigh.moe.edu.sg/gce-a-level-2025/
   - infobar:
       title: Celebrating the Class of 2025
       subtitle: 2025 GCE A-Level Results
