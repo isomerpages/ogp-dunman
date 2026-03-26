@@ -39,7 +39,7 @@ Permanent Resident (SPR) children who are:</p>
 </li>
 </ul>
 <p>Returning Singaporean children who wish to gain access to and reintegrate
-to Singapore schools can refer to the information at&nbsp;<strong><a href="https://www.moe.gov.sg/returning-singaporeans" rel="noopener noreferrer nofollow" target="_blank">MOE website</a></strong>.</p>
+to Singapore schools can refer to the information at&nbsp;<strong><a href="https://www.moe.gov.sg/returning-singaporeans/secondary" rel="noopener noreferrer nofollow" target="_blank">MOE website</a></strong>.</p>
 <p>For queries, please send your email to <strong>dhs@moe.edu.sg</strong> or
 call us at <strong>+65 6345 0533</strong>, between 8.30am to 5.30pm, Monday
 to Friday, except for public holidays.</p>
