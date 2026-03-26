@@ -20,8 +20,7 @@ may seek admission through the following:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>International students who wish to seek admission to Singapore mainstream
-schools at Secondary 1 to 3 levels must take part in the&nbsp;<strong><a href="https://www.moe.gov.sg/international-students/aeis?pt=Secondary" rel="noopener noreferrer nofollow" target="_blank">Admissions Exercise for International Students (AEIS)</a></strong>.
-More information at&nbsp;<strong><a href="https://www.moe.gov.sg/admissions/international-students" rel="noopener noreferrer nofollow" target="_blank">MOE Website</a></strong>.</p>
+schools at Secondary 1 to 3 levels must take part in the&nbsp;<strong><a href="https://www.moe.gov.sg/international-students/aeis?pt=Secondary" rel="noopener noreferrer nofollow" target="_blank">Admissions Exercise for International Students (AEIS)</a></strong>.</p>
 </li>
 </ul>
 <p><strong>Returning Singaporean&nbsp;归国学生</strong>
@@ -40,7 +39,7 @@ Permanent Resident (SPR) children who are:</p>
 </li>
 </ul>
 <p>Returning Singaporean children who wish to gain access to and reintegrate
-to Singapore schools can refer to the information at&nbsp;<strong><a href="https://www.moe.gov.sg/admissions/returning-singaporeans" rel="noopener noreferrer nofollow" target="_blank">MOE website</a></strong>.</p>
+to Singapore schools can refer to the information at&nbsp;<strong><a href="https://www.moe.gov.sg/returning-singaporeans/secondary" rel="noopener noreferrer nofollow" target="_blank">MOE website</a></strong>.</p>
 <p>For queries, please send your email to <strong>dhs@moe.edu.sg</strong> or
 call us at <strong>+65 6345 0533</strong>, between 8.30am to 5.30pm, Monday
 to Friday, except for public holidays.</p>
