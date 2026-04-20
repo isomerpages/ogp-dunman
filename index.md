@@ -17,12 +17,12 @@ sections:
       title: Direct School Admission (DSA)
       subtitle: 直接收生计划
       id: textcards
-      description: Secondary School (Sec) & Junior College (JC)
+      description: Secondary School & Junior College
       cards:
         - title: DSA-Sec
           description: 中学直接招生计划
           linktext: Learn more
-          url: https://go.gov.sg/dhs-sec-annex-a
+          url: https://go.gov.sg/dhs-dsa-sec-website
         - title: DSA-JC
           description: 初级学院直接收生计划
           linktext: Learn more
