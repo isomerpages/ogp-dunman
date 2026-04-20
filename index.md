@@ -13,6 +13,20 @@ sections:
         - title: Join Us to Commemorate DHS70!
           description: 七秩荣光，共续华章
           url: https://for.edu.sg/dhs-celebrates70
+  - textcards:
+      title: Direct School Admission (DSA)
+      subtitle: 直接收生计划
+      id: textcards
+      description: Secondary School (Sec) & Junior College (JC)
+      cards:
+        - title: DSA-Sec
+          description: 中学直接招生计划
+          linktext: Learn more
+          url: https://go.gov.sg/dhs-sec-annex-a
+        - title: DSA-JC
+          description: 初级学院直接收生计划
+          linktext: Learn more
+          url: https://go.gov.sg/dhs-dsa-jc-website
   - infobar:
       title: Celebrating the Class of 2025
       subtitle: 2025 GCE A-Level Results
