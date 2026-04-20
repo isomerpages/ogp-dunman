@@ -76,7 +76,7 @@ variant: tiptap
 <p>Martin Chew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teng Xin Yi</p>
 </td>
 </tr>
 <tr>
@@ -87,7 +87,7 @@ variant: tiptap
 <p>Wong Teck Hee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -98,7 +98,7 @@ variant: tiptap
 <p>Ku Siying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Darius Ng Yu Xuan</p>
 </td>
 </tr>
 <tr>
