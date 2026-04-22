@@ -276,7 +276,7 @@ variant: tiptap
 <p>Fang Chye Pin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ong Chyai-Lian Grace</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
