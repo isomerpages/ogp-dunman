@@ -2,6 +2,7 @@
 title: Financial Assistance
 permalink: /admissions/financial-assistance/
 description: ""
+variant: markdown
 ---
 ![](/images/Homepage/masthead-administration.jpg)
 
