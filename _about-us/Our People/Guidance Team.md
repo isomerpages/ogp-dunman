@@ -29,6 +29,14 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Eleanor Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Judy Koh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -40,7 +48,7 @@ third_nav_title: Our People
 <p>Ms Karel Tang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Education and Career Guidance Counsellor</p>
+<p>Senior Education and Career Guidance Counsellor"</p>
 </td>
 </tr>
 <tr>
