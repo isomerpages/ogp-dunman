@@ -58,4 +58,11 @@ sections:
       url: /admissions/sh-admissions/
       image: /images/students_senior_high.jpg
       alt: Image alt text
+  - infopic:
+      title: DHS e-Open House
+      subtitle: 校园线上开放日 | 2026年5月23日
+      id: infopic
+      description: 23 May 2026
+      image: /images/2026_DHS_Open_House.png
+      alt: Image alt text
 ---
