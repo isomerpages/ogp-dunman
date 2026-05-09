@@ -27,6 +27,13 @@ sections:
           description: 初级学院直接收生计划
           linktext: Learn more
           url: https://go.gov.sg/dhs-dsa-jc-website
+  - infopic:
+      title: DHS e-Open House
+      subtitle: 校园线上开放日 | 2026年5月23日
+      id: infopic
+      description: 23 May 2026
+      image: /images/2026_DHS_Open_House.png
+      alt: Image alt text
   - infobar:
       title: Celebrating the Class of 2025
       subtitle: 2025 GCE A-Level Results
@@ -57,12 +64,5 @@ sections:
       button: MORE
       url: /admissions/sh-admissions/
       image: /images/students_senior_high.jpg
-      alt: Image alt text
-  - infopic:
-      title: DHS e-Open House
-      subtitle: 校园线上开放日 | 2026年5月23日
-      id: infopic
-      description: 23 May 2026
-      image: /images/2026_DHS_Open_House.png
       alt: Image alt text
 ---
