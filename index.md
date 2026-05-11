@@ -31,7 +31,8 @@ sections:
       title: DHS e-Open House
       subtitle: 校园线上开放日 | 2026年5月23日
       id: infopic
-      description: 23 May 2026
+      description: The link to our e-Open House microsite will be available on 23 May
+        2026 (Sat).   Stay tuned and look out for it!
       image: /images/2026_DHS_Open_House.png
       alt: Image alt text
   - infobar:
