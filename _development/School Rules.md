@@ -45,3 +45,5 @@ for self and others, and commitment to excellence.</p>
 <p></p>
 <p>Please click <strong><a href="https://drive.google.com/file/d/1YCEr4wahfxq7J0tUJZ9pcdo_6m2inNE0/view" rel="noopener nofollow" target="_blank">HERE</a></strong> to
 view Dunman High - School Rules.</p>
+<p><strong>Discipline Incident Reporting Form -&nbsp;<a href="https://go.gov.sg/dunmanhighdiscipline" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dunmanhighdiscipline</a></strong>
+</p>
