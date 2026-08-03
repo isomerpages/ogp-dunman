@@ -87,7 +87,7 @@ variant: tiptap
 <p>Wong Teck Hee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Teo Qian Hui Vivian</p>
 </td>
 </tr>
 <tr>
@@ -131,7 +131,7 @@ variant: tiptap
 <p>Yim Ai Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Lim Swee Tian</p>
 </td>
 </tr>
 <tr>
@@ -251,7 +251,7 @@ variant: tiptap
 <p>Soh Wen Qi Rachel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Xu Zhisheng</p>
+<p></p>
 </td>
 </tr>
 <tr>
