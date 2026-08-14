@@ -4,7 +4,7 @@ permalink: /school-annual-archive/
 variant: tiptap
 description: ""
 ---
-<h3><strong>德明政府中学年刊 </strong><br><strong><a href="https://for.edu.sg/dhs-sch-annual-archive" rel="noopener nofollow" target="_blank">Time Bound in Pages | 岁月成册</a></strong></h3>
+<h4><strong>德明政府中学年刊 </strong><br><strong><a href="https://for.edu.sg/dhs-sch-annual-archive" rel="noopener nofollow" target="_blank">Time Bound in Pages | 岁月成册</a></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Access <a href="https://for.edu.sg/dhs-sch-annual-archive" rel="noopener nofollow" target="_blank">HERE</a></strong>
