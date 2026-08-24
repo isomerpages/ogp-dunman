@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Ode to Dunman High.md
       - Principal’s Message.md
       - Mission, Vision, Motto & School Spirit.md
       - Strategic Directions.md
@@ -11,6 +10,7 @@ collections:
       - Our History/Through the Eras.md
       - Our History/Honour Roll.md
       - School Annual Archive.md
+      - Ode to Dunman High.md
       - Our People/.keep
       - Our People/School Leaders.md
       - Our People/Key Personnel.md
