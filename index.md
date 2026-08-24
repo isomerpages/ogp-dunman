@@ -13,6 +13,15 @@ sections:
         - title: Join Us to Commemorate DHS70!
           description: 七秩荣光，共续华章
           url: https://for.edu.sg/dhs-celebrates70
+  - infopic:
+      title: Ode to Dunman High
+      subtitle: 德明校园颂
+      id: infopic
+      description: Infopic description
+      button: More
+      url: https://www.dunmanhigh.moe.edu.sg/ode-to-dunman-high/
+      image: /images/Page_01.jpg
+      alt: Image alt text
   - infobar:
       title: Celebrating the Class of 2025
       subtitle: 2025 GCE A-Level Results
