@@ -17,7 +17,7 @@ sections:
       title: Ode to Dunman High
       subtitle: 德明校园颂
       id: infopic
-      description: Infopic description
+      description: Our Beautiful Campus
       button: More
       url: https://www.dunmanhigh.moe.edu.sg/ode-to-dunman-high/
       image: /images/Page_01.jpg
