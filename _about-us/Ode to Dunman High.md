@@ -4,7 +4,7 @@ permalink: /ode-to-dunman-high/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Dunman High Campus Guide </strong><br><strong>德明校园颂</strong></h3>
+<h3><strong>Ode to Dunman High</strong><br><strong>德明校园颂</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Page_01.jpg">
