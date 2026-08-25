@@ -20,7 +20,7 @@ sections:
       description: Our Beautiful Campus
       button: More
       url: https://www.dunmanhigh.moe.edu.sg/ode-to-dunman-high/
-      image: /images/Page_01.jpg
+      image: /images/image_ode_to_dhs.jpg
       alt: Image alt text
   - infobar:
       title: Celebrating the Class of 2025
