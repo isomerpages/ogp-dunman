@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Ode to Dunman High</strong><br><strong>德明校园颂</strong></h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Page_01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_ode_to_dhs.jpg">
 </div>
 <h4><strong>10 Tanjong Rhu Road, Our Beautiful Dunman High</strong></h4>
 <p>Co-created by the students and teachers of Dunman High School, this guide
