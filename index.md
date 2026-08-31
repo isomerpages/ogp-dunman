@@ -13,6 +13,13 @@ sections:
         - title: Join Us to Commemorate DHS70!
           description: 七秩荣光，共续华章
           url: https://for.edu.sg/dhs-celebrates70
+  - infobar:
+      title: Teachers’ Day Celebration and School Closure
+      subtitle: 教师节庆祝活动及学校关闭通知
+      id: infobar
+      description: Our school will celebrate Teachers’ Day on Wed, 2 Sep (3-4.30 PM).
+        The school will be closed on Thurs, 3 Sep, and Fri, 4 Sep. Thank you for
+        your understanding.
   - infopic:
       title: Ode to Dunman High
       subtitle: 德明校园颂
